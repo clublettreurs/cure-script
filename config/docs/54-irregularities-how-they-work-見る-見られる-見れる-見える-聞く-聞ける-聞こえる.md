@@ -18,7 +18,7 @@ And we want to look at what they are and, more importantly, why they are what th
 
 So to start with, we understand how the regular potential form, the <code>able to do</code> form, of verbs work, don't we? We form it simply by turning the verb into its え-stem and adding the very simple potential helper verb <code>る</code>, which is just one character: る. That's the godan form.
 
-And the ichidan form: in the ichidan we do what we always do, we simply remove the -る and put on whatever it is we're going to put on. In this case, the ichidan potential helper is <code></code>られる<code></code>.
+And the ichidan form: in the ichidan we do what we always do, we simply remove the -る and put on whatever it is we're going to put on. In this case, the ichidan potential helper is <code>られる</code>.
 
 ![](media/image384.webp)
 
