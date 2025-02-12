@@ -18,74 +18,40 @@ but still doesn't understand why <code>おく</code> is used as a helper verb to
 
 ![](media/image807.webp)
 
-And to understand that more fully, I think we need to look into something a little more deeply.
+And to understand that more fully, I think we need to look into something a little more deeply. This is the fact that Japanese people are very fond of their helper verbs and they attach them quite often in various kinds of circumstance. Is this something we can understand from an English point of view?
 
-This is the fact that Japanese people are very fond of their helper verbs and they attach them quite often in various kinds of circumstance. Is this something we can understand from an English point of view? I would say yes, it is.
-
-We do the same thing in English, though not so much with verbs as with prepositions,
-
-particularly the prepositions <code>up</code> and <code>out</code>.
+I would say yes, it is. We do the same thing in English, though not so much with verbs as with prepositions, particularly the prepositions <code>up</code> and <code>out</code>.
 
 ![](media/image536.webp)
 
-We eat things up, we make things up, we cry out, we lose out, we think up an idea, we think out an idea, etcetera etcetera. Now, **Japanese doesn't have any prepositions.**
-
-**None at all.** If you think it has, it's time to throw that textbook out of the window.
+We eat things up, we make things up, we cry out, we lose out, we think up an idea, we think out an idea, etcetera etcetera. Now, **Japanese doesn't have any prepositions.** **None at all.** If you think it has, it's time to throw that textbook out of the window.
 
 What it uses in place of these English prepositions <code>up</code>, <code>out</code>, etcetera, are verbs -- helper verbs. And the difference between the Japanese helper verb and the English verb-helper preposition is first of all that there are a lot more of them and then, because of that, they're a lot more specific. If you look at the various ways in which English speakers use <code>up and </code>out<code> -- they even </code>peace out", whatever that means -- you can see that because there are only a few of them they get used all over the place in all kinds of circumstances and there's only a marginal amount of reason to the way they're used.
 
 ---
 
-Now, because there are more helper verbs, they can be much more targeted.
+Now, because there are more helper verbs, they can be much more targeted. So, even though they're used widely, in a whole range of situations, we can generally tell what any given helper verb is doing, if we understand that we need a fairly wide interpretation.
 
-So, even though they're used widely, in a whole range of situations, we can
-
-generally tell what any given helper verb is doing,
-
-if we understand that we need a fairly wide interpretation.
-
-So what <code>-ておく</code> is doing here is really what it always does.
-
-If we say <code>窓を開けておく</code>, what we're saying is  
-"open the window in order that the window will be open and probably that
-
-ventilation is going to come into the room".
+So what <code>-ておく</code> is doing here is really what it always does. If we say <code>窓を開けておく</code>, what we're saying is  
+"open the window in order that the window will be open and probably that ventilation is going to come into the room".
 
 ![](media/image784.webp)
 
 Open it for a purpose, put that action in place:
 
-<code>おく</code>, which means <code>put in a place</code>.
+<code>おく</code>, which means <code>put in a place</code>. Put that action in place so that it will then　  
+change the circumstance in the way that we want. In this case, airing out the room.
 
-Put that action in place so that it will then　  
-change the circumstance in the way that we want.
-
-In this case, airing out the room.
-
-And the same with the <code>説明</code> here.
-
-<code>説明しておく</code> -- put the act of explaining, or the explanation, in place, so that, after that,
-
-each group will understand what's going on, they won't be in the dark about it any more.
+And the same with the <code>説明</code> here. <code>説明しておく</code> -- put the act of explaining, or the explanation, in place, so that, after that, each group will understand what's going on, they won't be in the dark about it any more.
 
 ---
 
-Now, we can compare this with another
-
-very common helper verb, which is <code>しまう</code>
-
-and its various variants like <code>ちゃった</code>, <code>じゃった</code> etc.
-
-We could say <code>説明してしまう</code>,
-
-but that would have a completely different implication.
+Now, we can compare this with another very common helper verb, which is <code>しまう</code> and its various variants like <code>ちゃった</code>, <code>じゃった</code> etc. We could say <code>説明してしまう</code>, but that would have a completely different implication.
 
 ![](media/image613.webp)
 
 In this particular case it would probably mean something like  
-"I'll go ahead and explain to them, even though that's not what I'm expected to do,
-
-or perhaps not what people want me to do.  
+"I'll go ahead and explain to them, even though that's not what I'm expected to do, or perhaps not what people want me to do.  
 I'll just go right ahead and explain to them<code> – </code>説明してしまう"
 
 In another situation we might say something like
@@ -97,14 +63,9 @@ which means <code>Don't ask, because Sakura will explain</code>
 ![](media/image688.webp)
 
 -- but what that <code>しまう</code> is implying is probably something like  
-"Don't ask, because if you do Sakura's going to explain
+"Don't ask, because if you do Sakura's going to explain and we're going to be stuck here for hours with Sakura's long rambling explanations."
 
-and we're going to be stuck here for hours with Sakura's long rambling explanations."
-
-So, <code>しまう</code> has a wide variety of implications,  
-some of them negative, not all of them negative,
-
-but <code>おく</code> has a completely different range of meaning.
+So, <code>しまう</code> has a wide variety of implications, some of them negative, not all of them negative, but <code>おく</code> has a completely different range of meaning.
 
 ---
 
@@ -119,9 +80,7 @@ essentially when it's in the past, all those things that we can mean by <code>do
 
 -- doesn't have to be negative, but it has that exclamation mark feeling to it.
 
-**It happened, even though you might not have been**
-
-**expecting it or you might not have wanted it.**
+**It happened, even though you might not have been expecting it or you might not have wanted it.**
 
 **It happened.**
 
@@ -131,6 +90,4 @@ essentially when it's in the past, all those things that we can mean by <code>do
 
 **It has that workman-like feeling:**
 
-it was done to put the action in place, to achieve a result, to change the circumstance from what it was before into one that is more in accordance with what we want,
-
-whether it be opening a window or explaining to several groups what the situation is…
+it was done to put the action in place, to achieve a result, to change the circumstance from what it was before into one that is more in accordance with what we want, whether it be opening a window or explaining to several groups what the situation is…

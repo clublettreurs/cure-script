@@ -4,49 +4,13 @@
 
 こんにちは。
 
-Today we're going to talk about
-
-the core fundamental structure of Japanese
-
-and a problem that troubles some people about it,
-
-which I've tried to lay to rest *(Lesson 43)* but there's still some difficulty,
-
-I think, so I'm going to try to tackle the question,
-
-for what I hope will be the last time, today.
-
-And in doing that we're going to look at a puzzle
-
-that's posed by the title of a very popular work.
+Today we're going to talk about the core fundamental structure of Japanese and a problem that troubles some people about it, which I've tried to lay to rest *(Lesson 43)* but there's still some difficulty, I think, so I'm going to try to tackle the question, for what I hope will be the last time, today. And in doing that we're going to look at a puzzle that's posed by the title of a very popular work.
 
 ![](media/image772.webp)
 
-It's been a manga, an anime, a live-action movie:
+It's been a manga, an anime, a live-action movie: <code>**君の膵臓を**食べたい</code>, which means literally <code>I want to eat **your pancreas**</code>, and we'll talk about why it literally means that in a minute. I didn't actually know what a pancreas was. I thought it was a railway station in London. But apparently it's a component that you find inside the human body and things don't go so well without it. I'm not very clear on what you find when you take off the front and back panels of a human body, so we learn something new every day! That's why this is classified as an educational channel, I suppose.
 
-<code>**君の膵臓を**食べたい</code>, which means literally <code>I want to eat **your pancreas**</code>,
-
-and we'll talk about why it literally means that in a minute.
-
-I didn't actually know what a pancreas was.
-
-I thought it was a railway station in London.
-
-But apparently it's a component that you find inside
-
-the human body and things don't go so well without it.
-
-I'm not very clear on what you find when
-
-you take off the front and back panels of a human body,
-
-so we learn something new every day!
-
-That's why this is classified as an educational channel, I suppose.
-
-So, the question that will be raised by this title
-
-in the minds of anybody who's got some grasp of the real structure of Japanese, is:
+So, the question that will be raised by this title in the minds of anybody who's got some grasp of the real structure of Japanese, is:
 
 ## Why is the particle を used instead of the particle が here?
 
@@ -117,18 +81,14 @@ it's saying 'food in general is making me want to eat'?"
 **It's your empty tummy that's making you want to eat.**
 
 And we're going to look at some constructions today, and the one we've just talked about
-
 is one of them, that make it a 100% clear that **not only in cases where there isn't a**
-
-**cause of the subjectivity, but in some cases where there is,  
-the adjective of subjectivity can still flip its polarity.**
+**cause of the subjectivity, but in some cases where there is, the adjective of subjectivity can still flip its polarity.**
 
 Now, why do people resist this idea?
 
 **As a matter of fact, it's not unknown even in English.**
 
 We can say <code>*We* were **happy** that day</code>, in which case **the adjective <code>happy</code> is pointing at us**
-
 (we're the ones that were happy) or we can say
 
 <code>That was a **happy** *day*</code>, and now **the adjective of subjectivity is pointing at the day, which is the cause of our happiness.**
@@ -136,7 +96,6 @@ We can say <code>*We* were **happy** that day</code>, in which case **the adject
 ![](media/image1096.webp)
 
 We can say <code>*I* am **suspicious** of her behavior</code> and **the adjective <code>suspicious</code> is pointing at me**
-
 (I'm the one who's suspicious)
 
 or <code>*her behavior* is **suspicious**</code>, and now **the adjective <code>suspicious</code> is pointing at her behavior as the cause of my subjectivity.**
@@ -144,11 +103,9 @@ or <code>*her behavior* is **suspicious**</code>, and now **the adjective <code>
 So this isn't something that doesn't happen, even in English.
 
 For the reason, I think, that people become so agitated about this and so determined to find
-
 quite unlikely ways of wriggling out of it is perfectly understandable.
 
 It's because they may have spent months or even years in this terribly confusing world
-
 where particles just change their meaning depending on which side of bed they got out of that morning.
 
 ![](media/image1125.webp)
@@ -158,16 +115,12 @@ where particles just change their meaning depending on which side of bed they go
 :::
 
 So, "<code>が</code> usually marks the subject of a sentence but it can also mark the object of a sentence
-
 as in **<code>パンが食べたい</code>**, in which obviously the bread isn't the subject of the sentence;
-
 it's me, 'I want to eat bread'."
 
 **Well, we know that this isn't the case.**
 
-**We know that in those cases it's the bread that's the subject;**
-
-**it's the bread that's making me want to eat.**
+**We know that in those cases it's the bread that's the subject; it's the bread that's making me want to eat.**
 
 ---
 
@@ -175,9 +128,7 @@ And if we start saying
 "That the polarity can flip, doesn't that either break the model of Japanese structure  
 that gets rid of all these ambiguities or introduce new ambiguities
 
-so, ooh there are special rules that sometimes it points this way and sometimes it points
-
-that way", well, the answer to that is no, it doesn't matter to the model.
+so, ooh there are special rules that sometimes it points this way and sometimes it points that way", well, the answer to that is no, it doesn't matter to the model.
 
 **It's quite irrelevant to the model.**
 
@@ -220,11 +171,7 @@ So how can we say <code>パンを食べたい</code>?
 
 And the answer to this is really very simple.
 
-**Japanese, as we know, is very adept at gluing**
-
-**verbal elements together to make them into**
-
-**one element or taking them apart at will.**
+**Japanese, as we know, is very adept at gluing verbal elements together to make them into one element or taking them apart at will.**
 
 ![](media/image980.webp)
 
@@ -260,12 +207,10 @@ For example, <code>助けたい</code> (want to help) or <code>守りたい</cod
 
 ![](media/image927.webp)
 
-**We don't say Sakura is making me want to defend her, we don't say the country is making me**
-
-**want to defend it, we don't say justice is making me want to defend it, or peace is making me want to defend it.**
+**We don't say Sakura is making me want to defend her, we don't say the country is making me
+want to defend it, we don't say justice is making me want to defend it, or peace is making me want to defend it.**
 
 We always say <code>I want to defend **Sakura**</code>, <code>I want to defend **justice**</code>,
-
 <code>I want to defend **peace**</code>, <code>I want to defend **the country**</code>.  
 *(all as Direct Objects instead of Subjects as shown above since they are used with を particle)*
 
@@ -320,7 +265,6 @@ If we do say <code>パン****を****食べたい</code>,
 ---
 
 So **we're more likely to say** <code>**パンを**食べたい時</code> (when I want to eat **bread***=Direct Object*)
-
 ::: info
 In the sentence above, <code>I</code> should be the Subject, which is hidden in Japanese as zeroが.
 :::
@@ -346,9 +290,8 @@ Well, essentially **because again this is not an impulse to eat.**
 
 That would be rather hard to do anyway.
 
-**Something subtler, something more abstract, something deeper, is being talked about here,**
-
-**the desire for some emotional and quite complex reason to eat somebody's pancreas.**
+**Something subtler, something more abstract, something deeper, is being talked about here,
+the desire for some emotional and quite complex reason to eat somebody's pancreas.**
 
 So I hope this time we really laid to rest the final question of polarity switching *(of Lesson 43)*.
 
@@ -371,3 +314,4 @@ It also slightly touches over the cases where there are 2 visible logical partic
 
 *Hopefully it can be read/understood well enough & is not too bloated, but there was so much important stuff mentioned here that I had no other choice, really, to the point I even had to resort to bolding at times to make it clearer. Definitely recommend reading through the comments.*
 :::
+```
