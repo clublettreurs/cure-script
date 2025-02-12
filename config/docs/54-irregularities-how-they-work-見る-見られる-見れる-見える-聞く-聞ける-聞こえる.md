@@ -56,7 +56,7 @@ And that really is the fallacy that underlies modern Western Japanese teaching. 
 
 Let's get back to <code>見られる</code>. <code>見られる</code> is what they'll use, because that is currently the correct usage.
 
-So we have <code>見る</code>, we have <code>見られる</code><code>, and </code>見える". We have <code>聞く</code>, we have <code>聞ける</code> and we have <code>聞こえる</code>.
+So we have <code>見る</code>, we have <code>見られる</code>, and <code>見える</code>. We have <code>聞く</code>, we have <code>聞ける</code> and we have <code>聞こえる</code>.
 
 ## Regular and irregular potential form
 
