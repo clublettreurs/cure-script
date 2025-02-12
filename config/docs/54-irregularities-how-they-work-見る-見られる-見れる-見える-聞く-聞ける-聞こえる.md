@@ -77,7 +77,7 @@ There's no exact English translation for this, because we're not saying the book
 
 So we just have to get used to the fact that Japanese is much more happy than English to treat states of being as verbal actions.
 
-So if we want to say <code>I can read the book/*As for me, the book does readable*</code>, we say <code>*(私は)*本が読める</code>, but if we just want to say <code>I can read*/I do readable*</code>, we might say <code>読める</code> or <code>(私は)私が読める</code>, and again we have a self-move verb.
+So if we want to say <code>I can read the book / *As for me, the book does readable*</code>, we say <code>*(私は)*本が読める</code>, but if we just want to say <code>I can read / *I do readable*</code>, we might say <code>読める</code> or <code>(私は)私が読める</code>, and again we have a self-move verb.
 
 ![](media/image1123.webp)
 
