@@ -15,6 +15,6 @@ For my part, [I (Kellen)](https://bento.me/kln) converted script to Markdown, ch
 2. All text in "quotes" became `highlighted` in color
 3. Changed note type from *italic text* to speсial containers
 4. I have added a very rough and imprecise grouping of lessons. This was only done to allow the list to be collapsed.
-5. WIP merge line-by-line text into paragraph text
+5. Merge line-by-line text into readable paragraph text
 
 Something else may have broken during all the changes, but there shouldn't be any critical breaks.
