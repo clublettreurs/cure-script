@@ -79,7 +79,7 @@ export default defineConfig({
             link: '/8-the-に-and-へ-particles'
           },
           {
-            text: '8b. Particles Exlained',
+            text: '8b. Particles Explained',
             link: '/8b-particles-explained'
           },
           {
