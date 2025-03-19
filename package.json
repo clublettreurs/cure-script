@@ -4,11 +4,13 @@
     "@types/node": "^20.11.25",
     "prettier": "^3.2.5",
     "typescript": "^5.4.2",
+    "vitepress-export-pdf": "^1.0.0",
     "vitepress": "^1.5.0"
   },
   "scripts": {
     "docs:dev": "vitepress dev config",
     "docs:build": "vitepress build config",
+    "docs:pdf": "press-export-pdf export config",
     "docs:preview": "vitepress preview config"
   },
   "dependencies": {
