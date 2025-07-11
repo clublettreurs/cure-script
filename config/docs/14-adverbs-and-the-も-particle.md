@@ -166,7 +166,7 @@ Now, **も declares the topic of the sentence as well, but it always changes it.
 
 **When we change the topic with は, we are doing the opposite of that: we are drawing a distinction between the present topic and the previous topic.** So if we had said: 
 
-「アリス**は**お姉ちゃんのところに戻った」 – ところ` is `place` and 戻る is `return", so this would have meant Alice went back to her sister, to the place where her sister was, to her sister's place.
+「アリス**は**お姉ちゃんのところに戻った」 – ところ is `place` and 戻る is `return`, so this would have meant Alice went back to her sister, to the place where her sister was, to her sister's place.
 
 ![](media/image841.webp)
 

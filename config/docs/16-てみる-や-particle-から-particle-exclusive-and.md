@@ -93,7 +93,7 @@ Now, <code>下を見る</code> is <code>looking down / looking at the down</code
 
 ## -てみる / -て見る
 
-**When we add <code>みる</code> to the て-form of another verb, what we're doing is saying <code>try doing something</code>; literally we're saying <code>do it and see</code>.** So, <code>食べみる</code> means <code>eat it **and see** / have a taste of it</code>.　
+**When we add <code>みる</code> to the て-form of another verb, what we're doing is saying <code>try doing something</code>; literally we're saying <code>do it and see</code>.** So, <code>食べてみる</code> means <code>eat it **and see** / have a taste of it</code>.　
 
 ***A:*** <code>Do you like this?</code>　
 
