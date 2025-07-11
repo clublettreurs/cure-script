@@ -4,7 +4,7 @@
 
 こんにちは。
 
-*Today* we're going to talk about <code>ようになる</code>, <code>ようにする</code>, ことにする<code>, </code>ことになる"*(nope)*. Now, all the elements of these expressions we've already learned, so what we need to do now is to see how they fit together in these cases, what they mean, and why they mean what they mean.
+*Today* we're going to talk about <code>ようになる</code>, <code>ようにする</code>, <code>ことにする</code>, <code>ことになる</code>*(nope)*. Now, all the elements of these expressions we've already learned, so what we need to do now is to see how they fit together in these cases, what they mean, and why they mean what they mean.
 
 So let's just do a quick recap of <code>になる</code> and <code>にする</code>. As we know, the two primordial Japanese verbs are <code>ある</code> and <code>する</code>. <code>ある</code> is the mother of all self-move verbs and <code>する</code> is the father of all other-move verbs.
 
