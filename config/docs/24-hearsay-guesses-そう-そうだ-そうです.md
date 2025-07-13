@@ -45,10 +45,10 @@ As shown above, we take off the だ / な from the OG adjectival noun, but then 
 ![](media/image609.webp)
 
 ::: info
-Do carefully note that orange comment above on the picture with そう + だ. *So, if we take <code>面白い</code> (<code>interesting-*is*</code> or <code>amusing-*is*</code>), <code>おいしい</code> (<code>delicious-*is*</code>),
+Do carefully note that orange comment above on the picture with そう + だ. 
 :::
 
-**we just cut off the -い and add -そう.** So, <code>面白い</code> means <code>interesting-***is***</code> or <code>amusing-***is***</code>, <code>面白**そう**</code> means <code>**seems** interesting / **seems** amusing</code>. <code>おいしい</code> means <code>delicious / tasty-*is*</code>, <code>おいし**そう**</code> means it <code>**looks** delicious</code>, it <code>**looks** tasty</code>. And this is an important one to remember because, as we've mentioned before, **Japanese is a lot stricter than English in restricting us to saying** **only things that we can actually know for ourselves.**
+So, if we take <code>面白い</code> (<code>interesting-*is*</code> or <code>amusing-*is*</code>), <code>おいしい</code> (<code>delicious-*is*</code>), **we just cut off the -い and add -そう.** So, <code>面白い</code> means <code>interesting-***is***</code> or <code>amusing-***is***</code>, <code>面白**そう**</code> means <code>**seems** interesting / **seems** amusing</code>. <code>おいしい</code> means <code>delicious / tasty-*is*</code>, <code>おいし**そう**</code> means it <code>**looks** delicious</code>, it <code>**looks** tasty</code>. And this is an important one to remember because, as we've mentioned before, **Japanese is a lot stricter than English in restricting us to saying** **only things that we can actually know for ourselves.**
 
 ---
 

@@ -193,13 +193,13 @@ So, there are various uses of も, which we'll look at later, but this is the mo
 
 ---
 
-穴の中は**たて穴**だった。アリスはすぐ下落ちた。 
+穴の中は**たて穴**だった。アリスはすぐ下に落ちた。 
 
 ![](media/image714.webp)
 
 中 means `the inside`, either the middle or the inside of something, so 穴の中 is the inside of the hole. たて穴/縦穴: the word たて/縦 means `vertical` or `upright` (and you can see it's related to 立つ – to stand). So, 「穴の中は竪穴だった」`the inside of the hole was a vertical hole` – it went straight down. 
 
-> アリスは**すぐ**下落ちた。
+> アリスは**すぐ**下に落ちた。
 
 ![](media/image702.webp)
 
