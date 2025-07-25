@@ -99,7 +99,7 @@ Now, <code>下を見る</code> is <code>looking down / looking at the down</code
 
 ***B:*** <code>I don't know.</code>　
 
-***A:*** <code>食べみてください. Try it, taste it, eat it **and see**.</code>
+***A:*** <code>食べてみてください. Try it, taste it, eat it **and see**.</code>
 
 We often say <code>やってみる</code> - <code>I'll give it a try / I'll try **and see** what happens</code>. **<code>やる</code> is a more casual form of <code>する</code>,** and **you can say <code>してみる</code>, especially in more formal circumstances,** **but more often we say <code>やってみる</code>**: <code>Give it a try / give it a go / do it and see.</code>
 
