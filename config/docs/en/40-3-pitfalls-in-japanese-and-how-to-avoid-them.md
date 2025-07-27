@@ -62,7 +62,7 @@ Once again, we have the て-form of the copula. <code>無事</code>, which means
 
 So, <code>無事だ</code> means <code>you're safe / you weren't harmed / nothing happened</code>. <code>無事で</code> is turning that <code>だ</code>, that copula, into the connective form.
 
-We use the て-form to connect things, don't we? So, just as we might say, <code>遅くなってすみません</code> — <code>That I came late, I'm sorry</code>-- we also say <code>無事でよかった</code> — <code>That you weren't hurt, that was good.</code>
+We use the て-form to connect things, don't we? So, just as we might say, <code>遅くなってすみません</code> — <code>That I came late, I'm sorry</code> — we also say <code>無事でよかった</code> — <code>That you weren't hurt, that was good.</code>
 
 And this connective て-form is also used in longer compound sentences. So, for example, we might say <code>さくらはいい子で毎日学校に行く</code> — <code>Sakura is a good child and she goes to school every day.</code>
 

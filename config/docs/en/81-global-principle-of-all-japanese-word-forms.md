@@ -149,7 +149,7 @@ so generally we add something to that.
 
 **We can add the small っ, to make the stem だ~**, *(I think by ~ here is meant っ = だっ)* **which can then have the -た past helper added to it to make <code>だった</code>.** We can add -ろ, so it can have the volitional helper added to make <code>だろう</code>.
 
-**And in the て-form, the だ itself changes — of course having only one kana, だ is the last kana --** **and that can become <code>で</code> to make the て-form.** It's a little bit less regular than the others, but that's really because **there is only one copula**, so it doesn't have lots of other things in the same group for it to be regular with.
+**And in the て-form, the だ itself changes — of course having only one kana, だ is the last kana — ** **and that can become <code>で</code> to make the て-form.** It's a little bit less regular than the others, but that's really because **there is only one copula**, so it doesn't have lots of other things in the same group for it to be regular with.
 
 ## Summary
 
@@ -157,7 +157,7 @@ So, that's the overall structure of Japanese.
 
 ![](../media/image207.webp)
 
-**It*/Japanese* has two kinds of words, active and passive words, transforming and inert words.**
+**It (Japanese) has two kinds of words, active and passive words, transforming and inert words.**
 
 **The inert words** **can't change in any way, but they can attach particles that tell us what they're doing.** And fortunately, **because they never change at all, there's nothing tricky about nouns.**
 
@@ -166,5 +166,5 @@ So, that's the overall structure of Japanese.
 **Active elements, verbs, adjectives and the copula, can only change that last kana** **and they always do it according to the stem-helper system.**
 
 When we understand that, the whole thing becomes a great deal easier to conceptualize and deal with.
+
 ![](../media/image1053.webp)
-```

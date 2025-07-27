@@ -303,15 +303,14 @@ So I hope this time we really laid to rest the final question of polarity switch
 
 ****and immersion to ingest, because you can't learn everything through raw structure.****
 
+::: info
 ![](../media/image361.webp)
 
 ![](../media/image844.webp)
 
-::: info
 Read [****THIS COMMENT TREE****](https://www.youtube.com/watch?v=Gi3BmIRZZPs&lc=UgyOhoQLaj1rzfKcTWV4AaABAg&ab_channel=OrganicJapanesewithCureDolly) where Dolly gives some useful info about が use.  
 It also slightly touches over the cases where there are 2 visible logical particles like が or を in a single clause, since it can happen at times such as with a compound Adjective like 頭がいい.
 *Also, [**this one**](https://www.youtube.com/watch?v=Gi3BmIRZZPs&lc=UgziEAPSnr0SnhrQT8Z4AaABAg.9I_i6CnMTAb9I_ko3FwzJU&ab_channel=OrganicJapanesewithCureDolly) can be useful if the たい stuff used with を is a bit confusing, [**same for ない**](https://www.youtube.com/watch?v=Gi3BmIRZZPs&lc=UgzdlJPBSPKfEnC5CTt4AaABAg.9KGUKbPabp79KHKmr1rRl_&ab_channel=OrganicJapanesewithCureDolly).*
 
 *Hopefully it can be read/understood well enough & is not too bloated, but there was so much important stuff mentioned here that I had no other choice, really, to the point I even had to resort to bolding at times to make it clearer. Definitely recommend reading through the comments.*
 :::
-```

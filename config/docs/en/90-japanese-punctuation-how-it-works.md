@@ -77,9 +77,9 @@ If I understand correctly, because we marked お菓子 with が subject, we can 
 
 Now, **the important thing to understand here is that in any kind of Japanese writing**  
 (except perhaps on Twitter or something)  
-**a logical clause has to end in one of two ways**, **either with a <code>まる / 。</code>, which tells us that it's the end of the complete sentence** --
+**a logical clause has to end in one of two ways**, **either with a <code>まる / 。</code>, which tells us that it's the end of the complete sentence** 
 
-(it may have a couple of sentence ender particles after it, but it's a very strict rule of Japanese that **what ends any logical clause is the B-engine, aside from any sentence-ender particles**) --
+(it may have a couple of sentence ender particles after it, but it's a very strict rule of Japanese that **what ends any logical clause is the B-engine, aside from any sentence-ender particles**) 
 
 ---
 

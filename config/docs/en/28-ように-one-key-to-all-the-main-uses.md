@@ -34,7 +34,7 @@ So, for example, if we say <code>彼を信じるようになった</code>, we're
 
 ![](../media/image893.webp)
 
-<code>彼を信じる</code> (or <code>zeroが彼を信じる</code>) --<code>I believe him</code> — is a logical clause, and we're saying that I moved into the state, I became the state of that logical clause: <code>I came to believe him.</code> This is often used with a potential helper verb.
+<code>彼を信じる</code> (or <code>zeroが彼を信じる</code>) — <code>I believe him</code> — is a logical clause, and we're saying that I moved into the state, I became the state of that logical clause: <code>I came to believe him.</code> This is often used with a potential helper verb.
 
 For example, we might say, <code>日本語のマンガが読めるようになった</code> — <code>Japanese manga became readable (to me)</code>.
 

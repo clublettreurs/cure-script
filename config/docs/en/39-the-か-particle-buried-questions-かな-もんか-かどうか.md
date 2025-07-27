@@ -62,7 +62,7 @@ Now, this is taught as if it were a word or expression that means <code>maybe</c
 
 The point of that misleadingness that I would like to talk about here is that it confuses us about what that -か is actually doing. That -か is attached to the proposition that we are talking about.
 
-So, if we say <code>さくらが来るかも知れない</code> — <code>Perhaps Sakura will come</code> — what we're saying is <code>さくらが来るか</code>, that's the question or proposition that we're talking about, and then <code>も知れない.</code> The も is giving us the meaning of <code>even</code> or <code>as much as</code>, as I've explained that it very often does, and <code>知れない</code> is <code>知る</code> — <code>know</code> / <code>知れる</code>-- <code>ability to know or be known</code> and the helper adjective <code>-ない</code>.
+So, if we say <code>さくらが来るかも知れない</code> — <code>Perhaps Sakura will come</code> — what we're saying is <code>さくらが来るか</code>, that's the question or proposition that we're talking about, and then <code>も知れない.</code> The も is giving us the meaning of <code>even</code> or <code>as much as</code>, as I've explained that it very often does, and <code>知れない</code> is <code>知る</code> — <code>know</code> / <code>知れる</code> — <code>ability to know or be known</code> and the helper adjective <code>-ない</code>.
 
 So the whole thing actually means <code>さくらが来るか</code> — <code>the question of whether Sakura comes</code> – <code>も知れない</code> — <code>I can't go so far as to know / Maybe Sakura will come, maybe she won't.</code>
 

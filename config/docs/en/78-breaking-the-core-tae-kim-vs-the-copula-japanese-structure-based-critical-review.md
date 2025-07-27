@@ -82,7 +82,7 @@ Now, if we look at all the elements in Japanese, all the verbal elements, there 
 
 ![](../media/image525.webp)
 
-There are verbs, adjectives and the copula, and then, aside from that, we have nouns --- nearly everything that's not a verb or an adjective is a noun.
+There are verbs, adjectives and the copula, and then, aside from that, we have nouns — nearly everything that's not a verb or an adjective is a noun.
 
 There are also particles, and there are some conjunctions like <code>なら</code> and <code>けれど</code>. Almost everything else that isn't a verb or an adjective is in fact a noun. There are a few exceptions but not very many.
 

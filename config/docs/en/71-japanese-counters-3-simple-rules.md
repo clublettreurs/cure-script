@@ -86,7 +86,7 @@ We say <code>一輪の花</code>, <code>三匹の猫</code>, just as we would wi
 
 ---
 
-But when we say <code>猫が三匹いる</code> — <code>there are three cats</code> in English — what are we actually saying? --
+But when we say <code>猫が三匹いる</code> — <code>there are three cats</code> in English — what are we actually saying?
 
 ![](../media/image247.webp)
 
@@ -222,7 +222,7 @@ So, if you understand that, it sounds a bit complicated. I wouldn't spend too mu
 
 <code>いっぴき, にひき, さんびき</code> — which is a tendency that <code>さん</code> has, of course only with ten-tenable kana — <code>ごひき</code> — that's always going to be the same — <code>ろっぴき</code>
 
-<code>ななひき</code>-- that's always the same with everything — <code>はっぴき, きゅうひき, じゅっぴき</code>.
+<code>ななひき</code> — that's always the same with everything — <code>はっぴき, きゅうひき, じゅっぴき</code>.
 
 Perhaps even at this stage that's starting to make sense. It's conforming to a regular pattern. They aren't all over the place.
 

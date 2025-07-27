@@ -76,7 +76,7 @@ So, if you want to use a non-logical particle here, you can do it. But the way y
 
 And because these are so fundamental to every sentence, they can be understood by the hearer in Japanese.
 
-So, if we say <code>さくらはなぐった</code>-- <code>I hit Sakura</code> — this means <code> *(zeroが)* さくらは**zeroを**なぐった</code>,
+So, if we say <code>さくらはなぐった</code> — <code>I hit Sakura</code> — this means <code> *(zeroが)* さくらは**zeroを**なぐった</code>,
 
 ![](../media/image569.webp)
 

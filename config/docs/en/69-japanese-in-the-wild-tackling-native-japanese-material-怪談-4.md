@@ -43,9 +43,9 @@ And <code>驚いた</code> usually gets translated as <code>be surprised</code> 
 
 When she asked the situation, she was startled or shocked by what she heard.
 
-<code>なんと... --- </code>What! / What's this?" <code>なんとあの先輩が部屋で殺されたというのだ</code> --
+<code>なんと... </code> — What! / What's this? 
 
-<code>That senpai, in that apartment, received the action of being killed.</code>
+<code>なんとあの先輩が部屋で殺されたというのだ</code> — <code>That senpai, in that apartment, received the action of being killed.</code>
 
 ![](../media/image378.webp)
 

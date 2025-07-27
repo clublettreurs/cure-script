@@ -181,4 +181,3 @@ So, I hope this makes the whole <code>気</code> usage a little clearer…
 [**The Buddhist concept of <code>non-self</code>**](https://en.wikipedia.org/wiki/Anatt%C4%81) may be a good study to see how Japanese works.
 :::
 ![](../media/image99.webp)
-```

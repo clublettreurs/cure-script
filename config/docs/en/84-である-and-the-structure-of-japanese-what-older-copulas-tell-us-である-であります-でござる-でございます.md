@@ -97,9 +97,9 @@ or we can say <code>**綺麗な**花</code> (**pretty-is** flower).
 
 ![](../media/image1019.webp)
 
-And it's precisely because this group of nouns --
+And it's precisely because this group of nouns 
 and I've talked about the three groups of special nouns
-in another video if you'd like to look at that *(Lesson 41)* --
+in another video if you'd like to look at that *(Lesson 41)* 
 **this particular special group of nouns, adjectival nouns, has the property**
 **that it's able to use the pre-modifying form of the copula, <code>な</code>.**
 
@@ -232,12 +232,12 @@ I've made a video about that and I'll link it. *(Lesson 55)*
 ---
 
 **So the simplest use of <code>で</code> is to say where an action takes place:**
-<code>**公園で**遊ぶ</code> (play **in the park**) --
+<code>**公園で**遊ぶ</code> (play **in the park**) 
 **the park, which is marked by <code>で</code>, is the field, the area, the parameters, within which I play;**
 
 ![](../media/image834.webp)
 
-<code>**世界で**一番おいしいラーメン</code> (the most delicious ramen **in the world**) --
+<code>**世界で**一番おいしいラーメン</code> (the most delicious ramen **in the world**) 
 **the world marked by <code>で</code> marks the field, the area
 within which this ramen is the first, number one.**
 
@@ -381,8 +381,10 @@ do a very, very poor job of differentiating them,
 **I believe it's important to keep the copula, which is**
 **an unfamiliar concept in English, because English has no dedicated copula,**
 **to keep it separate in the three-engine model.**
+
 ::: info
 This is quite interesting, [**link here**](https://www.youtube.com/watch?v=hS02cADsjfI&lc=Ugwa71x6w5weNeypWEh4AaABAg&ab_channel=OrganicJapanesewithCureDolly) if the screenshot is too hard to read. Highly recommend reading the entire comment section under this video, as there are some interesting comments.
-:::
+
 ![](../media/image83.webp)
-```
+:::
+

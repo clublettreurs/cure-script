@@ -32,8 +32,7 @@ But when we come to words which don't have an exact English equivalent, it can g
 
 ## 込む
 
-Now, <code>込む</code> does not have an exact meaning in English, but we can see what it does mean by looking at the kanji. The kanji is essentially the kanji of <code>入る / 入る / 入れる</code>  
--- <code>go in</code> or <code>put in</code> — and that's on a <code>road</code>.
+Now, <code>込む</code> does not have an exact meaning in English, but we can see what it does mean by looking at the kanji. The kanji is essentially the kanji of <code>入る / 入る / 入れる</code>  — <code>go in</code> or <code>put in</code> — and that's on a <code>road</code>.
 
 ![](../media/image347.webp)
 
@@ -103,4 +102,3 @@ as it very often is, as a helper verb put onto the い-stem of another verb. But
 ::: info
 there is this one interesting* [**comment**](https://www.youtube.com/watch?v=31xnxSFUCiw&lc=Ugx7rl5ZlBI3QADLH3R4AaABAg&ab_channel=OrganicJapanesewithCureDolly)*. Shame we can’t hear Dolly’s thoughts on it :{
 :::
-```

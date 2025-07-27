@@ -174,7 +174,7 @@ So if we say, for example, <code>お店にパンを買いに行く</code> or <co
 
 ![](../media/image327.webp)
 
-what do we mean by the い-stem of <code>買う</code>, which is <code>買い</code>, or the い-stem of <code>遊ぶ</code>, which is <code>遊び</code>? What we mean is the noun, so when we say <code>公園に遊びに行く</code>, we're marking the locational target of the place we're going — we're going to the park, <code>公園</code> — and then we're stating our purpose. --
+what do we mean by the い-stem of <code>買う</code>, which is <code>買い</code>, or the い-stem of <code>遊ぶ</code>, which is <code>遊び</code>? What we mean is the noun, so when we say <code>公園に遊びに行く</code>, we're marking the locational target of the place we're going — we're going to the park, <code>公園</code> — and then we're stating our purpose. 
 
 Our purpose is the thing of playing, the thing of having fun, and that is <code>遊び</code>. So literally we're saying <code>I'm going to the park for play</code>.
 

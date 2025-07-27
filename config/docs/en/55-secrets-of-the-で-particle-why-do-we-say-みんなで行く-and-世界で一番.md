@@ -51,7 +51,7 @@ So for example when we add the soft copula <code>な</code> to an adjectival nou
 ![](../media/image434.webp)
 
 And actually that unit *could* be called a <code>な-adjective</code>, because <code>綺麗</code> plus <code>な</code> or <code>だ</code> becomes an adjectival unit. So although I very much object to the term <code>な-adjective</code> in the way it's used by Western textbooks, which is to say they will tell you that <code>綺麗</code> is a <code>な-adjective</code>, and it's not
--- it's a noun, it's not any kind of an adjective — we could say that <code>綺麗な</code> or <code>綺麗だ</code> is a な-adjective.
+— it's a noun, it's not any kind of an adjective — we could say that <code>綺麗な</code> or <code>綺麗だ</code> is a な-adjective.
 
 I would not recommend it, simply because the term is so abused in Western so-called Japanese grammar that it's best left alone. It has a name in Japanese but since it would take rather a while to explain it, I won't go into that here. But it's not anything like <code>な-adjective</code>.
 
@@ -105,8 +105,7 @@ We know what の does: it links one noun to another. So it's not modifying the q
 
 ---
 
-And because of this **we can also say** <code>このラーメンは世界で一番美味しい</code>
--- we're saying <code>This ramen is the most delicious in the world.</code>
+And because of this **we can also say** <code>このラーメンは世界で一番美味しい</code> — we're saying <code>This ramen is the most delicious in the world.</code>
 
 But we **can't** say <code>このラーメンは世界の一番美味しい</code>
 

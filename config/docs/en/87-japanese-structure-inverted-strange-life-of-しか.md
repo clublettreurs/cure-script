@@ -85,8 +85,9 @@ Now, **there's also an implicit relevance clause in this**, so when we say <code
 ![](../media/image1029.webp)
 
 ::: info
-It should simply select the relevance that **no other Sakura / no other people** are there.* ---
+It should simply select the relevance that **no other Sakura / no other people** are there.
 :::
+
 **So <code>しか</code> inverts the selection, but it's also** **what you might call a <code>smart invert</code>: it selects for relevance.**
 
 ## しか in sentences with が-marked subject
@@ -148,10 +149,10 @@ Well, of course it does exist, **this is very colloquial**, but as far as we're 
 **But, when that thing's coming after you, who cares about grammar?.**
 ::: info
 Some useful comments I guess under the video…
-:::
+
 ![](../media/image124.webp)
 
 ![](../media/image477.webp)
 
 *One miscellaneous about くせに (癖に?), for the full lesson, she made [**this video**](https://www.youtube.com/watch?v=QvuNXIYqFNM&pp=ugMICgJqYRABGAHKBRRjdXJlIGRvbGx5IOOBj-OBm-OBqw%3D%3D)* */ Lesson 93*![](../media/image556.webp)
-```
+:::

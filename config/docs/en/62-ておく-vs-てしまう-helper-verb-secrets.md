@@ -52,7 +52,7 @@ Now, we can compare this with another very common helper verb, which is <code>�
 
 In this particular case it would probably mean something like  
 "I'll go ahead and explain to them, even though that's not what I'm expected to do, or perhaps not what people want me to do.  
-I'll just go right ahead and explain to them<code> – </code>説明してしまう"
+I'll just go right ahead and explain to them — <code>説明してしまう</code> 
 
 In another situation we might say something like
 
@@ -62,7 +62,7 @@ which means <code>Don't ask, because Sakura will explain</code>
 
 ![](../media/image688.webp)
 
--- but what that <code>しまう</code> is implying is probably something like  
+But what that <code>しまう</code> is implying is probably something like  
 "Don't ask, because if you do Sakura's going to explain and we're going to be stuck here for hours with Sakura's long rambling explanations."
 
 So, <code>しまう</code> has a wide variety of implications, some of them negative, not all of them negative, but <code>おく</code> has a completely different range of meaning.
@@ -72,13 +72,7 @@ So, <code>しまう</code> has a wide variety of implications, some of them nega
 **<code>しまう</code> is talking about going ahead and  
 doing something, something happening by accident;**
 
-as I said in the video on <code>しまう</code> *(Lesson 44)*,
-
-essentially when it's in the past, all those things that we can mean by <code>done</code> --
-
-<code>I done explained</code>, <code>I done fell over, </code>she done stole my cake<code>, </code>I done won the lottery"
-
--- doesn't have to be negative, but it has that exclamation mark feeling to it.
+As I said in the video on <code>しまう</code> *(Lesson 44)*, essentially when it's in the past, all those things that we can mean by <code>done</code> — <code>I done explained</code>, <code>I done fell over</code>, <code>she done stole my cake</code>, <code>I done won the lottery</code> — doesn't have to be negative, but it has that exclamation mark feeling to it.
 
 **It happened, even though you might not have been expecting it or you might not have wanted it.**
 

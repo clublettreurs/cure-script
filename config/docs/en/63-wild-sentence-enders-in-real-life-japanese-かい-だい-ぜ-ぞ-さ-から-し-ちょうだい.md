@@ -140,4 +140,3 @@ Indeed, ‘tis modified a bit …somewhat…\*cough\*…bizarrely… ╮(︶▽�
 :::
 
 but if you just stand staring and learning all about the rope you'll never get to the top of the mountain. Conversely, if you try to climb the mountain without the rope, you may not get very far…
-```

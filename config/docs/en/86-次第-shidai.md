@@ -182,5 +182,6 @@ So, in the example we saw earlier, <code>身分**次第に**暮らす</code>,
 
 **So these are the fundamental uses of <code>次第</code>.** They seem very different if you look at them through English glasses, **but if you look at them as they are, I think we can see that** **<code>次第</code> works pretty much the same way all the time.**
 
+::: info
 ![](../media/image640.webp)
-```
+:::

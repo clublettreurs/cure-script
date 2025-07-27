@@ -4,7 +4,8 @@
 
 こんにちは。
 
-Once we start seriously immersing in and consuming actual Japanese material, often colloquial and casual, not textbook Japanese, one of the problems that many people encounter is the idea that --
+Once we start seriously immersing in and consuming actual Japanese material, often colloquial and casual, not textbook Japanese, one of the problems that many people encounter is the idea that...
+
 "Good heavens, they leave out half of what they're going to say! They're omitting this and leaving out that, and how are we supposed to guess what they're actually talking about?"
 
 Now, this isn't nearly as much of a problem as it can seem at first, but we need to know what's going on and what to look for.

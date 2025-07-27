@@ -126,4 +126,3 @@ So this extremely self-move version *(見える/聞こえる)*, which can't be u
 ::: info
 in the comments, Dolly-先生 mentions some important point that did not make it into the video, given on her Patreon. Unfortunately, her Patreon is no longer available, possibly due to her passing, except for some comments she had left elsewhere. I guess we may never know.
 :::
-```

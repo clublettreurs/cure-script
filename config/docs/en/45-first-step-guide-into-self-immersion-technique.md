@@ -86,7 +86,7 @@ So, <code>思いっきり</code> means <code>putting one's whole thought into it
 
 <code>そのとたん...</code> <code>そのとたん</code> means <code>at that moment</code>. <code>とたん</code> is <code>just as something happens or just after it happens</code>. So, <code>そのとたん</code> — <code>at that juncture / at that point / at that moment</code>.
 
-<code>くわえていた肉はポチャンと川の中に落ちてしまいました</code> So, at that point, the meat that was being held in the mouth --<code>くわえていた肉は</code> — <code>ポチャン</code>, which is a splash-type sound effect, <code>ポチャンと</code> — and -と, of course, marks sound effects — <code>川の中に</code> — <code>into the river</code> — <code>落ちて</code> — <code>落ちる</code>, to <code>fall</code> — <code>しまいました</code>. And that <code>しまいました</code> is saying <code>it done fell into the river</code>, and I'll link to the video on that <code>しまいました / ちゃった</code>, which means <code>it done happened</code>. *(Lesson 44)*
+<code>くわえていた肉はポチャンと川の中に落ちてしまいました</code> So, at that point, the meat that was being held in the mouth — <code>くわえていた肉は</code> — <code>ポチャン</code>, which is a splash-type sound effect, <code>ポチャンと</code> — and -と, of course, marks sound effects — <code>川の中に</code> — <code>into the river</code> — <code>落ちて</code> — <code>落ちる</code>, to <code>fall</code> — <code>しまいました</code>. And that <code>しまいました</code> is saying <code>it done fell into the river</code>, and I'll link to the video on that <code>しまいました / ちゃった</code>, which means <code>it done happened</code>. *(Lesson 44)*
 
 Ahh! <code>川の中には、がっかりした犬の顔が映っています</code>
 
@@ -112,7 +112,7 @@ And that's the first moral. In English, we'd probably put that the other way aro
 
 ---
 
-<code>また</code> — <code>また</code> means <code>again</code> or in cases like this it means <code>also</code>. So, also the second moral is: <code>欲張るとけっきょく損をするというお話です.</code> <code>欲張る</code> is to <code>be selfish / to be full of glittery, to be full of desires and wants</code> --<code>欲張る</code>.
+<code>また</code> — <code>また</code> means <code>again</code> or in cases like this it means <code>also</code>. So, also the second moral is: <code>欲張るとけっきょく損をするというお話です.</code> <code>欲張る</code> is to <code>be selfish / to be full of glittery, to be full of desires and wants</code> — <code>欲張る</code>.
 
 <code>欲張ると</code> is again this connective if-or-when <code>と</code>; in this case, <code>if one **欲張る**s</code>, if one is full of selfish desire — <code>けっきょく</code>, which means <code>in the end</code>, <code>けっきょく損をする</code> — <code>損</code> means <code>loss</code>, <code>損をする</code> means literally <code>do a loss</code>, but in fact means <code>have a loss</code> or <code>suffer a loss</code>. So it's saying, if you're full of selfish desires, in the end, you'll have a loss.
 

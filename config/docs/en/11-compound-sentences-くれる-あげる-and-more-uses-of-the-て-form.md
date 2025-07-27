@@ -48,7 +48,7 @@ So why are we doing all that? Let's take a look. `おねえちゃんはつまら
 
 ![](../media/image1113.webp)
 
-`あそぶ` means to `play`, and that also is in the て-form, isn't it? `あそぶ` --> あそんで". If you're in any doubt of how we make these て-forms, please go back to the video lesson on the て-form and refresh your memory. *(Lesson 5)*
+`あそぶ` means to `play`, and that also is in the て-form, isn't it? `あそぶ` --> `あそんで`. If you're in any doubt of how we make these て-forms, please go back to the video lesson on the て-form and refresh your memory. *(Lesson 5)*
 
 `あそんでくれなかった` 
 
@@ -68,7 +68,7 @@ Well, it's not the book. In fact, it's not any actual object. **She is giving th
 
 What do we mean by that? **Well, we say `くれる` not only for giving a thing – a book, a present, a candy – we also say it for giving an action, for doing something for our benefit.** **This is very very often used in Japanese, so it's important to understand it.** If someone does something for our benefit, we turn that action to て-form and we add `くれる`. **If we do something for someone else's benefit, we turn that action into te-form and add `あげる`, which means to `give upward`, in other words, to give to you, to give to another person.**
 
-`くれる` and `あげる` – give down to me or my group / \[`**あげる**`\] **give up to you or someone else or your group or their group.**
+`くれる` and `あげる` – give down to me or my group / `**あげる**` **give up to you or someone else or your group or their group.**
 
 So what is this second part of the sentence? It's `あそんでくれなかった` – "she didn't play / she didn't give Alice playing-with / she didn't play for Alice's benefit".
 

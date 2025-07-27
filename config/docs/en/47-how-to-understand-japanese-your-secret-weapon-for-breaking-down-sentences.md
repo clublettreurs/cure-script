@@ -109,7 +109,7 @@ Let's try doing that. <code>あのさくらをなぐったみにくい外国人�
 
 Now we're starting the sentence out with a non-logical topic marked by は. But what that topic is doing is defining for us the zero pronoun, the が-marked A-car of the sentence, which is zeroが.
 
-Now, we could say, <code>みにくい外国人がさくらをなぐった</code> --<code>An ugly foreigner hit Sakura</code> — but what we're doing here once again is we're pulling out one of the elements, in this case <code>外国人</code>, and putting it at the end of the clause, **so it isn't a functional logical clause***,* **it's a modified noun:** <code>the ugly 外国人 who hit Sakura</code>. So it's telling us more about that 外国人: <code>As for that ugly 外国人 who hit Sakura, he did...</code>
+Now, we could say, <code>みにくい外国人がさくらをなぐった</code> — <code>An ugly foreigner hit Sakura</code> — but what we're doing here once again is we're pulling out one of the elements, in this case <code>外国人</code>, and putting it at the end of the clause, **so it isn't a functional logical clause***,* **it's a modified noun:** <code>the ugly 外国人 who hit Sakura</code>. So it's telling us more about that 外国人: <code>As for that ugly 外国人 who hit Sakura, he did...</code>
 
 What did he do? <code>He did..</code> — that's <code>zeroが</code> — <code>he did...</code> and then we say what he did.
 
