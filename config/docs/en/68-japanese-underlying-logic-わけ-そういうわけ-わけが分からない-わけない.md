@@ -26,7 +26,7 @@ Originally, <code>わけ</code> meant <code>divide or separate</code>. So it's c
 
 ![](../media/image209.webp)
 
-So, when we say <code>本が分かる</code>, as I've pointed out in previous lessons, we're not in fact saying <code>I understand the book</code>; we're saying <code>the book does understandable or does clear</code>. We could say in English <code>The book is clear to me</code>, but in fact it's not an adjective, it's a verb -- <code>the book does clear (to me)</code>.
+So, when we say <code>本が分かる</code>, as I've pointed out in previous lessons, we're not in fact saying <code>I understand the book</code>; we're saying <code>the book does understandable or does clear</code>. We could say in English <code>The book is clear to me</code>, but in fact it's not an adjective, it's a verb — <code>the book does clear (to me)</code>.
 
 But when we say <code>clear</code> we are using slightly the wrong metaphor if we want to go into the actual etymology of the word. <code>Clear</code> is a metaphor, obviously, from seeing. But the real metaphor that underlies <code>分かる</code> is being broken down into constituent parts, being analyzed or analyzable. *(check Lesson 59)*
 
@@ -36,7 +36,7 @@ And that's what <code>わけ/訳</code> means here. Now I know some of you may b
 
 ![](../media/image629.webp)
 
-Well, that's true. We usually associate <code>分かる</code> with this kanji, but in fact you can write the word <code>分かる</code> with three different possible kanji and they all have slightly different implications -- *分かる*, *解る*, *判る* and I've [**written an article**](https://www.youtube.com/watch?v=6bI_WLm8Jmo&ab_channel=OrganicJapanesewithCureDolly) *(it is a video actually)* about that if you're interested, so I'll put a link in the information section below *(what is linked is a video).*
+Well, that's true. We usually associate <code>分かる</code> with this kanji, but in fact you can write the word <code>分かる</code> with three different possible kanji and they all have slightly different implications — *分かる*, *解る*, *判る* and I've [**written an article**](https://www.youtube.com/watch?v=6bI_WLm8Jmo&ab_channel=OrganicJapanesewithCureDolly) *(it is a video actually)* about that if you're interested, so I'll put a link in the information section below *(what is linked is a video).*
 
 The point is that <code>わけ / 分かる</code> is not tied to any one kanji. It's a fundamental Japanese word that goes back further than the kanji used to represent it, and the fundamental idea in all these cases is the same: the idea of separation, division, analysis, breakdown.
 
@@ -56,7 +56,7 @@ We're working from one known fact to another unknown fact that we use the reason
 
 In one case we're working it forward, in the other case we're working it backward, but that fundamental underlying causal logical reasonality, to coin a phrase, is the same. And I coined the phrase <code>reasonality</code> because there isn't really a word for this in English.
 
-But in Japanese there is, and the word is <code>わけ/訳</code>. So <code>わけ</code>, as we see, expresses a cause, a reason, and a conclusion or a logical judgement -- all of those things.
+But in Japanese there is, and the word is <code>わけ/訳</code>. So <code>わけ</code>, as we see, expresses a cause, a reason, and a conclusion or a logical judgement — all of those things.
 
 What it really expresses is the underlying causality or reasonality, and when the dictionaries say that it also expresses a circumstance or situation or something like that, in fact it doesn't really do that, but what it does is express the underlying reasonality of a circumstance or a situation.
 
@@ -64,11 +64,11 @@ And once we understand that, we can start to understand the different ways in wh
 
 ## そういうわけ
 
-So, if someone says <code>そういうわけでベッドの下に隠れた</code> -- *By so-said reasonality I hid under the bed* <code>that's why I was hiding under the bed</code> -- that's the reason.
+So, if someone says <code>そういうわけでベッドの下に隠れた</code> — *By so-said reasonality I hid under the bed* <code>that's why I was hiding under the bed</code> — that's the reason.
 
 ![](../media/image1086.webp)
 
-If we find out the solution to what seemed like an impossible crime, we say, <code>そういうわけでした</code> -- <code>so that's how it happened</code>.
+If we find out the solution to what seemed like an impossible crime, we say, <code>そういうわけでした</code> — <code>so that's how it happened</code>.
 
 ![](../media/image17.webp)
 
@@ -102,7 +102,7 @@ What we're saying here is that the conclusion from the fact that she always eats
 
 ![](../media/image116.webp)
 
-Someone might say, <code>嫉妬したわけではありません</code> -- <code>it's not that I got jealous</code>. Again, <code>don't draw from my actions or words the conclusion that I got jealous. That's not what it was</code>.
+Someone might say, <code>嫉妬したわけではありません</code> — <code>it's not that I got jealous</code>. Again, <code>don't draw from my actions or words the conclusion that I got jealous. That's not what it was</code>.
 
 ![](../media/image199.webp)
 
@@ -110,7 +110,7 @@ And, essentially, the dictionaries here say that <code>わけ</code> means a sit
 
 They're not denying the situation or the circumstance, they're denying the underlying reasonality of the situation or the circumstance, and in doing that also implicitly denying the situation or the circumstance, but that isn't always the case.
 
-For example, we might say <code>Just because she's fat doesn't mean she eats too much</code> -- <code>食べすぎるわけではない</code>, the reasonality isn't that she eats too much.
+For example, we might say <code>Just because she's fat doesn't mean she eats too much</code> — <code>食べすぎるわけではない</code>, the reasonality isn't that she eats too much.
 
 ![](../media/image859.webp)
 
@@ -136,11 +136,11 @@ One is <code>x わけではない</code>, that's to say that the circumstance we
 
 So, in these cases where we're saying <code>it doesn't mean that... / it's not that... / it's not as if...</code> etc, in other words <code>that reasoning doesn't apply</code>, here we're saying that no reasoning exists. <code>わけがない</code>: <code>there is no reasoning</code>.
 
-And therefore, since there is no reasoning, since it doesn't compute, it can't be the case. So, for example, <code>さくらはウソをつくわけがない</code> – *Sakura-tell-a-lie reasonality is non-existent* <code>Sakura wouldn't tell a lie</code> -- there's no way she'd tell a lie.
+And therefore, since there is no reasoning, since it doesn't compute, it can't be the case. So, for example, <code>さくらはウソをつくわけがない</code> – *Sakura-tell-a-lie reasonality is non-existent* <code>Sakura wouldn't tell a lie</code> — there's no way she'd tell a lie.
 
 ![](../media/image862.webp)
 
-The underlying logic or reasonality of Sakura telling a lie doesn't exist, therefore it's not possible that she would tell a lie. Again, <code>さくらを忘れるわけがない</code> -- <code>I won't forget Sakura</code> or <code>I won't forget you, Sakura</code>.
+The underlying logic or reasonality of Sakura telling a lie doesn't exist, therefore it's not possible that she would tell a lie. Again, <code>さくらを忘れるわけがない</code> — <code>I won't forget Sakura</code> or <code>I won't forget you, Sakura</code>.
 
 What we're saying here really is that the underlying reasonality of forgetting Sakura doesn't exist. There is no reasonality, it doesn't compute, therefore it can't happen.
 
@@ -176,7 +176,7 @@ And that might be particularly useful, because there is a third use of this nega
 
 ![](../media/image398.webp)
 
-<code>日本語を話すのはわけがないことだ</code> -- <code>Speaking Japanese is easy, no problem.</code>
+<code>日本語を話すのはわけがないことだ</code> — <code>Speaking Japanese is easy, no problem.</code>
 
 Why do we say <code>わけがない</code> here? What we're saying is that there's really no reasoning needed.
 

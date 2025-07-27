@@ -68,7 +68,7 @@ In some cases English and Japanese will disagree about what is directly transiti
 
 ---
 
-Now, the point here is that these two direct particles -- if we say <code>I hit Sakura</code> there are no prepositions anywhere. This is completely direct. I do the hitting and I'm hitting something, I'm hitting Sakura. I'm not hitting to Sakura or hitting at Sakura or hitting by Sakura.
+Now, the point here is that these two direct particles — if we say <code>I hit Sakura</code> there are no prepositions anywhere. This is completely direct. I do the hitting and I'm hitting something, I'm hitting Sakura. I'm not hitting to Sakura or hitting at Sakura or hitting by Sakura.
 
 I'm directly hitting Sakura. Now, because of the directness of these two particles they can't have a non-logical particle appended to them.
 
@@ -76,7 +76,7 @@ So, if you want to use a non-logical particle here, you can do it. But the way y
 
 And because these are so fundamental to every sentence, they can be understood by the hearer in Japanese.
 
-So, if we say <code>さくらはなぐった</code>-- <code>I hit Sakura</code> -- this means <code> *(zeroが)* さくらは**zeroを**なぐった</code>,
+So, if we say <code>さくらはなぐった</code>-- <code>I hit Sakura</code> — this means <code> *(zeroが)* さくらは**zeroを**なぐった</code>,
 
 ![](../media/image569.webp)
 
@@ -97,7 +97,7 @@ So why would we choose sometimes to have a は there? Well, in this case we're m
 
 And it also plays the other roles that は always plays as an extension of its topic-making nature. And I've done [**a video**](https://www.youtube.com/watch?v=9l_ZlQQU4ZE&ab_channel=OrganicJapanesewithCureDolly) on these multiple uses of は, so if you're not familiar with this, please take a look at it, because it's rather important for understanding what's going on here.
 
-So, we're making a topic out of the winter and we're also differentiating winter from other seasons. We're saying <code>冬には</code> -- <code>As for winter, as opposed to the other seasons, we make a snowman.</code>
+So, we're making a topic out of the winter and we're also differentiating winter from other seasons. We're saying <code>冬には</code> — <code>As for winter, as opposed to the other seasons, we make a snowman.</code>
 
 Now, if the person you were talking to was someone from a very, very cold place, they might say <code> *(zeroが)* 春にも雪だるまを作る</code>.
 
@@ -128,7 +128,7 @@ We can say <code>泳ぐのが好きです</code>. We can say <code>泳ぐのを�
 
 **You can combine any logical particle with の because that kind of の turns the thing before it into what is effectively a noun, and a noun can take any of the logical particles.**
 
-It could be a longer logical clause: <code>さくらと一緒に泳ぐのが好きだ</code> -- <code>I like swimming together with Sakura</code>. / **Sakura together with swimming pleasing is.**
+It could be a longer logical clause: <code>さくらと一緒に泳ぐのが好きだ</code> — <code>I like swimming together with Sakura</code>. / **Sakura together with swimming pleasing is.**
 ::: info
 gave a bit more literal translation just in case, 好き is an adjectival noun. Go by Dolly tho.
 :::

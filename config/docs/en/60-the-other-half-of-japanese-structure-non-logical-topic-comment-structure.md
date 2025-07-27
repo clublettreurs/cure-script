@@ -34,7 +34,7 @@ As you see, each time the ball is marked by <code>it</code>, and you might say t
 
 But we could also say "I had a ball. I dropped it. It rolled down the hill. When it reached the bottom, Sakura picked it up and walked away with it."
 
-Now, you see, the first <code>it</code> is the object of my dropping it: <code>I dropped it.</code> The second and third <code>it</code>: <code>It rolled down the hill... it reached the bottom</code> -- in those two the ball is the subject.
+Now, you see, the first <code>it</code> is the object of my dropping it: <code>I dropped it.</code> The second and third <code>it</code>: <code>It rolled down the hill... it reached the bottom</code> — in those two the ball is the subject.
 
 And then <code>Sakura picked it up</code>, and it's become the object again, the object this time of Sakura's action. So <code>it</code> is not tracking the subject, it's not tracking the object, it's tracking the topic, the thing we're talking about.
 

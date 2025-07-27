@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Today we're going to talk about an unusual but not uncommon element of Japanese that you'll certainly come across in your immersion. It can be confusing because nobody really explains exactly what it is and what it does -- and of course they certainly don't explain why. A number of people have asked me about this recently including my Red Kokeshi patron Bob Nagler, who says, "Have you ever done a video of verb plus **まい**? I've not found a very useful explanation anywhere, only lists with examples and translation which give somewhat of an idea."
+Today we're going to talk about an unusual but not uncommon element of Japanese that you'll certainly come across in your immersion. It can be confusing because nobody really explains exactly what it is and what it does — and of course they certainly don't explain why. A number of people have asked me about this recently including my Red Kokeshi patron Bob Nagler, who says, "Have you ever done a video of verb plus **まい**? I've not found a very useful explanation anywhere, only lists with examples and translation which give somewhat of an idea."
 
 Well yes, that is pretty much the state of play. So let's do the video now.
 
@@ -62,7 +62,7 @@ So what does a negative volitional actually do?
 
 **You can't use it as a call to action:** <code>行きましょう</code> (let's go). *(this example is positive volitional)*
 
-**You can't say <code>行くまい</code> (let's not go) -- it doesn't mean that.**
+**You can't say <code>行くまい</code> (let's not go) — it doesn't mean that.**
 
 **You can't use it for**, as I've shown in another video *(Lesson 18)*, **forming a construction that means <code>try to do something</code>.**
 
@@ -78,7 +78,7 @@ Its uses are pretty limited; it has a couple of direct uses and then a couple of
 
 ![](../media/image119.webp)
 
-**It's a volitional negative, so just in the same way that we can voice conjectures or assessments** -- and **this is very often used with the verb <code>ある</code>, so we say <code>あるまい</code>.**
+**It's a volitional negative, so just in the same way that we can voice conjectures or assessments** — and **this is very often used with the verb <code>ある</code>, so we say <code>あるまい</code>.**
 
 <code>そんなことはあるまい</code> (that's just not likely / I don't think such a thing is probable at all).
 

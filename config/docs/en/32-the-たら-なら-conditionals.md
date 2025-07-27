@@ -46,7 +46,7 @@ So, for example, if Sakura is worried that something may not be possible to her,
 
 You might ask the way to the station; you might say, <code>駅はどこですか</code> and someone might reply, <code>駅なら, あそこです</code> and that's saying <code>If it's the station you're asking for, it's over there.</code> Now, of course, there isn't any real doubt that it is the station you're asking for, so it's more like <code>Since it's the station you're asking for, it's over there.</code>
 
-In both these cases there's no doubt. In the case of Sakura, we're expressing confidence in her as a person -- if it was someone else, it might not be possible, but if it's Sakura, since it's Sakura, it will be possible. And with the station, we're really just confirming that it's the station we're talking about.
+In both these cases there's no doubt. In the case of Sakura, we're expressing confidence in her as a person — if it was someone else, it might not be possible, but if it's Sakura, since it's Sakura, it will be possible. And with the station, we're really just confirming that it's the station we're talking about.
 
 And, as I say, the conditionals are very often interchangeable, but knowing the special characteristics of each one helps us to understand exactly what's going on and which one we might choose ourselves.
 

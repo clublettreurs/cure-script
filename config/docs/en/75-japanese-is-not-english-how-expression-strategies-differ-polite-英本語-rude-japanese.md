@@ -138,7 +138,7 @@ Now, when a story begins with <code>ある日</code>, we're saying <code>One day
 
 ---
 
-In English we say <code> a certain...</code> -- and what do we mean by that?
+In English we say <code> a certain...</code> — and what do we mean by that?
 
 Well, we mean that the place is certain. We know where it is, we know what it is, we're just not telling you. Which, when you think about it, is rather a strange way of putting it. The only reason we really say <code>a certain...</code> is that we want to introduce it without saying anything at all about it.
 

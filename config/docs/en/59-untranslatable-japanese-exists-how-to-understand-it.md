@@ -49,7 +49,7 @@ Now, this may seem like a bit of a quibble, but it's not a quibble because the p
 
 And there is a whole range of verbs that refer to what in English would be called states. And in these cases the English translations are always passive. And they have to be passive, because there really isn't a way, another way of saying them in English.
 
-For example, <code>乱れる</code> -- to be scattered or disordered; <code>欠ける</code> -- to be chipped or damaged or insufficient; <code>映る</code> -- to be reflected or projected.
+For example, <code>乱れる</code> — to be scattered or disordered; <code>欠ける</code> — to be chipped or damaged or insufficient; <code>映る</code> — to be reflected or projected.
 
 ![](../media/image1006.webp)
 
@@ -69,8 +69,8 @@ But if, as learners of Japanese, we don't know what the sentence is actually doi
 ---
 
 And then there is another group of verbs which is closely related in type to this in which they get translated as <code>becoming</code> a particular thing:
-<code>濡れる</code> -- to become wet;
-<code>濁る</code> -- to become cloudy or muddy.
+<code>濡れる</code> — to become wet;
+<code>濁る</code> — to become cloudy or muddy.
 
 ![](../media/image511.webp)
 

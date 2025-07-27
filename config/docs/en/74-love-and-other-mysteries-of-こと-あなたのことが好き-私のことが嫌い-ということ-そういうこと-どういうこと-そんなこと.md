@@ -89,7 +89,7 @@ And <code>what kind of...</code>, we're taught in Genki and other textbooks, is 
 
 ---
 
-So, for example, when a character finds herself in a strange situation or simply doesn't know what's going on because it's all very strange and unexpected, she's very likely to say <code>どういうこと</code> -- "what kind of a thing is this? In what way explained a situation is taking place or has taken place here?"
+So, for example, when a character finds herself in a strange situation or simply doesn't know what's going on because it's all very strange and unexpected, she's very likely to say <code>どういうこと</code> — "what kind of a thing is this? In what way explained a situation is taking place or has taken place here?"
 
 Similarly, when Katrielle Layton solves the case, she says <code>そういうことでした</code> (<code>So that's how the situation was explained</code>).
 

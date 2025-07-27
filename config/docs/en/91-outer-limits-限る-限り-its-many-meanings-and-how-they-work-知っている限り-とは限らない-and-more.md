@@ -34,7 +34,7 @@ In English we might say <code>the top of my voice</code>.
 
 So these are quite literal and easy to understand. But then we get expressions which I think most of you will have heard at some time and are perhaps a little more confusing.
 
-So, <code>夏はアイスクリイムに**限る**</code> -- now, loosely in English that means <code>In summer, ice cream **is the best thing**</code>.
+So, <code>夏はアイスクリイムに**限る**</code> — now, loosely in English that means <code>In summer, ice cream **is the best thing**</code>.
 
 ![](../media/image960.webp)
 
@@ -76,7 +76,7 @@ So, <code>辞書に書いてあることが常に正しいとは限らない</co
 
 **And this <code>-とは限らない</code> essentially sums up the previous statement** and says that's **not limited to being the case.**
 
-So what we're saying here is <code>Things that are written in a dictionary are always correct</code> -- **that's the statement, then we quote that <code>-とは限らない</code>:** <code>**It's not necessarily the case that** things written in a dictionary are always correct.</code>
+So what we're saying here is <code>Things that are written in a dictionary are always correct</code> — **that's the statement, then we quote that <code>-とは限らない</code>:** <code>**It's not necessarily the case that** things written in a dictionary are always correct.</code>
 
 And I think we found that out to be true on various occasions.
 
@@ -86,7 +86,7 @@ Now, again, this <code>限り</code> can be used for the limits of one's knowled
 
 ![](../media/image41.webp)
 
-So, in English we would say <code>As far as I know, there's no such word</code>, but the expression strategy here is to modify the noun <code>限り</code> -- <code>私の知っている**限り**</code> (**the limit of** what I know): <code>**Up to the limit of** what I know, there is no such word.</code>
+So, in English we would say <code>As far as I know, there's no such word</code>, but the expression strategy here is to modify the noun <code>限り</code> — <code>私の知っている**限り**</code> (**the limit of** what I know): <code>**Up to the limit of** what I know, there is no such word.</code>
 
 And actually in this case it's pretty similar to the English: <code>**as far as** I know / **to the limit of** what I know</code>.
 
@@ -116,7 +116,7 @@ So, <code>その場限りことを言う</code> means she says things **on the s
 
 ---
 
-So, <code>**その場限り**ことを言う</code> means she says things that **just arise out of the particular occasion and nothing else** -- **limited to that particular occasion / having no real relevance outside that particular occasion.**
+So, <code>**その場限り**ことを言う</code> means she says things that **just arise out of the particular occasion and nothing else** — **limited to that particular occasion / having no real relevance outside that particular occasion.**
 
 So the implication is just essentially talking stuff of no real value that comes off the top of her head.
 

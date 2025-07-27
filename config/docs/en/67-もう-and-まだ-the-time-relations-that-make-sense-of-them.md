@@ -54,7 +54,7 @@ But the present moment is being contrasted with the past.
 
 ![](../media/image323.webp)
 
-That's why we say <code>まだ</code> or why in English we would say <code>still</code>. What we're saying is <code>She hasn't stopped being young yet</code>. As opposed to the possibility that she stopped being young in the past, she hasn't stopped being young in the past -- she's still young now, even though she won't be young in the future.
+That's why we say <code>まだ</code> or why in English we would say <code>still</code>. What we're saying is <code>She hasn't stopped being young yet</code>. As opposed to the possibility that she stopped being young in the past, she hasn't stopped being young in the past — she's still young now, even though she won't be young in the future.
 
 If we say <code>さくらはまだ大人ではない</code>, we're saying <code>Sakura is not yet grown-up</code>.
 
@@ -66,7 +66,7 @@ So, if we say <code>さくらはまだ大人ではない</code>, we're saying th
 
 As you can see, the reason why it gets translated both as <code>still</code> and <code>not yet</code> is because Japanese puts things a little bit differently from English. In English we say <code>Sakura is not yet grown-up</code>. But in Japanese what we actually say is <code>Sakura is still not grown up</code>.
 
-However, for <code>まだ</code> to mean <code>not yet</code> we don't have to have an explicit negative. For example, if someone says to you <code>日本語は上手いね</code> -- <code>Your Japanese is very good, isn't it?</code> Well, Japanese people tend to say that even if you can stagger out <code>こんにちは</code>. And even if your Japanese really is very good, you'll probably reply <code>いえまだまだです</code>.
+However, for <code>まだ</code> to mean <code>not yet</code> we don't have to have an explicit negative. For example, if someone says to you <code>日本語は上手いね</code> — <code>Your Japanese is very good, isn't it?</code> Well, Japanese people tend to say that even if you can stagger out <code>こんにちは</code>. And even if your Japanese really is very good, you'll probably reply <code>いえまだまだです</code>.
 
 ![](../media/image1146.webp)
 
@@ -141,7 +141,7 @@ Now, we can also say <code>もう少し</code>. For example, if some people are 
 
 So, you see, <code>もうすぐ</code> and <code>もう少し</code>, even though they're different words <code>もう</code>, under some circumstances have a very similar meaning.
 
-And the other <code>もう</code>, the additive <code>もう</code>, also is often used to express time relation. So if we say <code>もう一度</code>, we're saying <code>one more time</code>. Now obviously this means very much the same as it means when we say <code>もう一つ</code>, which means <code>one more thing</code> -- one more candy, one more anything.
+And the other <code>もう</code>, the additive <code>もう</code>, also is often used to express time relation. So if we say <code>もう一度</code>, we're saying <code>one more time</code>. Now obviously this means very much the same as it means when we say <code>もう一つ</code>, which means <code>one more thing</code> — one more candy, one more anything.
 
 But it also is very often used with <code>一度</code>: one more time. <code>もう二度来ない</code> means <code>I'll never come again</code>, literally <code>I won't come for another second time</code>.
 

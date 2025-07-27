@@ -69,7 +69,7 @@ The second stem-system, that's the て-stem, you already know. We'll go over it 
 
 ### く-ぐ group
 
-**く and ぐ turn into い** -- and we're going to notice in a minute **that this relation between い and the か-row kana, か-き-く-け-こ,** **is something that continues to play a role in adjectives.**
+**く and ぐ turn into い** — and we're going to notice in a minute **that this relation between い and the か-row kana, か-き-く-け-こ,** **is something that continues to play a role in adjectives.**
 
 We'll look at that in a minute.
 
@@ -103,7 +103,7 @@ And as we said before, **there's a relationship between か-row kana and い**, 
 
 ![](../media/image495.webp)
 
-and also if it stands on its own -- and as we know, stems sometimes can stand on their own.
+and also if it stands on its own — and as we know, stems sometimes can stand on their own.
 
 **So the い-stem of a verb on its own becomes a noun.** **The え-stem on its own forms the imperative.**
 
@@ -149,7 +149,7 @@ so generally we add something to that.
 
 **We can add the small っ, to make the stem だ~**, *(I think by ~ here is meant っ = だっ)* **which can then have the -た past helper added to it to make <code>だった</code>.** We can add -ろ, so it can have the volitional helper added to make <code>だろう</code>.
 
-**And in the て-form, the だ itself changes -- of course having only one kana, だ is the last kana --** **and that can become <code>で</code> to make the て-form.** It's a little bit less regular than the others, but that's really because **there is only one copula**, so it doesn't have lots of other things in the same group for it to be regular with.
+**And in the て-form, the だ itself changes — of course having only one kana, だ is the last kana --** **and that can become <code>で</code> to make the て-form.** It's a little bit less regular than the others, but that's really because **there is only one copula**, so it doesn't have lots of other things in the same group for it to be regular with.
 
 ## Summary
 

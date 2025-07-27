@@ -34,7 +34,7 @@ It can connect nouns to verbs; it can connect other verbs to verbs; it can conne
 
 Now, let's talk about the complications that can arise and how we can see through them, how we can use our detective powers to see what's really going on. I'm going to take a simple conditional sentence that we used before. <code>かさを持って来ればよかった</code> which means "I should have taken an umbrella / I wish I'd taken an umbrella".
 
-What it literally means is <code>If I had taken an umbrella, it would have been good.</code> Now, we can see the first logical clause easily, can't we? That is <code>かさを持って来れば</code>, which is simply <code>かさを持ってくる</code> -- <code>bring an umbrella</code> -- turned into its conditional form -- <code>if I bring an umbrella</code> -- and that's going to be thrown into the past tense by the final engine in the sentence, which is the way Japanese works.
+What it literally means is <code>If I had taken an umbrella, it would have been good.</code> Now, we can see the first logical clause easily, can't we? That is <code>かさを持って来れば</code>, which is simply <code>かさを持ってくる</code> — <code>bring an umbrella</code> — turned into its conditional form — <code>if I bring an umbrella</code> — and that's going to be thrown into the past tense by the final engine in the sentence, which is the way Japanese works.
 
 So, we have clause one, which is <code>かさを持って来れば</code>. We know that it's a complete clause and we know it's going to be followed by a second clause because we have a conjunction there in the form of a conditional. But what follows it is simply <code>よかった</code> which is the past tense of <code>いい</code> and it means <code>good</code>.
 
@@ -54,13 +54,13 @@ And we do this in Japanese all the time. And we do it in English all the time. S
 
 ![](../media/image1143.webp)
 
-They mean the same thing. In English we have to say <code>It is sunny</code> -- we could say <code>Sunny, isn't it?</code> but that's only because we're leaving out the <code>it</code>. And we've still got it at the end, because we don't ever say <code>Sunny, isn't!</code>
+They mean the same thing. In English we have to say <code>It is sunny</code> — we could say <code>Sunny, isn't it?</code> but that's only because we're leaving out the <code>it</code>. And we've still got it at the end, because we don't ever say <code>Sunny, isn't!</code>
 
 We say <code>Sunny, isn't it!</code> which must be short for <code>It is sunny, isn't it!</code> In Japanese we say <code>晴れ...</code> (which means <code>sunny</code> or <code>clear</code> in the sense of clear skies): <code>晴れだね!</code> Now, <code>だ</code> is the copula.
 
 It's got to be connecting that <code>晴れ晴れ</code> to something else, which is our zero-particle. What is it connecting it to? Well, in this case we don't know.
 
-It could be the day -- <code>The day is sunny</code>. It could be the weather -- <code>The weather is sunny</code>. It could be the sky -- <code>The sky is clear</code> -- because <code>晴れ</code> can mean <code>clear</code> as well in that sky sense.
+It could be the day — <code>The day is sunny</code>. It could be the weather — <code>The weather is sunny</code>. It could be the sky — <code>The sky is clear</code> — because <code>晴れ</code> can mean <code>clear</code> as well in that sky sense.
 
 It doesn't matter. It doesn't matter in Japanese and it doesn't matter in English what we mean by <code>it</code> when we say <code>If I'd brought an umbrella, it would have been good</code> or <code>It is sunny</code>.
 
@@ -82,13 +82,13 @@ It will be the last thing in the sentence apart, perhaps, from one or two senten
 
 The final engine is the end of the logical sentence and the ender particles are just a little add-on that we put on right after the end of the sentence. So it's very easy to find the end of the last logical clause in a sentence or the end of the entire logical clause if there is only one logical clause in the sentence.
 
-The more difficult question -- but it's not really all that difficult, but the question that can cause problems is the question of how do we find or how do we eliminate the possibility of a compound sentence?
+The more difficult question — but it's not really all that difficult, but the question that can cause problems is the question of how do we find or how do we eliminate the possibility of a compound sentence?
 
 ![](../media/image282.webp)
 
 How do we know there are no other logical clauses in the sentence or, if there are, how do we find them? And the answer to that is again very simple and straightforward.
 
-A logical clause will always end with an engine: a verb, a noun followed by a copula (<code>だ</code> -- it won't be followed by <code>な</code>, because if the copula <code>だ</code> has become <code>な</code> then it must be a modifier, it can't be a logical clause in itself) -- a noun with the copula <code>だ</code>, or an adjective. And if it is a clause before the final clause in a compound sentence, it's going to end with a connector.
+A logical clause will always end with an engine: a verb, a noun followed by a copula (<code>だ</code> — it won't be followed by <code>な</code>, because if the copula <code>だ</code> has become <code>な</code> then it must be a modifier, it can't be a logical clause in itself) — a noun with the copula <code>だ</code>, or an adjective. And if it is a clause before the final clause in a compound sentence, it's going to end with a connector.
 
 It has to, because it has to connect to the next logical clause. So, now what we're going to do is look at the sort of complex sentence that can confuse people and we're going to look at how we tackle that sentence.
 
@@ -100,9 +100,9 @@ However, we can only do that with written sentences. We can't do it with spoken 
 
 So if we just take a peek at that first so we know where we're going to. And the head of this sentence is very straightforward, isn't it? It's <code>結婚した</code>.
 
-The head verb is simply <code>した</code> -- <code>did</code> -- but that's making a する-verb with <code>結婚</code>; so, <code>結婚した</code>. What the sentence is telling us is that somebody got married.
+The head verb is simply <code>した</code> — <code>did</code> — but that's making a する-verb with <code>結婚</code>; so, <code>結婚した</code>. What the sentence is telling us is that somebody got married.
 
-All right. But now let's do what I think we should do so long as we can, and most of the time we really can -- Start from the beginning. All right.
+All right. But now let's do what I think we should do so long as we can, and most of the time we really can — Start from the beginning. All right.
 
 So, the first part of the sentence, the first clause: <code>私がさくらに話した</code> Now, that could be a complete logical sentence in itself, couldn't it? <code>I spoke to Sakura.</code>
 
@@ -112,13 +112,13 @@ Well, we know that's it's not a complete logical clause, <code>I spoke to Sakura
 
 It's followed directly by a noun, <code>日本語</code>. There's no conjunctive word, there's no て-form and it's not the い-stem of <code>話す</code>. So we know that this is in fact a modifier for something else.
 
-So, what have we got next? <code>日本語ができる</code> -- now, that means <code>Japanese is possible</code>. <code>日本語ができる</code> could be a complete sentence in itself, couldn't it?
+So, what have we got next? <code>日本語ができる</code> — now, that means <code>Japanese is possible</code>. <code>日本語ができる</code> could be a complete sentence in itself, couldn't it?
 
 <code>To me, Japanese is possible.</code> The <code>to me</code> would be implicit, but that's fine, we do that all the time. But we know it isn't because it doesn't end in any kind of conjunction.
 
 So this also can't be a complete logical clause within a compound sentence. It must be a modifier for something. And what we expect it to be a modifier for would be a person: a person to whom Japanese is possible.
 
-And that's exactly what we get next: <code>留学生</code>. <code>留学生</code> is an exchange student, usually from a foreign country. So, <code>日本語ができる</code> modifies <code>留学生</code> -- <code>an exchange student to whom Japanese is possible / a Japanese-speaking exchange student.</code>
+And that's exactly what we get next: <code>留学生</code>. <code>留学生</code> is an exchange student, usually from a foreign country. So, <code>日本語ができる</code> modifies <code>留学生</code> — <code>an exchange student to whom Japanese is possible / a Japanese-speaking exchange student.</code>
 
 And <code>私がさくらに話した</code> is modifying all that. <code>The Japanese-speaking exchange student who I told Sakura about</code> And then that's followed by は.
 
@@ -126,7 +126,7 @@ Now, <code>留学生は</code> indicates it's very likely, isn't it, that this i
 
 We now have <code>五輪金メダル</code> and that means an Olympic gold medal. <code>五輪</code> means <code>five circles</code>.
 
-<code>五輪金</code> -- which is gold -- <code>メダル</code> -- an Olympic gold medal -- <code>を獲得した</code>. Now that is not, that can't be a logical sentence because it's not a logical sentence, is it?
+<code>五輪金</code> — which is gold — <code>メダル</code> — an Olympic gold medal — <code>を獲得した</code>. Now that is not, that can't be a logical sentence because it's not a logical sentence, is it?
 
 It's not a logical sentence without a doer, and there's no doer implied here. But we have the doer right afterwards, don't we?
 

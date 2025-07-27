@@ -46,7 +46,7 @@ It has this negative emphasis because we're putting all the emphasis on what I d
 
 And <code>しか... ない</code> can also be used in circumstances such as <code>にげるしかない</code>. <code>にげる/*逃げる*</code> is to <code>run away</code> or <code>escape</code>; if we say <code>にげるしかない</code> we're saying <code>There's nothing for it but to run / There's no other course of action but to run.</code>
 
-So just as <code>千円しかない</code> means (I) have nothing more than a thousand yen, <code>にげるしかない</code> means there's nothing we can do other than -- or more than -- run. So now let's go back to some of the other uses of <code>だけ</code>.
+So just as <code>千円しかない</code> means (I) have nothing more than a thousand yen, <code>にげるしかない</code> means there's nothing we can do other than — or more than — run. So now let's go back to some of the other uses of <code>だけ</code>.
 
 ## Other uses of だけ
 
@@ -54,7 +54,7 @@ One of the commonest is <code>できるだけ</code>, which means <code>as much 
 
 Is this a completely different kind of <code>だけ</code>? No, it's exactly the same. <code>できるだけ</code> means <code>to the limit of possibility</code>.
 
-<code>できるだけ勉強します</code> -- <code>I will study if I can</code> or <code>I will study as much as I can</code> / <code>to the limit of the possibility I will study.</code>
+<code>できるだけ勉強します</code> — <code>I will study if I can</code> or <code>I will study as much as I can</code> / <code>to the limit of the possibility I will study.</code>
 
 ![](../media/image837.webp)
 
@@ -62,7 +62,7 @@ Is this a completely different kind of <code>だけ</code>? No, it's exactly the
 In case someone may have been wondering…
 :::
 
-Another use which you'll certainly see quite often is <code>だけあって</code>. Now this <code>あって</code> is <code>ある</code> -- to <code>be</code>. And we're often told that it means something like <code>not for nothing</code>.
+Another use which you'll certainly see quite often is <code>だけあって</code>. Now this <code>あって</code> is <code>ある</code> — to <code>be</code>. And we're often told that it means something like <code>not for nothing</code>.
 
 So <code>留学しただけあって英語はうまい</code>.
 
@@ -80,7 +80,7 @@ Now, it wouldn't make any sense here to say, would it, <code>Not for nothing was
 
 That <code>だけ</code> is using the limiting function to limit something down to something precise. If we want to bring in the <code>only</code> aspect of it, the way it works is that what we're saying is <code>Only by studying abroad would you get that good at English</code> <code>Only something really cheap would break that quickly.</code>
 
-So that's how the limitation, the <code>only</code>, function of <code>だけ</code> is actually working here. We're using it to give precision to the statement: <code>Precisely and only because of this the result followed</code>; <code>だけあって</code> -- <code>It exists because of and limited to this fact.</code>
+So that's how the limitation, the <code>only</code>, function of <code>だけ</code> is actually working here. We're using it to give precision to the statement: <code>Precisely and only because of this the result followed</code>; <code>だけあって</code> — <code>It exists because of and limited to this fact.</code>
 
 Now let's bring in <code>ばかり</code>.
 
@@ -92,7 +92,7 @@ If we say <code>あのお店はパンだけ売る</code>, we're saying <code>Tha
 
 If we say <code>あのお店はパンばかり売る</code>, we're again saying <code>That shop only sells bread</code> but as we know from the <code>ばかり</code> lesson, what we're likely to mean by that is <code>That shop sells an awful lot of bread</code>. It may not even be true that it only sells bread, because <code>ばかり</code> can be used hyperbolically.
 
-We can say <code>東京は外人ばかりだ</code> -- <code>In Tokyo there's nothing but foreigners</code> which doesn't mean, any more than it would in English, that there really aren't any Japanese people in Tokyo. It means there are an awful lot of foreigners in Tokyo. So, we can put these three on a sliding scale.
+We can say <code>東京は外人ばかりだ</code> — <code>In Tokyo there's nothing but foreigners</code> which doesn't mean, any more than it would in English, that there really aren't any Japanese people in Tokyo. It means there are an awful lot of foreigners in Tokyo. So, we can put these three on a sliding scale.
 
 ![](../media/image770.webp)
 

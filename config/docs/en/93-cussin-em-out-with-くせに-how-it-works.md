@@ -85,7 +85,7 @@ I've done a video on commands. *(Lesson 83)*
 
 Another thing that can be confusing is that **the connection may go the other way around.**
 
-Generally speaking, **we take the qualities of a person,** **which are fundamentally good qualities** -- being a man, being a girl, being rich -- **and then adding something negative to it:** **Despite the fact that** you're a girl, the room's a mess / **Despite the fact that** you're a man, you're hiding in the corner / **Despite the fact that** you're rich, you're stingy.
+Generally speaking, **we take the qualities of a person,** **which are fundamentally good qualities** — being a man, being a girl, being rich — **and then adding something negative to it:** **Despite the fact that** you're a girl, the room's a mess / **Despite the fact that** you're a man, you're hiding in the corner / **Despite the fact that** you're rich, you're stingy.
 
 ---
 
@@ -130,7 +130,7 @@ But what the standard texts will talk about is how it connects to what comes bef
 
 ![](../media/image570.webp)
 
-**So, if it's a noun, which it most often is,** **then we use の for modifying the other noun** that's following it just as we always do: <code>男**の**くせ / 女**の**くせに</code>. **If it happens to be an adjectival noun,** **then obviously we use -な** as we did with <code>下手**な**くせに</code>. **And if it's an adjective obviously we don't need anything else** -- **adjectives modify nouns directly.** That's what an adjective does.
+**So, if it's a noun, which it most often is,** **then we use の for modifying the other noun** that's following it just as we always do: <code>男**の**くせ / 女**の**くせに</code>. **If it happens to be an adjectival noun,** **then obviously we use -な** as we did with <code>下手**な**くせに</code>. **And if it's an adjective obviously we don't need anything else** — **adjectives modify nouns directly.** That's what an adjective does.
 
 ---
 

@@ -51,7 +51,7 @@ So for example when we add the soft copula <code>な</code> to an adjectival nou
 ![](../media/image434.webp)
 
 And actually that unit *could* be called a <code>な-adjective</code>, because <code>綺麗</code> plus <code>な</code> or <code>だ</code> becomes an adjectival unit. So although I very much object to the term <code>な-adjective</code> in the way it's used by Western textbooks, which is to say they will tell you that <code>綺麗</code> is a <code>な-adjective</code>, and it's not
--- it's a noun, it's not any kind of an adjective -- we could say that <code>綺麗な</code> or <code>綺麗だ</code> is a な-adjective.
+-- it's a noun, it's not any kind of an adjective — we could say that <code>綺麗な</code> or <code>綺麗だ</code> is a な-adjective.
 
 I would not recommend it, simply because the term is so abused in Western so-called Japanese grammar that it's best left alone. It has a name in Japanese but since it would take rather a while to explain it, I won't go into that here. But it's not anything like <code>な-adjective</code>.
 
@@ -89,7 +89,7 @@ Usually that's a physical boundary, a physical area, though it doesn't always ha
 
 In other words, **it can be an adjectival.**
 
-So for example let's take the phrase <code>世界で一番美味しいラーメン</code>. Now, people will ask, <code>Why で? Why are we using で in this case?</code> And the answer is that <code>世界で</code> -- and remember that we always treat a logical particle plus the noun it's attached to as a unit -- <code>世界で</code> is defining the limit within which something is happening, but in this case it's defining the limit within which a state of being applies.
+So for example let's take the phrase <code>世界で一番美味しいラーメン</code>. Now, people will ask, <code>Why で? Why are we using で in this case?</code> And the answer is that <code>世界で</code> — and remember that we always treat a logical particle plus the noun it's attached to as a unit — <code>世界で</code> is defining the limit within which something is happening, but in this case it's defining the limit within which a state of being applies.
 
 So we're talking about <code>the most delicious ramen in the world</code>. <code>The world/**世界**</code> is the limit we're applying. And in this case, of course, with <code>the world</code> we're trying to give as big a limit as possible.
 
@@ -122,7 +122,7 @@ Now, since we know that a noun-plus-copula also functions as a <code>用言</cod
 
 So it's telling us the boundaries within which this fame operates. <code>She's the most famous android in the world</code>. She may not be the most famous android in the Solar System, but she is the most famous android in the world.
 
-Now the same happens when we say something like <code>みんなで踊る</code> -- <code>we all dance</code>. Why do we say <code>みんなで</code>? Well, if we say <code>二人で踊る</code>, we're saying <code>two of us dance</code>. If we say <code>一人で踊る</code>, we're saying <code>dance alone</code>.
+Now the same happens when we say something like <code>みんなで踊る</code> — <code>we all dance</code>. Why do we say <code>みんなで</code>? Well, if we say <code>二人で踊る</code>, we're saying <code>two of us dance</code>. If we say <code>一人で踊る</code>, we're saying <code>dance alone</code>.
 
 The quantitative sentence plus で is describing the limits of the people who do it. So, as I said before, the boundary or area or demarcation that で draws for us is usually a physical one, a place.
 

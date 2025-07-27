@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Today we're going to talk about something that you encounter all the time in anime, manga, everyday conversation, light novels, and anywhere that you encounter real, so-called casual -- that's to say, non-formal -- Japanese. Now, we're going to have to use a little trick to understand from an English point of view how this works. And of course the standard explanations wouldn't give you a trick like this because they don't even explain the basics of the underlying principles of Japanese structure. So we get the effect of the three blind men and the elephant.
+Today we're going to talk about something that you encounter all the time in anime, manga, everyday conversation, light novels, and anywhere that you encounter real, so-called casual — that's to say, non-formal — Japanese. Now, we're going to have to use a little trick to understand from an English point of view how this works. And of course the standard explanations wouldn't give you a trick like this because they don't even explain the basics of the underlying principles of Japanese structure. So we get the effect of the three blind men and the elephant.
 
 I'm sure you've heard the story. The first one feels one of the elephant's legs and says an elephant's like a tree, the second one feels its trunk and says it's like a snake, the third one feels its tail and says that it's like a rope. And of course none of these are exactly incorrect. The elephant does manifest all these qualities, but if you present them as isolated facts without explaining that there's an elephant underlying the whole thing, which makes sense of it, you're making everything a great deal more difficult than it needs to be.
 
@@ -28,19 +28,19 @@ Now, we can then use this <code>しまった</code> as a helper verb that we put
 
 Now, if the て-form is <code>で</code> (as we know that it is in some words and if you don't understand that, I've explained it in a previous video *- Lesson 5 & 40*), if the て-form is <code>で</code> then instead of becoming <code>-ちゃった</code>, it becomes <code>-じゃった</code>, just in the way that <code>では</code> becomes <code>じゃ</code>. Now, this has a much wider range of meanings than just <code>しまった</code> on its own.
 
-It can be used for things that we did by accident or that we wish we hadn't done. For example, we often say <code>忘れちゃった</code>, which is <code>忘れる</code> -- <code>forget</code> -- plus <code>-ちゃった</code>. There's a famous song <code>ネコ踏んじゃった</code>, which is great fun, and I'll put a [**link**](https://www.youtube.com/watch?v=GpqGiKJt3cQ&ab_channel=ichigoclub15) in the information section below.
+It can be used for things that we did by accident or that we wish we hadn't done. For example, we often say <code>忘れちゃった</code>, which is <code>忘れる</code> — <code>forget</code> — plus <code>-ちゃった</code>. There's a famous song <code>ネコ踏んじゃった</code>, which is great fun, and I'll put a [**link**](https://www.youtube.com/watch?v=GpqGiKJt3cQ&ab_channel=ichigoclub15) in the information section below.
 
-And what that means is <code>I trod on the cat</code>: <code>踏む</code> -- to <code>tread (on something)</code>. So we can see that it has a negative sense here, but it can also be something very good.
+And what that means is <code>I trod on the cat</code>: <code>踏む</code> — to <code>tread (on something)</code>. So we can see that it has a negative sense here, but it can also be something very good.
 
-We might say <code>スーパーヒーローになっちゃった</code> -- <code>I became a superhero.</code> So what do these things have in common? Accidental things, things we regret, things we're very pleased about.
+We might say <code>スーパーヒーローになっちゃった</code> — <code>I became a superhero.</code> So what do these things have in common? Accidental things, things we regret, things we're very pleased about.
 
-The way I would put this, the way I would translate this into English, because this is the English expression that I think covers practically all cases of <code>-ちゃった</code>, is the word <code>done</code>. <code>忘れちゃった</code> -- <code>I done forgot</code>; <code>猫踏んじゃった</code> -- <code>I done trod on the cat</code>; <code>スーパーヒーローになっちゃった</code> -- <code>I done became a superhero.</code>
+The way I would put this, the way I would translate this into English, because this is the English expression that I think covers practically all cases of <code>-ちゃった</code>, is the word <code>done</code>. <code>忘れちゃった</code> — <code>I done forgot</code>; <code>猫踏んじゃった</code> — <code>I done trod on the cat</code>; <code>スーパーヒーローになっちゃった</code> — <code>I done became a superhero.</code>
 
 In all these cases , the idea is very similar. We're saying that it happened, it's done, it's completed, it's a fact, and the implication generally speaking is that we didn't expect it to be a fact or it wasn't what most people would normally have expected to be a fact, but it is. It <code>done happened</code>. And if we understand that, it's very easy to understand all the different kinds of circumstances under which <code>-ちゃった</code> gets used.
 
 The only real difference between this and <code>done</code> in English is that we don't only use it about past things. We also use it about future things. So we can say, <code>夏休みが終わってしまう</code> and that means <code>the summer vacation will done end</code>. Now, of course you can't say that in English but that essentially is what you're saying.
 
-It will just be and go and end. That's what'll happen and it'll be done and there's nothing we'll be able to do about it. If you're about to tell somebody something embarrassing, you might say <code>君のは笑っちゃうだろう</code> -- <code>You'll probably laugh</code> or <code>You'll probably done laugh / You'll probably just up and laugh.</code>
+It will just be and go and end. That's what'll happen and it'll be done and there's nothing we'll be able to do about it. If you're about to tell somebody something embarrassing, you might say <code>君のは笑っちゃうだろう</code> — <code>You'll probably laugh</code> or <code>You'll probably done laugh / You'll probably just up and laugh.</code>
 
 Again, it's the same idea but in Japanese we can project that idea into the future as well. We can say <code>今日はどんどん飲んじゃう</code>, and that's <code>Today, I'm going to drink like crazy</code>.
 

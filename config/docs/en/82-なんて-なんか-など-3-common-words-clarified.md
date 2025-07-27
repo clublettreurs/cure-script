@@ -26,7 +26,7 @@ And the simplest one is <code>など</code>, so we're going to start off with th
 
 ---
 
-To give an example of its **formal use**, a dictionary definition of the word <code>車窓</code> -- and <code>車窓</code> is one of these words that I've talked about [**in a previous video**](https://www.youtube.com/watch?v=FaSPO5lL0yQ&t=0s&ab_channel=OrganicJapanesewithCureDolly), two-or-more-kanji words that really aren't words in quite the English sense of the word, that's to say, **they are really phrases**.
+To give an example of its **formal use**, a dictionary definition of the word <code>車窓</code> — and <code>車窓</code> is one of these words that I've talked about [**in a previous video**](https://www.youtube.com/watch?v=FaSPO5lL0yQ&t=0s&ab_channel=OrganicJapanesewithCureDolly), two-or-more-kanji words that really aren't words in quite the English sense of the word, that's to say, **they are really phrases**.
 
 ![](../media/image1110.webp)
 
@@ -64,7 +64,7 @@ So we might say, <code>タバコ**など**不要だ</code>, which means <code>I'
 
 **The only difference here is that <code>など</code> is throwing that slightly disparaging light on cigarettes.** So the way we could read it is something like, in English, <code>I don't need stuff like cigarettes</code>. **Now, actually this doesn't mean that literally.**
 
-**It's not saying I don't need cigarettes or cigars or a pipe or a hookah.** **It means I don't need that kind of thing -- that's something I don't need in my life.** And as I say, this use overlaps with our other two words.
+**It's not saying I don't need cigarettes or cigars or a pipe or a hookah.** **It means I don't need that kind of thing — that's something I don't need in my life.** And as I say, this use overlaps with our other two words.
 
 **Both <code>なんか</code> and <code>なんて</code> can be used in this throwing-a-negative-light-on-the-noun-they-follow way.** **The strongest and most colloquial of the three is <code>なんか</code>,** **and <code>なんて</code> comes somewhere in the middle.**
 
@@ -102,7 +102,7 @@ Now, **from there it goes on to preface things in order, as with <code>something
 
 ![](../media/image375.webp)
 
-So we might say <code>**なんか**違う</code> (**something's** different */ **something** differs* -- I'm not sure what it is, but something's different).
+So we might say <code>**なんか**違う</code> (**something's** different */ **something** differs* — I'm not sure what it is, but something's different).
 <code>なんか違う.</code>
 
 ### なんか as <code>somehow / for some reason</code>
@@ -122,7 +122,7 @@ Now, from there it gets worse. **It goes on to become even vaguer.**
 
 **And when it's being used like that, it's really being used like <code>kinda</code> or <code>like</code> in English.** And, just as in English, **this is a sloppy way of talking.** I**t's not good Japanese, but you may hear people talking like this in some anime, etcetera.**
 
-**The function really, as with <code>like</code> or <code>kinda</code> in English, is** **simply vaguing things up a bit and** **releasing oneself from the need to express oneself precisely.** Just kinda saying, like, whatever it is that kinda comes into your mind, like -- <code>なんか... なんか... なんか</code>.
+**The function really, as with <code>like</code> or <code>kinda</code> in English, is** **simply vaguing things up a bit and** **releasing oneself from the need to express oneself precisely.** Just kinda saying, like, whatever it is that kinda comes into your mind, like — <code>なんか... なんか... なんか</code>.
 
 So, **we should look out for this very loose use of <code>なんか</code>** **and realize that it doesn't really mean very much at all.**
 

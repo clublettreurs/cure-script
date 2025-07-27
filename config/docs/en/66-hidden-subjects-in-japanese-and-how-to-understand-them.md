@@ -39,7 +39,7 @@ Now, although languages have differing expression-strategies, it turns out that 
 
 ## Receptive helper
 
-So, one of the reasons that English so-called <code>Japanese grammar</code> misnames the Japanese receptive helper-verb as a passive conjugation or passive voice, is that what it really is, while it exists in English, is not of very high status. *(Lesson 13)* Because we use the receptive in English by using the word <code>got</code> under various circumstances like <code>I got rescued by my big sister</code>, <code>The sandwiches got eaten by the dog</code> -- but this isn't considered good English.
+So, one of the reasons that English so-called <code>Japanese grammar</code> misnames the Japanese receptive helper-verb as a passive conjugation or passive voice, is that what it really is, while it exists in English, is not of very high status. *(Lesson 13)* Because we use the receptive in English by using the word <code>got</code> under various circumstances like <code>I got rescued by my big sister</code>, <code>The sandwiches got eaten by the dog</code> — but this isn't considered good English.
 
 Now, the fact that it isn't considered good English is simply a matter of fashion. It's perfectly grammatical. It just happens to be unfashionable or to hold low status in the language. This is really just a historical accident.
 
@@ -108,7 +108,7 @@ Now, that might seem very strange, but in fact it isn't. As a matter of fact, we
 
 So when do we use an undefined pronoun like this? Well, let's think about it. Suppose someone said <code>I hear they're putting a man on Mars next year.</code>
 
-Well, who's <code>they</code>? Well, we don't know who <code>they</code> is. Presumably whoever it is that puts men on Mars -- NASA or Mr. Musk, or somebody.
+Well, who's <code>they</code>? Well, we don't know who <code>they</code> is. Presumably whoever it is that puts men on Mars — NASA or Mr. Musk, or somebody.
 
 Now, suppose I say <code>They're getting everyone's opinion on what the Olympic athletes should eat.</code> Well again, somebody might well say that in English. You wouldn't see it in the newspaper, but a friend might well say it to you: <code>You know, they're getting everybody's opinion on what the Olympic athletes should eat.</code>
 

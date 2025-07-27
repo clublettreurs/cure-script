@@ -8,7 +8,7 @@ Today we're going to talk about something that is the very basis of Japanese and
 
 ![](../media/image732.webp)
 
-And as we know, every Japanese sentence has to have **an A-car, a subject, a <code>主語</code> in Japanese**, and **a B-engine -- that's the predicate, or the <code>述語</code> in Japanese.**
+And as we know, every Japanese sentence has to have **an A-car, a subject, a <code>主語</code> in Japanese**, and **a B-engine — that's the predicate, or the <code>述語</code> in Japanese.**
 
 **In other words, every sentence is saying something about something.**
 
@@ -68,7 +68,7 @@ So if we take the kind of sentence that people try to call <code>subjectless</co
 
 ![](../media/image467.webp)
 
-**Now, literally this just means <code>Tired</code>, so it could be called a subjectless sentence, but it absolutely isn't** -- unless you want to avoid the term <code>subject</code> for reasons of your own.
+**Now, literally this just means <code>Tired</code>, so it could be called a subjectless sentence, but it absolutely isn't** — unless you want to avoid the term <code>subject</code> for reasons of your own.
 
 When we say <code>疲れた</code>, **we're not saying that the rabbit in the moon is tired. We're not saying that Mickey Mouse is tired.**
 
@@ -117,7 +117,7 @@ or the A-car to the B-engine.**
 
 ## Really Subjectless sentences in Japanese
 
-**Now, there is actually one kind of sentence in Japanese that really is subjectless.** You can find it in English too, but it's a little more common in Japanese -- but not all that common.
+**Now, there is actually one kind of sentence in Japanese that really is subjectless.** You can find it in English too, but it's a little more common in Japanese — but not all that common.
 
 And **it's a sentence like** <code>大阪にたどり着いた桜たち</code> **or** <code>恥ずかしくなったハナコ</code>.
 
@@ -130,7 +130,7 @@ I put the name Hanako into Katakana in the second example sentence.
 
 **We're not saying <code>Sakura and friends arrived at Osaka</code>. We're simply saying <code>Sakura and friends</code> and modifying them with the modifier <code>arrived-at-Osaka</code>.**
 
-**<code>恥ずかしくなったハナコ</code> -- We're not saying <code>Hanako became embarrassed</code>, we're saying <code>Embarrassed Hanako</code>.**
+**<code>恥ずかしくなったハナコ</code> — We're not saying <code>Hanako became embarrassed</code>, we're saying <code>Embarrassed Hanako</code>.**
 ::: info
 Or I guess <code>Hanako, **who became embarrassed**…</code>* ![](../media/image925.webp)
 :::
@@ -140,7 +140,7 @@ Sorry for the bad zoom, got <code>Youtubed</code> again. This kind of modifying 
 
 When do we use <code>sentences</code> like this?
 
-Well, not very often, but **they can get used in narrative, because what they're essentially doing is either summing up something that went before** -- you particularly often see this in, say, games where when you load up they give you a quick resume of what's already happened -- or where you're describing the result of something that's happened: <code>And the result was, **an embarrassed Hanako**</code>.
+Well, not very often, but **they can get used in narrative, because what they're essentially doing is either summing up something that went before** — you particularly often see this in, say, games where when you load up they give you a quick resume of what's already happened — or where you're describing the result of something that's happened: <code>And the result was, **an embarrassed Hanako**</code>.
 
 **This really is, I think, the only example we can find of what might be called a subjectless sentence, but it's not really a subjectless sentence because it's not a sentence.** **It's simply a noun with a bit of modification.**
 

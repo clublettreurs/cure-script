@@ -44,15 +44,15 @@ Is it the logical particle or is it the て-form of the copula? This is the て-
 
 The particle doesn't make any sense here, does it? What's the て-form of the copula doing?
 
-Well, we know, don't we, that the て-form is often used to make an imperative, to tell someone or ask someone to do something. So, if we say <code>待って</code> -- <code>wait</code> -- this is kind of short for <code>待ってください</code> and we're asking someone to wait (<code>待って!</code> -- <code>Wait!</code>).
+Well, we know, don't we, that the て-form is often used to make an imperative, to tell someone or ask someone to do something. So, if we say <code>待って</code> — <code>wait</code> — this is kind of short for <code>待ってください</code> and we're asking someone to wait (<code>待って!</code> — <code>Wait!</code>).
 
 Now, it's exactly the same with <code>で</code>, which is the て-form of the copula. So, <code>元気だ</code> means <code>is 元気</code>, someone is genki, someone is healthy or lively.
 
-<code>元気で</code> is telling them to \*be\* genki or lively. <code>お元気で</code> -- <code>be healthy / be lively / keep up the good spirits</code>.
+<code>元気で</code> is telling them to \*be\* genki or lively. <code>お元気で</code> — <code>be healthy / be lively / keep up the good spirits</code>.
 
 ### 無事/ぶじで
 
-Right. So here's another one: <code>無事でよかった</code> is another very common expression and it means <code>I'm glad that you're all right / it's good that you weren't harmed / it's good that you're safe</code> -- <code>無事でよかった</code>.
+Right. So here's another one: <code>無事でよかった</code> is another very common expression and it means <code>I'm glad that you're all right / it's good that you weren't harmed / it's good that you're safe</code> — <code>無事でよかった</code>.
 
 What do we have here?
 
@@ -62,11 +62,11 @@ Once again, we have the て-form of the copula. <code>無事</code>, which means
 
 So, <code>無事だ</code> means <code>you're safe / you weren't harmed / nothing happened</code>. <code>無事で</code> is turning that <code>だ</code>, that copula, into the connective form.
 
-We use the て-form to connect things, don't we? So, just as we might say, <code>遅くなってすみません</code> -- <code>That I came late, I'm sorry</code>-- we also say <code>無事でよかった</code> -- <code>That you weren't hurt, that was good.</code>
+We use the て-form to connect things, don't we? So, just as we might say, <code>遅くなってすみません</code> — <code>That I came late, I'm sorry</code>-- we also say <code>無事でよかった</code> — <code>That you weren't hurt, that was good.</code>
 
-And this connective て-form is also used in longer compound sentences. So, for example, we might say <code>さくらはいい子で毎日学校に行く</code> -- <code>Sakura is a good child and she goes to school every day.</code>
+And this connective て-form is also used in longer compound sentences. So, for example, we might say <code>さくらはいい子で毎日学校に行く</code> — <code>Sakura is a good child and she goes to school every day.</code>
 
-We have two complete clauses and, just as with the て-form of any verb, we can use it to connect that verb-ending clause to a second clause, so we can do exactly the same thing with the copula. So, <code>さくらがいい子だ</code> -- <code>Sakura's a good girl</code> -- is a complete sentence in itself.
+We have two complete clauses and, just as with the て-form of any verb, we can use it to connect that verb-ending clause to a second clause, so we can do exactly the same thing with the copula. So, <code>さくらがいい子だ</code> — <code>Sakura's a good girl</code> — is a complete sentence in itself.
 
 If we want to connect it to a second clause to make it the first half of a compound sentence, we turn that <code>だ</code> into its て-form, <code>で</code>. So, <code>Sakura is a good girl and she goes to school every day.</code>
 
@@ -102,11 +102,11 @@ It has to end with a verb, an adjective, or a copula, as we learned in our very 
 
 One more thing that we should note is that <code>が</code> doesn't have to be contrastive. Most of the time it is, but it can be used as a regular, non-contrastive conjunction.
 
-It's worth knowing that, because if you see it connecting two clauses and there doesn't seem to be any contrast there, you don't have to rack your brains to find the contrast -- occasionally it is used in a non-contrastive manner. And the other thing you need to know is that you will sometimes find this contrastive <code>が</code> at the end of a sentence.
+It's worth knowing that, because if you see it connecting two clauses and there doesn't seem to be any contrast there, you don't have to rack your brains to find the contrast — occasionally it is used in a non-contrastive manner. And the other thing you need to know is that you will sometimes find this contrastive <code>が</code> at the end of a sentence.
 
 And I have talked before about sentences that end in a conjunction. Strictly, they're not complete, because what they're doing is implying a following clause.
 
-<code>が</code> at the end of a sentence is often a politeness, because <code>が</code> is in fact more polite than <code>けど</code> or <code>でも</code>, the other ways of saying <code>but</code>. So if we said something like <code>*(私は)* コーヒーがほしいが</code> -- <code>coffee is want-making (to me)</code> and then we've added <code>が</code>.
+<code>が</code> at the end of a sentence is often a politeness, because <code>が</code> is in fact more polite than <code>けど</code> or <code>でも</code>, the other ways of saying <code>but</code>. So if we said something like <code>*(私は)* コーヒーがほしいが</code> — <code>coffee is want-making (to me)</code> and then we've added <code>が</code>.
 
 ![](../media/image917.webp)
 
@@ -118,7 +118,7 @@ The last one we're going to consider is less common, but if you're reading any a
 
 It's again a logical particle. It's the targeting particle, and I've done a whole video on this because it's an important and complex particle.
 
-But there is also another <code>に</code>. And this other <code>に</code>, which is a slightly old usage -- it comes from older Japanese -- it means the same as <code>と</code>.
+But there is also another <code>に</code>. And this other <code>に</code>, which is a slightly old usage — it comes from older Japanese — it means the same as <code>と</code>.
 
 It can be used to and-together two nouns or a list of nouns.
 
@@ -138,4 +138,4 @@ There is a typo in the picture’s orange note. それにとても should be そ
 ![](../media/image173.webp)
 :::
 
-And, as you can see, this is made up of <code>それ</code>, which means <code>that</code>, plus <code>に</code> -- not the particle <code>に</code> but the <code>に</code> that means <code>and</code>.
+And, as you can see, this is made up of <code>それ</code>, which means <code>that</code>, plus <code>に</code> — not the particle <code>に</code> but the <code>に</code> that means <code>and</code>.

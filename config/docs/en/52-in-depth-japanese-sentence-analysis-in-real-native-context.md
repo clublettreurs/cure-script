@@ -22,9 +22,9 @@ So then we have <code>ふと先輩の家に携帯電話を忘れてきたこと�
 
 ![](../media/image448.webp)
 
-<code>ふと</code> -- suddenly -- <code>先輩の家に</code> -- in senpai's house -- <code>携帯電話</code> -- portable telephone -- <code>を忘れてきたことに気づいた</code> -- 忘れてきた is 忘れる, forget, joined to <code>来る</code>.
+<code>ふと</code> — suddenly — <code>先輩の家に</code> — in senpai's house — <code>携帯電話</code> — portable telephone — <code>を忘れてきたことに気づいた</code> — 忘れてきた is 忘れる, forget, joined to <code>来る</code>.
 
-<code>忘れてくる</code> is literally <code>forgetting-coming</code> -- or what it means is really <code>leaving behind</code>: <code>忘れてきた</code>, coming while having forgotten her portable telephone in senpai's apartment. <code>ことに気づいた</code> -- she realized that that's what she'd done. <code>こと</code> makes a noun, or bundles everything before it into that noun.
+<code>忘れてくる</code> is literally <code>forgetting-coming</code> — or what it means is really <code>leaving behind</code>: <code>忘れてきた</code>, coming while having forgotten her portable telephone in senpai's apartment. <code>ことに気づいた</code> — she realized that that's what she'd done. <code>こと</code> makes a noun, or bundles everything before it into that noun.
 
 So forgetting her phone in senpai's apartment was the <code>こと</code> that she now realized.
 
@@ -36,7 +36,7 @@ The English-language Japanese dictionaries and textbooks will tell you that <cod
 
 One is <code>気</code> which means <code>spirit</code> or <code>mind</code> or <code>feelings</code> and the other is <code>付く</code> which means <code>stick</code> or <code>adhere</code>. So what this literally means is <code>spirit stick</code> and what we're doing is sticking our spirit to something, that is, our attention, our mind, our feelings become adhered to a particular thing.
 
-And in English we express that differently by saying that we <code>realize</code> -- make real -- a fact. In Japanese, our spirit adheres to a fact.
+And in English we express that differently by saying that we <code>realize</code> — make real — a fact. In Japanese, our spirit adheres to a fact.
 
 In Japanese, a very common expression is <code>気を付けてください</code>, which is translated as <code>take care</code>, but what it literally means is <code>stick your spirit</code>. Stick it to what? Well, stick it to your surroundings, stick it to what you're doing.
 
@@ -56,7 +56,7 @@ Now, even if we take the human actor out of this and just say <code>The poster s
 
 We're saying <code>The poster sticks to the wall</code>. The wall is the target of the poster's sticking. So by the same token, if we stick our spirit to something or if our spirit sticks to something, the something to which it sticks is the target, not the direct object of that sticking.
 
-Now, this is important to know, because it's another small example of the way that <code>えいほんご</code> -- so-called English-language Japanese grammar, the stuff you find in the textbooks and the websites everywhere –
+Now, this is important to know, because it's another small example of the way that <code>えいほんご</code> — so-called English-language Japanese grammar, the stuff you find in the textbooks and the websites everywhere –
 
 ![](../media/image743.webp)
 
@@ -94,9 +94,9 @@ They never change their function regardless of what adjective or verb is involve
 
 ![](../media/image806.webp)
 
-So she returned to senpai's apartment. <code>引き返し</code>, that means <code>return</code>, and as we've seen before, the い-stem of a verb -- the verb is <code>引き返す</code>, which is <code>return</code> -- and particularly in narrative we can use the い-stem of a verb in much the same way as we use the て-form of a verb to make it the first clause of a compound sentence.
+So she returned to senpai's apartment. <code>引き返し</code>, that means <code>return</code>, and as we've seen before, the い-stem of a verb — the verb is <code>引き返す</code>, which is <code>return</code> — and particularly in narrative we can use the い-stem of a verb in much the same way as we use the て-form of a verb to make it the first clause of a compound sentence.
 
-So, she returned to senpai's apartment -- <code>先輩の部屋に戻って呼び鈴を押す</code>. She returned to senpai's room and pushed the bell.
+So, she returned to senpai's apartment — <code>先輩の部屋に戻って呼び鈴を押す</code>. She returned to senpai's room and pushed the bell.
 
 <code>呼び鈴</code>: <code>呼ぶ</code> is <code>call</code>, <code>鈴/りん</code> is the on-reading of <code>鈴/すず</code>, <code>a small bell</code>, so <code>呼び鈴</code> is a <code>call-bell / a bell for calling</code>.
 
@@ -124,11 +124,11 @@ When she caused the doorknob to turn, when she turned the doorknob, <code>鍵は
 
 ![](../media/image454.webp)
 
-Really we're saying <code>錠前が掛かった</code> -- the lock was fixed or hooked, but it's common in Japanese to say the key was fixed or hooked (<code>鍵が掛かった</code>) and it would seem even a little unnatural to say it correctly.
+Really we're saying <code>錠前が掛かった</code> — the lock was fixed or hooked, but it's common in Japanese to say the key was fixed or hooked (<code>鍵が掛かった</code>) and it would seem even a little unnatural to say it correctly.
 
 ---
 
-And because the door was unlocked, <code>彼女はそのまま中に入っていた</code> -- she went in.
+And because the door was unlocked, <code>彼女はそのまま中に入っていた</code> — she went in.
 
 ![](../media/image121.webp)
 
@@ -136,4 +136,4 @@ And because the door was unlocked, <code>彼女はそのまま中に入ってい
 
 So, for example, if we're talking about edamame, and we say <code>そのまま食べる</code>, we mean "eat them just as it is, eat them without changing their condition, eat them without doing anything further to prepare for eating them<code> and this is what </code>そのまま" means here.
 
-Because the door was unlocked, she went in just like that, just in her present condition. She didn't press the bell again, she didn't wait to be invited, but <code>そのまま</code> -- in the unchanged condition of that moment -- she went in…
+Because the door was unlocked, she went in just like that, just in her present condition. She didn't press the bell again, she didn't wait to be invited, but <code>そのまま</code> — in the unchanged condition of that moment — she went in…

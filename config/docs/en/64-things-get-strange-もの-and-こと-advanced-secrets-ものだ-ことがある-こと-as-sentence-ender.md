@@ -66,7 +66,7 @@ It's not literally a thing, it's not literally something you could hold in your 
 
 If we say <code>冬は寒いものだ</code>, what we're saying is "winter is cold, and that's just a thing, that's a thing, you have to come to terms with it".
 
-Someone says <code>Ooh, it's cold</code> and you say <code>冬は寒いものだ</code> -- <code>winter IS cold / winter's a cold thing</code>.
+Someone says <code>Ooh, it's cold</code> and you say <code>冬は寒いものだ</code> — <code>winter IS cold / winter's a cold thing</code>.
 
 ![](../media/image1154.webp)
 
@@ -84,7 +84,7 @@ Now, interestingly, that's when we have <code>ものだ</code> in the present; w
 
 ![](../media/image372.webp)Just as with <code>することがある</code> versus <code>したことがある</code>, there are perfectly good reasons why it has to be like that. The <code>ものだ</code> we've just discussed has to be in the present tense because we're talking about generalization, and the present tense, as we know, isn't really a present tense.
 
-It covers the present and the future, and it can, even though it's called the non-past tense![](../media/image680.webp) -- it's really the indefinite tense – it can cover the past as well so long as it's also covering the present and the future. So it's a generalization tense in this case. But when we say it in the past it has a different meaning.
+It covers the present and the future, and it can, even though it's called the non-past tense![](../media/image680.webp) — it's really the indefinite tense – it can cover the past as well so long as it's also covering the present and the future. So it's a generalization tense in this case. But when we say it in the past it has a different meaning.
 
 If we say <code>子供のころには、よくこちらに来たものだ</code>, what we're saying is <code>When I was a child I often used to come to this place.</code>
 
@@ -126,7 +126,7 @@ I've made a video before about the expressions <code>ことになる</code> and 
 
 When we have <code>ことになる</code>, it means that the action of that logical clause has been decided upon. And we have to put that passively in English, because there's no other way of translating it into English, but it's not passive in Japanese.
 
-As we know, Japanese has no passive. So, this is the same <code>こと</code> -- <code>a decided thing</code>.
+As we know, Japanese has no passive. So, this is the same <code>こと</code> — <code>a decided thing</code>.
 
 And in Japanese, this also implies a rule or a regulation. One of the commonest words for a rule or regulation in Japanese is a <code>決まり</code>.
 

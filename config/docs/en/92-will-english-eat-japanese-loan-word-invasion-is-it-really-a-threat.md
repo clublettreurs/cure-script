@@ -32,7 +32,7 @@ And because most of this technology has been developed in America, the language 
 
 ---
 
-**And the other reason -- again, these are all connected -- is that English, being the international language, has high prestige in various ways.** **It can be considered cool. It can be considered cute.**
+**And the other reason — again, these are all connected — is that English, being the international language, has high prestige in various ways.** **It can be considered cool. It can be considered cute.**
 
 ![](../media/image909.webp)
 
@@ -84,7 +84,7 @@ So why do people worry about this more in Japanese than in other languages?
 
 Now, if you want to do a little experiment to see to what extent English really is moving into Japanese and replacing the language, well, just take a look at a Japanese book.
 
-**If you have some Japanese books around -- I don't mean textbooks or readers for foreigners, but if you just have some Japanese books** either on your bookshelf or on your mobile device, **open them up and take a look at a few pages from a few books and see out of the entire page how many of the words are in katakana.**
+**If you have some Japanese books around — I don't mean textbooks or readers for foreigners, but if you just have some Japanese books** either on your bookshelf or on your mobile device, **open them up and take a look at a few pages from a few books and see out of the entire page how many of the words are in katakana.**
 
 ![](../media/image412.webp)
 

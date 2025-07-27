@@ -14,7 +14,7 @@ They both come from giving different answers to the same question which was the 
 
 First of all, let's look at this question of Japanese being a Subject-Object-Verb language. Now, this would be contrasting it to English, which is a Subject-Verb-Object language. So, to give you an example of that, if we say <code>Mary hit Susan</code>, this is a standard English Subject-Verb-Object sentence.
 
-Mary is the Subject -- she did the hitting. Susan is the Object -- she received the hitting. If we change the order around and say <code>Susan hit Mary</code>, we're now saying something different, aren't we?
+Mary is the Subject — she did the hitting. Susan is the Object — she received the hitting. If we change the order around and say <code>Susan hit Mary</code>, we're now saying something different, aren't we?
 
 Now, the way in Japanese we would say <code>Mary hit Susan</code> is <code>メアリーがスーザンをなぐった</code>. And this is of course Subject-Object-Verb.
 
@@ -68,9 +68,9 @@ Now what do I mean by <code>anything</code> and <code>any-THING</code> and what 
 
 By <code>any-THING</code> I mean literally a thing, a noun. We're talking about nouns at the moment. And by <code>anything</code>, I really mean anything.
 
-It could be a logical clause, it could be part of a logical clause, it could be another noun -- it's anything that modifies any noun. So what do I mean by <code>modify</code>?
+It could be a logical clause, it could be part of a logical clause, it could be another noun — it's anything that modifies any noun. So what do I mean by <code>modify</code>?
 
-Well, I mean literally changing something or, we could say, describing it. So if we have a dress and then we put a modifier before it and say it's a <code>blue dress</code>, then we've modified it -- we've made it blue.
+Well, I mean literally changing something or, we could say, describing it. So if we have a dress and then we put a modifier before it and say it's a <code>blue dress</code>, then we've modified it — we've made it blue.
 
 ![](../media/image78.webp)
 
@@ -134,11 +134,11 @@ And since it's not a logical clause, in order to make a logical clause we have t
 
 Because Japanese does things with these modifications that in other languages are done in other ways. So almost any complex Japanese sentence is going to be heavily dependent on these premodifiers.
 
-And knowing what is modifying, what is being modified, knowing whether something is a modified noun or whether we're looking at a logical clause -- all this is dependent on word order. So, the full clause here might be: <code> *(zeroが)* いちばで買ったドレスをメガネをかけている少女にあげた.</code>
+And knowing what is modifying, what is being modified, knowing whether something is a modified noun or whether we're looking at a logical clause — all this is dependent on word order. So, the full clause here might be: <code> *(zeroが)* いちばで買ったドレスをメガネをかけている少女にあげた.</code>
 
 ![](../media/image1056.webp)
 
-So then we're saying, <code>I gave the dress that I bought at the market to a girl wearing glasses.</code> And once again, we have what could be a logical clause -- <code>少女はメガネをかけている</code>, <code>The girl is wearing glasses</code> -- but we've taken the noun <code>少女</code> -- <code>girl</code> -- to the front, so now it's not a logical clause, it's a noun with a modifier, the girl *(少女)* modified by the phrase <code>メガネをかけている</code> -- <code>girl wearing glasses</code>.
+So then we're saying, <code>I gave the dress that I bought at the market to a girl wearing glasses.</code> And once again, we have what could be a logical clause — <code>少女はメガネをかけている</code>, <code>The girl is wearing glasses</code> — but we've taken the noun <code>少女</code> — <code>girl</code> — to the front, so now it's not a logical clause, it's a noun with a modifier, the girl *(少女)* modified by the phrase <code>メガネをかけている</code> — <code>girl wearing glasses</code>.
 
 <code>I gave the dress I bought at the market to a girl wearing glasses.</code> And this is very typical. You're going to see this kind of construction all the time.
 

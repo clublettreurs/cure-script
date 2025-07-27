@@ -24,7 +24,7 @@ That's to say, it can contain within itself two elements that could each be a co
 
 ![](../media/image346.webp)
 
-Now, in both English and Japanese, this is two logical clauses made into one compound sentence. And I've talked about compound sentences in another video. So what we have here is the logical clause <code> *(zeroが)* お店に行った</code> -- <code>I went to the shops</code> -- and <code> *(zeroが)* パンを買った</code> -- <code>I bought bread</code>.
+Now, in both English and Japanese, this is two logical clauses made into one compound sentence. And I've talked about compound sentences in another video. So what we have here is the logical clause <code> *(zeroが)* お店に行った</code> — <code>I went to the shops</code> — and <code> *(zeroが)* パンを買った</code> — <code>I bought bread</code>.
 
 In English this is <code>I went to the shops and I bought bread</code>. Now, in Japanese we don't need to have the <code>I</code> visible but it has to be logically there and it logically carries the particle が. We sometimes say that English requires the subject to be visibly present in every clause, but this isn't actually true, although it's close to being true.
 
@@ -48,7 +48,7 @@ But we can take this further, and that's what we're going to do this week. And w
 
 What else could it be? Well, it could be the head verb of the sentence.
 
-So, let's go back to a somewhat complex sentence that we analyzed last week. <code> *(zeroが)* いちばで買ったドレスをメガネをかけている少女にあげた.</code> -- <code>I gave the dress I bought at the market to a girl wearing glasses.</code>
+So, let's go back to a somewhat complex sentence that we analyzed last week. <code> *(zeroが)* いちばで買ったドレスをメガネをかけている少女にあげた.</code> — <code>I gave the dress I bought at the market to a girl wearing glasses.</code>
 
 ![](../media/image610.webp)
 
@@ -58,7 +58,7 @@ Now, inside the sentence we have two nouns and they're both modified by more inf
 
 So we could say <code>いちばで *(zeroが)* ドレスを買った</code> and then we have the engine at the end and we're saying <code>I bought a dress at the market</code>, but we can also pull out any element from that sentence and put it at the end and that becomes a modified noun. So we can say, as we're saying here, <code>いちばで *(zeroが)* 買ったドレス</code>, which means <code>the dress I bought at the market</code>.
 
-We could also do the same thing with the market: <code> *(zeroが)* ドレスを買ったいちば</code> -- <code>the market at which I bought the dress</code>. And neither of these is a logical clause, because it couldn't stand on its own as a sentence, could it? It's now a noun which has to play some role in a larger sentence.
+We could also do the same thing with the market: <code> *(zeroが)* ドレスを買ったいちば</code> — <code>the market at which I bought the dress</code>. And neither of these is a logical clause, because it couldn't stand on its own as a sentence, could it? It's now a noun which has to play some role in a larger sentence.
 
 So, the blue elements here are the modifiers, the red elements are nouns that are marked with logical particles. *(the last picture still)* And here is this fundamental radical fact that you need to take a moment to ingest. **In an <code>A does B</code> sentence, the nouns marked by the main logical particles other than が,** **that is, by を, に, で, and へ, are all modifiers for the verb.**
 
@@ -103,15 +103,15 @@ I think what she means is simply that this would not work without the mentioned 
 Here instead it is just a pre-modifier, and the head verb of the clause is あげた at the end.
 *So if we wanted to modify both elements of the sentence we'd need to make the first one visible.
 
-Let's try doing that. <code>あのさくらをなぐったみにくい外国人は *(zeroが)* 私がいちばでかったドレスをメガネをかけている少女にあげた.</code> -- <code>That ugly foreigner who hit Sakura gave the dress I bought at the market to a girl wearing glasses.</code>
+Let's try doing that. <code>あのさくらをなぐったみにくい外国人は *(zeroが)* 私がいちばでかったドレスをメガネをかけている少女にあげた.</code> — <code>That ugly foreigner who hit Sakura gave the dress I bought at the market to a girl wearing glasses.</code>
 
 ![](../media/image520.webp)
 
 Now we're starting the sentence out with a non-logical topic marked by は. But what that topic is doing is defining for us the zero pronoun, the が-marked A-car of the sentence, which is zeroが.
 
-Now, we could say, <code>みにくい外国人がさくらをなぐった</code> --<code>An ugly foreigner hit Sakura</code> -- but what we're doing here once again is we're pulling out one of the elements, in this case <code>外国人</code>, and putting it at the end of the clause, **so it isn't a functional logical clause***,* **it's a modified noun:** <code>the ugly 外国人 who hit Sakura</code>. So it's telling us more about that 外国人: <code>As for that ugly 外国人 who hit Sakura, he did...</code>
+Now, we could say, <code>みにくい外国人がさくらをなぐった</code> --<code>An ugly foreigner hit Sakura</code> — but what we're doing here once again is we're pulling out one of the elements, in this case <code>外国人</code>, and putting it at the end of the clause, **so it isn't a functional logical clause***,* **it's a modified noun:** <code>the ugly 外国人 who hit Sakura</code>. So it's telling us more about that 外国人: <code>As for that ugly 外国人 who hit Sakura, he did...</code>
 
-What did he do? <code>He did..</code> -- that's <code>zeroが</code> -- <code>he did...</code> and then we say what he did.
+What did he do? <code>He did..</code> — that's <code>zeroが</code> — <code>he did...</code> and then we say what he did.
 
 ::: info
 I am going to put this comment here.
@@ -122,9 +122,9 @@ And let's notice that everything, everything in this sentence apart from the cor
 
 ![](../media/image523.webp)
 
-So, <code>コク/国</code> is the on-reading of <code>くに/国</code> -- <code>country</code>. <code>外国</code> -- in <code>外国</code>, <code>外</code> modifies <code>国</code>. What kind of a country was it? An <code>outside</code> country, a <code>foreign</code> country. And then, <code>ジン/人</code>, which is the on-reading of <code>ひと/人</code> -- <code>person</code> -- is modified by these two together.
+So, <code>コク/国</code> is the on-reading of <code>くに/国</code> — <code>country</code>. <code>外国</code> — in <code>外国</code>, <code>外</code> modifies <code>国</code>. What kind of a country was it? An <code>outside</code> country, a <code>foreign</code> country. And then, <code>ジン/人</code>, which is the on-reading of <code>ひと/人</code> — <code>person</code> — is modified by these two together.
 
-What kind of a person was it? An <code>outside-country</code> person, a person <code>from a foreign country</code> -- <code>外国人</code>.
+What kind of a person was it? An <code>outside-country</code> person, a person <code>from a foreign country</code> — <code>外国人</code>.
 
 ---
 
@@ -136,7 +136,7 @@ If there's anything modifying the B-engine, it comes directly before that. Every
 
 ![](../media/image804.webp)
 
-を, に, で and -へ, are in fact **modifying the verb.** They're telling us more about the verb, and I said in that video that these logical particles -- other than が, which gives us the subject of any sentence, and の, which links together two nouns -- these four fundamental logical particles only work in verb-sentences, <code>A does B</code> sentences.
+を, に, で and -へ, are in fact **modifying the verb.** They're telling us more about the verb, and I said in that video that these logical particles — other than が, which gives us the subject of any sentence, and の, which links together two nouns — these four fundamental logical particles only work in verb-sentences, <code>A does B</code> sentences.
 
 Or, in detective terms, they only work on cases. And that's because their function is to tell us more about the verb, to modify the verb.
 

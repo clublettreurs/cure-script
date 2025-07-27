@@ -40,7 +40,7 @@ But also because the Eihongo Japanese model is so confusing and so wedded to the
 
 ---
 
-It looks as if it's all over the place when in fact it's only got one eccentricity -- which is a little bit confusing, but when you see it for what it is, it's just that one thing.
+It looks as if it's all over the place when in fact it's only got one eccentricity — which is a little bit confusing, but when you see it for what it is, it's just that one thing.
 
 So, how important is it that we misunderstand the <code>だ</code> copula?
 
@@ -54,7 +54,7 @@ And that is, understanding the three engines and the three core sentences.
 
 There are only three ways a logical Japanese sentence can end: with a verb, an adjective, or a noun + copula. It can't end with a noun on its own; it can only end with a noun + copula.
 
-And this is fundamentally important and we'll get to why in just a moment, but I'll just note here that part of the reasoning behind Tae Kim saying that the copula is a mere declarative -- it doesn't actually do anything logical and grammatical, it just emphasizes what we have to say -- is because in **casual** speech <code>だ</code> sometimes gets dropped.
+And this is fundamentally important and we'll get to why in just a moment, but I'll just note here that part of the reasoning behind Tae Kim saying that the copula is a mere declarative — it doesn't actually do anything logical and grammatical, it just emphasizes what we have to say — is because in **casual** speech <code>だ</code> sometimes gets dropped.
 
 Now, the important thing to understand here is that **this does not mean that it's unnecessary**. In English we often say things like <code>Got up early this morning</code>, <code>Fancy a cup of coffee?</code>, <code>Call that a rabbit? Looks more like a teddy bear in a rabbit suit to me!</code>
 
@@ -122,7 +122,7 @@ We can say, <code>女の子は綺麗**だ**</code> (the girl **is** pretty), or 
 
 **If we want to chain two adjectival nouns together, we use the て-form of the copula.** And this is just the same as what we do with adjectives.
 
-If we want to say <code>Sakura is small and pretty</code>, we say <code>さくらが小さくて綺麗だ</code>. If we want to say, <code>Sakura is pretty and small</code> (pretty, <code>綺麗</code>, is a noun, an adjectival noun -- we know it's a noun because it can be written with all kanji and anything that's written with two or more kanji and almost everything that's written with one kanji is always a noun), we say <code>さくらが綺麗**で**小さい</code>.
+If we want to say <code>Sakura is small and pretty</code>, we say <code>さくらが小さくて綺麗だ</code>. If we want to say, <code>Sakura is pretty and small</code> (pretty, <code>綺麗</code>, is a noun, an adjectival noun — we know it's a noun because it can be written with all kanji and anything that's written with two or more kanji and almost everything that's written with one kanji is always a noun), we say <code>さくらが綺麗**で**小さい</code>.
 
 If we want to say <code>Sakura is genki</code>, we say <code>さくらが元気だ</code>. If we want to say <code>Sakura is genki and pretty</code>, we say <code>さくらが元気**で**綺麗だ</code>.
 ::: info
@@ -181,9 +181,9 @@ and **all of them have the same て-form, <code>で</code>**, **and the same con
 
 ## です & ます eccentricity
 
-Now, the other thing, I think, that makes it possible to imagine that <code>です</code> is not the same copula as <code>だ</code> is that **<code>です</code> and <code>ます</code> are both a little bit eccentric** -- and I've made a whole video on this. ***(Lesson 17)***
+Now, the other thing, I think, that makes it possible to imagine that <code>です</code> is not the same copula as <code>だ</code> is that **<code>です</code> and <code>ます</code> are both a little bit eccentric** — and I've made a whole video on this. ***(Lesson 17)***
 
-And it's for this reason, because their eccentricities actually disrupt our grasp of fundamental core Japanese grammar -- once we've got used to it it's easy enough to add <code>です</code> and <code>ます</code> on, but it's best to leave them alone at first because **they do things that no other modern Japanese words do**.
+And it's for this reason, because their eccentricities actually disrupt our grasp of fundamental core Japanese grammar — once we've got used to it it's easy enough to add <code>です</code> and <code>ます</code> on, but it's best to leave them alone at first because **they do things that no other modern Japanese words do**.
 
 ---
 

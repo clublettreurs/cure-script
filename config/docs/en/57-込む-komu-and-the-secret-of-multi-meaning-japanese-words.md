@@ -12,7 +12,7 @@ But I'm talking about words that actually are the same word but have a range of 
 
 And this isn't just a side issue with human language. Human language, whenever it discusses abstraction, uses words that are based in concrete, physical metaphors. And we may sometimes forget the concrete, physical metaphors, but they're always there.
 
-Even when we talk about time, we have to talk about it in terms of space. We talk about time <code>going forward</code> or <code>going backward</code>. We talk about a time <code>line</code> -- a line is an entity that exists in space.
+Even when we talk about time, we have to talk about it in terms of space. We talk about time <code>going forward</code> or <code>going backward</code>. We talk about a time <code>line</code> — a line is an entity that exists in space.
 
 We can't actually discuss time without discussing it in terms of space. And this continues with all other abstractions in human languages.
 
@@ -22,7 +22,7 @@ The word <code>stimulus</code> originally meant an <code>ox-goad</code>, a point
 
 <code>Economics</code> comes from a word that simply means <code>house</code>. Now, we don't need to know the physical metaphors on which words like this are based, but when we come across words in Japanese that seem to have different and contradictory meanings, we do need to understand the basic metaphor in order to grasp the other meanings without learning them as a long laundry-list of apparently random things.
 
-So, if we see the word <code>切る</code> in a dictionary -- which means <code>cut</code> -- we see lots and lots of meanings for it like <code>ending a conversation</code>, <code>severing a relationship</code>, <code>crossing a field</code>.
+So, if we see the word <code>切る</code> in a dictionary — which means <code>cut</code> — we see lots and lots of meanings for it like <code>ending a conversation</code>, <code>severing a relationship</code>, <code>crossing a field</code>.
 
 ![](../media/image643.webp)
 
@@ -33,7 +33,7 @@ But when we come to words which don't have an exact English equivalent, it can g
 ## 込む
 
 Now, <code>込む</code> does not have an exact meaning in English, but we can see what it does mean by looking at the kanji. The kanji is essentially the kanji of <code>入る / 入る / 入れる</code>  
--- <code>go in</code> or <code>put in</code> -- and that's on a <code>road</code>.
+-- <code>go in</code> or <code>put in</code> — and that's on a <code>road</code>.
 
 ![](../media/image347.webp)
 
@@ -59,7 +59,7 @@ It can become more abstract, with concepts like <code>黙り込む</code>. <code
 
 Now, the word <code>読み込む</code> is one that you'll see often if you have your computer or your tablet or whatever in Japanese. (And if you haven't, why not?) You'll often see the word come up <code>読み込み中</code>.
 
-Now, <code>-中</code> means <code>in process of</code>. It means literally <code>in the middle of</code> -- another metaphor, because literally it means <code>middle</code> or <code>center</code> or <code>inside</code>. But in this case, when it's attached to a verb like this, <code>中</code> means <code>in the process of</code>.
+Now, <code>-中</code> means <code>in process of</code>. It means literally <code>in the middle of</code> — another metaphor, because literally it means <code>middle</code> or <code>center</code> or <code>inside</code>. But in this case, when it's attached to a verb like this, <code>中</code> means <code>in the process of</code>.
 
 As we might say in English, <code>in the middle of doing something</code>. <code>読み込み中</code> is <code>being in the process of 読み込む-ing</code>, and <code>読み込む</code> here means <code>loading</code>.
 

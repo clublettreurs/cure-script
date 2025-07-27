@@ -8,7 +8,7 @@
 
 So let's just do a quick recap of <code>になる</code> and <code>にする</code>. As we know, the two primordial Japanese verbs are <code>ある</code> and <code>する</code>. <code>ある</code> is the mother of all self-move verbs and <code>する</code> is the father of all other-move verbs.
 
-<code>なる</code> is closely related to <code>ある</code> -- <code>ある</code> means <code>be</code>; <code>なる</code> means <code>become</code> -- so we can say that <code>ある</code> and <code>なる</code> are the static and dynamic versions of the same verb. That is, the same verb being still and moving in time.
+<code>なる</code> is closely related to <code>ある</code> — <code>ある</code> means <code>be</code>; <code>なる</code> means <code>become</code> — so we can say that <code>ある</code> and <code>なる</code> are the static and dynamic versions of the same verb. That is, the same verb being still and moving in time.
 
 Now, we know that when we use a noun followed by <code>になる</code>, we mean that something turns into that noun.
 
@@ -20,9 +20,9 @@ Now, we know that when we use a noun followed by <code>になる</code>, we mean
 
 So, when we say <code>ようになる</code>... Well, we looked at <code>よう</code> last week, didn't we, and we saw that when we're comparing things or likening things <code>よう</code> means a <code>form</code> or a <code>likeness</code>. Its basic meaning is a form or a state of being.
 
-When we say <code>りきしは山のようだ</code> -- <code>sumo wrestler is like a mountain</code> -- we're not saying that the sumo wrestler <code>is</code> a mountain, we're extracting the form or the state of being of the mountain and applying it to the sumo wrestler. We're not saying that the sumo wrestler is the mountain, we're saying that the wrestler is the mountain's <code>よう</code>, the mountain's form or state of being.
+When we say <code>りきしは山のようだ</code> — <code>sumo wrestler is like a mountain</code> — we're not saying that the sumo wrestler <code>is</code> a mountain, we're extracting the form or the state of being of the mountain and applying it to the sumo wrestler. We're not saying that the sumo wrestler is the mountain, we're saying that the wrestler is the mountain's <code>よう</code>, the mountain's form or state of being.
 
-So in English we say the wrestler is <code>like</code> the mountain; in Japanese we say the wrestler is the form or the state of being of the mountain -- we might say, the <code>likeness</code> of the mountain. Now, when we use <code>よう</code> in the expressions we're talking about today, we don't add them to a noun like <code>山</code>, we add them to a complete logical clause.
+So in English we say the wrestler is <code>like</code> the mountain; in Japanese we say the wrestler is the form or the state of being of the mountain — we might say, the <code>likeness</code> of the mountain. Now, when we use <code>よう</code> in the expressions we're talking about today, we don't add them to a noun like <code>山</code>, we add them to a complete logical clause.
 
 The textbooks sometimes say we're adding them to a verb, but what we're really doing is adding them to a logical clause with a verb-engine.
 
@@ -34,9 +34,9 @@ So, for example, if we say <code>彼を信じるようになった</code>, we're
 
 ![](../media/image893.webp)
 
-<code>彼を信じる</code> (or <code>zeroが彼を信じる</code>) --<code>I believe him</code> -- is a logical clause, and we're saying that I moved into the state, I became the state of that logical clause: <code>I came to believe him.</code> This is often used with a potential helper verb.
+<code>彼を信じる</code> (or <code>zeroが彼を信じる</code>) --<code>I believe him</code> — is a logical clause, and we're saying that I moved into the state, I became the state of that logical clause: <code>I came to believe him.</code> This is often used with a potential helper verb.
 
-For example, we might say, <code>日本語のマンガが読めるようになった</code> -- <code>Japanese manga became readable (to me)</code>.
+For example, we might say, <code>日本語のマンガが読めるようになった</code> — <code>Japanese manga became readable (to me)</code>.
 
 ![](../media/image304.webp)
 
@@ -50,7 +50,7 @@ Now, when we say <code>ようにする</code> we know that the <code>にする</
 
 ![](../media/image93.webp)
 
-So <code>ようにする</code> is to make something enter a state. It doesn't enter it by itself; somebody's making it enter the state. So if we say <code>よく見えるにする</code> -- <code>よく見える</code> means to <code>look good</code>, so <code>よく見えるようにする</code> is to make someone or something look good.
+So <code>ようにする</code> is to make something enter a state. It doesn't enter it by itself; somebody's making it enter the state. So if we say <code>よく見えるにする</code> — <code>よく見える</code> means to <code>look good</code>, so <code>よく見えるようにする</code> is to make someone or something look good.
 
 Now, <code>ようにする</code> has an extended sense, and that is when we say something essentially equivalent to <code>please make sure that you do something</code>. So, we can say <code>ドアにかぎをかけるようにしてください</code> and that means <code>please make it so that you lock the door</code>.
 
@@ -58,7 +58,7 @@ Now, <code>ようにする</code> has an extended sense, and that is when we say
 
 And I think you can see the difference here between simply saying <code>ドアにかぎをかけてください</code>, which is just <code>please lock the door</code>. In one case you're kind of assuming that the person will simply lock it as a matter of course; in the second case you're making a very special point of it: <code>Please make it so that you lock the door (this is important, so please make it be that way)</code>.
 
-<code>It</code> in this case is just the same as it would be in English -- the <code>situation</code>, the <code>circumstance</code> -- "Please turn the circumstance from one in which you don't lock the door into one in which you do lock the door." So this makes a very special point of this instruction or advice.
+<code>It</code> in this case is just the same as it would be in English — the <code>situation</code>, the <code>circumstance</code> — "Please turn the circumstance from one in which you don't lock the door into one in which you do lock the door." So this makes a very special point of this instruction or advice.
 
 Now, related to this is when you may say something about yourself, usually related to something you do regularly, such as saying <code>毎日歩くようにする</code>. And that means literally, <code>\[I\] (try to) make it so that \[I\] walk every day</code>.
 
@@ -68,7 +68,7 @@ You don't say <code>Please make it so that you lock the door</code> unless there
 
 ## ことにする
 
-When you say it about yourself -- <code>毎日歩くようにする</code> -- there is also another factor in play in that when it's yourself you could also use <code>ことにする</code>, and that expresses a firm decision which we'll talk about next week in the second half of this lesson. So if you choose <code>ようにする</code> over <code>ことにする</code> you're inherently leaving a little room for doubt.
+When you say it about yourself — <code>毎日歩くようにする</code> — there is also another factor in play in that when it's yourself you could also use <code>ことにする</code>, and that expresses a firm decision which we'll talk about next week in the second half of this lesson. So if you choose <code>ようにする</code> over <code>ことにする</code> you're inherently leaving a little room for doubt.
 
 ## <code>Cause-and-effect</code> usage of ように
 
@@ -78,7 +78,7 @@ Now, <code>ように</code> can also be used with a clause behind it and a claus
 
 The textbooks treat this as if it were a different piece of grammar, a different grammar point, but in fact it isn't, it's the same as plain <code>ようにする</code>, and the only reason it seems a bit different is because we put it a little differently in English. But we shouldn't be thinking about English; we should be thinking about Japanese. So let's take a look at how this works.
 
-Let's take a sentence that we've already had: <code>よく見えるようにする</code> -- <code>make something (or someone) look better</code>. Now, let's change that to <code>よく見えるように口紅をつける</code> -- "in order that she will look better (or I will look better, or someone will look better), apply lipstick".
+Let's take a sentence that we've already had: <code>よく見えるようにする</code> — <code>make something (or someone) look better</code>. Now, let's change that to <code>よく見えるように口紅をつける</code> — "in order that she will look better (or I will look better, or someone will look better), apply lipstick".
 
 ![](../media/image992.webp)
 

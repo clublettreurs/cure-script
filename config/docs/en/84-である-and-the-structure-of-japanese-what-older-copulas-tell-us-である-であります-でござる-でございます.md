@@ -37,7 +37,7 @@ Now, we can deal with the last three very quickly,
 
 ## でござる
 
-**<code>でござる</code> -- <code>ござる</code> is simply a polite, keigo version of <code>ある</code>, the verb of being.**
+**<code>でござる</code> — <code>ござる</code> is simply a polite, keigo version of <code>ある</code>, the verb of being.**
 
 Now, how does the verb of being get into this? Well, we'll talk about that in a minute.
 

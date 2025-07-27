@@ -34,19 +34,19 @@ If there is an action, a subjectivity, it always wants to put an ego-actor at th
 
 ![](../media/image636.webp)
 
-Now, if we look at it in terms of subjectivities -- because a lot of this is to do with subjective feelings, as a lot of language is -- we can look at subjectivities in two ways. We can either look at them with the thing that induces the subjectivity as the focus, the fulcrum, of the subjectivity, so <code>crepes which induce desire in me</code> are the fulcrum of this sentence. *(Japanese)* <code>Crepes are inducing eat desire in me.</code> Or we can look at the subjectivity as an activity -- wanting -- and then we put <code>me</code> at the center. We put the ego at the center and we say <code>I desire to eat crepes</code>. *(English)*
+Now, if we look at it in terms of subjectivities — because a lot of this is to do with subjective feelings, as a lot of language is — we can look at subjectivities in two ways. We can either look at them with the thing that induces the subjectivity as the focus, the fulcrum, of the subjectivity, so <code>crepes which induce desire in me</code> are the fulcrum of this sentence. *(Japanese)* <code>Crepes are inducing eat desire in me.</code> Or we can look at the subjectivity as an activity — wanting — and then we put <code>me</code> at the center. We put the ego at the center and we say <code>I desire to eat crepes</code>. *(English)*
 
 Now, both of these are fairly natural. A subjectivity is in fact something that we passively experience and that is induced in us by something on the outside of us. That is a perfectly valid way of looking at things, and perhaps more valid than the English ego-centric way. Certainly no less valid. Japanese happens to prefer this way of looking at it; English prefers the other. And this spills over into all kinds of areas.
 
 So, for example, Japanese is very happy to say <code>水が犬に飲まれた</code> which means <code>The water drink-received from the dog</code>. The key actor of this sentence is the water, not the dog. The water is receiving the act of drinking from the dog. English is so biased against this that it's almost impossible to translate this into English without turning it passive. It's not passive in Japanese.
 
-And this bias goes so deep that the entire <code>-れる/-</code>られる<code></code> helper verb, which is the verb of receiving an action, is called <code>the passive</code> by this pseudo-Japanese grammar that gets taught in English. It's not passive -- it's just that the only way to translate it into English is to turn it passive. Now, let's get back to our crepes.
+And this bias goes so deep that the entire <code>-れる/-</code>られる<code></code> helper verb, which is the verb of receiving an action, is called <code>the passive</code> by this pseudo-Japanese grammar that gets taught in English. It's not passive — it's just that the only way to translate it into English is to turn it passive. Now, let's get back to our crepes.
 
-If we say <code>クレープが食べたい</code>, the center of the action is the crepes. They are inducing desire in me. If we say <code>お腹が空いた、 *(zeroが)* 早く食べたい</code>, we're saying <code>I'm hungry; I want to eat soon.</code> Now, <code>早く食べたい</code> doesn't have a visible actor, but the actor of this - the zero - is <code>me</code>, so it's <code>(zeroが) 早く食べたい</code> -- <code>I want to eat soon.</code>
+If we say <code>クレープが食べたい</code>, the center of the action is the crepes. They are inducing desire in me. If we say <code>お腹が空いた、 *(zeroが)* 早く食べたい</code>, we're saying <code>I'm hungry; I want to eat soon.</code> Now, <code>早く食べたい</code> doesn't have a visible actor, but the actor of this - the zero - is <code>me</code>, so it's <code>(zeroが) 早く食べたい</code> — <code>I want to eat soon.</code>
 
 ![](../media/image515.webp)
 
-Now, this is the final problem. This is the thing that some of my most astute students have reacted against. They don't like the fact that the <code>-たい</code> helper adjective switches polarity, that it can both describe something inducing the desire to eat and the person feeling the desire to eat if the inducer is not explicitly present. *(If confusing, check Lesson 9c about たい)* They actually have suggested -- and several people have suggested this to me independently -- have suggested the work-around of saying <code>Well, can't we say that the が-marked actor is in fact food? Just food in general perhaps: 'Food is making me want to eat it.'</code>
+Now, this is the final problem. This is the thing that some of my most astute students have reacted against. They don't like the fact that the <code>-たい</code> helper adjective switches polarity, that it can both describe something inducing the desire to eat and the person feeling the desire to eat if the inducer is not explicitly present. *(If confusing, check Lesson 9c about たい)* They actually have suggested — and several people have suggested this to me independently — have suggested the work-around of saying <code>Well, can't we say that the が-marked actor is in fact food? Just food in general perhaps: 'Food is making me want to eat it.'</code>
 
 And I see why they're trying to do this. They're trying to get rid of what looks like the one anomaly in an otherwise perfectly logical system. But actually this isn't an anomaly, and we'll come to that in a moment. The work-around doesn't work, firstly because if you know much about Japanese you understand that this is not what's happening.
 
@@ -102,7 +102,7 @@ Now, this in itself is meaningless, because <code>mysterious</code> is a subject
 
 If we don't find it mysterious, then it's not mysterious. So saying it's mysterious-like or seems mysterious is meaningless because saying it's mysterious in the first place is really only saying that.
 
-But that isn't what <code>不思議そう</code> means. <code>不思議そう</code> is used in sentences like <code>「これはなーに？」とさくらは不思議そうに言った</code> -- <code>**What**s this?' asked Sakura in a mystified manner.</code>
+But that isn't what <code>不思議そう</code> means. <code>不思議そう</code> is used in sentences like <code>「これはなーに？」とさくらは不思議そうに言った</code> — <code>**What**s this?' asked Sakura in a mystified manner.</code>
 
 <code>不思議そう</code>, you see, again flips polarity. It doesn't apply to the thing which is inducing the sense of mystery, it applies to the person feeling the sense of mystery. So <code>不思議そう</code> means something like <code>mystified</code>, sometimes perhaps <code>puzzled</code>, but in any case it means <code>perceiving quality of **不思議** in something else</code>.
 

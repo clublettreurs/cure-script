@@ -35,11 +35,11 @@ Kanji is <code>貰う</code>. Some texts use it.
 
 ## もらう・てもらう
 
-Its similarity to the others is simply that it does represent <code>downloading</code>. And while <code>くれる</code> is, as it were, a <code>push</code> download -- someone else taking the initiative to download to you, <code>もらう</code> is more like a <code>pull</code> download.
+Its similarity to the others is simply that it does represent <code>downloading</code>. And while <code>くれる</code> is, as it were, a <code>push</code> download — someone else taking the initiative to download to you, <code>もらう</code> is more like a <code>pull</code> download.
 
 ![](../media/image1103.webp)
 
-And that really is about where the similarities end, because <code>もらう</code> works in many ways very differently from <code>くれる</code> and <code>あげる</code> and much closer to something else, which we'll come to in a moment. When you use <code>もらう' with a noun -- </code>receiving something" -- **it doesn't necessarily imply a particular giver at all.**
+And that really is about where the similarities end, because <code>もらう</code> works in many ways very differently from <code>くれる</code> and <code>あげる</code> and much closer to something else, which we'll come to in a moment. When you use <code>もらう' with a noun — </code>receiving something" — **it doesn't necessarily imply a particular giver at all.**
 
 If we say <code> *(zeroが)* 一万円をもらった</code>, we're saying <code>I got ten thousand yen</code>. The implication is it came from somewhere, it was given perhaps by someone, or at least it came very easily. **But we're not saying anything about who gave it to us or where it came from or how it all came about,** **unlike <code>くれる</code> and <code>あげる</code>, which are bound to a particular giver and receiver.**
 
@@ -84,9 +84,9 @@ I don't know why they do this exactly. I think it's because they feel that the l
 
 ![](../media/image417.webp)
 
-<code>お医者さんに見てもらう</code> -- <code>have a doctor look at me / examine me</code>. So you see the two work in exactly the same way.
+<code>お医者さんに見てもらう</code> — <code>have a doctor look at me / examine me</code>. So you see the two work in exactly the same way.
 
-And we can also see that while with <code>お医者さん</code> we're specifying a giver, with <code>散髪をしてもらう</code> -- <code>get one's hair cut</code> -- we're not specifying a particular actor. Someone might say <code>散髪をしてもらったほうがいい</code> -- <code>you should get your hair cut</code> -- but it's not saying anything about by whom. It's not saying whether they want you to go to the hairdresser or whether you get your big sister to do it, it doesn't matter.
+And we can also see that while with <code>お医者さん</code> we're specifying a giver, with <code>散髪をしてもらう</code> — <code>get one's hair cut</code> — we're not specifying a particular actor. Someone might say <code>散髪をしてもらったほうがいい</code> — <code>you should get your hair cut</code> — but it's not saying anything about by whom. It's not saying whether they want you to go to the hairdresser or whether you get your big sister to do it, it doesn't matter.
 
 Just <code>get someone to cut your hair</code>. And this leads to another very important point, which is that the actor of <code>もらう</code>, the person <code>もらう</code>-ing, does not have to be the speaker.
 

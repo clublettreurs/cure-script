@@ -48,7 +48,7 @@ Could it ever mean <code>I am an eel</code>? Yes, it could.
 
 For example, if I go up to a stranger in the street and point to my nose (which is the way in Japan you indicate yourself) and say, <code>私はうなぎです</code>, they would know that I'm saying that I'm an eel and they'd probably think I was a little strange, because I don't look like an eel. I look a bit like a human but I hope not very much like an eel. Now, if in a restaurant we weren't talking about food at all, maybe about the weather, and I suddenly say <code>私はうなぎだ</code>, people would probably still understand me to mean that I have decided I want to eat eel.
 
-So, how does this work? Well, in Japanese -- and it's just the same in English or any other language -- we have three rules that we apply to interpreting sentences that can be in any way ambiguous. And they are: **context, probability, and the absurdity rule.**
+So, how does this work? Well, in Japanese — and it's just the same in English or any other language — we have three rules that we apply to interpreting sentences that can be in any way ambiguous. And they are: **context, probability, and the absurdity rule.**
 
 ![](../media/image457.webp)
 
@@ -56,7 +56,7 @@ Context is the obvious one that we've already discussed. If I say <code>My left 
 
 ## The Probability Rule
 
-Probability is the fact that when two possibilities are both possible and context hasn't actually told us which, we'll go for the one that's most probable. And this isn't just an accident. This is something everybody knows about language. So listeners do it, speakers expect listeners to do it, and language is tailored to work with those rules -- in Japanese or in English.
+Probability is the fact that when two possibilities are both possible and context hasn't actually told us which, we'll go for the one that's most probable. And this isn't just an accident. This is something everybody knows about language. So listeners do it, speakers expect listeners to do it, and language is tailored to work with those rules — in Japanese or in English.
 
 So there's nothing mysterious about it. So, for example, if I say <code>I saw a man on a hill with a telescope</code>, probably you would interpret this as meaning I used the telescope in order to see the man on the hill. So that's probability, I haven't actually said anything to indicate that interpretation, but it's the most likely default interpretation.
 
@@ -78,7 +78,7 @@ You will always put the more probable and less absurd interpretation on it.
 
 Language reserves the right, and must reserve the right, to express the improbable and the absurd. Otherwise language would have whole areas that it would be unable to express. But the further you go from the norm, the higher is the incumbency upon the speaker to make what she is saying clear.
 
-So if I really want to say that I used Sakura as an eating implement, I would have to say <code>I had dinner last night and I used Sakura as a pair of chopsticks.</code> Anything with any ambiguity at all is going to have the absurd possibility ruled out. Now, this isn't logic, it isn't grammar, but it is the way human languages work -- English, Japanese, any other language.
+So if I really want to say that I used Sakura as an eating implement, I would have to say <code>I had dinner last night and I used Sakura as a pair of chopsticks.</code> Anything with any ambiguity at all is going to have the absurd possibility ruled out. Now, this isn't logic, it isn't grammar, but it is the way human languages work — English, Japanese, any other language.
 
 To take a specific example in Japanese, something that sometimes troubles people is the fact that the ICHIDAN potential helper verb <code>-られる</code> and the Ichidan receptive helper verb <code>-られる</code> are identical.
 
@@ -97,7 +97,7 @@ Although we need to learn structure, **the way we learn Japanese is from immersi
 
 For example, <code>食べられる</code>: <code>食べられた</code>, if it's the potential, can mean either <code>I was able to eat</code> or <code>I was able to eat (something) / I was able to eat (this particular thing)</code>. On the other hand, if it's the receptive, it means <code>I received the action of eating</code>.
 
-In English we would say <code>I was eaten</code> or <code>I got eaten</code>, which is closer to the Japanese. It tends to get translated as a passive sentence -- <code>I was eaten</code> -- in English. What it actually means is literally <code>I got eaten / I received the act of being eaten</code>. And if we think of it as passive, we're going to get very messed-up with the structure of those sentences.
+In English we would say <code>I was eaten</code> or <code>I got eaten</code>, which is closer to the Japanese. It tends to get translated as a passive sentence — <code>I was eaten</code> — in English. What it actually means is literally <code>I got eaten / I received the act of being eaten</code>. And if we think of it as passive, we're going to get very messed-up with the structure of those sentences.
 
 But that's not really the subject of this video and you can watch my video on the Japanese receptive to clarify all this. *Lesson 13* The ambiguity here is that if I say <code>食べられた</code> I could mean <code>I was able to eat</code> or I could mean <code>I got eaten</code>. Now, in this case the absurdity rule comes into play: I could be saying that I was eaten but considering that I'm standing here telling you that, it's not very probable.
 
@@ -111,7 +111,7 @@ How do we resolve this ambiguity? Well, we can't do it structurally. Just as in 
 
 Japanese is not some magical language ruled by strange, impenetrable rules. It's just a language, and it's a far more logical language than English, but like all languages there are many potential ambiguities, all of which are resolved by the speaker, the listener and the situation. Every now and again there is some genuine ambiguity where somebody can misunderstand, but no more than in English.
 
-Most of the time people communicate what they want to communicate without any difficulty, using both the structure of the language and external probabilities -- and also a knowledge of how the language works. And to give an example of that, in our last lesson we examined the sentence <code> *(zeroが)* いちばで買ったドレスをメガネをかけている少女にあげた</code> -- <code>I gave the dress I bought at the market to a girl wearing glasses.</code>
+Most of the time people communicate what they want to communicate without any difficulty, using both the structure of the language and external probabilities — and also a knowledge of how the language works. And to give an example of that, in our last lesson we examined the sentence <code> *(zeroが)* いちばで買ったドレスをメガネをかけている少女にあげた</code> — <code>I gave the dress I bought at the market to a girl wearing glasses.</code>
 
 ![](../media/image232.webp)
 

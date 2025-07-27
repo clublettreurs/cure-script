@@ -18,7 +18,6 @@ export default defineConfig({
     ru: {
       label: 'Russian',
       lang: 'ru',
-      link: '/ru/',
     }
   },
 

@@ -26,7 +26,7 @@ I would say yes, it is. We do the same thing in English, though not so much with
 
 We eat things up, we make things up, we cry out, we lose out, we think up an idea, we think out an idea, etcetera etcetera. Now, **Japanese doesn't have any prepositions.** **None at all.** If you think it has, it's time to throw that textbook out of the window.
 
-What it uses in place of these English prepositions <code>up</code>, <code>out</code>, etcetera, are verbs -- helper verbs. And the difference between the Japanese helper verb and the English verb-helper preposition is first of all that there are a lot more of them and then, because of that, they're a lot more specific. If you look at the various ways in which English speakers use <code>up and </code>out<code> -- they even </code>peace out", whatever that means -- you can see that because there are only a few of them they get used all over the place in all kinds of circumstances and there's only a marginal amount of reason to the way they're used.
+What it uses in place of these English prepositions <code>up</code>, <code>out</code>, etcetera, are verbs — helper verbs. And the difference between the Japanese helper verb and the English verb-helper preposition is first of all that there are a lot more of them and then, because of that, they're a lot more specific. If you look at the various ways in which English speakers use <code>up and </code>out<code> — they even </code>peace out", whatever that means — you can see that because there are only a few of them they get used all over the place in all kinds of circumstances and there's only a marginal amount of reason to the way they're used.
 
 ---
 
@@ -42,7 +42,7 @@ Open it for a purpose, put that action in place:
 <code>おく</code>, which means <code>put in a place</code>. Put that action in place so that it will then　  
 change the circumstance in the way that we want. In this case, airing out the room.
 
-And the same with the <code>説明</code> here. <code>説明しておく</code> -- put the act of explaining, or the explanation, in place, so that, after that, each group will understand what's going on, they won't be in the dark about it any more.
+And the same with the <code>説明</code> here. <code>説明しておく</code> — put the act of explaining, or the explanation, in place, so that, after that, each group will understand what's going on, they won't be in the dark about it any more.
 
 ---
 

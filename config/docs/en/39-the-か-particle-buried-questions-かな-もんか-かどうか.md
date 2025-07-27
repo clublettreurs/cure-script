@@ -34,15 +34,15 @@ So we say <code>さくらが来るかわからない</code> not <code>さくら�
 
 ## かどうか
 
-Now, it also gets used in the common expression <code>かどうか</code>. And although we can learn this as a glued-together expression meaning <code>whether or not</code>, so <code>さくらが来るかどうかわからない</code> means <code>I don't know whether Sakura's coming or not,</code> (in English that's how we'd say it, as opposed to <code>さくらが来るかわからない</code> -- in English we'd say <code>I don't know if Sakura's coming</code>; <code>さくらが来るかどうかわからない</code> – we'd say in English <code>I don't know whether Sakura's coming or not.</code>)
+Now, it also gets used in the common expression <code>かどうか</code>. And although we can learn this as a glued-together expression meaning <code>whether or not</code>, so <code>さくらが来るかどうかわからない</code> means <code>I don't know whether Sakura's coming or not,</code> (in English that's how we'd say it, as opposed to <code>さくらが来るかわからない</code> — in English we'd say <code>I don't know if Sakura's coming</code>; <code>さくらが来るかどうかわからない</code> – we'd say in English <code>I don't know whether Sakura's coming or not.</code>)
 
 what we're literally saying here is <code>Sakura coming (question) how (question) わからない.</code> So what we're saying is something like <code>I don't know if Sakura's coming or how it will be.</code> And from this we can see how we get the use of -か to mean <code>or</code> between nouns.
 
-So we can say <code>お茶かコーヒーどちらがいい?</code> -- <code>Tea or coffee, which would you like?</code> Now, how is this working?
+So we can say <code>お茶かコーヒーどちらがいい?</code> — <code>Tea or coffee, which would you like?</code> Now, how is this working?
 
 Well, essentially this is an abbreviation of <code>お茶かコーヒーかどちらがいい?</code> So, we're putting two propositions side by side, <code>whether coffee or whether tea,</code> and then asking <code>どちらがいい?</code>
 
-And once again although this seems like a different use, -か is doing the same thing -- it's bundling something up as a proposition. But remember that when we use <code>or</code> in English it's always got to be a question.
+And once again although this seems like a different use, -か is doing the same thing — it's bundling something up as a proposition. But remember that when we use <code>or</code> in English it's always got to be a question.
 
 It's never a certainty. If we say <code>A or B</code> we're saying it might be A and it might be B.
 
@@ -62,9 +62,9 @@ Now, this is taught as if it were a word or expression that means <code>maybe</c
 
 The point of that misleadingness that I would like to talk about here is that it confuses us about what that -か is actually doing. That -か is attached to the proposition that we are talking about.
 
-So, if we say <code>さくらが来るかも知れない</code> -- <code>Perhaps Sakura will come</code> -- what we're saying is <code>さくらが来るか</code>, that's the question or proposition that we're talking about, and then <code>も知れない.</code> The も is giving us the meaning of <code>even</code> or <code>as much as</code>, as I've explained that it very often does, and <code>知れない</code> is <code>知る</code> -- <code>know</code> / <code>知れる</code>-- <code>ability to know or be known</code> and the helper adjective <code>-ない</code>.
+So, if we say <code>さくらが来るかも知れない</code> — <code>Perhaps Sakura will come</code> — what we're saying is <code>さくらが来るか</code>, that's the question or proposition that we're talking about, and then <code>も知れない.</code> The も is giving us the meaning of <code>even</code> or <code>as much as</code>, as I've explained that it very often does, and <code>知れない</code> is <code>知る</code> — <code>know</code> / <code>知れる</code>-- <code>ability to know or be known</code> and the helper adjective <code>-ない</code>.
 
-So the whole thing actually means <code>さくらが来るか</code> -- <code>the question of whether Sakura comes</code> – <code>も知れない</code> -- <code>I can't go so far as to know / Maybe Sakura will come, maybe she won't.</code>
+So the whole thing actually means <code>さくらが来るか</code> — <code>the question of whether Sakura comes</code> – <code>も知れない</code> — <code>I can't go so far as to know / Maybe Sakura will come, maybe she won't.</code>
 
 ## かな
 
@@ -79,7 +79,7 @@ in the video, there is a typo where the red line says が instead of か. I fixe
 :::
 
 
-<code>か</code> is taking the proposition, so if we say <code>さくらが来るかな</code>, we're saying <code>さくらが来るか</code> -- <code>the question of whether Sakura will come</code> -- <code>な</code>. Now, <code>な</code>, as we've discussed in [**another video**](https://www.youtube.com/watch?v=IWEok4Ivfyc&ab_channel=OrganicJapanesewithCureDolly), is a marker that indicates addressing something to yourself.
+<code>か</code> is taking the proposition, so if we say <code>さくらが来るかな</code>, we're saying <code>さくらが来るか</code> — <code>the question of whether Sakura will come</code> — <code>な</code>. Now, <code>な</code>, as we've discussed in [**another video**](https://www.youtube.com/watch?v=IWEok4Ivfyc&ab_channel=OrganicJapanesewithCureDolly), is a marker that indicates addressing something to yourself.
 
 So, you're saying <code>Will Sakura come?</code> addressing that to yourself. The way we would say that in English is "I wonder if Sakura will come / I am pondering the question of whether Sakura will come."
 
@@ -115,7 +115,7 @@ So, it's a question, but it's the kind of negativizing question that we also get
 
 In all those cases, by turning something into a question we're denying its likelihood. Now, when we say <code>ものか</code> it's the same thing, and it often gets reduced right down to <code>もんか</code>.
 
-So someone might say <code>それを食べるもんか</code> -- <code>I'm not eating that.</code> And you notice here that we are in fact using the か marker after a regular non-formal sentence, and that's because <code>もんか</code> or <code>ものか</code> is in fact rather a rough way of talking.
+So someone might say <code>それを食べるもんか</code> — <code>I'm not eating that.</code> And you notice here that we are in fact using the か marker after a regular non-formal sentence, and that's because <code>もんか</code> or <code>ものか</code> is in fact rather a rough way of talking.
 
 You're denying something very forcefully and often in opposition to somebody.
 
@@ -127,7 +127,7 @@ Another place where we often see -か as a negativizing question marker is in <c
 
 <code>ところ</code> can mean not just <code>place</code> in the literal sense, but a time or a circumstance or condition. When it's said as <code>どころ</code> it's usually negative, so when we say <code>どころか</code>, we're negativizing what came before it and usually putting an even stronger negative after it.
 
-So if we say, for example, <code>漢字が読めるどころかひらがなも読めない</code> -- <code>Not only can't I read kanji, I can't even read hiragana.</code>
+So if we say, for example, <code>漢字が読めるどころかひらがなも読めない</code> — <code>Not only can't I read kanji, I can't even read hiragana.</code>
 
 ![](../media/image1131.webp)
 

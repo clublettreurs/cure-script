@@ -28,7 +28,7 @@ So if we say <code>さくらじゃないですか</code> we're saying exactly th
 
 The first problem that arises here is that, while we say in formal speech <code>さくらじゃないですか</code> because in formal speech the <code>か</code> acts as a verbal question mark, turning any statement into a question, we don't usually use <code>か</code> as a question-making sentence-ender in ordinary, non-formal Japanese. So what would be <code>さくらじゃないですか</code> in formal Japanese becomes <code>さくらじゃない</code> in regular Japanese.
 
-<code>さくらじゃない</code> has fundamentally three potential meanings. *(indicated by tone in speech)* We can say <code>さくらじゃない。</code> -- that means <code>That isn't Sakura</code>.
+<code>さくらじゃない</code> has fundamentally three potential meanings. *(indicated by tone in speech)* We can say <code>さくらじゃない。</code> — that means <code>That isn't Sakura</code>.
 
 We can say <code>さくらじゃない？</code> and that means <code>That's Sakura, isn't it?</code> But we can also say, perhaps meeting Sakura after quite a long time, <code>さくらじゃない！</code>, and that certainly doesn't mean it isn't Sakura and it's not a question either.
 

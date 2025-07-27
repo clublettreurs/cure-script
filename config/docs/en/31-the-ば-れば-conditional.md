@@ -16,7 +16,7 @@ For the two irregular verbs, in this case they work exactly like regular ichidan
 
 A strong verb is a verb that can change its vowel sound. In English we have <code>come</code> and <code>came</code>, <code>eat</code> and <code>ate</code>. And <code>来る</code> and <code>する</code> in some cases change their vowel sound. <code>来る</code> in the negative becomes <code>こない</code>, <code>する</code> becomes <code>しない</code>.
 
-But in this case they don't change their vowel sound at all, so that's very simple -- they just work like the ichidan verbs that they fundamentally are. For adjectives, we take off the -い and use the helper -ければ.
+But in this case they don't change their vowel sound at all, so that's very simple — they just work like the ichidan verbs that they fundamentally are. For adjectives, we take off the -い and use the helper -ければ.
 
 ![](../media/image739.webp)
 
@@ -30,7 +30,7 @@ Now this hypothetical nature of ば/れば allows it to be used in many common a
 
 And I'll just note here that while <code>する</code> is generally translated as <code>do</code>, in many cases the best way to render it into English is as <code>act</code>. So, for example, if we say <code>静かにする</code>, we're not saying <code>do quietly</code>, we're saying <code>act quietly</code>.
 
-So, <code>どうすればいい</code> -- <code>how, if I act, will be good</code>. And in English what we'd normally say is <code>What should I do?</code> But in Japanese we don't say that.
+So, <code>どうすればいい</code> — <code>how, if I act, will be good</code>. And in English what we'd normally say is <code>What should I do?</code> But in Japanese we don't say that.
 
 As we'll see, this is partly because the concept of <code>should</code> isn't quite the same in Japanese, and ば/れば is often used to solve the problem. We'll come back to that in a moment.
 
@@ -40,19 +40,19 @@ What we're actually saying here is <code>If I had brought an umbrella, it would 
 
 As you know, in Japanese, we mark the past tense at the end of a logical clause. So even though it may be true that if it's raining right now, if I had brought an umbrella it would have been good and it still would be good, we throw the whole thing into the past tense with that final <code>よかった</code>.
 
-<code>かさを持ってくればよかった</code> -- <code>I should have brought an umbrella / I wish I had brought an umbrella.</code> Now notice that in both these cases, <code>どうすればいい</code> / <code>かさを持ってくればよかった</code>, we are using this <code>if it were done, it would be good</code> to mean <code>should</code>.
+<code>かさを持ってくればよかった</code> — <code>I should have brought an umbrella / I wish I had brought an umbrella.</code> Now notice that in both these cases, <code>どうすればいい</code> / <code>かさを持ってくればよかった</code>, we are using this <code>if it were done, it would be good</code> to mean <code>should</code>.
 
-And this happens again in an even commoner Japanese construction. <code>勉強しなければいけない</code> -- <code>If I don't study, it won't go / it won't do.</code> Now what we are actually saying here is <code>I must study</code>.
+And this happens again in an even commoner Japanese construction. <code>勉強しなければいけない</code> — <code>If I don't study, it won't go / it won't do.</code> Now what we are actually saying here is <code>I must study</code>.
 
 ![](../media/image1010.webp)
 
 There actually isn't a word for <code>must</code> in Japanese, so we always construct it this way. We say <code>If I don't... (whatever it is)</code> and then we can say <code>it won't be good / it will be bad / it'll be a disaster...</code>
 
-Whatever we say, some negative construction then follows this, and what we're saying is <code>I must go / I've got to go / I've got to do this / I've got to do that</code>, and this is because we don't have that construction <code>got to</code> and we don't have <code>must</code> in Japanese. It always has this rather lengthy "If I don't do, it won't be good / if I don't do, it won't do / If I don't do, it's bad" -- <code>無ければ / なければダメ</code>.
+Whatever we say, some negative construction then follows this, and what we're saying is <code>I must go / I've got to go / I've got to do this / I've got to do that</code>, and this is because we don't have that construction <code>got to</code> and we don't have <code>must</code> in Japanese. It always has this rather lengthy "If I don't do, it won't be good / if I don't do, it won't do / If I don't do, it's bad" — <code>無ければ / なければダメ</code>.
 
 And because it is indeed a very long-winded way of saying something common like <code>must</code> or <code>got to</code>, it often gets cut down in casual speech to just <code>しなければ</code> or even <code>しなきゃ</code>, which is short for <code>しなければ</code>, without adding the negative ending, because that's just implied. However, even in very casual speech it's often said in full, and I think this is to emphasize the nature of the <code>must</code>.
 
-<code>なぜ行かなければいけない?</code> -- <code>Why have I got to come/go?</code>
+<code>なぜ行かなければいけない?</code> — <code>Why have I got to come/go?</code>
 ::: info
 if it helps, more literally something like <code>Why if (I) don’t go, (it’s) bad/it won’t do?</code>
 Or as Dolly-先生 says in the comments for 行かなければいけない + what that いけない means:
@@ -60,7 +60,7 @@ Or as Dolly-先生 says in the comments for 行かなければいけない + wha
 *![](../media/image1040.webp)**
 **![](../media/image1003.webp)
 
-In cases like that, where we're putting stress on it as opposed to cases where we're just saying casually <code>行かなきゃ</code> -- <code>I've got to go</code>.
+In cases like that, where we're putting stress on it as opposed to cases where we're just saying casually <code>行かなきゃ</code> — <code>I've got to go</code>.
 
 ::: info
 literally maybe <code>If (I) don’t go…</code>, negative afterwards is just implied/unvoiced

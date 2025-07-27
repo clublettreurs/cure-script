@@ -41,7 +41,7 @@ One of the reasons I quoted Algirion-san's comment is that he actually got the s
 
 ---
 
-**<code>どうも</code> actually begins in the Edo era and it's a contraction of the expression <code>どうも言えぬ</code>.** **And that means <code>in any way</code> -- the <code>どうも</code> part means <code>in any way</code> -- and <code>言えぬ</code> means <code>unable to say</code>.**
+**<code>どうも</code> actually begins in the Edo era and it's a contraction of the expression <code>どうも言えぬ</code>.** **And that means <code>in any way</code> — the <code>どうも</code> part means <code>in any way</code> — and <code>言えぬ</code> means <code>unable to say</code>.**
 
 That negativizing -ぬ is something [**I've talked about in a recent video**](https://www.youtube.com/watch?v=E7Qop8dwP4w), so if you don't know about that, I'll put a link above my head.
 
@@ -83,7 +83,7 @@ So these are the commoner uses.
 
 ---
 
-Now, the other meanings in the dictionary: somehow, in spite of oneself, no matter how hard one might try to or try not to -- that kind of thing.
+Now, the other meanings in the dictionary: somehow, in spite of oneself, no matter how hard one might try to or try not to — that kind of thing.
 
 **We can see that this is in fact <code>どうも言えぬ</code> without the <code>ほど</code>.** We're just saying **<code>どうも言えぬ</code>** (I can't **by any means** express).
 
@@ -100,7 +100,7 @@ I can't **in any way** say why, but I can't settle down.
 
 ![](../media/image497.webp)
 
-**Somehow** we just don't get on -- I can't possibly say why that is, but **somehow** that's the case.
+**Somehow** we just don't get on — I can't possibly say why that is, but **somehow** that's the case.
 
 ---
 
@@ -163,9 +163,9 @@ Now, there is a folk etymology for <code>やっぱり</code>.
 
 **So the folk etymology here isn't historically accurate.**
 
-But what it states is that the kanji, which are for pulling an arrow tight on a bow -- what happens when we pull an arrow tight on a bow?
+But what it states is that the kanji, which are for pulling an arrow tight on a bow — what happens when we pull an arrow tight on a bow?
 
-Well, at this point we're focusing, aren't we, on the target. And in Zen archery -- and Japanese archery is rather based in Zen -- we're supposed to see nothing but that target.
+Well, at this point we're focusing, aren't we, on the target. And in Zen archery — and Japanese archery is rather based in Zen — we're supposed to see nothing but that target.
 
 Now, suppose we are distracted. Suppose we look around, see something, hear something rustling, somebody speaks to us.
 
@@ -214,7 +214,7 @@ I didn't see it **either**."
 
 <code>僕も**やはり**行きました</code> (I went **too** / I **also** went).
 
-Again, **the other person has said that they went and we stress the も by saying <code>やはり</code>**, **returning to the original focus of this part of the conversation, to the fact that you went,** <code>well, ****やはり**** -- **original focus** -- I went **too**.</code>
+Again, **the other person has said that they went and we stress the も by saying <code>やはり</code>**, **returning to the original focus of this part of the conversation, to the fact that you went,** <code>well, ****やはり**** — **original focus** — I went **too**.</code>
 
 ---
 

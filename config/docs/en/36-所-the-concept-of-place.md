@@ -21,25 +21,25 @@ To quote Dolly-先生 in the comments: 'どこ means what it always means: <code
 I was simply demonstrating the use of the <code>place</code> metaphor in more abstract areas. If you look again at the sentence you will see that if どこ meant simply <code>place</code> it would make no sense...'
 :::
 
-Now, if I ask this, I'm not expecting an answer like <code>I like her left ear.</code> An appropriate answer might be something like <code>やさしいだ</code> -- "She's gentle / What I like about her is that she's gentle / The place I like about her is that she's gentle."
+Now, if I ask this, I'm not expecting an answer like <code>I like her left ear.</code> An appropriate answer might be something like <code>やさしいだ</code> — "She's gentle / What I like about her is that she's gentle / The place I like about her is that she's gentle."
 
-And we might say <code>This is, in my opinion, Sakura's いいところ'</code> -- "Sakura's good place or one of Sakura's good places". So <code>place</code> here doesn't mean anything remotely like a physical location.
+And we might say <code>This is, in my opinion, Sakura's いいところ'</code> — "Sakura's good place or one of Sakura's good places". So <code>place</code> here doesn't mean anything remotely like a physical location.
 
-It means an aspect of something, even a really abstract something like a person's personality. If I listen to a complicated lecture, someone might say to me <code>分かりましたか?</code> -- <code>Did you understand it?</code> -- and I might reply <code>分かるところがあったが分からないところもありました</code> -- <code>There were places I understood and places I didn't understand.</code>
+It means an aspect of something, even a really abstract something like a person's personality. If I listen to a complicated lecture, someone might say to me <code>分かりましたか?</code> — <code>Did you understand it?</code> — and I might reply <code>分かるところがあったが分からないところもありました</code> — <code>There were places I understood and places I didn't understand.</code>
 
 And here, as you see, this is closer to a usage we might have in English: <code>I mostly understood it, but there were places that I didn't understand.</code> This could lead to a subtle misunderstanding in that what I'm most likely to be saying in Japanese is not that there were times during the lecture when I didn't understand, but there were aspects or subtleties that I wasn't quite grasping.
 
 So, especially if you're more advanced, it's good to be aware of this metaphorical depth of the concept of <code>place</code>. Now, <code>place</code> is also often used to mean a place not in space but in time.
 
-And if we understand this analogy, we can understand certain usages that are often explained without explaining the structural underpinning for them, which ends up by just giving you a list of things to memorize and as usual say "well, this goes with this and happens to mean that and we don't particularly know why." So, for example, we can use <code>ところ</code> -- <code>place</code> -- with <code>A does B</code> sentences in all three tenses, that's to say, the past, the present, and the future.
+And if we understand this analogy, we can understand certain usages that are often explained without explaining the structural underpinning for them, which ends up by just giving you a list of things to memorize and as usual say "well, this goes with this and happens to mean that and we don't particularly know why." So, for example, we can use <code>ところ</code> — <code>place</code> — with <code>A does B</code> sentences in all three tenses, that's to say, the past, the present, and the future.
 
-So, for example, if we say, using the plain dictionary form of the word <code>食べる</code> -- <code>eat</code> (which, as we know, from our lesson on tenses is not present by default; it's future by default). If we say <code>昼ご飯を食べるところだ</code>, what we're saying is <code>I'm just about to eat lunch.</code>
+So, for example, if we say, using the plain dictionary form of the word <code>食べる</code> — <code>eat</code> (which, as we know, from our lesson on tenses is not present by default; it's future by default). If we say <code>昼ご飯を食べるところだ</code>, what we're saying is <code>I'm just about to eat lunch.</code>
 
 What's the structure of this? Well, it ends with <code>だ</code>, so we know that what we have is an <code>A is B</code> sentence, even though the original sentence sandwiched into it is an <code>A does B</code> sentence.
 
 ![](../media/image679.webp)
 
-So we're saying that <code>(something) is place</code>. The zero-car here is <code>it</code>, as it would be in English, and what it means is the present time, exactly as it does in English when we say <code>It's time to leave</code> -- <code>the present time is time to leave</code>.
+So we're saying that <code>(something) is place</code>. The zero-car here is <code>it</code>, as it would be in English, and what it means is the present time, exactly as it does in English when we say <code>It's time to leave</code> — <code>the present time is time to leave</code>.
 
 The <code>it</code> is <code>the present time</code> in both Japanese and English in these constructions. So, we're saying <code>It (the present time) is I-will-eat-lunch time</code>, so what it means is <code>I'm just about to eat lunch</code>.
 
@@ -55,7 +55,7 @@ The <code>ところだ</code> is adding to that past tense the immediateness: "T
 
 The two mean pretty much the same thing. And I've seen textbooks giving us this set of rules : "You can use ばかり with a noun.
 
-You can say <code>このお店はパンばかり売る</code> -- <code>This shop sells nothing but bread</code> -- or we can say <code>昼ご飯を食べたばかりだ</code> -- <code>I just ate lunch.</code> But you have to remember that the rules say that <code>ところ</code> can't be used with a noun."
+You can say <code>このお店はパンばかり売る</code> — <code>This shop sells nothing but bread</code> — or we can say <code>昼ご飯を食べたばかりだ</code> — <code>I just ate lunch.</code> But you have to remember that the rules say that <code>ところ</code> can't be used with a noun."
 
 Now, this is true, but it's a strangely abstract way of putting it. It's putting it as if these are just some random rules that somebody made up, perhaps in the Heian era because they had nothing better to do with their time.
 
@@ -75,7 +75,7 @@ As with many regular set expressions, the copula <code>だ</code> can be left of
 
 This is the case in all languages, that there are places where, colloquially, we can leave bits out. And so long as we know what the structure is, it's not very difficult to understand the omissions too.
 
-So, we might say <code>名古屋/なごやに着陸したとこ</code> -- <code>I just landed at Nagoya.</code> And we often use these abbreviations like <code>とこ</code> -- leaving off the <code>ろ</code> and the <code>だ</code> from <code>ところだ</code> -- when we are trying to express a sense of immediacy.
+So, we might say <code>名古屋/なごやに着陸したとこ</code> — <code>I just landed at Nagoya.</code> And we often use these abbreviations like <code>とこ</code> — leaving off the <code>ろ</code> and the <code>だ</code> from <code>ところだ</code> — when we are trying to express a sense of immediacy.
 
 But people do it on various occasions, just as they do the equivalent thing in English. So, we see that <code>ところ</code> can be literal, a <code>place in space</code>.
 

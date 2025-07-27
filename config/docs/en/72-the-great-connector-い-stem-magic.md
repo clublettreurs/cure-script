@@ -30,7 +30,7 @@ Because this is such a wide-ranging structural element, I'm going to compare it 
 
 It's similar to them, of course, because like all of them, it is used for attaching fundamental helpers. And by fundamental helpers I mean the things that sometimes get called <code>conjugations</code> in the textbooks.
 
-As we know, there is no such thing as conjugation in Japanese. *(or rather in the Western sense)* There are just the four stems and various helper verbs, nouns and adjectives, some of which get arbitrarily called <code>conjugations</code>, some of which don't, and depending on which textbook you read, you'll probably get a slightly different take on which ones are <code>conjugations</code> and which aren't, which is perfectly natural because it's a wholly arbitrary category anyway -- there's no such thing as conjugation in Japanese, so the whole thing is fantasy. And we don't necessarily expect consistency in fantasy.
+As we know, there is no such thing as conjugation in Japanese. *(or rather in the Western sense)* There are just the four stems and various helper verbs, nouns and adjectives, some of which get arbitrarily called <code>conjugations</code>, some of which don't, and depending on which textbook you read, you'll probably get a slightly different take on which ones are <code>conjugations</code> and which aren't, which is perfectly natural because it's a wholly arbitrary category anyway — there's no such thing as conjugation in Japanese, so the whole thing is fantasy. And we don't necessarily expect consistency in fantasy.
 
 ---
 
@@ -81,7 +81,7 @@ And I've done a whole video on this <code>込む</code> which you can watch if y
 
 On a computer loading screen, you'll often see <code>読み込み中</code>, which is interesting, because here you see we have two い-stems, stacked together. <code>読み込む</code> itself takes the い-stem and connects to <code>中</code> (middle).
 
-So <code>読み込み中</code> is literally read + pack in + middle -- <code>in the process of loading</code>. And this, of course, is a noun: <code>中</code> is a noun and any compound takes on the character of its last element in Japanese.
+So <code>読み込み中</code> is literally read + pack in + middle — <code>in the process of loading</code>. And this, of course, is a noun: <code>中</code> is a noun and any compound takes on the character of its last element in Japanese.
 
 So, <code>読み込み中</code> is a noun formed by a compound of two い-stem verbs and a noun.
 
@@ -97,7 +97,7 @@ And to come again to our friend <code>読む</code>, we can have <code>読み方
 
 ![](../media/image221.webp)
 
-<code>方 / かた</code> means <code>form, or manner, or way</code> -- you may have heard of <code>方</code> in karate, the martial art -- so <code>読み方</code> means <code>form or manner or way of reading</code>, and what this usually means is the pronunciation of a kanji, the way of reading the kanji in a particular context.
+<code>方 / かた</code> means <code>form, or manner, or way</code> — you may have heard of <code>方</code> in karate, the martial art — so <code>読み方</code> means <code>form or manner or way of reading</code>, and what this usually means is the pronunciation of a kanji, the way of reading the kanji in a particular context.
 
 So, the い-stem has the compound word capacity of the て-form and takes it further than the て-form. And it can also take on another of the て-form's fundamental functions, because, as we know, the て-form can connect the two halves of a compound sentence.
 
@@ -174,7 +174,7 @@ So if we say, for example, <code>お店にパンを買いに行く</code> or <co
 
 ![](../media/image327.webp)
 
-what do we mean by the い-stem of <code>買う</code>, which is <code>買い</code>, or the い-stem of <code>遊ぶ</code>, which is <code>遊び</code>? What we mean is the noun, so when we say <code>公園に遊びに行く</code>, we're marking the locational target of the place we're going -- we're going to the park, <code>公園</code> -- and then we're stating our purpose. --
+what do we mean by the い-stem of <code>買う</code>, which is <code>買い</code>, or the い-stem of <code>遊ぶ</code>, which is <code>遊び</code>? What we mean is the noun, so when we say <code>公園に遊びに行く</code>, we're marking the locational target of the place we're going — we're going to the park, <code>公園</code> — and then we're stating our purpose. --
 
 Our purpose is the thing of playing, the thing of having fun, and that is <code>遊び</code>. So literally we're saying <code>I'm going to the park for play</code>.
 

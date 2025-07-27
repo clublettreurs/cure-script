@@ -12,11 +12,11 @@ And we have the various cars, all of which represent nouns with their various at
 
 We have the い-engine, which is adjectives, we have the う-engine, which is verbs, and everything else is a noun. We have the noun-plus-copula engine and we have the various noun carriages with their different particles.
 
-And we may notice that I haven't introduced an adverb car, and that's because most adverbs -- not all but most -- are in fact variants on an adjective or variants on a noun. There are a few genuine other kinds of word, but most of what you see in Japanese is going to boil down to one of these three, despite what the dictionaries will sometimes tell you.
+And we may notice that I haven't introduced an adverb car, and that's because most adverbs — not all but most — are in fact variants on an adjective or variants on a noun. There are a few genuine other kinds of word, but most of what you see in Japanese is going to boil down to one of these three, despite what the dictionaries will sometimes tell you.
 
 And if it's not a verb or an adjective, then it's likely to be a noun. What the dictionaries call な-adjectives are nouns, what they call の-adjectives are nouns, what they call する verbs are nouns.
 
-And most of the things that they put into other categories -- not all but most -- turn out to be nouns. Japanese is a very noun-centric language. We could be tempted to attribute this fact to the fact that there are a lot of foreign words in Japanese and all of them are nouns.
+And most of the things that they put into other categories — not all but most — turn out to be nouns. Japanese is a very noun-centric language. We could be tempted to attribute this fact to the fact that there are a lot of foreign words in Japanese and all of them are nouns.
 
 A great part of the Japanese vocabulary comes from Chinese. There are also words from English and German and other languages, but they pale into insignificance compared to the older Chinese vocabulary in Japanese, which is similar to the large amount of the English vocabulary which is Latin, either directly from Latin or indirectly via French.
 
@@ -40,7 +40,7 @@ The dictionaries and textbooks tell us about <code>な-adjectives</code>, but th
 
 There is an adjectival noun which continues to act in almost every respect like any other noun. The only difference between an adjectival noun and any other noun is that we can use <code>な</code> with it.
 
-And <code>な</code>, as we know, is simply the connective form of <code>だ</code>. So, we can say <code>女の子は 綺麗/きれい だ</code> -- <code>the child is pretty</code> -- or we can say <code>きれいな女の子</code>, which means <code>pretty child</code>.
+And <code>な</code>, as we know, is simply the connective form of <code>だ</code>. So, we can say <code>女の子は 綺麗/きれい だ</code> — <code>the child is pretty</code> — or we can say <code>きれいな女の子</code>, which means <code>pretty child</code>.
 
 <code>きれいだ</code> means <code>is pretty</code> and <code>きれいな</code> also means <code>is pretty</code>, so we're saying <code>child is pretty</code> or <code>is-pretty child</code>. <code>な</code> and <code>だ</code> are the same copula.
 
@@ -48,19 +48,19 @@ Now, the reason these are called adjectival nouns is that we can't do this exact
 
 But I'll just note before passing on that we can say that there are essentially two types of adjectival noun, and that is, the ones like <code>綺麗/きれい</code>, which really are not used as ordinary nouns at all; they're almost entirely dedicated to being adjectival: we don't talk about a person's <code>きれい</code>. And then there are the ones which continue to work as independent nouns, like <code>元気</code>.
 
-So we can say <code>子どもが元気だ</code> -- <code>the child is lively</code>; we can say <code>元気な子ども</code> -- <code>lively child</code>. But we can also say things like <code>元気を出して</code>, which loosely translated means <code>cheer up</code>, but literally translated means <code>get out your 元気</code>.
+So we can say <code>子どもが元気だ</code> — <code>the child is lively</code>; we can say <code>元気な子ども</code> — <code>lively child</code>. But we can also say things like <code>元気を出して</code>, which loosely translated means <code>cheer up</code>, but literally translated means <code>get out your 元気</code>.
 
 <code>元気</code> is a thing here: it's marked by the を-particle, and you can't put a logical particle onto anything but a noun. So, <code>元気</code>, even though it's primarily adjectival and is classed as an adjectival noun, works as both an adjectival and a noun.
 
 Now, if a noun is not classed as an adjectival noun we can still use it adjectivally. So, the word <code>魔法/まほう</code>, which means <code>magic</code>, can be used as a noun just as it can in English.
 
-We can talk about magic as a thing. But we can also say <code>魔法の帽子</code> -- <code>magic hat</code>.
+We can talk about magic as a thing. But we can also say <code>魔法の帽子</code> — <code>magic hat</code>.
 
 It's not an adjectival noun, but as you see, we can achieve pretty much the same effect just by using <code>の</code> instead of <code>な</code>. There are also some words that can be either の- or な-adjectivals.
 
-A good example of this is <code>不思議/ふしぎ</code>, which means a <code>mystery</code> or a <code>wonder</code>. It tends to get used very often as an adjective as in <code>不思議な屋敷/やしき</code> -- <code>mysterious mansion</code> – but it's also used quite often as a noun.
+A good example of this is <code>不思議/ふしぎ</code>, which means a <code>mystery</code> or a <code>wonder</code>. It tends to get used very often as an adjective as in <code>不思議な屋敷/やしき</code> — <code>mysterious mansion</code> – but it's also used quite often as a noun.
 
-We can talk about the school <code>七不思議</code> -- which means literally the ****seven wonders**** or <code>seven mysteries</code> of the school, and what it usually refers to is in fact ghost stories connected to the school, such as <code>トイレのはなこさん</code>, who you may have heard of -- the girl who haunts the lavatory.
+We can talk about the school <code>七不思議</code> — which means literally the ****seven wonders**** or <code>seven mysteries</code> of the school, and what it usually refers to is in fact ghost stories connected to the school, such as <code>トイレのはなこさん</code>, who you may have heard of — the girl who haunts the lavatory.
 
 Now, <code>不思議</code>, if we're using it adjectivally, it can be what the dictionaries call either a <code>な-adjective</code> or a <code>の-adjective</code>, that is to say, we can use either <code>な</code> or <code>の</code> when we're using it adjectivally.
 
@@ -102,7 +102,7 @@ there is [**a recent comment**](https://www.youtube.com/watch?v=GB8fWjQuz9A&lc=U
 
 The author actually supplies an English translation, although the book is entirely in Japanese, of the title: <code>Alice and Penguin: The Excellent Detectives</code>. But I would say this is not a very good translation into English.
 
-<code>華麗</code> means something more than <code>excellent</code>, but even more than that, the choice of <code>なる</code> rather than <code>な</code> -- what does that mean? Does that have an implication, like the one in <code>不思議の国のアリス</code>?
+<code>華麗</code> means something more than <code>excellent</code>, but even more than that, the choice of <code>なる</code> rather than <code>な</code> — what does that mean? Does that have an implication, like the one in <code>不思議の国のアリス</code>?
 
 I would say it could have done, in the past, up to a certain point, but with a modern text, making the choice to use <code>なる</code> has a different meaning. It's being chosen because it sounds a bit more old-fashioned, a bit more literary, a bit more somehow portentous.
 
@@ -128,19 +128,19 @@ What's going on on these occasions? We know that free-standing kanji are going t
 
 Well, what's happening is that one noun is modifying another. We've seen the ways in which nouns modify each other with <code>な</code> or <code>の</code> or even <code>なる</code> or <code>たる</code>, but they can also modify each other with nothing, and we're already familiar with that where two words glue together to make another word, such as <code>日本語</code>.
 
-<code>日本</code> is <code>Japan</code>, <code>語</code> is <code>language</code>, and if you put the two together you have <code>日本語</code> -- <code>Japanese language</code>. Now, we see that in many, many cases, some of which we've already covered.
+<code>日本</code> is <code>Japan</code>, <code>語</code> is <code>language</code>, and if you put the two together you have <code>日本語</code> — <code>Japanese language</code>. Now, we see that in many, many cases, some of which we've already covered.
 
 And this works exactly the same way as in English. For example, in English we have words like <code>bookshelf</code> and <code>seaweed</code>.
 
-In Japanese we can do exactly the same thing. So we have <code>本棚</code> -- <code>本</code> is <code>book</code>, <code>棚</code> is <code>shelf</code>: <code>本棚</code> is <code>bookshelf</code>.
+In Japanese we can do exactly the same thing. So we have <code>本棚</code> — <code>本</code> is <code>book</code>, <code>棚</code> is <code>shelf</code>: <code>本棚</code> is <code>bookshelf</code>.
 
-<code>海草</code> -- <code>海/かい</code> is the 音読み-reading of <code>海/うみ</code>, <code>sea</code>; <code>草/そう</code> is the 音読み-reading of <code>草/くさ</code>, <code>grass</code>, and together they make <code>海草</code> -- <code>seaweed</code>, because <code>grass</code> can mean any kind of plant-life, which is why we have Grass Pokemon.
+<code>海草</code> — <code>海/かい</code> is the 音読み-reading of <code>海/うみ</code>, <code>sea</code>; <code>草/そう</code> is the 音読み-reading of <code>草/くさ</code>, <code>grass</code>, and together they make <code>海草</code> — <code>seaweed</code>, because <code>grass</code> can mean any kind of plant-life, which is why we have Grass Pokemon.
 
 And this also happens in the case of combinations that don't exist in English, such as <code>指輪</code>. <code>指/ゆび</code> is <code>finger</code>, <code>輪/わ</code> is a <code>ring</code>, so <code>指輪</code> is a finger ring.
 
 However, we can see larger combinations too, for things that would be phrases rather than words in English. And again this is done in exactly the same way as it happens in English, so it should really be no cause for alarm.
 
-For example, we have <code>大学教育</code> -- <code>大学</code> means <code>university</code>; <code>教育</code> means <code>education</code> or <code>training</code>. So <code>大学教育/だいがくきょういく</code> is <code>university education</code>.
+For example, we have <code>大学教育</code> — <code>大学</code> means <code>university</code>; <code>教育</code> means <code>education</code> or <code>training</code>. So <code>大学教育/だいがくきょういく</code> is <code>university education</code>.
 
 And, as you see, again it works exactly the same way as in English. We don't need, in English, to say <code>education at a university</code> every time; we can say <code>university education</code>.
 
@@ -154,7 +154,7 @@ For example, <code>日本語能力試験</code>. Now, that looks quite a dauntin
 
 But what this actually is is the Japanese Language Proficiency Test, which you've probably heard of and of which I'm not a great advocate. And we can see that exactly the same thing is happening in Japanese as in the English equivalent:
 
-<code>日本語</code> -- <code>Japanese language</code>; <code>能力</code> -- <code>proficiency</code> or <code>ability</code>; <code>試験</code> -- <code>examination</code>. And exactly as in English we can use one noun to modify another noun and then the two of them together to modify the third noun -- and so on.
+<code>日本語</code> — <code>Japanese language</code>; <code>能力</code> — <code>proficiency</code> or <code>ability</code>; <code>試験</code> — <code>examination</code>. And exactly as in English we can use one noun to modify another noun and then the two of them together to modify the third noun — and so on.
 
 So, <code>日本</code> modifies <code>語</code> (what kind of a language? Japanese language). <code>日本語</code> modifies <code>能力</code> (what kind of proficiency? Japanese language proficiency).
 

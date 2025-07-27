@@ -14,7 +14,7 @@ in anime, manga, etc.
 So, one of the ones I often get asked about is <code>かい</code>,  
 and <code>かい</code> is simply a softened and colloquial form of <code>か</code>. As we know, <code>か</code> is regularly used in formal Japanese, where we use the です/ます decorations at the end of sentences, to form questions. So we say <code>何々しますか / 何々ですか</code>.
 
-But in colloquial Japanese we don't use <code>か</code> as a sentence-ender question-marker all that often. **We do use it in other positions** -- and I've done a video about the various ways we use <code>か</code> *(Lesson 39)* and I'll pop a link for that over my head too. But where we don't tend to use it in informal speech, on the whole, is at the end of sentences marking questions, the way it does in です/ます Japanese.
+But in colloquial Japanese we don't use <code>か</code> as a sentence-ender question-marker all that often. **We do use it in other positions** — and I've done a video about the various ways we use <code>か</code> *(Lesson 39)* and I'll pop a link for that over my head too. But where we don't tend to use it in informal speech, on the whole, is at the end of sentences marking questions, the way it does in です/ます Japanese.
 
 And that's not because it's ungrammatical, in fact it's perfectly grammatical, but in modern Japanese it's come to sound a little bit rough, so while you may hear it between men who are being <code>one of the boys</code> together, you don't hear it so often in female speech or in the speech of anyone who's trying to be a bit courteous. So what do we do? Most of the time we simply use a rising intonation in speech or a question mark in writing where we're depicting casual speech. And there's nothing wrong with this.
 
@@ -37,7 +37,7 @@ copula-ending sentences, <code>だ</code>-ending sentences.
 ![](../media/image318.webp)
 
 And just about everything I've said about <code>かい</code> also applies to <code>だい</code>,  
-**except** that there is a particular collocation, <code>どうだい</code>, which is much more widely used. So, if somebody's eating something and you say <code>どうだい?</code> -- <code>what's it like? / how is it?</code> -- and they might say <code>おいしい/美味しい!</code> or they might say <code>まずい/不味い</code>, but **asking it in that form is something anybody can do provided it's an informal setting.**
+**except** that there is a particular collocation, <code>どうだい</code>, which is much more widely used. So, if somebody's eating something and you say <code>どうだい?</code> — <code>what's it like? / how is it?</code> — and they might say <code>おいしい/美味しい!</code> or they might say <code>まずい/不味い</code>, but **asking it in that form is something anybody can do provided it's an informal setting.**
 
 ## ちょうだい
 

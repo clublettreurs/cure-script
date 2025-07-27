@@ -45,7 +45,7 @@ So, <code>電気がついておらず</code> means <code>the electricity existed
 
 We also know that if we see a word that is all kanji, it's almost certainly going to be a noun. So <code>真っ暗</code> is <code>pitch darkness</code>.
 
-<code>真っ暗で</code> -- the <code>で</code> here is the て-form of <code>だ</code> or <code>です</code>. So, <code>部屋の中は電気がついておらず真っ暗で</code> -- <code>As for the inside of the room, the lights were off, it was pitch dark</code>.
+<code>真っ暗で</code> — the <code>で</code> here is the て-form of <code>だ</code> or <code>です</code>. So, <code>部屋の中は電気がついておらず真っ暗で</code> — <code>As for the inside of the room, the lights were off, it was pitch dark</code>.
 
 ---
 
@@ -57,7 +57,7 @@ We also know that if we see a word that is all kanji, it's almost certainly goin
 
 And we've covered this in a previous lesson as well. *(Lesson 25)*
 
-So in between this sandwich that gives us the <code>it appears to be the case</code> meaning, it says <code>先輩はもう寝てしまった</code> -- <code>senpai has already done gone to sleep / done gone to bed</code>. As we know, that <code>しまう, しまった</code> gives that <code>done</code> meaning. And that's really the best way to put it in English.
+So in between this sandwich that gives us the <code>it appears to be the case</code> meaning, it says <code>先輩はもう寝てしまった</code> — <code>senpai has already done gone to sleep / done gone to bed</code>. As we know, that <code>しまう, しまった</code> gives that <code>done</code> meaning. And that's really the best way to put it in English.
 
 It sounds a bit rustic in English, but there's nothing else in English which I think gives that sense of <code>しまう, しまった, ちゃった</code> quite as well as <code>done</code>. She'd already done gone to bed, it seemed.
 
@@ -69,39 +69,39 @@ An alternative writing is 不用心. They should mean the same thing.
 
 But this particular word <code>無用心</code> tends to mean lack of cautiousness in relation to criminal or other hostile activity. So we might say that walking alone in a dangerous place is <code>無用心</code> or leaving valuables on display in our car is <code>無用心</code>. And here, leaving her door unlocked at night so anybody could just walk in is <code>無用心</code>.
 
-<code>無用心だな</code>: <code>な</code>, as we know, is the particle used for directing a comment at ourself, so she's thinking to herself <code>無用心だ</code> -- it's reckless, dangerous behavior.
+<code>無用心だな</code>: <code>な</code>, as we know, is the particle used for directing a comment at ourself, so she's thinking to herself <code>無用心だ</code> — it's reckless, dangerous behavior.
 
 <code>無用心だな、と思った彼女は</code>: so, she, who was thinking this, <code>電気をつけて先輩を起こそうかと思ったが</code>.
 
-All right, so this looks a little bit complicated and we still haven't finished the sentence, but let's just take it bit by bit. First of all she thought <code>無用心</code> -- <code>unsafe, dangerous behavior</code>; <code>she thought</code> -- <code>と思った彼女</code> -- she who thought that, then thought something else; <code>電気をつけて</code> -- <code>点ける/つける</code>, of course, is the other-move version of <code>点く/つく</code>, so she thought of switching on the lights; <code>先輩を起こそう</code> -- now, as we know, that <code>そう</code> ending is a volitional ending; <code>起こそうか</code> -- she thought about taking the action of awakening senpai.
+All right, so this looks a little bit complicated and we still haven't finished the sentence, but let's just take it bit by bit. First of all she thought <code>無用心</code> — <code>unsafe, dangerous behavior</code>; <code>she thought</code> — <code>と思った彼女</code> — she who thought that, then thought something else; <code>電気をつけて</code> — <code>点ける/つける</code>, of course, is the other-move version of <code>点く/つく</code>, so she thought of switching on the lights; <code>先輩を起こそう</code> — now, as we know, that <code>そう</code> ending is a volitional ending; <code>起こそうか</code> — she thought about taking the action of awakening senpai.
 
-<code>起こす</code> --to <code>wake someone up</code>; <code>起きる</code>, you wake up yourself; <code>起こす</code> -- -す endings, as we know, mean other-move verbs, so <code>起こす</code> is to wake someone else up. <code>起こそうか</code> -- so, she's thinking about this action.
+<code>起こす</code> —to <code>wake someone up</code>; <code>起きる</code>, you wake up yourself; <code>起こす</code> — -す endings, as we know, mean other-move verbs, so <code>起こす</code> is to wake someone else up. <code>起こそうか</code> — so, she's thinking about this action.
 
 ![](../media/image745.webp)
 
 The <code>か</code>, as we know from another lesson *(Lesson 39)*, marks a question, that's to say, a proposition. So the proposition was taking the action of waking up senpai.
 
-This is what she thought, but... (<code>が</code> -- <code>but</code>) <code>先輩がかなり酔っていたのをおもいだし、</code>. So, <code>かなり</code> is another one of those adverbial nouns that can modify a verb or an adjective without the に or -と that's usually needed for a noun to modify a verb or an adjective, so <code>かなり酔っていた</code> -- <code>酔う</code> is to <code>be sick or to be drunk</code>, in this case <code>drunk</code>.
+This is what she thought, but... (<code>が</code> — <code>but</code>) <code>先輩がかなり酔っていたのをおもいだし、</code>. So, <code>かなり</code> is another one of those adverbial nouns that can modify a verb or an adjective without the に or -と that's usually needed for a noun to modify a verb or an adjective, so <code>かなり酔っていた</code> — <code>酔う</code> is to <code>be sick or to be drunk</code>, in this case <code>drunk</code>.
 
-<code>かなり</code> means <code>sufficiently</code> or <code>pretty much</code> or <code>very</code>. So she was pretty drunk, she was in the state of being pretty drunk: <code>かなり酔っていたの</code> -- the <code>の</code> of course bundles that statement into a noun box -- <code>のを思い出し</code> -- <code>思い出し</code> is <code>remember</code>, so she remembered the fact -- the <code>の</code> -- that senpai had been pretty drunk.
+<code>かなり</code> means <code>sufficiently</code> or <code>pretty much</code> or <code>very</code>. So she was pretty drunk, she was in the state of being pretty drunk: <code>かなり酔っていたの</code> — the <code>の</code> of course bundles that statement into a noun box — <code>のを思い出し</code> — <code>思い出し</code> is <code>remember</code>, so she remembered the fact — the <code>の</code> — that senpai had been pretty drunk.
 
-<code>思い出す</code> is <code>remember</code>; <code>思い出し</code>, once again, as we discussed last week *(Lesson 7.5)*, is the い-stem of <code>思い出す</code> -- <code>remember</code> -- and the い-stem here *(the し)* is being used like the て-form to make this clause a part of a compound sentence.
+<code>思い出す</code> is <code>remember</code>; <code>思い出し</code>, once again, as we discussed last week *(Lesson 7.5)*, is the い-stem of <code>思い出す</code> — <code>remember</code> — and the い-stem here *(the し)* is being used like the て-form to make this clause a part of a compound sentence.
 
 ![](../media/image1022.webp)
 
-So we have a three-fold compound sentence now. First of all, we use <code>が</code> -- <code>but</code> -- as the connector for the first part, and the second part we're using -し like the て-form as the connector for the third part, and the third part is <code>そっとしておくことにした</code>.
+So we have a three-fold compound sentence now. First of all, we use <code>が</code> — <code>but</code> — as the connector for the first part, and the second part we're using -し like the て-form as the connector for the third part, and the third part is <code>そっとしておくことにした</code>.
 
 ![](../media/image581.webp)
 
 <code>そっと</code> is another one of these adverbial nouns, meaning <code>softly, gently or quietly</code>. <code>そっとする</code> means to <code>do softly, gently or quietly</code>. It's like <code>静かにする</code>, which means to <code>do quietly</code>.
 
-<code>そっとする</code> means also to <code>do quietly</code>, but <code>静か</code> means more <code>keep quiet</code>. You might say this to a class: <code>静かに!</code> -- <code>Keep quiet!</code>
+<code>そっとする</code> means also to <code>do quietly</code>, but <code>静か</code> means more <code>keep quiet</code>. You might say this to a class: <code>静かに!</code> — <code>Keep quiet!</code>
 
 <code>そっとする</code> is more to <code>do (something) in a quiet manner</code>. Now, <code>静か</code> can be used in that way too, but <code>そっとする</code> means to do something quietly; it can even mean secretly.
 
 <code>静か</code> can't mean secretly; <code>そっと</code> can mean secretly. Here it doesn't mean secretly, but it does mean doing something quietly so that someone else won't be aware of you doing it, which is the kind of implication that <code>そっと</code> often tends to have.
 
-<code>そっとしておく</code> -- <code>しておく</code>, as we know, is to <code>put in place an action</code>. <code>置く/おく</code> means to <code>place (something)</code>.
+<code>そっとしておく</code> — <code>しておく</code>, as we know, is to <code>put in place an action</code>. <code>置く/おく</code> means to <code>place (something)</code>.
 
 ![](../media/image1000.webp)
 
@@ -121,11 +121,11 @@ So, "**That**s dangerous, isn't it, leaving the door open,' she thought; she con
 
 ![](../media/image547.webp)
 
-"In the pitch darkness -- 真っ暗の中で -- 自分の携帯電話 -- her own telephone -- 探し出す". <code>探し出す</code>: <code>探す</code> as we know, is <code>search</code>; <code>探し出す</code> is literally <code>search out</code>, so she sought it out, she found it -- <code>と</code>.
+"In the pitch darkness — 真っ暗の中で — 自分の携帯電話 — her own telephone — 探し出す". <code>探し出す</code>: <code>探す</code> as we know, is <code>search</code>; <code>探し出す</code> is literally <code>search out</code>, so she sought it out, she found it — <code>と</code>.
 
 ****「忘れ物をしたので取りに戻りましたー」とひと声かけて部屋を後にした"
 
-So she said something aloud here, but presumably quite quietly so that she wouldn't wake senpai. She said: <code>忘れ物</code> -- <code>forgotten thing</code> -- <code>をしたので</code> -- "I did a forgotten thing / I forgot a thing / I left a thing behind<code> -- </code>忘れ物をしたので" -- because of that -- <code>取りに戻りました</code> -- <code>I came back to take it / in order to take it, I returned</code> -- <code>とひと声かけて</code> -- <code>声 (を) かける</code> is to say something to someone, to engage them in conversation, here <code>ひと声</code> -- she just said that single word, she just said that single voice, literally, she just said that -- <code>部屋を後にした</code> -- so she just said that, presumably quietly so that senpai wouldn't even hear her, but she felt she ought to say something -- <code>部屋を後にした</code> -- <code>後にする</code> literally means to <code>turn it into behind</code>, in other words, put it behind you, in other words, leave -- she left the room -- <code>部屋を後にした</code> -- she made the room the thing behind her by leaving it.
+So she said something aloud here, but presumably quite quietly so that she wouldn't wake senpai. She said: <code>忘れ物</code> — <code>forgotten thing</code> — <code>をしたので</code> — "I did a forgotten thing / I forgot a thing / I left a thing behind<code> — </code>忘れ物をしたので" — because of that — <code>取りに戻りました</code> — <code>I came back to take it / in order to take it, I returned</code> — <code>とひと声かけて</code> — <code>声 (を) かける</code> is to say something to someone, to engage them in conversation, here <code>ひと声</code> — she just said that single word, she just said that single voice, literally, she just said that — <code>部屋を後にした</code> — so she just said that, presumably quietly so that senpai wouldn't even hear her, but she felt she ought to say something — <code>部屋を後にした</code> — <code>後にする</code> literally means to <code>turn it into behind</code>, in other words, put it behind you, in other words, leave — she left the room — <code>部屋を後にした</code> — she made the room the thing behind her by leaving it.
 
 And that was that for the evening. Well, she got out of that all right, didn't she?
 

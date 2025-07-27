@@ -21,15 +21,15 @@ It's not an adjective: doesn't end in -い. So the chances are it's a noun, and 
 
 So, what kind of a noun is it? What does it mean? What is a <code>まま</code>? A <code>まま</code> is a thing; it's a noun. What kind of a thing is it? Well, it's a very simple thing, a very straightforward thing, and once we know what it is we can understand it in all circumstances.
 
-A <code>まま</code> is an unchanged condition. Wherever you see <code>まま</code>, you can read <code>unchanged condition</code>. There's one circumstance in which it has a slightly extended meaning and apart from that -- which is very simple and we'll come to that shortly -- we have the definition, the understanding of <code>まま</code>: <code>unchanged condition</code>.
+A <code>まま</code> is an unchanged condition. Wherever you see <code>まま</code>, you can read <code>unchanged condition</code>. There's one circumstance in which it has a slightly extended meaning and apart from that — which is very simple and we'll come to that shortly — we have the definition, the understanding of <code>まま</code>: <code>unchanged condition</code>.
 
-So, let's look at some of the ways in which it's used. We can say <code>自然のままの森</code> -- that's <code>a forest in its natural *(unchanged)* state</code>.
+So, let's look at some of the ways in which it's used. We can say <code>自然のままの森</code> — that's <code>a forest in its natural *(unchanged)* state</code>.
 
 ![](../media/image876.webp)
 
 <code>自然</code> is nature<code> and </code>まま<code> is </code>unchanged state<code> or </code>unchanged condition". So, <code>自然のまま</code> is the <code>unchanged condition of nature</code>. <code>自然のままの森</code> is <code>the forest in the unchanged condition of nature</code>.
 
-Now, when you're in Japan somebody may offer you 枝豆/えだまめ, which are beans which grow from the branches of trees, which is why they're called 枝豆 (which means <code>branch bean</code>). And you might look at them, they're not cooked or anything, you might say <code>そのままで食べられるの?</code> -- <code>Can you eat them just as they are / can you eat them in their unchanged condition?</code>
+Now, when you're in Japan somebody may offer you 枝豆/えだまめ, which are beans which grow from the branches of trees, which is why they're called 枝豆 (which means <code>branch bean</code>). And you might look at them, they're not cooked or anything, you might say <code>そのままで食べられるの?</code> — <code>Can you eat them just as they are / can you eat them in their unchanged condition?</code>
 
 ![](../media/image981.webp)
 
@@ -45,7 +45,7 @@ We can say <code>パジャマのまま朝ごはんを食べる</code>. That mean
 
 ![](../media/image500.webp)
 
-And as we can see, once again the implication here is that the condition could change but hasn't changed. <code>いつまでも若いままでいたい</code> -- <code>I'd like to stay young forever.</code> <code>I'd like to stay in the unchanged condition of being young forever.</code>
+And as we can see, once again the implication here is that the condition could change but hasn't changed. <code>いつまでも若いままでいたい</code> — <code>I'd like to stay young forever.</code> <code>I'd like to stay in the unchanged condition of being young forever.</code>
 
 ![](../media/image931.webp)
 
@@ -61,13 +61,13 @@ So what does this actually mean? Well, it's always applied to something that is 
 
 And this can under certain circumstances imply selfishness, but it doesn't need to. I think the first time I heard it was in an anime where the characters were underwater.
 
-They were able to breathe but they found that they couldn't move the way that they wanted to, just as one can't in water. And they said <code>思いのままに動けない</code> -- <code>we are unable to move in the unchanged condition of our thoughts</code> or <code>...the unchanged condition of our will or desire</code>.
+They were able to breathe but they found that they couldn't move the way that they wanted to, just as one can't in water. And they said <code>思いのままに動けない</code> — <code>we are unable to move in the unchanged condition of our thoughts</code> or <code>...the unchanged condition of our will or desire</code>.
 
 ![](../media/image755.webp)
 
 Now, we should understand here that <code>思い</code> sometimes does imply desire. For example, when we say <code>片思い</code>, which is literally <code>one-sided thought</code> or <code>one-side thought</code>, what that actually means is <code>unrequited love</code>.
 
-It means having a desire for someone but it's only one side of the desire. The other person doesn't reciprocate that desire. So it's <code>片思い</code> -- <code>one-sided thought</code> or <code>one-sided desire</code>.
+It means having a desire for someone but it's only one side of the desire. The other person doesn't reciprocate that desire. So it's <code>片思い</code> — <code>one-sided thought</code> or <code>one-sided desire</code>.
 
 So <code>思いのまま</code> is <code>in the unchanged condition of one's thought or desire</code>. And it's really from this use of <code>まま</code> that we get <code>わがまま</code>, which I'm sure you've heard, which means <code>selfish</code> or <code>selfishness</code>.
 

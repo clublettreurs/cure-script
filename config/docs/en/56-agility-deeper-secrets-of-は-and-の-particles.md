@@ -18,7 +18,7 @@ Now, the reason for this has to do of course with the fact that Japanese is what
 
 So, I'm going to reintroduce a sentence I used in my first advanced lesson on the use of the は-particle, and that is: <code>アフリカはライオンはいるがトラはいない</code> Now, as you see, we have three はs in the space of a very short sentence and they are indeed all topic-markers, because は **always** is a topic-marker. And I have explained what's going on, but we're going to look at this in terms of agility.
 
-What's going on, of course, is that the first は is the overall topic-marker. It's saying <code>アフリカは...</code> -- <code>Speaking of Africa...</code> and everything that follows is going to be a comment on the topic of Africa.
+What's going on, of course, is that the first は is the overall topic-marker. It's saying <code>アフリカは...</code> — <code>Speaking of Africa...</code> and everything that follows is going to be a comment on the topic of Africa.
 
 What follows a は-marked topic has to be a logical clause. It doesn't matter how small it is, but it must be a logical clause. And it must contain both the necessary elements of a logical clause just like any other.
 

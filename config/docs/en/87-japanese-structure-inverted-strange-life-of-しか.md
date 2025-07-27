@@ -20,7 +20,7 @@ So we're going to look into that effect. One of my commenters reminded me of a r
 
 and in natural English we would translate this as **<code>In Nara, only the deer get scolded</code>.**
 
-It's useful to know here that **Nara in the Kansai region is famous for its deer.** People go to Nara to see the deer (and for other things -- it's a lovely historical city).
+It's useful to know here that **Nara in the Kansai region is famous for its deer.** People go to Nara to see the deer (and for other things — it's a lovely historical city).
 
 **Strictly, <code>奈良なら</code> doesn't mean <code>in Nara</code>.** **It means <code>if it's Nara</code> or, more naturally, <code>in the case of Nara</code>.** But what does the rest of the structure mean?
 

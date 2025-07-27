@@ -36,7 +36,7 @@ So <code>持ってくる</code> means <code>bring (to the place where I am)</cod
 
 So we get more advanced meanings which are all based on the fundamental physical metaphor of coming to the place where one is, going from the place where one is, or going from or going one place to another (but not coming from one place to another because that isn't possible).
 
-So, a very simple example is we may say <code>雨が降ってきた</code> -- and we have almost an equivalent English expression: we might say <code>It came on to rain</code>.
+So, a very simple example is we may say <code>雨が降ってきた</code> — and we have almost an equivalent English expression: we might say <code>It came on to rain</code>.
 
 ![](../media/image997.webp)
 

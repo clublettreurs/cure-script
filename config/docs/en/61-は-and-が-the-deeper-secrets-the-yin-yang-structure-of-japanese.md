@@ -8,7 +8,7 @@ Today we're going to talk about the subtler meanings of the は- and が-particl
 
 ![](../media/image658.webp)
 
-Every Japanese sentence has a topic as well as a subject, so that we can say that where the topic and the subject are not made explicit, Japanese sentences have both an invisible が and an invisible は. So, <code>日本人です</code>, meaning <code>I am a Japanese person</code>, is strictly <code>zeroはzeroが日本人です</code> -- <code>I am the topic, I am the subject, and I am a Japanese person.</code>
+Every Japanese sentence has a topic as well as a subject, so that we can say that where the topic and the subject are not made explicit, Japanese sentences have both an invisible が and an invisible は. So, <code>日本人です</code>, meaning <code>I am a Japanese person</code>, is strictly <code>zeroはzeroが日本人です</code> — <code>I am the topic, I am the subject, and I am a Japanese person.</code>
 
 ![](../media/image535.webp)
 
@@ -30,7 +30,7 @@ If you say <code>I fed an iguana</code>, that's all right. And we also need to u
 
 So you can in fact say <code>I fed the dog</code> without anybody knowing that you even had a dog, because it's very normal and natural for a person to have a dog. They don't particularly want to stop and have that point explained anyway. So <code>I fed the dog</code> will be taken to mean <code>I fed the dog that I keep at home, even though you didn't know I kept a dog at home, you do now</code>.
 
-If I say <code>I fed the iguana</code>, that's a conversation stopper. If you don't introduce the iguana first, nobody's going to just take it as read -- <code>Yes-yes, she's got an iguana at home, like most people.</code>
+If I say <code>I fed the iguana</code>, that's a conversation stopper. If you don't introduce the iguana first, nobody's going to just take it as read — <code>Yes-yes, she's got an iguana at home, like most people.</code>
 
 So you see that while we say linguistically <code>new information</code> versus <code>old information</code>, it's a bit subtler than that. It's <code>new, important, relevant information</code> versus <code>old information or information that we can easily take as read</code>. And even this is quite a heavy-handed way of describing it.
 
@@ -102,21 +102,21 @@ So I'm going to take an example here from one of my favorite anime, which is Ari
 
 So the sentence is <code>おまえみたいな半人前に休みはない</code>. <code>おまえみたいな半人前に休みはない</code> And what this means is <code>For trainees like you, there are no rests</code>.
 
-Now, it's interesting to notice what's going on here. What is the topic of this sentence? Actually, it's <code>trainees like you</code>: <code>おまえみたいな半人前に</code> could have been <code>おまえみたいな半人前には</code> and this would made a topic out of <code>trainees like you</code>, and the comment on this would be the logical clause <code>休みがない</code> -- <code>there are no rests</code>.
+Now, it's interesting to notice what's going on here. What is the topic of this sentence? Actually, it's <code>trainees like you</code>: <code>おまえみたいな半人前に</code> could have been <code>おまえみたいな半人前には</code> and this would made a topic out of <code>trainees like you</code>, and the comment on this would be the logical clause <code>休みがない</code> — <code>there are no rests</code>.
 
 ---
 
 **However, the speaker has chosen to do something different.** **She's chosen to de-emphasize the topic by not marking it with は,** **but this doesn't stop it being the topic.** It's still the topic on which the logical clause is a comment.
 
-And **she's made a sub-topic out of <code>休み</code> -- <code>rests</code>.** Why has she done that?
+And **she's made a sub-topic out of <code>休み</code> — <code>rests</code>.** Why has she done that?
 
 ![](../media/image302.webp)
 
 **Because when you make something a topic, even if it's a kind of sub-topic like this,** **you're throwing the emphasis forward onto what follows it.** You're making the thing that follows it the salient, the important information of the sentence.
 
-So, what it's saying here is <code>休みは *(zeroが)* ない</code> -- <code>As for rests, *(they)* don't exist</code>: <code>For trainees like you, as for rests, *(they)* don't exist.</code> Now, this isn't quite as cumbersome as it sounds in English because は is a much more flexible particle that can be used much more easily than things like <code>as for</code> in English.
+So, what it's saying here is <code>休みは *(zeroが)* ない</code> — <code>As for rests, *(they)* don't exist</code>: <code>For trainees like you, as for rests, *(they)* don't exist.</code> Now, this isn't quite as cumbersome as it sounds in English because は is a much more flexible particle that can be used much more easily than things like <code>as for</code> in English.
 
-But it's using the same essential strategy to throw all the emphasis of that entire sentence onto that last word, <code>ない</code> -- <code>they don't exist</code> -- <code>forget about rests, you're not getting any.</code>
+But it's using the same essential strategy to throw all the emphasis of that entire sentence onto that last word, <code>ない</code> — <code>they don't exist</code> — <code>forget about rests, you're not getting any.</code>
 
 Now, I hope this makes the topic-marking は and the subject-marking が a little bit clearer in their deeper and subtler implications…
 

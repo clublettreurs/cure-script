@@ -76,7 +76,7 @@ So if we say <code>Estos **son** huevos</code>, we're saying <code>These **are**
 
 ![](../media/image1133.webp)
 
-if we say <code>**Hay** huevos</code>, we're saying <code>Eggs **exist**</code> -- two entirely different kinds of statement. As I say, **in English we don't get confused between those two kinds of statement, but when we try to apply English explanations to languages that do have different words for the copula and the verb of being, confusion often ensues.**
+if we say <code>**Hay** huevos</code>, we're saying <code>Eggs **exist**</code> — two entirely different kinds of statement. As I say, **in English we don't get confused between those two kinds of statement, but when we try to apply English explanations to languages that do have different words for the copula and the verb of being, confusion often ensues.**
 
 ## だ & です being the same copula
 
@@ -124,7 +124,7 @@ We may not know exactly what it looks like, but we can say that it probably has 
 
 ### です in adjectives is not just a random politeness marker
 
-But there's another point that we have to consider here, and that is that while in those cases -- that's to say, **in the case of adjectives and no other case** (it only happens in the case of adjectives as I demonstrated in that video) -- **while in the case of adjectives it's true to say that <code>です</code> is an empty formality marker, it's not just a random empty formality marker.**
+But there's another point that we have to consider here, and that is that while in those cases — that's to say, **in the case of adjectives and no other case** (it only happens in the case of adjectives as I demonstrated in that video) — **while in the case of adjectives it's true to say that <code>です</code> is an empty formality marker, it's not just a random empty formality marker.**
 
 ***Like I mentioned earlier, です / ます are rather politeness markers, not formality markers.*** ***They are part of the 丁寧語 (polite language). So it is more accurate to call them polite instead.***
 
@@ -147,7 +147,7 @@ E.g. why there are so many ways to study it, interpret it & explain it. Choose w
 
 **So what's happening when we put <code>です</code> at the end of an adjective sentence is that we're doubling the copular.** Saying <code>さくらは**かわいい**です</code> is like saying <code>*(Speaking of)* Sakura *(she)* **is-cute** is</code>. Saying <code>ペンが**赤い**です</code> is essentially saying <code>Pen **is-red** is</code>.
 
-We're doubling that copular. **So while <code>です</code> is an empty formality marker, it's not just a random formality marker.** It's doing something that is sometimes done in languages, and that is, *(it is)* **acting as a redundancy** -- **saying the same thing twice.**
+We're doubling that copular. **So while <code>です</code> is an empty formality marker, it's not just a random formality marker.** It's doing something that is sometimes done in languages, and that is, *(it is)* **acting as a redundancy** — **saying the same thing twice.**
 
 ::: info
  I understand that since it’s a redundancy, we may say that it’s not a copular that is strictly used to fulfill the copular function of the clause or sentence, but rather its main focus is that it provides this politeness aspect to the copular in -い so as to show the sentence is polite.

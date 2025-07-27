@@ -6,7 +6,7 @@
 
 Today we're going to talk about some exceptions in Japanese, how they work, and why they're there. And in doing that, I think we're going to gain some insight into how Japanese holds together and how we can understand it.
 
-So what we're going to talk about today is 見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる. Now, that seems like quite a confusing lot of things, doesn't it? But in fact all we have there is the basic dictionary forms of <code>見る</code> and <code>聞く</code> -- <code>see</code> and <code>hear</code> -- and the potential form of each and one alternative or exceptional potential form.
+So what we're going to talk about today is 見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる. Now, that seems like quite a confusing lot of things, doesn't it? But in fact all we have there is the basic dictionary forms of <code>見る</code> and <code>聞く</code> — <code>see</code> and <code>hear</code> — and the potential form of each and one alternative or exceptional potential form.
 
 ![](../media/image822.webp)
 
@@ -62,7 +62,7 @@ So we have <code>見る</code>, we have <code>見られる</code>, and <code>見
 
 So what is the difference between the two potential forms, the regular and the irregular potential form?
 
-Now, in each case here, the irregular potential form is what I'm going to call a forced self-move form. Now, as we know from our lesson on the potential *(Lesson 10)*, potential is usually self-move -- and if you don't know what <code>self-move</code> is, you should look at the lesson on self-move and other-move verbs too *(Lesson 15)*. They sometimes get called, not exactly accurately, transitive and intransitive.
+Now, in each case here, the irregular potential form is what I'm going to call a forced self-move form. Now, as we know from our lesson on the potential *(Lesson 10)*, potential is usually self-move — and if you don't know what <code>self-move</code> is, you should look at the lesson on self-move and other-move verbs too *(Lesson 15)*. They sometimes get called, not exactly accurately, transitive and intransitive.
 
 So, for example, if we want to say <code>I can read the book</code>, in Japanese we actually say <code>the book does readable to me</code>. So we say <code>*(私は)*本が読める</code>. This is self-move.
 
@@ -105,13 +105,13 @@ However, this alone wouldn't be, I think, sufficient reason for these two varian
 
 So if you say <code>さくらはカエルに見える</code>, you're saying <code>Sakura looks like a frog</code>.
 
-So when we say <code>looks like</code>, we use the targeting particle に with a noun, or with an adjective we use the く-stem of the adjective. So we say <code>カエルに見える</code> -- <code>looks like a frog</code> -- or we can say of someone <code>若く見える</code> -- <code>she looks young</code>.
+So when we say <code>looks like</code>, we use the targeting particle に with a noun, or with an adjective we use the く-stem of the adjective. So we say <code>カエルに見える</code> — <code>looks like a frog</code> — or we can say of someone <code>若く見える</code> — <code>she looks young</code>.
 
 ---
 
 And we can also use it not just for literally how something sounds to our ears or for how something looks to our eyes, but what its appearance is.
 
-So we can say <code>奇妙/きみょうに聞こえる</code> -- <code>it sounds strange / sounds peculiar</code>. So, we're not talking here necessarily about the actual sound. It might not be a noise that sounds strange. It may be something somebody said that sounds strange.
+So we can say <code>奇妙/きみょうに聞こえる</code> — <code>it sounds strange / sounds peculiar</code>. So, we're not talking here necessarily about the actual sound. It might not be a noise that sounds strange. It may be something somebody said that sounds strange.
 
 ---
 

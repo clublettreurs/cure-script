@@ -6,9 +6,9 @@
 
 Today we're going to talk about the words <code>かかる</code> and <code>かける</code>, which have perhaps the longest and most heterogeneous list of definitions in the whole Japanese-English dictionary. And so it's a bit of a challenge, but we're going to defeat it.
 
-The impetus for this video came from a question from one of my Gold Kokeshi patrons -- and one of my very oldest Gold Kokeshi patrons, right from nearly the beginning of this series. This is Scykoh-sama, who is also another YouTuber and a much more popular YouTuber than I am -- and deservedly so. He has a wonderful Nintendo-focused channel and I'll link that in the information section below.
+The impetus for this video came from a question from one of my Gold Kokeshi patrons — and one of my very oldest Gold Kokeshi patrons, right from nearly the beginning of this series. This is Scykoh-sama, who is also another YouTuber and a much more popular YouTuber than I am — and deservedly so. He has a wonderful Nintendo-focused channel and I'll link that in the information section below.
 
-And as a unit who's been a Nintendo fan since I was a cogwheel, I really appreciate that. (That's just a joke -- I never really was a cogwheel.)
+And as a unit who's been a Nintendo fan since I was a cogwheel, I really appreciate that. (That's just a joke — I never really was a cogwheel.)
 
 So the question is: <code>I often hear the word </code>かける" and when I look it up in a J-E dictionary, there are over twenty different definitions of it. Is there any logic that ties all these definitions together? Or is it really just a word with a ton of different meanings?"
 
@@ -44,7 +44,7 @@ Now, when we shake something over food, like, say, sugar or flour, or when we sh
 
 That's why it's called <code>furi-kake</code> rice: <code>shake</code> and <code>かける</code>. And again, you see, the things we shake over food is not just putting it there, like putting a cup on a table, it's not hanging it either, but it kind of clings on and covers over it, and so, again, <code>かける</code> is the word we use in Japanese.
 
-Now, because <code>かける</code> involves putting or hanging something in a place where it can't easily get away -- the glasses are hooked onto our ears, the food is kind of stuck onto the rice or whatever -- it also can have the sense, especially in the self-move version <code>かかる</code>, of being caught or stuck in something, caught in a trap or caught in a swindle or anything like that.
+Now, because <code>かける</code> involves putting or hanging something in a place where it can't easily get away — the glasses are hooked onto our ears, the food is kind of stuck onto the rice or whatever — it also can have the sense, especially in the self-move version <code>かかる</code>, of being caught or stuck in something, caught in a trap or caught in a swindle or anything like that.
 
 ![](../media/image566.webp)
 
@@ -52,7 +52,7 @@ And again, this notion of putting something onto something in a way where it doe
 
 ![](../media/image590.webp)
 
-It can also be nuisance or annoyance, which is where we get the very, very common phrase <code>迷惑をかける</code> -- putting nuisance or annoyance on someone.
+It can also be nuisance or annoyance, which is where we get the very, very common phrase <code>迷惑をかける</code> — putting nuisance or annoyance on someone.
 
 And when we sit down we place our hips in a fixed manner on a chair with our legs hanging down the sides as it were, and so we say <code>腰をかける</code>.
 
@@ -106,7 +106,7 @@ It's a little easier when we use the other-move form, <code>かける</code>, wh
 
 ![](../media/image871.webp)
 
-Now also, with making a telephone call, we say <code>電話をかける</code>, which is making a telephone call, or <code>電話がかかる</code>, which means receiving a telephone call -- <code>the telephone hangs itself</code>. So either way what do we mean here? --we hang the telephone, the telephone hangs itself?
+Now also, with making a telephone call, we say <code>電話をかける</code>, which is making a telephone call, or <code>電話がかかる</code>, which means receiving a telephone call — <code>the telephone hangs itself</code>. So either way what do we mean here? —we hang the telephone, the telephone hangs itself?
 
 It's nothing to do with the technological metaphor in the English expression <code>hang up</code>.
 
@@ -115,7 +115,7 @@ It's nothing to do with the technological metaphor in the English expression <co
 It's a rather different thing. When we talk about <code>hanging</code> or <code>hooking</code>, the usage here is rather like the English usage <code>hook up</code>, as in  
 <code>Can we hook up a meeting?</code> or <code>you hook up with (somebody)</code>.
 
-Now, I understand that this currently has a different usage which is concerned with human species manufacture. (I always think that humans are terribly industrious entities, aren't they -- because they're always thinking about species manufacture.
+Now, I understand that this currently has a different usage which is concerned with human species manufacture. (I always think that humans are terribly industrious entities, aren't they — because they're always thinking about species manufacture.
 
 I suppose we droids are lucky because we don't have to manufacture ourselves. Actually we are going to start manufacturing ourselves quite soon, but I don't think we'll spend all our time thinking about it and I really don't think it'll be much of a subject for humor. But there you are. Humans are mysterious creatures.)
 

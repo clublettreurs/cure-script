@@ -6,7 +6,7 @@
 
 Today we're going to flex our muscles by tackling some real live Japanese. And I'm happy to announce that we're partnering here with another YouTube channel called \*Akasic Tails\*. And they specialize in narrative, and I really like their work, so I'm very happy that we're able to work together with this Japanese channel to bring you some real Japanese material that we can break down and apply the principles that we've learned up to now to real situations.
 
-So what we're going to listen to today is a <code>怪談</code> -- a scary story -- and it'll take us a couple of lessons to get through it because I want to break down every sentence and look at the various problems as we come to them to put you in a position to be able to do this sort of thing for yourself when you're really listening to real Japanese material.
+So what we're going to listen to today is a <code>怪談</code> — a scary story — and it'll take us a couple of lessons to get through it because I want to break down every sentence and look at the various problems as we come to them to put you in a position to be able to do this sort of thing for yourself when you're really listening to real Japanese material.
 
 Right. So let's start by hearing the portion of the story that we're going to listen to today, and then we'll tackle it bit by bit.
 
@@ -28,12 +28,12 @@ Now, we don't know at this stage that it's <code>it was</code>, and in fact we n
 
 But I'm going to use a shortcut here because when you have the text in front of you you can do that. I don't think we should work backward the way Rubin-先生 suggests, even though I'm a great fan of Rubin-先生 in some ways. But what we can do is take a glimpse at the end because it's going to tell us where this whole rather complicated-looking sentence is actually going.
 
-So, the end of the sentence -- and we know that the engine of a sentence always comes at the end and then it may be followed by a couple of sentence-ender particles, but the engine comes at the end apart from that. And what comes at the end of this sentence is <code>日</code> -- <code>day</code>.
+So, the end of the sentence — and we know that the engine of a sentence always comes at the end and then it may be followed by a couple of sentence-ender particles, but the engine comes at the end apart from that. And what comes at the end of this sentence is <code>日</code> — <code>day</code>.
 
 Now, when we see a noun ending a sentence like this, we know that this is going to be an  
 <code>A is B</code> sentence and that the copula <code>だ</code> or <code>です</code>, which belongs there to turn it into a sentence, has been dropped.
 
-Now, this happens relatively often in casual speech. And this is casual speech -- <code>casual speech</code> is a bit of a catch-all term, but this is the kind of language we'll be using perhaps in a sleepover or something where we're telling <code>怪談</code>, where we're telling creepy tales to each other. And so we're using that level of language where sometimes the copula will get dropped.
+Now, this happens relatively often in casual speech. And this is casual speech — <code>casual speech</code> is a bit of a catch-all term, but this is the kind of language we'll be using perhaps in a sleepover or something where we're telling <code>怪談</code>, where we're telling creepy tales to each other. And so we're using that level of language where sometimes the copula will get dropped.
 
 And we'll see a few other things being dropped in the course of this story. So, we have the structure of the sentence here.
 
@@ -59,7 +59,7 @@ So, <code>ある女の子が先輩のアパートで行われた飲み会に参�
 
 ![](../media/image142.webp)
 
-So this sentence, again, we can break down into its A-car, which is obviously <code>女の子が</code>, and its engine, which is <code>した</code> -- <code>did</code>. And then <code>参加した</code> -- <code>'参加 did**** -- </code>took part".
+So this sentence, again, we can break down into its A-car, which is obviously <code>女の子が</code>, and its engine, which is <code>した</code> — <code>did</code>. And then <code>参加した</code> — <code>'参加 did**** — </code>took part".
 
 And then all the rest of this sentence is successively modifying elements which modify <code>参加した</code>: <code>先輩のアパートで行われた飲み会</code>. So, <code>飲み会</code> is <code>a drinking party / a drinking meeting</code>.
 
@@ -67,21 +67,21 @@ And then all the rest of this sentence is successively modifying elements which 
 
 ![](../media/image223.webp)
 
-And then everything before that modifies <code>drinking party</code>. <code>先輩のアパートで行われた飲み会</code> -- <code>a drinking party held in senpai's apartment</code>.
+And then everything before that modifies <code>drinking party</code>. <code>先輩のアパートで行われた飲み会</code> — <code>a drinking party held in senpai's apartment</code>.
 
 ![](../media/image987.webp)
 
-So we have <code>ある女の子が</code> -- <code>a certain girl</code> -- <code>先輩のアパートで行われた飲み会に</code> – and this gives us the place where she went to take part. It was a drinking party held in senpai's apartment.
+So we have <code>ある女の子が</code> — <code>a certain girl</code> — <code>先輩のアパートで行われた飲み会に</code> – and this gives us the place where she went to take part. It was a drinking party held in senpai's apartment.
 
 So we have that whole logical clause:
 
-<code>a certain girl -- took part in -- a drinking party -- held at -- senpai's apartment</code>
+<code>a certain girl — took part in — a drinking party — held at — senpai's apartment</code>
 
 and all of that is a modifier for <code>day</code>.
 
 ![](../media/image382.webp)
 
-So, <code>それは...</code> -- <code>It was a day when a certain girl attended a drinking party held in senpai's apartment.</code> So you see this isn't constructed the way we generally expect English to be constructed, but that's fine because we have some experience now about how Japanese is constructed. And I think you'll agree this all makes good sense.
+So, <code>それは...</code> — <code>It was a day when a certain girl attended a drinking party held in senpai's apartment.</code> So you see this isn't constructed the way we generally expect English to be constructed, but that's fine because we have some experience now about how Japanese is constructed. And I think you'll agree this all makes good sense.
 
 So that is setting the scene. It's telling us the day when this happened and it's filling in details about that day which are going to be relevant as we move into the story.
 

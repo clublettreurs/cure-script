@@ -71,7 +71,7 @@ Attach your spirit, your consciousness, your feelings, your thoughts, to the sta
 
 ## 気になる & 気にする
 
-Now, when we get on to things like <code>気になる</code> and <code>気にする</code> -- we've dealt in a previous lesson with <code>になる</code> and <code>にする</code>.　*(not sure, possibly Lesson 8 & 18)*
+Now, when we get on to things like <code>気になる</code> and <code>気にする</code> — we've dealt in a previous lesson with <code>になる</code> and <code>にする</code>.　*(not sure, possibly Lesson 8 & 18)*
 
 ![](../media/image39.webp)
 
@@ -97,7 +97,7 @@ And this means <code>That I could become this feeling, I'm lucky, aren't I?</cod
 
 And I think this is somewhat connected with the concept of <code>気</code> and also with the Buddhist idea that there really is no self. What we are is not a fixed and absolute thing. The self is essentially a shifting congeries of actions and reactions, feelings and sensations.
 
-And so we may temporarily become a particular feeling. You may even become, in Japanese, the expression of a feeling. We may say <code>深刻な表情になる</code> -- someone became a grave or concerned face. For that moment, the whole person transformed into that expression of gravity and concern.
+And so we may temporarily become a particular feeling. You may even become, in Japanese, the expression of a feeling. We may say <code>深刻な表情になる</code> — someone became a grave or concerned face. For that moment, the whole person transformed into that expression of gravity and concern.
 
 Now, this is what we're saying when we say <code>気になる</code> and <code>気にする</code>. If we say <code>あの人は気になる</code>, we're saying that person turns into my spirit.
 
@@ -117,7 +117,7 @@ Now, when we take <code>気にする</code>, we say <code>あの人を気にす�
 
 So now the doer of the action is not that person; the doer of the action is me. I am turning that person into my spirit. I am being concerned about that person.
 
-And that has two implications. One is that in a sense we're doing violence to our spirit. It's not just our spirit naturally becoming that person -- we are making it so. And that tends to give it a slightly more negative meaning.
+And that has two implications. One is that in a sense we're doing violence to our spirit. It's not just our spirit naturally becoming that person — we are making it so. And that tends to give it a slightly more negative meaning.
 
 While <code>気になる</code> can occupy a whole spectrum of meaning from being intrigued to being worried, <code>気にする</code> usually means worried.
 
@@ -143,11 +143,11 @@ What we mean by <code>する</code> in the case of a smell or a sound is the onl
 
 <code>音がする</code>: a sound acts, a sound is active, I can detect a sound. When we say <code>気がする</code>, we're saying a certain spirit, a certain thought, a certain consciousness is active, I can detect that consciousness, I can detect that feeling.
 
-So, if we say <code>騙されているような気がする</code>, we're saying "I've got a feeling we're being deceived, I've got a feeling we're being tricked" -- such a <code>気</code>, such a feeling, is active.
+So, if we say <code>騙されているような気がする</code>, we're saying "I've got a feeling we're being deceived, I've got a feeling we're being tricked" — such a <code>気</code>, such a feeling, is active.
 
 ![](../media/image850.webp)
 
-If we say <code>強くなった気がする</code>, we're saying <code>I feel that I got stronger, I sense that I got stronger</code> -- that spirit, that inclination of the emotions, of the thoughts, is active in the same way that a smell is active or a noise is active.
+If we say <code>強くなった気がする</code>, we're saying <code>I feel that I got stronger, I sense that I got stronger</code> — that spirit, that inclination of the emotions, of the thoughts, is active in the same way that a smell is active or a noise is active.
 
 ## 気に入る
 

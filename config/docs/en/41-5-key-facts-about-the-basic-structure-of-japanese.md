@@ -10,11 +10,11 @@ Now, the fact is that Japanese is much simpler than English and much simpler tha
 
 ## Fact 1
 
-Fact 1: Nearly all Japanese words fall into one of three categories. Just three. And those three categories are: Nouns, Verbs, and Adjectives. Now, there are also, as we know, particles – they're not words, but they are the nuts and bolts that hold the language together. And there are a few -- a very few -- specialized words that don't fall into those three categories.
+Fact 1: Nearly all Japanese words fall into one of three categories. Just three. And those three categories are: Nouns, Verbs, and Adjectives. Now, there are also, as we know, particles – they're not words, but they are the nuts and bolts that hold the language together. And there are a few — a very few — specialized words that don't fall into those three categories.
 
 ![](../media/image529.webp)
 
-For example, there are conjunction words that join together two logical clauses to make a compound sentence. Most conjunctions aren't done with words anyway -- they're done with the て-form, the い-stem, or groups of particles like <code>でも</code> and <code>のに</code>. But there are a few dedicated conjunctions like <code>けど</code> and the other <code>が</code>, the <code>が</code> that isn't a particle but a conjunction, which we discussed in a recent video. Now, apart from these, everything you see is going to be a noun, a verb, or an adjective.
+For example, there are conjunction words that join together two logical clauses to make a compound sentence. Most conjunctions aren't done with words anyway — they're done with the て-form, the い-stem, or groups of particles like <code>でも</code> and <code>のに</code>. But there are a few dedicated conjunctions like <code>けど</code> and the other <code>が</code>, the <code>が</code> that isn't a particle but a conjunction, which we discussed in a recent video. Now, apart from these, everything you see is going to be a noun, a verb, or an adjective.
 
 ## Fact 2
 
@@ -22,7 +22,7 @@ Fact 2: Verbs and adjectives are very easily recognized and distinguished.
 
 ![](../media/image858.webp)
 
-Every verb ends in an -う row kana -- and it has to be a kana, it can't be included in kanji. And every adjective has to end in the kana い. Again, it has to be the kana, can't be part of a kanji. Now, as we know, there are certain completely regular transformations that this -う row kana and that this い can make.
+Every verb ends in an -う row kana — and it has to be a kana, it can't be included in kanji. And every adjective has to end in the kana い. Again, it has to be the kana, can't be part of a kanji. Now, as we know, there are certain completely regular transformations that this -う row kana and that this い can make.
 
 They can go into て-form or た-form, and the final -う row kana of a verb can change into the equivalent kana in the same row in order to attach a helper word such as the negative helper adjective <code>ない</code> or the causative helper verb <code>せる/させる</code>.
 
@@ -42,7 +42,7 @@ The first group is adjectival nouns, which are horribly misnamed by the textbook
 
 ![](../media/image530.webp)
 
-The superpower of adjectival nouns, the one thing they can do that makes them different from any other noun, is that they can use the soft or connective form of the copula <code>だ</code>. So, we can say <code>屋敷が不思議だ</code> -- <code>mansion mysterious is</code>. When we do this we're just doing what we can do with any noun. We can say <code>さくらが日本人だ</code> -- <code>Sakura Japanese person is</code>.
+The superpower of adjectival nouns, the one thing they can do that makes them different from any other noun, is that they can use the soft or connective form of the copula <code>だ</code>. So, we can say <code>屋敷が不思議だ</code> — <code>mansion mysterious is</code>. When we do this we're just doing what we can do with any noun. We can say <code>さくらが日本人だ</code> — <code>Sakura Japanese person is</code>.
 
 But we can also use that soft form of <code>だ</code>, which is <code>な</code>, and we can say <code>不思議な屋敷</code> - <code>mysterious-is mansion</code>.
 
@@ -83,7 +83,7 @@ Now, the third group, which we haven't yet introduced, is adverbial nouns. Now, 
 
 So, we're going to look at two that do and one that doesn't, and we're going to look at their superpower. Their superpower is very similar to the superpower of the する noun, which is to say that they can drop the relevant particle under certain circumstances. As we know, **any noun that's appropriate for the use can be turned into an adverb by adding に.**
 
-So, <code>静か</code>, which is the *(Adjectival)* **noun** <code>quiet</code>, **can be used adverbially with に.** We can say <code>**静かに**する</code> -- <code>do **quietly** / act **quietly**</code>. We can say <code>**静かに**歩く</code> -- <code>walk **quietly**</code>.
+So, <code>静か</code>, which is the *(Adjectival)* **noun** <code>quiet</code>, **can be used adverbially with に.** We can say <code>**静かに**する</code> — <code>do **quietly** / act **quietly**</code>. We can say <code>**静かに**歩く</code> — <code>walk **quietly**</code>.
 
 ---
 
@@ -95,7 +95,7 @@ Dolly also seems to allude at multiple points (Lesson 8) to that adverbs like �
 :::
 
 *I think that the term <code>Adverbial Noun</code> might be what that 副詞 refers to for Dolly, where usually they are called Adverbs, but they might be this very special class of nouns in Japanese, so why Dolly calls them that. As to why we can drop the に, since ゆっくり is already 副詞 on default.*
-So, we'll take one that ends in the typical <code>り</code>: <code>ゆっくり</code> -- that means ****slow**** or ****leisurely**** and we can say <code>**ゆっくりに**する</code> -- <code>act **in a leisurely manner**</code>, <code>**ゆっくりに**歩く</code> -- <code>walk **slowly**</code>. But we can also say <code>ゆっくりする</code>, <code>ゆっくり歩く</code>. **We can drop that に**.
+So, we'll take one that ends in the typical <code>り</code>: <code>ゆっくり</code> — that means ****slow**** or ****leisurely**** and we can say <code>**ゆっくりに**する</code> — <code>act **in a leisurely manner**</code>, <code>**ゆっくりに**歩く</code> — <code>walk **slowly**</code>. But we can also say <code>ゆっくりする</code>, <code>ゆっくり歩く</code>. **We can drop that に**.
 
 ![](../media/image605.webp)
 
@@ -107,7 +107,7 @@ Let's take another one: <code>余り/あまり</code>.
 
 Now, this noun is usually explained in a way that's completely confusing. **<code>あまり</code> is a noun**, and what it means is <code>excess</code>.
 
-You can use it in a completely literal sense. You can say <code>ご飯のあまり</code> -- which means <code>the excess rice / the leftover cooked rice</code>.
+You can use it in a completely literal sense. You can say <code>ご飯のあまり</code> — which means <code>the excess rice / the leftover cooked rice</code>.
 
 It's very often used in more abstract ways. So, we can say <code>悲しみのあまり泣いた</code>.
 
@@ -137,11 +137,11 @@ And it's just the same with <code>あまり</code>. If we say <code>あまり勉
 
 So, let's just take one more that doesn't end in <code>り</code>, and that's <code>随分/ずいぶん</code>. What it really means is <code>sufficiently</code>.
 
-And you may say, <code>Well, **sufficiently** isn't a noun</code>. And that's true -- in English it isn't a noun.
+And you may say, <code>Well, **sufficiently** isn't a noun</code>. And that's true — in English it isn't a noun.
 
 ![](../media/image95.webp)
 
-In Japanese it is, and if we look at the kanji <code>随分</code>, what it actually means is something like <code>appropriate portion</code> or <code>appropriate amount</code> -- in other words, <code>sufficient</code> or <code>sufficiently</code>. And this is another litotes which is common to both English and Japanese and many other languages.
+In Japanese it is, and if we look at the kanji <code>随分</code>, what it actually means is something like <code>appropriate portion</code> or <code>appropriate amount</code> — in other words, <code>sufficient</code> or <code>sufficiently</code>. And this is another litotes which is common to both English and Japanese and many other languages.
 
 When you say to someone <code>ずいぶん上手だね</code>, what you're literally saying is <code>you're skilful enough / you're sufficiently skilful</code>. What you actually mean is that the person is very skilful.
 

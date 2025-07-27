@@ -18,9 +18,9 @@ Now, as we all know, the textbooks like to present Japanese as a kind of mysteri
 However, counters might seem like an exception to this rule. There are a lot of them. An awful lot of counters. In Japanese you can't just say <code>one dog</code> or <code>two flowers</code> or <code>three birds</code>.
 You have to use a counter.
 
-So we say <code>一匹の犬 / いっぴきの犬</code> -- <code>one dog</code> -- and the counter here is <code>匹 / ひき</code>, which gets pronounced <code>ぴき</code> in this particular instance. *(It is a counter for small animals)*
+So we say <code>一匹の犬 / いっぴきの犬</code> — <code>one dog</code> — and the counter here is <code>匹 / ひき</code>, which gets pronounced <code>ぴき</code> in this particular instance. *(It is a counter for small animals)*
 
-For <code>three birds</code> we say <code>三羽の鳥 / さんわの鳥</code>, and the <code>羽 / わ</code> is a counter *(for birds…)*. So it looks as if we have to learn an awful lot of counters, doesn't it, just to say what in English you can say by the number and the thing. And there really are a lot of counters -- dozens and dozens of them *(actually, hundreds (″ロ゛)*.
+For <code>three birds</code> we say <code>三羽の鳥 / さんわの鳥</code>, and the <code>羽 / わ</code> is a counter *(for birds…)*. So it looks as if we have to learn an awful lot of counters, doesn't it, just to say what in English you can say by the number and the thing. And there really are a lot of counters — dozens and dozens of them *(actually, hundreds (″ロ゛)*.
 
 So this looks like a problem, doesn't it? But it's not, in fact, nearly as much of a problem as it appears to be.
 
@@ -32,7 +32,7 @@ Secondly, most of the time we can avoid them by using the native Japanese counti
 
 ![](../media/image4.webp)
 
-So if we use the <code>一つ, 二つ, 三つ, 四つ, 五つ</code> counting system, we don't need any counters. We can use them for nearly everything -- not people, not small animals, but practically everything else we can use the Japanese counting system if we want to.
+So if we use the <code>一つ, 二つ, 三つ, 四つ, 五つ</code> counting system, we don't need any counters. We can use them for nearly everything — not people, not small animals, but practically everything else we can use the Japanese counting system if we want to.
 
 So the important thing here, as I'm sure you won't be surprised to hear me say, is that what we're not going to do is start learning lists of counters.
 
@@ -50,7 +50,7 @@ So we know what they've said. If they say <code>一輪の花</code>, we know the
 
 If we hear someone saying <code>二羽の鳥</code>, we know that they're saying <code>two birds</code>: <code>二... 鳥</code>, and the <code>羽</code> is the counter.
 
-If we hear someone saying <code>三匹の猫 / さんびきの猫</code> -- now, even if we knew <code>匹 / ひき</code>, but we didn't know that at three it becomes <code>びき</code>, that's not a problem because we know <code>三</code>, we know <code>猫</code>, and we know that things that come between numbers and their object are going to be counters.
+If we hear someone saying <code>三匹の猫 / さんびきの猫</code> — now, even if we knew <code>匹 / ひき</code>, but we didn't know that at three it becomes <code>びき</code>, that's not a problem because we know <code>三</code>, we know <code>猫</code>, and we know that things that come between numbers and their object are going to be counters.
 
 ![](../media/image69.webp)
 
@@ -82,11 +82,11 @@ What is it? It's a noun!
 
 Nearly always it's a noun, and that is true of counters. Counters are nouns. That's why we use の after them.
 
-We say <code>一輪の花</code>, <code>三匹の猫</code>, just as we would with any other noun: <code>魔法の杖</code> -- <code>magic wand</code>; <code>三匹の猫</code> -- <code>three cats</code>.
+We say <code>一輪の花</code>, <code>三匹の猫</code>, just as we would with any other noun: <code>魔法の杖</code> — <code>magic wand</code>; <code>三匹の猫</code> — <code>three cats</code>.
 
 ---
 
-But when we say <code>猫が三匹いる</code> -- <code>there are three cats</code> in English -- what are we actually saying? --
+But when we say <code>猫が三匹いる</code> — <code>there are three cats</code> in English — what are we actually saying? --
 
 ![](../media/image247.webp)
 
@@ -98,7 +98,7 @@ When we say <code>猫が三匹います</code>, we're actually saying <code>cats
 
 We're describing the way they exist. They exist in a three-small-animals way. If there were four of them, they'd be existing in a four-small-animals way.
 
-And that's why sentences like that have to end in a verb. The verb modified by a counter is often, as in this case, the verb of being, but it doesn't have to be. For example, we might say <code>写真を三枚取った</code> -- <code>I took photographs three-flat-things-ly</code>.
+And that's why sentences like that have to end in a verb. The verb modified by a counter is often, as in this case, the verb of being, but it doesn't have to be. For example, we might say <code>写真を三枚取った</code> — <code>I took photographs three-flat-things-ly</code>.
 
 ![](../media/image151.webp)
 
@@ -128,7 +128,7 @@ So, we probably need a dozen or so counters for everyday use and we'll pick thos
 
 But what about all the sound changes?
 
-Let's take <code>匹 / ひき</code>, which is the counter for small animals. We say <code>いっぴきの猫</code> -- one cat, <code>にひきの猫</code> -- two cats; <code>さんびきの猫</code> -- three cats; <code>よんひきの猫</code> -- four cats; <code>ごひきの猫</code> -- five cats; <code>ろっぴきの猫</code> -- six cats; <code>ななひきの猫</code> -- seven cats; "はっぴきの猫 -- eight cats; <code>きゅうひきの猫</code> -- nine cats; <code>じゅっぴきの猫</code> -- ten cats.
+Let's take <code>匹 / ひき</code>, which is the counter for small animals. We say <code>いっぴきの猫</code> — one cat, <code>にひきの猫</code> — two cats; <code>さんびきの猫</code> — three cats; <code>よんひきの猫</code> — four cats; <code>ごひきの猫</code> — five cats; <code>ろっぴきの猫</code> — six cats; <code>ななひきの猫</code> — seven cats; "はっぴきの猫 — eight cats; <code>きゅうひきの猫</code> — nine cats; <code>じゅっぴきの猫</code> — ten cats.
 ::: info
 よんひき in Kanji looks interesting :D 四匹.
 :::
@@ -151,7 +151,7 @@ That deals with over half the problem straight away.
 
 So, if we have the counters like <code>枚</code>, counter for flat things like coins or pieces of paper. Can you put a ten-ten on <code>枚</code>? No, you can't. You can't put a ten-ten on any of the ま-み-む-め-も column, and therefore there can't be any variant on <code>枚</code>: <code>一枚, 二枚, 三枚, 四枚, 五枚</code> and so on.
 
-<code>輪</code>, the counter for flowers and wheels -- Can you put a ten-ten on <code>り</code>? No, you can't. You can't put a ten-ten on any of the ら-り-る-れ-ろ column, can you?
+<code>輪</code>, the counter for flowers and wheels — Can you put a ten-ten on <code>り</code>? No, you can't. You can't put a ten-ten on any of the ら-り-る-れ-ろ column, can you?
 
 So we know that <code>輪</code> can't have any exceptions: <code>一輪, 二輪, 三輪, 四輪</code> etc.
 
@@ -182,7 +182,7 @@ What do we know about these? Well, first of all, we know that in the first and l
 ::: info
 [**The video link there**](https://www.youtube.com/watch?v=nsDS5xalWGg&ab_channel=OrganicJapanesewithCureDolly), if you wanted to watch it, since it is not in the transcript (I think).
 :::
-So if we take <code>階 / かい</code>, the counter for floors in a building, we don't say <code>いちかい</code> -- we say <code>いっかい</code>.
+So if we take <code>階 / かい</code>, the counter for floors in a building, we don't say <code>いちかい</code> — we say <code>いっかい</code>.
 
 If we take <code>歳 / さい</code>, the counter for years of age,
 ::: info
@@ -190,11 +190,11 @@ there is also 才, which seems to be a <code>kid</code> alternative to 歳 (but 
 **However, 歳 seems to be the only one that is actually used in official communication.
 :::
 
-we don't say <code>いちさい</code> -- we say <code>いっさい</code>.
+we don't say <code>いちさい</code> — we say <code>いっさい</code>.
 
-If we take <code>匹</code>, which we've been dealing with before, we don't say <code>いちひき</code> -- we say <code>いっぴき</code>. So that works the same.
+If we take <code>匹</code>, which we've been dealing with before, we don't say <code>いちひき</code> — we say <code>いっぴき</code>. So that works the same.
 
-And with ten, at the other end of the basic scale, we don't say <code>じゅうさい</code> -- we say <code>じゅっさい / 十歳</code>.
+And with ten, at the other end of the basic scale, we don't say <code>じゅうさい</code> — we say <code>じゅっさい / 十歳</code>.
 ::: info
 Dictionaries may also say it can be read as <code>じっさい</code>, **[which seems old-fashioned](https://ja.hinative.com/questions/4546115#answer-12128924).**
 :::
@@ -220,9 +220,9 @@ The ones I've just told you are pretty regular. The other odd ones don't tend to
 
 So, if you understand that, it sounds a bit complicated. I wouldn't spend too much time trying to learn what I've just said, but bear it in mind, because it'll just make it a little easier to pick this up when you see it.
 
-<code>いっぴき, にひき, さんびき</code> -- which is a tendency that <code>さん</code> has, of course only with ten-tenable kana -- <code>ごひき</code> -- that's always going to be the same -- <code>ろっぴき</code>
+<code>いっぴき, にひき, さんびき</code> — which is a tendency that <code>さん</code> has, of course only with ten-tenable kana — <code>ごひき</code> — that's always going to be the same — <code>ろっぴき</code>
 
-<code>ななひき</code>-- that's always the same with everything -- <code>はっぴき, きゅうひき, じゅっぴき</code>.
+<code>ななひき</code>-- that's always the same with everything — <code>はっぴき, きゅうひき, じゅっぴき</code>.
 
 Perhaps even at this stage that's starting to make sense. It's conforming to a regular pattern. They aren't all over the place.
 

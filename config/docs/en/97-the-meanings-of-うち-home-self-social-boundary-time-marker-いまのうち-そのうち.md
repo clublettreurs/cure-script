@@ -94,7 +94,7 @@ So **it's an enclosure defined by its contents, like the other kinds of <code>�
 
 ![](../media/image397.webp)
 
-Similarly, <code>若い**うち**</code> (**while** one is young) -- one should do this, do that, **while** one is young. **The <code>うち</code>, the enclosure of time, is defined by its contents.**
+Similarly, <code>若い**うち**</code> (**while** one is young) — one should do this, do that, **while** one is young. **The <code>うち</code>, the enclosure of time, is defined by its contents.**
 
 **While** one is young, one is in the <code>若い**うち**</code>. **When one ceases to be young, that's where the limits of the enclosure lie.**
 
