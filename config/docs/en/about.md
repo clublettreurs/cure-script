@@ -18,7 +18,7 @@ Example of new note
 Rarely, there are also containers like this
 :::
 
-::: details And something like his (Click)
+::: details And something like this (Click)
 Badoom
 :::
 
