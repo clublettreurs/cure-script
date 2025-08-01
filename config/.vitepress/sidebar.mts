@@ -743,7 +743,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
           "link": "/ru/63-wild-sentence-enders-in-real-life-japanese-かい-だい-ぜ-ぞ-さ-から-し-ちょうだい"
         },
         {
-          "text": "64. Вещи становятся старнными! もの and こと — Продвинутые секреты: ものだ, ことがある, こと как завершители предложений",
+          "text": "64. Вещи становятся старнными! もの и こと — Продвинутые секреты: ものだ, ことがある, こと как завершители предложений",
           "link": "/ru/64-things-get-strange-もの-and-こと-advanced-secrets-ものだ-ことがある-こと-as-sentence-ender"
         },
         {
