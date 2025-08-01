@@ -1,6 +1,6 @@
-# **64. `Things` get Strange! もの and こと - Advanced secrets: ものだ, ことがある, こと as sentence-ender**
+# **64. `Вещи` становятся странными! もの и こと — Продвинутые секреты: ものだ, ことがある, こと как завершители предложений**
 
-[**`Things` get Strange! Mono and Koto: advanced secrets: ものだ, ことがある, こと as sentence-ender | Lesson 64**](https://www.youtube.com/watch?v=aYlgQaK7lS4&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=66&pp=iAQB)
+[**`Вещи` становятся странными! もの и こと — Продвинутые секреты: ものだ, ことがある, こと как завершители предложений | Lesson 64**](https://www.youtube.com/watch?v=aYlgQaK7lS4&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=66&pp=iAQB)
 
 こんにちは。
 
