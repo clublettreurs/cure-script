@@ -14,7 +14,7 @@ And the second is that we need a very firm grip on the logical particles if we'r
 
 ![](../media/image969.webp)
 
-And if you do have any doubts about the nature of the five main logical particles, I do recommend that you watch this video on the subject *(Lesson 8b)*, because it is the very foundation of Japanese. If you're fuzzy about the logical particles, then you're fuzzy about Japanese, period.
+And if you do have any doubts about the nature of the five main logical particles, I do recommend that you watch this video on the subject<sup>[[8b]](./8b-particles-explained.md)</sup>, because it is the very foundation of Japanese. If you're fuzzy about the logical particles, then you're fuzzy about Japanese, period.
 
 All right. So what is <code>気</code>? <code>気</code> comes from Chinese.
 
@@ -71,7 +71,7 @@ Attach your spirit, your consciousness, your feelings, your thoughts, to the sta
 
 ## 気になる & 気にする
 
-Now, when we get on to things like <code>気になる</code> and <code>気にする</code> — we've dealt in a previous lesson with <code>になる</code> and <code>にする</code>.　*(not sure, possibly Lesson 8 & 18)*
+Now, when we get on to things like <code>気になる</code> and <code>気にする</code> — we've dealt in a previous lesson<sup>[[8]](./8-the-に-and-へ-particles.md)</sup><sup>[[18]](./18-って-は-mysteries-explained-おうとする-とする-として-という-っていう.md)</sup> with <code>になる</code> and <code>にする</code>.　
 
 ![](../media/image39.webp)
 

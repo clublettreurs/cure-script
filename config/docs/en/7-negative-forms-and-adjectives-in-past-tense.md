@@ -27,9 +27,10 @@ If we want to say <code>There is a pen</code>, as we know, we say <code>これ�
 ::: info
 In the video, Dolly makes a mistake and shows a black が car in ペンだ.  
 I fixed it through my "highly professional" skills in Paint (•̀o•́)ง… anyway here is her comment.
-:::
 
 ![](../media/image37.webp)
+
+:::
 
 But if we want to say, <code>This is not a pen</code>, we say, <code>これは *(zeroが)* ペンではない</code>.
 
@@ -125,9 +126,10 @@ So, <code>はなす</code> becomes <code>はなします</code>, <code>きく</c
 
 ::: info
 Dolly once again makes a typo here in the video, I fixed it again.
-:::
+
 
 ![](../media/image941.webp)
+:::
 
 The only other apparent exception is that <code>いい</code> , the adjective <code>いい/良い</code>, which means <code>is-good</code>, has an older form, <code>よい/良い</code>, which is still used quite often. And **when we make any transformation to <code>いい</code>, it turns back to <code>よい</code>**, so in the past tense we don't say <code>いかった</code>, **we say** <code>**よ**かった</code> – and if you've seen much anime you've probably heard this quite often.
 

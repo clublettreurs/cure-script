@@ -4,18 +4,15 @@
 
 こんにちは。
 
-Today we're going to talk again about that element of Japanese
-that gives us the key to about a third of all Japanese sentences,
-and that is the copula.
+Today we're going to talk again about that element of Japanese that gives us the key to about a third of all Japanese sentences, and that is the copula.
 
 ![](../media/image23.webp)
 
 ::: info
 Notice how copula LINKS together the A (Subject) and B (Predicate), that is its function.
 :::
-Now, I've talked quite a bit about the copula before
-and I'll put links in the information section below
-so that you can follow that up. *(Lesson 40, 41, 55, 77 & 79 I think…)*
+
+Now, I've talked quite a bit about the copula before and I'll put links in the information section below so that you can follow that up.<sup>[[40]](./40-3-pitfalls-in-japanese-and-how-to-avoid-them.md)</sup><sup>[[41]](./41-5-key-facts-about-the-basic-structure-of-japanese.md)</sup><sup>[[55]](./55-secrets-of-the-で-particle-why-do-we-say-みんなで行く-and-世界で一番.md)</sup><sup>[[77]](./77-real-japanese-structure-vs-tae-kim-structural-review-of-tae-kim-s-japanese-grammar.md)</sup><sup>[[79]](./79-deeper-secret-of-the-copula.md)</sup>
 
 **But today I want to look at slightly less commonly used versions of the copula**
 which you are going to see quite a bit in your immersion
@@ -99,7 +96,7 @@ or we can say <code>**綺麗な**花</code> (**pretty-is** flower).
 
 And it's precisely because this group of nouns 
 and I've talked about the three groups of special nouns
-in another video if you'd like to look at that *(Lesson 41)* 
+in another video if you'd like to look at that<sup>[[41]](./41-5-key-facts-about-the-basic-structure-of-japanese.md)</sup> 
 **this particular special group of nouns, adjectival nouns, has the property**
 **that it's able to use the pre-modifying form of the copula, <code>な</code>.**
 
@@ -224,7 +221,7 @@ So if we say <code>That person over there **is** Sakura</code>, then we're sayin
 
 **So now, what does the particle <code>で</code> actually do?**
 
-I've made a video about that and I'll link it. *(Lesson 55)*
+I've made a video about that and I'll link it.<sup>[[55]](./55-secrets-of-the-で-particle-why-do-we-say-みんなで行く-and-世界で一番.md)</sup>
 
 **Fundamentally the particle <code>で</code> defines the limit or field or parameter**
 **within which an action takes place or a state of being prevails.**

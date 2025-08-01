@@ -32,7 +32,7 @@ We can set a narrative in the past tense but sometimes when we want to give more
 
 <code>ふと</code> means <code>suddenly</code> — I'm not going to explain the simplest vocabulary here because I'll assume that you've got very basic vocabulary in order to start making the plunge into Japanese narrative. So, <code>ふと</code> means <code>suddenly</code>. <code>ふと下を見ると</code> — <code>(the dog) suddenly looked down</code>.
 
-The zero-pronoun here is <code>it</code>, the dog. So, the dog suddenly looked down, and that <code>と</code> is the conditional connective, <code>if</code> or <code>when</code>, and I'll link to that *(Lesson 30)*. So it's saying <code>When the dog suddenly looked down...</code> or <code>The dog suddenly looked down, and...</code> <code>When the dog suddenly looked down... 川の中にも</code>.
+The zero-pronoun here is <code>it</code>, the dog. So, the dog suddenly looked down, and that <code>と</code> is the conditional connective, <code>if</code> or <code>when</code>, and I'll link to that<sup>[[30]](./30-japanese-conditionals-と.md)</sup>. So it's saying <code>When the dog suddenly looked down...</code> or <code>The dog suddenly looked down, and...</code> <code>When the dog suddenly looked down... 川の中にも</code>.
 
 <code>川の中に</code> is <code>in the river</code> and the <code>も</code> here is telling us <code>also</code>: <code>also in the river</code>. <code>川の中にも肉をくわえた犬がいます.</code> So, <code>also in the river there's a dog carrying meat in its mouth</code>. Not just on the bridge but also in the river, there's a dog carrying meat in its mouth.
 
@@ -42,7 +42,7 @@ The zero-pronoun here is <code>it</code>, the dog. So, the dog suddenly looked d
 
 ![](../media/image988.webp)
 
-And I'll link to compound sentences *(Lesson 4)*. I'm going to stop telling you now what I'm linking to, but if you look at the special page that I've made — which I'll [**link**](http://learnjapaneseonline.info/taking-the-plunge-japanese-self-immersion-links-to-all-structure-points/) below — I'll give all the links to the different parts of this story. You probably don't need to follow them all up, but if there are any bits that confuse you, you can go to the videos where I've explained those specific points. Right.
+And I'll link to compound sentences<sup>[[4]](./4-japanese-verb-tenses.md)</sup>. I'm going to stop telling you now what I'm linking to, but if you look at the special page that I've made — which I'll [**link**](http://learnjapaneseonline.info/taking-the-plunge-japanese-self-immersion-links-to-all-structure-points/) below — I'll give all the links to the different parts of this story. You probably don't need to follow them all up, but if there are any bits that confuse you, you can go to the videos where I've explained those specific points. Right.
 
 So, <code>犬はそれを見て</code> — that's a logical clause in itself: <code>The dog saw that and... 思いました.</code> <code>The dog saw that and thought (or felt).</code> <code>あいつの肉のほうが大きそうだ.</code>
 
@@ -86,7 +86,7 @@ So, <code>思いっきり</code> means <code>putting one's whole thought into it
 
 <code>そのとたん...</code> <code>そのとたん</code> means <code>at that moment</code>. <code>とたん</code> is <code>just as something happens or just after it happens</code>. So, <code>そのとたん</code> — <code>at that juncture / at that point / at that moment</code>.
 
-<code>くわえていた肉はポチャンと川の中に落ちてしまいました</code> So, at that point, the meat that was being held in the mouth — <code>くわえていた肉は</code> — <code>ポチャン</code>, which is a splash-type sound effect, <code>ポチャンと</code> — and -と, of course, marks sound effects — <code>川の中に</code> — <code>into the river</code> — <code>落ちて</code> — <code>落ちる</code>, to <code>fall</code> — <code>しまいました</code>. And that <code>しまいました</code> is saying <code>it done fell into the river</code>, and I'll link to the video on that <code>しまいました / ちゃった</code>, which means <code>it done happened</code>. *(Lesson 44)*
+<code>くわえていた肉はポチャンと川の中に落ちてしまいました</code> So, at that point, the meat that was being held in the mouth — <code>くわえていた肉は</code> — <code>ポチャン</code>, which is a splash-type sound effect, <code>ポチャンと</code> — and -と, of course, marks sound effects — <code>川の中に</code> — <code>into the river</code> — <code>落ちて</code> — <code>落ちる</code>, to <code>fall</code> — <code>しまいました</code>. And that <code>しまいました</code> is saying <code>it done fell into the river</code>, and I'll link to the video on that <code>しまいました / ちゃった</code>, which means <code>it done happened</code>.<sup>[[44]](./44-how-to-use-natural-japanese-ちゃう-ちゃった.md)</sup>
 
 Ahh! <code>川の中には、がっかりした犬の顔が映っています</code>
 

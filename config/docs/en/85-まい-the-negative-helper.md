@@ -64,7 +64,7 @@ So what does a negative volitional actually do?
 
 **You can't say <code>行くまい</code> (let's not go) — it doesn't mean that.**
 
-**You can't use it for**, as I've shown in another video *(Lesson 18)*, **forming a construction that means <code>try to do something</code>.**
+**You can't use it for**, as I've shown in another video<sup>[[18]](./18-って-は-mysteries-explained-おうとする-とする-として-という-っていう.md)</sup>, **forming a construction that means <code>try to do something</code>.**
 
 So **you can't use <code>まい</code> in let's-try-not-to-do-type constructions.**
 
@@ -88,7 +88,7 @@ Its uses are pretty limited; it has a couple of direct uses and then a couple of
 
 ![](../media/image848.webp)
 
-And **this is rather related to the other adjectives of subjectivity** that we've discussed elsewhere (and I'll put a link for that), *(Lesson 9)* **such as <code>欲しい</code>, which represents our desire for something, or <code>怖い</code> which represents our fear of something.**
+And **this is rather related to the other adjectives of subjectivity** that we've discussed elsewhere (and I'll put a link for that),<sup>[[9]](./9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる.md)</sup> **such as <code>欲しい</code>, which represents our desire for something, or <code>怖い</code> which represents our fear of something.**
 
 ![](../media/image440.webp)
 
@@ -143,11 +143,11 @@ So, for example, **<code>行こうか, 行くまいか</code>** means **<code>wh
 
 ![](../media/image541.webp)
 
-Now, **this is very similar to a construction** that we've talked about before and that you probably know already *(Lesson 39)*, **<code>行くかどうか</code>** which means literally **<code>whether I go or how</code>**, which in more natural English would be <code>whether I go or what</code>.
+Now, **this is very similar to a construction** that we've talked about before and that you probably know already<sup>[[39]](./39-the-か-particle-buried-questions-かな-もんか-かどうか.md)</sup>, **<code>行くかどうか</code>** which means literally **<code>whether I go or how</code>**, which in more natural English would be <code>whether I go or what</code>.
 
 ### Attaching し to the まい construction
 
-**Now, the other construction that you'll commonly hear is formed by simply attaching <code>し</code>, which is used for listing causes of something,** but as we've discussed elsewhere *(Lesson 63)*, **it's often used on its own just to imply a continuing list.**
+**Now, the other construction that you'll commonly hear is formed by simply attaching <code>し</code>, which is used for listing causes of something,** but as we've discussed elsewhere<sup>[[63]](./63-wild-sentence-enders-in-real-life-japanese-かい-だい-ぜ-ぞ-さ-から-し-ちょうだい.md)</sup>, **it's often used on its own just to imply a continuing list.**
 
 ![](../media/image797.webp)
 

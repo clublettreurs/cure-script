@@ -103,7 +103,7 @@ However, I am aware my guess might very likely be wrong, so please take it with 
 
 **And this is how we can tell the difference between a modifier and a logical clause.** **And we know when the entire sequence, the entire sentence, is over because it's going to have that <code>まる / 。</code>.**
 
-And I've done a video about this method of analyzing Japanese sentences and I'll link that so that you can follow it up afterwards *(Lesson 34)*.
+And I've done a video about this method of analyzing Japanese sentences and I'll link that so that you can follow it up afterwards<sup>[[34]](./34-understand-any-sentence.md)</sup>.
 
 **But the <code>まる / 。</code> here is vital.**
 

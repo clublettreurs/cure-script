@@ -104,7 +104,7 @@ Notice how in Japanese they use ありません after しか here.
 :::
 **The が-marked subject is <code>towel</code> or <code>towels</code>.** **In Japanese, of course, there's no distinction between those two things.**
 
-And as I explained in my lesson on counters *(Lesson 71)*, **a counter in this kind of sentence is working as an adverb.** **It's telling us more about the engine of the sentence, the verb.**
+And as I explained in my lesson on counters<sup>[[71]](./71-japanese-counters-3-simple-rules.md)</sup>, **a counter in this kind of sentence is working as an adverb.** **It's telling us more about the engine of the sentence, the verb.**
 
 So if we say <code>泥棒が**三人**いる</code>, we're saying <code>robbers*(=subject)* exist three-**person-ly**</code>. If we say <code>タオルが**一枚**ある</code>, we're saying <code>towel*(=subject)* **one-flat-thing-ly** exists</code>.
 

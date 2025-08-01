@@ -96,7 +96,7 @@ And you can ask <code>What looks like being fine? The weather, the day, this par
 
 ![](../media/image760.webp)
 
-We all know what <code>だ</code> is *(Lesson 79)* (& if you don't, [**I'll link a video**](https://www.youtube.com/watch?v=euHYPcMoao4) so that you can follow it up).
+We all know what <code>だ</code> is<sup>[[79]](./79-deeper-secret-of-the-copula.md)</sup> (& if you don't, [**I'll link a video**](https://www.youtube.com/watch?v=euHYPcMoao4) so that you can follow it up).
 
 *---
 

@@ -91,7 +91,7 @@ So, <code>静か</code>, which is the *(Adjectival)* **noun** <code>quiet</code>
 
 ::: info
 I think Dolly here does NOT mean that we can drop に with 静か because it is NOT an adverb(ial noun) like ゆっくり, but Adj. Noun. At least I can’t find anything about 静かする etc.
-Dolly also seems to allude at multiple points (Lesson 8) to that adverbs like ゆっくり could be classed as a kind of noun, although stuff like Jisho/Yomichan lists them as Adverbs and their name 副詞 (ふくし) is different of course, means Adverb, so it would be just a special sub-class.
+Dolly also seems to allude at multiple points<sup>[[8]](./8-the-に-and-へ-particles.md)</sup> to that adverbs like ゆっくり could be classed as a kind of noun, although stuff like Jisho/Yomichan lists them as Adverbs and their name 副詞 (ふくし) is different of course, means Adverb, so it would be just a special sub-class.
 :::
 
 *I think that the term <code>Adverbial Noun</code> might be what that 副詞 refers to for Dolly, where usually they are called Adverbs, but they might be this very special class of nouns in Japanese, so why Dolly calls them that. As to why we can drop the に, since ゆっくり is already 副詞 on default.*

@@ -188,7 +188,7 @@ So we've got that と particle again, the quotation particle, which we need when
 
 ![](../media/image801.webp)
 
-If you remember from our て and た form lesson *(Lesson 5)*, the New Boom group of verbs, ぬ, ぶ, and む ending verbs, all form their て form with んで and their た form with んだ. **So both 読む and 呼ぶ have the past form よんだ.** Fortunately, we're not very often likely to get reading and calling mixed up, are we? This 呼ぶ means to `call`, to `shout out`. It can mean `call` in any of the senses that `call` is used in English. You can call someone a name, you can call an apple a lemon (but you'd be wrong) or you can call out.
+If you remember from our て and た form lesson<sup>[[5]](./5-verb-groups-and-the-て-form.md)</sup>, the New Boom group of verbs, ぬ, ぶ, and む ending verbs, all form their て form with んで and their た form with んだ. **So both 読む and 呼ぶ have the past form よんだ.** Fortunately, we're not very often likely to get reading and calling mixed up, are we? This 呼ぶ means to `call`, to `shout out`. It can mean `call` in any of the senses that `call` is used in English. You can call someone a name, you can call an apple a lemon (but you'd be wrong) or you can call out.
 
 「ちょっとまってください」とアリスはよんだ。
 

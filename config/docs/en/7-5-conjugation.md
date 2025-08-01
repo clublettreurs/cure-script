@@ -4,7 +4,7 @@
 
 Today we are going to talk about Japanese conjugation.
 
-Which particular conjugation?, you may ask. Well, all of them. Except for the た and て form, which we will discuss in a different video *(Lesson 81)*.
+Which particular conjugation?, you may ask. Well, all of them. Except for the た and て form, which we will discuss in a different video<sup>[[81]](./81-global-principle-of-all-japanese-word-forms.md)</sup>.
 
 Why are we dealing with them all at once? Because we can. Because Japanese conjugation all works the same way. It's very simple, very logical and very consistent, and very very easy to understand.
 
@@ -160,7 +160,7 @@ So what do we use the あ-ending stem for?
 
 ### Helper adjective ない
 
-I've already mentioned it *(Lesson 7)* – probably the most common use is to attach the helper adjective ない to the sticky stem of a verb.
+I've already mentioned it<sup>[[7]](./7-negative-forms-and-adjectives-in-past-tense.md)</sup> – probably the most common use is to attach the helper adjective ない to the sticky stem of a verb.
 
 ![](../media/image386.webp)
 
@@ -219,7 +219,7 @@ and たべる becomes たべさせる, allow to eat, make to eat.
 
 The so-called passive – which isn't really passive *(this can be argued, but let's stick to Dolly now)*, and we have a video helping you with understanding what it really does and how simple that really is – the so-called passive, **the receptive form**, is formed with **the helper verb れる / られる**.
 
-So, かう becomes かわれる, which means get bought, be bought, get bought – **get bought is better because that is closer to what the Japanese really means**, and you will understand that when you see the video *(Lesson 13)*;
+So, かう becomes かわれる, which means get bought, be bought, get bought – **get bought is better because that is closer to what the Japanese really means**, and you will understand that when you see the video<sup>[[13]](./13-passive-conjugation-receptive-helper-verb.md)</sup>;
 
 きく becomes きかれる, get heard; のむ becomes のまれる, get drunk – **I don't mean become intoxicated, I mean the way the cup of coffee got drunk;** たべる becomes たべられる, get eaten.
 

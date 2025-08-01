@@ -94,7 +94,7 @@
 
 ![](../media/image760.webp)
 
-Мы все знаем, что такое <code>だ</code> *(Урок 79)* (& если вы не знаете, [**я дам ссылку на видео**](https://www.youtube.com/watch?v=euHYPcMoao4), чтобы вы могли это изучить).
+Мы все знаем, что такое <code>だ</code><sup>[[79]](./79-deeper-secret-of-the-copula.md)</sup> (& если вы не знаете, [**я дам ссылку на видео**](https://www.youtube.com/watch?v=euHYPcMoao4), чтобы вы могли это изучить).
 
 ---
 

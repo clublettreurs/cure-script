@@ -72,7 +72,7 @@ So, <code>しまう</code> has a wide variety of implications, some of them nega
 **<code>しまう</code> is talking about going ahead and  
 doing something, something happening by accident;**
 
-As I said in the video on <code>しまう</code> *(Lesson 44)*, essentially when it's in the past, all those things that we can mean by <code>done</code> — <code>I done explained</code>, <code>I done fell over</code>, <code>she done stole my cake</code>, <code>I done won the lottery</code> — doesn't have to be negative, but it has that exclamation mark feeling to it.
+As I said in the video on <code>しまう</code><sup>[[44]](./44-how-to-use-natural-japanese-ちゃう-ちゃった.md)</sup>, essentially when it's in the past, all those things that we can mean by <code>done</code> — <code>I done explained</code>, <code>I done fell over</code>, <code>she done stole my cake</code>, <code>I done won the lottery</code> — doesn't have to be negative, but it has that exclamation mark feeling to it.
 
 **It happened, even though you might not have been expecting it or you might not have wanted it.**
 

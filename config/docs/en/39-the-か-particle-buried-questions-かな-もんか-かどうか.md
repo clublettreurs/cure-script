@@ -121,7 +121,7 @@ You're denying something very forcefully and often in opposition to somebody.
 
 ## どころか
 
-Another place where we often see -か as a negativizing question marker is in <code>どころか</code>. Now, <code>どころ</code> is a form of <code>ところ</code>, which we talked about in a recent lesson, didn't we? *(Lesson 36)*
+Another place where we often see -か as a negativizing question marker is in <code>どころか</code>. Now, <code>どころ</code> is a form of <code>ところ</code>, which we talked about in a recent lesson, didn't we?<sup>[[36]](./36-所-the-concept-of-place.md)</sup>
 
 ![](../media/image663.webp)
 

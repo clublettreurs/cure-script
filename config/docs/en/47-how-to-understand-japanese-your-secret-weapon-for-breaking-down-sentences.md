@@ -34,11 +34,11 @@ We usually say <code>I went to the shops and bought some bread</code>. So you se
 
 We're allowed to carry it over from context to the second clause of the sentence just the way Japanese much more freely allows us to do that. But in all cases the subject is there. Bread isn't buying itself. I'm buying it, whether I am visibly there as the subject or not.
 
-So one skill that we need for understanding a complex sentence is the ability to see where logical clauses end, to see when something is in fact a complete logical clause with its own A-car and B-engine. And I've done a whole video explaining how to do that, so you may want to watch that video after you see this one. *(Lesson 34)*
+So one skill that we need for understanding a complex sentence is the ability to see where logical clauses end, to see when something is in fact a complete logical clause with its own A-car and B-engine. And I've done a whole video explaining how to do that, so you may want to watch that video after you see this one.<sup>[[34]](./34-understand-any-sentence.md)</sup>
 
 Today we're going to concentrate on the logical clause and the ways in which it can apparently become complicated. Last week we were talking about the concept of modifiers and we were talking about it in its perhaps simplest and most approachable form, which is noun modifiers. And to understand modifiers you have to understand word order in Japanese because Japanese word order is extremely important. As sentences become more complex, you have to understand word order to understand what they're doing.
 
-So these people who tell you that Japanese has no set word order or that Japanese is an SOV language are really leading you up the garden path because neither of those statements is true, as we discussed last week. *(Lesson 46)* So the first law of Japanese word order is that the engine of the sentence, which can be a verb, an adjective or a noun-plus-copula, always has to come at the end of the sentence.
+So these people who tell you that Japanese has no set word order or that Japanese is an SOV language are really leading you up the garden path because neither of those statements is true, as we discussed last week.<sup>[[46]](./46-word-order-matters-2-simple-rules-to-crack-tough-sentences.md)</sup> So the first law of Japanese word order is that the engine of the sentence, which can be a verb, an adjective or a noun-plus-copula, always has to come at the end of the sentence.
 
 ![](../media/image638.webp)
 
@@ -132,7 +132,7 @@ So, everything in this sentence is modifying whatever comes after it, until we g
 
 This is how every Japanese sentence is structured. We have the A-car, we have the B-engine. If there's anything modifying the A-car it comes directly before it.
 
-If there's anything modifying the B-engine, it comes directly before that. Every noun marked with a main logical particle, the detectives of our logical particle video *(Lesson 8b)*:
+If there's anything modifying the B-engine, it comes directly before that. Every noun marked with a main logical particle, the detectives of our logical particle video<sup>[[8b]](./8b-particles-explained.md)</sup>:
 
 ![](../media/image804.webp)
 

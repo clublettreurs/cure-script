@@ -43,7 +43,7 @@ Tae Kim-sensei has quite a lot of information online and a lot of what he says i
 
 So, the three are essentially:  
 the が-particle, which is the absolute backbone of Japanese structure,  
-the copula <code>だ</code>, which is essential to all non-adjectival A-is-B structures, and the myth of Japanese conjugation *(Lesson 10)*.
+the copula <code>だ</code>, which is essential to all non-adjectival A-is-B structures, and the myth of Japanese conjugation<sup>[[10]](./10-helper-verbs-the-potential-helper-verb.md)</sup>.
 
 ![](../media/image1160.webp)
 
@@ -53,7 +53,7 @@ And his approach to immersion itself is actually closer to what I believe than a
 
 ## The が Particle
 
-Now, the が-particle, as I've explained on various occasions before, is the absolute core of Japanese *(Lesson 1)*.
+Now, the が-particle, as I've explained on various occasions before, is the absolute core of Japanese<sup>[[1]](./1-the-basic-types-of-sentences.md)</sup>.
 
 ![](../media/image695.webp)
 
@@ -168,11 +168,11 @@ Now, this vagueness might be considered not very destructive, but in fact it is 
 
 ![](../media/image957.webp)
 
-We can't see how the core Japanese sentence works because we don't have the が-particle. We can't talk about the difference between logical and non-logical particles *(Lesson 8b)*, like the は and も topic markers, because we don't have the key logical particle.
+We can't see how the core Japanese sentence works because we don't have the が-particle. We can't talk about the difference between logical and non-logical particles<sup>[[8b]](./8b-particles-explained.md)</sup>, like the は and も topic markers, because we don't have the key logical particle.
 
 If we have to build a theory around this undefined が, then we're going to have a very undefined kind of theory. So we've essentially created a structure that negates the core structure of Japanese from the beginning. And once we've done that, we logically find ourselves having to do other things that take the theory even further from being useful and predictive.
 
-So in our next lesson *(Lesson 78)* we're going to look at what happened to the <code>だ</code> copula in Tae Kim-sensei's theory and some other consequences.
+So in our next lesson<sup>[[78]](./78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review.md)</sup> we're going to look at what happened to the <code>だ</code> copula in Tae Kim-sensei's theory and some other consequences.
 
 Now, once again, I'm not trying to denigrate Tae Kim-sensei. In fact, the reason I've singled him out is because he's the only person who's really challenged the conventional Eihongo model at a deep enough level to give us another perspective, another angle for assessing Japanese structure.
 

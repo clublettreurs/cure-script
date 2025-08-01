@@ -10,7 +10,7 @@ Now, part of the reason this is so confusing is that <code>もらう</code> is c
 
 ![](../media/image852.webp)
 
-Quite a while ago I dealt with <code>くれる</code> and <code>あげる</code> *(Lesson 11)* and at the time I quite specifically didn't include <code>もらう</code> because I believe teaching them together in the way that is common causes a great deal of unnecessary confusion. I'm going to just run quickly over <code>くれる</code> and <code>あげる</code> now, and we'll talk about the ways in which they are similar to <code>もらう</code>, the much more important ways in which they aren't similar to <code>もらう</code>, and what we should really be comparing <code>もらう</code> to, which will make it much easier to understand a whole range of Japanese expressions and sentences.
+Quite a while ago I dealt with <code>くれる</code> and <code>あげる</code><sup>[[11]](./11-compound-sentences-くれる-あげる-and-more-uses-of-the-て-form.md)</sup> and at the time I quite specifically didn't include <code>もらう</code> because I believe teaching them together in the way that is common causes a great deal of unnecessary confusion. I'm going to just run quickly over <code>くれる</code> and <code>あげる</code> now, and we'll talk about the ways in which they are similar to <code>もらう</code>, the much more important ways in which they aren't similar to <code>もらう</code>, and what we should really be comparing <code>もらう</code> to, which will make it much easier to understand a whole range of Japanese expressions and sentences.
 
 So, as we know, <code>あげる</code> and <code>くれる</code> mean respectively <code>give up</code> to someone else or someone else <code>giving down</code> to oneself or to one's in-group or someone one identifies with.
 

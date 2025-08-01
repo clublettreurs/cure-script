@@ -36,7 +36,7 @@ You know those pages and pages of irregular verbs in your Spanish or French text
 
 ## The -て Form
 
-So now that we know the three groups, we're going to take a look at how you make them into the -て and -た form. As I explained last week *(Lesson 4)*, we need those two forms for making the Japanese present and past tenses. And they have a number of other uses too, which we'll learn as we go along with this course.
+So now that we know the three groups, we're going to take a look at how you make them into the -て and -た form. As I explained last week<sup>[[4]](./4-japanese-verb-tenses.md)</sup>, we need those two forms for making the Japanese present and past tenses. And they have a number of other uses too, which we'll learn as we go along with this course.
 
 And as I demonstrated last week, ichidan verbs are always very easy. **You never do anything except take off the -る and put on whatever you're going to put on, in this case a て or a た.**
 

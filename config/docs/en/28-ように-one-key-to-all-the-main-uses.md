@@ -42,7 +42,7 @@ For example, we might say, <code>日本語のマンガが読めるようにな�
 
 As you see, in both cases something is changing its state. I change my state from not believing him to believing him; the manga changes its state from being non-readable to being readable. In all cases we are talking about a change of state, a change of the existing state in someone or something from one condition to another.
 
-And if you're wondering why we most often in Japanese speak of the manga changing state from being non-readable to readable rather than speaking, as in English we usually do, of the person changing state from not being able to read the manga to being able to read the manga, please watch the video lesson on the potential helper verb where I explain how this works. *(Lesson 10)*
+And if you're wondering why we most often in Japanese speak of the manga changing state from being non-readable to readable rather than speaking, as in English we usually do, of the person changing state from not being able to read the manga to being able to read the manga, please watch the video lesson on the potential helper verb where I explain how this works.<sup>[[10]](./10-helper-verbs-the-potential-helper-verb.md)</sup>
 
 ## ようにする
 

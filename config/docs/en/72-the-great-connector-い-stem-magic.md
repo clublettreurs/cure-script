@@ -55,7 +55,7 @@ The <code>そう</code> helper, which gives us the meaning of likeness, that als
 
 ![](../media/image87.webp)
 
-So we say <code>雨が降りそうだ</code> (it looks like rain) / *Rain is fall-seeming.* and I've talked about this <code>そう</code> form and various related structures in another video, which I'll link. *(Lesson 24)*
+So we say <code>雨が降りそうだ</code> (it looks like rain) / *Rain is fall-seeming.* and I've talked about this <code>そう</code> form and various related structures in another video, which I'll link.<sup>[[24]](./24-hearsay-guesses-そう-そうだ-そうです.md)</sup>
 
 ## 連用形 connector & the て-form connector
 
@@ -77,7 +77,7 @@ And to return to our friend <code>読む</code>, we can say <code>読み始め�
 
 ![](../media/image411.webp)
 
-And I've done a whole video on this <code>込む</code> which you can watch if you're interested. *(Lesson 57)* I'll put a link above and in the information section below along with everything else.
+And I've done a whole video on this <code>込む</code> which you can watch if you're interested.<sup>[[57]](./57-込む-komu-and-the-secret-of-multi-meaning-japanese-words.md)</sup> I'll put a link above and in the information section below along with everything else.
 
 On a computer loading screen, you'll often see <code>読み込み中</code>, which is interesting, because here you see we have two い-stems, stacked together. <code>読み込む</code> itself takes the い-stem and connects to <code>中</code> (middle).
 
@@ -111,7 +111,7 @@ So we have two logical clauses there: <code>I went to the shops</code> and <code
 You can check [**this comment tree**](https://www.youtube.com/watch?v=_qj9ZkAC2tE&lc=UgzBHAJNYjRy5GdLuE94AaABAg&ab_channel=OrganicJapanesewithCureDolly) under this video. May be useful.
 :::
 
-I've done a video about compound sentences, which I'll link. *(Lesson 11)*
+I've done a video about compound sentences, which I'll link.<sup>[[11]](./11-compound-sentences-くれる-あげる-and-more-uses-of-the-て-form.md)</sup>
 
 Now, the い-stem can do exactly the same thing. We can say <code>お店に行きパンを買った</code>, which is exactly the same as saying  
 <code>お店に行ってパンを買った</code>.
@@ -180,7 +180,7 @@ Our purpose is the thing of playing, the thing of having fun, and that is <code>
 
 If we say <code>お店にパンを買いに行く</code>, we're saying <code>I'm going to the shops for bread-buying</code>. This is how these are structured, and I think very few textbooks actually ever explain that what we're using here is the noun-form of the verb.
 
-And that's important, because as I taught in our lesson on the logical particles *(Lesson 8b)*, the five main logical particles can only be attached to nouns. *(が, を, の, に, へ, で)*
+And that's important, because as I taught in our lesson on the logical particles<sup>[[8b]](./8b-particles-explained.md)</sup>, the five main logical particles can only be attached to nouns. *(が, を, の, に, へ, で)*
 
 ::: info
 Just like Dolly remarks in Lesson 8b, の is also part of the logical particles,

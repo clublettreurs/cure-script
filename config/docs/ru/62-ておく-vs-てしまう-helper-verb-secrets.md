@@ -12,7 +12,7 @@
 
 Теперь Кимика-сама может перевести это почти правильно (в общих чертах это означает на английском
 
-`I will give each group a good explanation from me`),
+<code>I will give each group a good explanation from me</code>),
 
 но все еще не понимает, почему <code>おく</code> используется в качестве вспомогательного глагола к <code>説明する</code>.
 
@@ -71,7 +71,7 @@
 
 **<code>しまう</code> говорит о том, чтобы взять и сделать что-то, о чем-то, что происходит случайно;**
 
-как я говорила в видео о <code>しまう</code> *(Урок 44)*, по сути, когда это в прошедшем времени, все те вещи, которые мы можем подразумевать под <code>done</code> — <code>I done explained</code>, <code>I done fell over</code>, <code>she done stole my cake</code>, <code>I done won the lottery</code> — не обязательно должно быть отрицательным, но в нем есть это ощущение восклицательного знака.
+как я говорила в видео о <code>しまう</code><sup>[[44]](./44-how-to-use-natural-japanese-ちゃう-ちゃった.md)</sup>, по сути, когда это в прошедшем времени, все те вещи, которые мы можем подразумевать под <code>done</code> — <code>I done explained</code>, <code>I done fell over</code>, <code>she done stole my cake</code>, <code>I done won the lottery</code> — не обязательно должно быть отрицательным, но в нем есть это ощущение восклицательного знака.
 
 **Это произошло, даже если вы, возможно, не ожидали этого или не хотели этого.**
 

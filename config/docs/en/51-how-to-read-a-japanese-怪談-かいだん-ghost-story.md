@@ -51,7 +51,7 @@ So what about the rest of this sentence?
 
 ![](../media/image204.webp)
 
-Now, as you see, between the <code>それは</code> and the <code>日</code> comes a complete logical sentence in itself. And we can see that each clause in this logical sentence, just as we've seen in our videos on word order *(Lesson 46)* and sentence structure, works by successively modifying each element.
+Now, as you see, between the <code>それは</code> and the <code>日</code> comes a complete logical sentence in itself. And we can see that each clause in this logical sentence, just as we've seen in our videos on word order<sup>[[46]](./46-word-order-matters-2-simple-rules-to-crack-tough-sentences.md)</sup> and sentence structure, works by successively modifying each element.
 
 So, <code>ある女の子が先輩のアパートで行われた飲み会に参加した</code>
 

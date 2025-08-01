@@ -128,8 +128,7 @@ So, **we should look out for this very loose use of <code>なんか</code>** **a
 
 ## なんて
 
-**<code>なんて</code> is essentially a contraction of <code>何って</code>** and I've done another video about this -って, which is a contraction of -と or <code>-という</code>.  
-*(Lesson 18)*
+**<code>なんて</code> is essentially a contraction of <code>何って</code>** and I've done another video about this -って, which is a contraction of -と or <code>-という</code>.  <sup>[[18]](./18-って-は-mysteries-explained-おうとする-とする-として-という-っていう.md)</sup>
 
 ![](../media/image433.webp)
 
@@ -179,7 +178,7 @@ What's that <code>なんて</code> doing? Well, **it's turning the whole thing i
 
 Now, **<code>腹を立てる</code>** means literally <code>stand your stomach</code>, **but this is an expression meaning <code>get angry</code>.** **So the whole thing is saying <code>getting angry, that's not like you</code>.**
 
-And I've talked about this <code>らしい</code> and <code>らしくない</code> in another video. *(Lesson 25)* So, if you're not familiar with those, I'll put a link above my head and in the information section below.
+And I've talked about this <code>らしい</code> and <code>らしくない</code> in another video.<sup>[[25]](./25-らしい-vs-そうだ-そうです-っぽい-ppoi.md)</sup> So, if you're not familiar with those, I'll put a link above my head and in the information section below.
 
 ---
 

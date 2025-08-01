@@ -120,7 +120,7 @@ so we say -かった: <code>おいしかった</code> (that was delicious).
 
 ### The け stem (けれ)
 
-**The け-stem also takes a rider, which is -れ so we have the stem -けれ,** **and to that we attach the helper -ば, which is the conditional** (and I made a whole set of videos on conditionals like -ば and -たら (Lessons 30, 31, 32 & 33), and I'll put a link above and in the information section below).
+**The け-stem also takes a rider, which is -れ so we have the stem -けれ,** **and to that we attach the helper -ば, which is the conditional** (and I made a whole set of videos on conditionals like -ば and -たら, and I'll put a link above and in the information section below).<sup>[[30]](./30-japanese-conditionals-と.md)</sup><sup>[[31]](./31-the-ば-れば-conditional.md)</sup><sup>[[32]](./32-the-たら-なら-conditionals.md)</sup><sup>[[33]](./33-limiting-terms-だけ-しか-ばかり-のみ.md)</sup>
 
 ![](../media/image796.webp)
 

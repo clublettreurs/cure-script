@@ -73,7 +73,7 @@ So, armed with this information, we can now take a deeper look at the particle �
 
 ## A deeper look into the particle で
 
-When I introduced it in the video on logical particles *(Lesson 8b)*, I said that it, like the other logical particles other than が (which, of course, is in every sentence) and の (which is a logical particle, but it doesn't tell us what its noun is doing in relation to the action of the sentence; it tells us about the noun in relation to another noun) but the other particles, including で, I said, were only active in A-does-B sentences, that's verb-sentences.
+When I introduced it in the video on logical particles<sup>[[8b]](./8b-particles-explained.md)</sup>, I said that it, like the other logical particles other than が (which, of course, is in every sentence) and の (which is a logical particle, but it doesn't tell us what its noun is doing in relation to the action of the sentence; it tells us about the noun in relation to another noun) but the other particles, including で, I said, were only active in A-does-B sentences, that's verb-sentences.
 
 Now, that is something of an oversimplification. There is another way in which they can act. It doesn't become too much of a problem not knowing that at the beginning, but as we progress we need to understand this.
 
@@ -111,7 +111,7 @@ But we **can't** say <code>このラーメンは世界の一番美味しい</cod
 
 ![](../media/image446.webp)
 
-Why can't we? Because, as we know from the lesson on word order *(Lesson 46)*, in Japanese words only modify words that come after them. They can't modify words that come before them.
+Why can't we? Because, as we know from the lesson on word order<sup>[[46]](./46-word-order-matters-2-simple-rules-to-crack-tough-sentences.md)</sup>, in Japanese words only modify words that come after them. They can't modify words that come before them.
 
 And because の can't modify <code>美味しい</code>, it can only modify <code>ラーメン</code>, which is another noun, and because <code>ラーメン</code> is on the wrong side of it, we can't actually use that. So we have to say <code>このラーメンは世界で一番美味しい</code>, because で sets the boundary within which <code>美味しい</code> prevails.
 

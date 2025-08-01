@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Today we're going to talk about the core fundamental structure of Japanese and a problem that troubles some people about it, which I've tried to lay to rest *(Lesson 43)* but there's still some difficulty, I think, so I'm going to try to tackle the question, for what I hope will be the last time, today. And in doing that we're going to look at a puzzle that's posed by the title of a very popular work.
+Today we're going to talk about the core fundamental structure of Japanese and a problem that troubles some people about it, which I've tried to lay to rest<sup>[[43]](./43-paradigm-shift-cut-through-the-confusion.md)</sup> but there's still some difficulty, I think, so I'm going to try to tackle the question, for what I hope will be the last time, today. And in doing that we're going to look at a puzzle that's posed by the title of a very popular work.
 
 ![](../media/image772.webp)
 
@@ -29,7 +29,7 @@ And, as we see, **the adjective <code>たい</code>**,
 
 ---
 
-And confusion ensues *(Lesson 9)* when we actually translate this as literally meaning **  
+And confusion ensues<sup>[[9]](./9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる.md)</sup> when we actually translate this as literally meaning **  
 <code>I want to eat cake</code>, because that's not what it means.**
 
 ****It means** <code>cake is want-inducing (to me)</code>.** *(私は) ケーキが食べたい。*

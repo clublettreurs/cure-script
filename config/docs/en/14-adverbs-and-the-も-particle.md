@@ -16,7 +16,7 @@ The first verb here is とぶ/飛ぶ, which means either `jump` or `fly`. In thi
 
 ![](../media/image798.webp)
 
-And we might notice that 上がる here, it's the same kanji as 上, which means `up`, and 上がる is a verb meaning `rise up`, and we can see that it's related to 上げる, which we looked at recently *(Lesson 11)*, and that means to `give to someone upwards / (to) raise up toward someone else`.
+And we might notice that 上がる here, it's the same kanji as 上, which means `up`, and 上がる is a verb meaning `rise up`, and we can see that it's related to 上げる, which we looked at recently<sup>[[11]](./11-compound-sentences-くれる-あげる-and-more-uses-of-the-て-form.md)</sup>, and that means to `give to someone upwards / (to) raise up toward someone else`.
 
 ![](../media/image1077.webp)
 
@@ -150,7 +150,7 @@ Now here we're going to meet a new element that we haven't covered before, and t
 
 ![](../media/image521.webp)
 
-Well, we know that は ***(Lesson 3)*** is a non-logical topic-marking particle, don't we? **も is another non-logical topic-marking particle; in fact, it's the only other non-logical topic-marking particle.** So **も marks the topic of the sentence just the way は does.** What's the difference between them? 
+Well, we know that は **<sup>[[3]](./3-the-は-particle.md)</sup>** is a non-logical topic-marking particle, don't we? **も is another non-logical topic-marking particle; in fact, it's the only other non-logical topic-marking particle.** So **も marks the topic of the sentence just the way は does.** What's the difference between them? 
 
 Well, は, as we know, declares the topic of the sentence, and obviously it can also change the topic of the sentence. **If we're talking about one thing and we declare a new は topic, we have changed the topic of the sentence.**
 

@@ -100,7 +100,7 @@ So that's one type, and although it may take a little while to get used to the e
 
 As I've said before, **Japanese is a very noun-centered language.**
 
-And, as you know *(Lesson 8b)*, **nouns always have something stuck to them**:
+And, as you know<sup>[[8b]](./8b-particles-explained.md)</sup>, **nouns always have something stuck to them**:
 
 **a logical particle to tell us what role they play in the sentence**,
 
@@ -124,7 +124,7 @@ So, for example, if I say <code>私アンドロイド</code>, **I've left off wh
 
 Now, if you know that I'm introducing myself or saying something about myself, there's no doubt about what's going on here.
 
-And... I don't want to go back too much to the subject of Tae Kim-sensei, I've done a three-part series about the things Tae Kim-sensei teaches that he actually shouldn't be teaching, and I'll link to that *(Lessons 77, 78, 79)*, but what I will do here is make a point that I didn't make there **which is that Tae Kim-sensei says that because <code>だ</code> is often dropped and <code>です</code> is not dropped,** *(according to him)* they're not really the same thing, they're not both the copula.
+And... I don't want to go back too much to the subject of Tae Kim-sensei, I've done a three-part series about the things Tae Kim-sensei teaches that he actually shouldn't be teaching, and I'll link to that<sup>[[77]](./77-real-japanese-structure-vs-tae-kim-structural-review-of-tae-kim-s-japanese-grammar.md)</sup><sup>[[78]](./78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review.md)</sup><sup>[[79]](./79-deeper-secret-of-the-copula.md)</sup>, but what I will do here is make a point that I didn't make there **which is that Tae Kim-sensei says that because <code>だ</code> is often dropped and <code>です</code> is not dropped,** *(according to him)* they're not really the same thing, they're not both the copula.
 
 ### Why だ is often dropped and です isn’t
 
@@ -264,6 +264,6 @@ And that can serve a variety of purposes.
 
 **Or it can be used just to soften the thing you're saying right now** **or perhaps to strengthen it a bit.**
 
-I've talked about this in other places and I'll link to the places where I've done that *(Lesson 63)*.
+I've talked about this in other places and I'll link to the places where I've done that<sup>[[63]](./63-wild-sentence-enders-in-real-life-japanese-かい-だい-ぜ-ぞ-さ-から-し-ちょうだい.md)</sup>.
 
 But these are the fundamental principles of omission in Japanese, and once you know them, the whole thing becomes much less puzzling.

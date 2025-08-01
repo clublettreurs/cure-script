@@ -73,7 +73,7 @@ So, for example, <code>男の**くせに**泣かないでよ</code>. Now what's 
 
 **Is that what it's saying? Well, no, it isn't.** <code>男の**くせに**</code> **is being used in a trailing manner like the previous example.** **And then <code>泣かないでよ</code> is being added to that trailing insult,** **as it were, and that's a command.**
 
-I've done a video on commands. *(Lesson 83)*
+I've done a video on commands.<sup>[[83]](./83-three-levels-of-command-in-japanese-て-form-commands-なさい-な-commands-imperative-form.md)</sup>
 
 **So, <code>泣かないでよ</code> is not a sentence, it's just a command: <code>Stop crying!</code>** Just as in English <code>Stop crying</code> is not a sentence with a subject and a predicate. It's just a command.
 

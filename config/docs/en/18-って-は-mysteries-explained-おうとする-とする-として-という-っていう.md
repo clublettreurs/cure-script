@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Today we're going to talk about <code>trying to do something</code> and from there we're going to broaden out into the wider meanings of the <code>と</code> quotation particle because this is a very central part of Japanese that's used all the time. So we need to get a firm understanding of what it is and how it works. Now, last week *(Lesson 17)* we learned the volitional helper う and よう which makes a word end with the sound <code>おう</code> or <code>よう</code> and expresses will.
+Today we're going to talk about <code>trying to do something</code> and from there we're going to broaden out into the wider meanings of the <code>と</code> quotation particle because this is a very central part of Japanese that's used all the time. So we need to get a firm understanding of what it is and how it works. Now, last week<sup>[[17]](./17-polite-japanese-and-the-volitional.md)</sup> we learned the volitional helper う and よう which makes a word end with the sound <code>おう</code> or <code>よう</code> and expresses will.
 
 ![](../media/image657.webp)
 
@@ -26,7 +26,7 @@ Some people find the distinction between <code>try climbing</code> and <code>try
 
 ![](../media/image571.webp)
 
-**In Japanese**, as we learned recently *(Lesson 16)*, **if we want to say,** <code>**try** climbing the mountain</code>, we say, <code>山にのぼってみる</code>. **The difference is that <code>try climbing / try eating / try swimming</code> doesn't imply any doubt about the fact that we can actually do it.** **It implies doubt about what would be the result when we've done it.**
+**In Japanese**, as we learned recently<sup>[[16]](./16-てみる-や-particle-から-particle-exclusive-and.md)</sup>, **if we want to say,** <code>**try** climbing the mountain</code>, we say, <code>山にのぼってみる</code>. **The difference is that <code>try climbing / try eating / try swimming</code> doesn't imply any doubt about the fact that we can actually do it.** **It implies doubt about what would be the result when we've done it.**
 
 ---
 
@@ -62,11 +62,11 @@ Now, we might also say, <code>さくらを日本人にする</code>, but that me
 
 ---
 
-A little while ago we had a lesson *(Lesson 8)* in which we talked about <code>さくらがかえるになる</code> - <code>Sakura **becomes a frog**</code>.
+A little while ago we had a lesson<sup>[[8]](./8-the-に-and-へ-particles.md)</sup> in which we talked about <code>さくらがかえるになる</code> - <code>Sakura **becomes a frog**</code>.
 
 ![](../media/image943.webp)
 
-Now, we've also talked about *(Lesson 15)* the way that <code>ある</code> and <code>する</code> are the Eve and Adam of Japanese verbs,
+Now, we've also talked about<sup>[[15]](./15-transitive-intransitive-verbs.md)</sup> the way that <code>ある</code> and <code>する</code> are the Eve and Adam of Japanese verbs,
 
 ![](../media/image662.webp)
 

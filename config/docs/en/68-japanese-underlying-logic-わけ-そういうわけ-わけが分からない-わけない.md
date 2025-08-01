@@ -168,7 +168,7 @@ How do we know the difference between these two? Well, this is a matter of conte
 
 We actually do it in English all the time. Lots of statements have more than one possible interpretation and most of the time we're not aware of it because we are so used to using the context to determine which of a possible range of meanings is to be applied in a given case.
 
-We're not conscious of this process so we really need to understand it in order to apply it in Japanese or any other language. So take a look at that video if you haven't seen it already *(Lesson 48)*.
+We're not conscious of this process so we really need to understand it in order to apply it in Japanese or any other language. So take a look at that video if you haven't seen it already<sup>[[48]](./48-dealing-with-ambiguity-in-japanese.md)</sup>.
 
 ### わけがない as <code>simple, easy</code>
 

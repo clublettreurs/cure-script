@@ -26,7 +26,7 @@ In our recent series on conditionals, we were in fact dealing with conjunctions.
 
 ![](../media/image1044.webp)
 
-And the two other kinds of conjunctions that we need to look out for are the て-form, which can join two clauses together into a compound sentence, as we looked at in our first lesson on compound sentences *(Lesson 11)*, and the い-stem of a verb. You've seen how the い-stem is the main conjunctive stem out of the four stems of verbs.
+And the two other kinds of conjunctions that we need to look out for are the て-form, which can join two clauses together into a compound sentence, as we looked at in our first lesson on compound sentences<sup>[[11]](./11-compound-sentences-くれる-あげる-and-more-uses-of-the-て-form.md)</sup>, and the い-stem of a verb. You've seen how the い-stem is the main conjunctive stem out of the four stems of verbs.
 
 ![](../media/image403.webp)
 

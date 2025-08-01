@@ -108,7 +108,7 @@ So this opens up a whole range of uses of <code>その</code> which don't really
 
 And there are various other strategies that displace pronouns.
 
-For example, we've talked in the past *(Lesson 48?)* about <code>くれる</code> and <code>あげる</code>, and I think we often get the impression that this has a lot to do with a more personal sense of relation.
+For example, we've talked in the past about <code>くれる</code> and <code>あげる</code><sup>[[48]](./48-dealing-with-ambiguity-in-japanese.md)</sup>, and I think we often get the impression that this has a lot to do with a more personal sense of relation.
 
 ![](../media/image1141.webp)
 

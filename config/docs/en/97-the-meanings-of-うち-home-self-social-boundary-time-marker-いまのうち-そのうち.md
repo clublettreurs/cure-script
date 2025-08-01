@@ -126,7 +126,7 @@ To understand this, we not only have to understand <code>うち</code> but we ha
 
 #### What does その mean
 
-Now, I've made a video *(Lesson 75)* in which I explain various things about the use of <code>その</code> in Japanese. **It very often replaces what in English would be pronouns.** So if we say <code>さくらと**その**犬</code>, we're **not** saying <code>Sakura and that dog</code>.
+Now, I've made a video<sup>[[75]](./75-japanese-is-not-english-how-expression-strategies-differ-polite-英本語-rude-japanese.md)</sup> in which I explain various things about the use of <code>その</code> in Japanese. **It very often replaces what in English would be pronouns.** So if we say <code>さくらと**その**犬</code>, we're **not** saying <code>Sakura and that dog</code>.
 
 We're saying <code>Sakura and **her** dog</code>.
 

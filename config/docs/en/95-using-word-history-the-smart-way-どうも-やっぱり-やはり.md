@@ -47,7 +47,7 @@ That negativizing -ぬ is something [**I've talked about in a recent video**](ht
 
 ![](../media/image373.webp)
 
-**And in most of the more common uses this was used in the Edo period along with the word <code>ほど</code>.** And I've made a recent video about <code>ほど</code> as well, so I'll link that. *(Lesson 94)*
+**And in most of the more common uses this was used in the Edo period along with the word <code>ほど</code>.** And I've made a recent video about <code>ほど</code> as well, so I'll link that.<sup>[[94]](./94-くらい-vs-ほど.md)</sup>
 
 **So, <code>どうも言えぬほど</code>:**
 

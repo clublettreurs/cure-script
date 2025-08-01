@@ -10,8 +10,7 @@ Today we're going to talk about the <code>hidden hand</code> in Japanese. What d
 
 ## No subject in Japanese?
 
-Well, a number of people claim that Japanese has no subject. And I think we've established beyond any doubt that Japanese not only has a subject
-*(Lesson 9)* but that you can't have any Japanese sentence without a subject, although you can't always see or hear the subject. It can be a <code>zero-pronoun</code>.
+Well, a number of people claim that Japanese has no subject. And I think we've established beyond any doubt that Japanese not only has a subject<sup>[[9]](./9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる.md)</sup> but that you can't have any Japanese sentence without a subject, although you can't always see or hear the subject. It can be a <code>zero-pronoun</code>.
 
 ![](../media/image160.webp)
 
@@ -39,7 +38,7 @@ Now, although languages have differing expression-strategies, it turns out that 
 
 ## Receptive helper
 
-So, one of the reasons that English so-called <code>Japanese grammar</code> misnames the Japanese receptive helper-verb as a passive conjugation or passive voice, is that what it really is, while it exists in English, is not of very high status. *(Lesson 13)* Because we use the receptive in English by using the word <code>got</code> under various circumstances like <code>I got rescued by my big sister</code>, <code>The sandwiches got eaten by the dog</code> — but this isn't considered good English.
+So, one of the reasons that English so-called <code>Japanese grammar</code> misnames the Japanese receptive helper-verb as a passive conjugation or passive voice, is that what it really is, while it exists in English, is not of very high status.<sup>[[13]](./13-passive-conjugation-receptive-helper-verb.md)</sup> Because we use the receptive in English by using the word <code>got</code> under various circumstances like <code>I got rescued by my big sister</code>, <code>The sandwiches got eaten by the dog</code> — but this isn't considered good English.
 
 Now, the fact that it isn't considered good English is simply a matter of fashion. It's perfectly grammatical. It just happens to be unfashionable or to hold low status in the language. This is really just a historical accident.
 
@@ -53,7 +52,7 @@ Now, the sentence comes from NHK News Easy, which is a very good news service fo
 
 So, what do we think is the subject, the A-car, of this sentence?
 
-Now, the first thing to do when analyzing a sentence is what I said in my video on sentence analysis *(Lesson 37)*, which is that we need to see where logical clauses end within a sentence. A logical clause which is functioning as a logical clause and not a descriptor or a helper to anything else can only end in two ways,
+Now, the first thing to do when analyzing a sentence is what I said in my video on sentence analysis<sup>[[37]](./37-new-structure-secrets-な-vs-の-なる-たる-adjectives.md)</sup>, which is that we need to see where logical clauses end within a sentence. A logical clause which is functioning as a logical clause and not a descriptor or a helper to anything else can only end in two ways,
 either with a full stop, making it the end of a sentence, or with a conjunction, marking it as the first logical clause within a compound sentence.
 
 ![](../media/image49.webp)
@@ -90,9 +89,9 @@ So what is going on here?
 
 Well, what is the sentence actually saying? It's saying that someone, the subject of the sentence, whoever that may be, is having everyone teach or advise them about the food the Olympic athletes are to eat.
 
-Now, my questioner actually got this far, but then was stumped by the question of who this unnamed person or people might be. Could it be the athletes? Well, that isn't likely, and we always have to consider likelihood in resolving any kind of ambiguity. *(Lesson 48)* This isn't really an ambiguous sentence but the context makes it pretty clear that it's not the athletes.
+Now, my questioner actually got this far, but then was stumped by the question of who this unnamed person or people might be. Could it be the athletes? Well, that isn't likely, and we always have to consider likelihood in resolving any kind of ambiguity.<sup>[[48]](./48-dealing-with-ambiguity-in-japanese.md)</sup> This isn't really an ambiguous sentence but the context makes it pretty clear that it's not the athletes.
 
-First of all, by default these <code>-てもらう</code> sentences mean that somebody actively had someone else do something. *(Lesson 49)* So the person doing <code>もらう</code> *(the A zeroが subject)* is getting *(the B train - もらう)* the person *(みんなに)* doing the て-formed verb to do that て-formed verb *(教えて)*.
+First of all, by default these <code>-てもらう</code> sentences mean that somebody actively had someone else do something.<sup>[[49]](./49-japanese-point-of-view-deconfused-もらう-てもらう.md)</sup> So the person doing <code>もらう</code> *(the A zeroが subject)* is getting *(the B train - もらう)* the person *(みんなに)* doing the て-formed verb to do that て-formed verb *(教えて)*.
 
 ![](../media/image628.webp)
 

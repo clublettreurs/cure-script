@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Today we're going to talk about the helper noun <code>そう</code>, which can mean either likeness or hearsay, **either that something seems like something** or that we are **stating not our own view or opinion but something we've heard.** Differentiating the two can seem difficult, especially when the textbooks give you a list of connections to nouns and verbs and various different things. It's much less complicated when you understand the underlying principle, what's actually going on with <code>そう</code>. So you don't have to memorize a lot of different things. So, first of all, what is <code>そう</code>? **It's the same <code>そう</code> that we learned about recently that comes in <code>こう-そう-ああ-どう</code>.** *(Lesson 20)*
+Today we're going to talk about the helper noun <code>そう</code>, which can mean either likeness or hearsay, **either that something seems like something** or that we are **stating not our own view or opinion but something we've heard.** Differentiating the two can seem difficult, especially when the textbooks give you a list of connections to nouns and verbs and various different things. It's much less complicated when you understand the underlying principle, what's actually going on with <code>そう</code>. So you don't have to memorize a lot of different things. So, first of all, what is <code>そう</code>? **It's the same <code>そう</code> that we learned about recently that comes in <code>こう-そう-ああ-どう</code>.**<sup>[[20]](./20-directionals-それ-その-そんな-そう-etc.md)</sup>
 
 ![](../media/image671.webp)
 
@@ -16,7 +16,7 @@ Today we're going to talk about the helper noun <code>そう</code>, which can m
 
 ![](../media/image509.webp)
 
-And remember, as we've learned before, that each of the three engines can be moved behind other cars to turn them into adjectives. *(Lesson 6)* **Now, once -そう has been attached to an engine** **the engine becomes a new adjectival noun.** How do we attach them? We do the same thing in every case. **We take the last kana from the engine.** That is the kana that makes it what it is, its active part.
+And remember, as we've learned before, that each of the three engines can be moved behind other cars to turn them into adjectives.<sup>[[6]](./6-adjectives.md)</sup> **Now, once -そう has been attached to an engine** **the engine becomes a new adjectival noun.** How do we attach them? We do the same thing in every case. **We take the last kana from the engine.** That is the kana that makes it what it is, its active part.
 
 ---
 

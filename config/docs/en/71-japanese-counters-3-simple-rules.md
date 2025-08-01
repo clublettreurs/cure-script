@@ -90,7 +90,7 @@ But when we say <code>猫が三匹いる</code> — <code>there are three cats</
 
 ![](../media/image247.webp)
 
-Well, the thing to understand here is that counters aren't ordinary nouns. They are what I called in my video about special noun types *(Lesson 41)*, they're what I called <code>foxy nouns</code>, that is to say, adverbial nouns.
+Well, the thing to understand here is that counters aren't ordinary nouns. They are what I called in my video about special noun types<sup>[[41]](./41-5-key-facts-about-the-basic-structure-of-japanese.md)</sup>, they're what I called <code>foxy nouns</code>, that is to say, adverbial nouns.
 
 They are nouns that have the special property of being able to modify verbs. And that's what's happening here.
 

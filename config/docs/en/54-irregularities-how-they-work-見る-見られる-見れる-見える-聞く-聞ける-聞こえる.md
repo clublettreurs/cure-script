@@ -62,7 +62,7 @@ So we have <code>見る</code>, we have <code>見られる</code>, and <code>見
 
 So what is the difference between the two potential forms, the regular and the irregular potential form?
 
-Now, in each case here, the irregular potential form is what I'm going to call a forced self-move form. Now, as we know from our lesson on the potential *(Lesson 10)*, potential is usually self-move — and if you don't know what <code>self-move</code> is, you should look at the lesson on self-move and other-move verbs too *(Lesson 15)*. They sometimes get called, not exactly accurately, transitive and intransitive.
+Now, in each case here, the irregular potential form is what I'm going to call a forced self-move form. Now, as we know from our lesson on the potential<sup>[[10]](./10-helper-verbs-the-potential-helper-verb.md)</sup>, potential is usually self-move — and if you don't know what <code>self-move</code> is, you should look at the lesson on self-move and other-move verbs too<sup>[[15]](./15-transitive-intransitive-verbs.md)</sup>. They sometimes get called, not exactly accurately, transitive and intransitive.
 
 So, for example, if we want to say <code>I can read the book</code>, in Japanese we actually say <code>the book does readable to me</code>. So we say <code>*(私は)*本が読める</code>. This is self-move.
 

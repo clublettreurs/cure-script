@@ -16,7 +16,7 @@ So `川のそば` is `the beside of the river`. Just as we put something on the 
 
 ![](../media/image564.webp)
 
-`ある` means `a certain`, so `ある日` is like `one day` or `a certain day`, and let's notice that what's happening here is what we've seen before. **`ある` is the verb that means `exist` or `be`**, and what we've done here is what we've seen in the video lesson on so-called adjectives. *(Lesson 6)* **We can make any engine into an adjective.** So, **`ある` is an `A does B` engine, an う-engine**, so if we say `本がある` we are saying, `There is a book / a book exists`.
+`ある` means `a certain`, so `ある日` is like `one day` or `a certain day`, and let's notice that what's happening here is what we've seen before. **`ある` is the verb that means `exist` or `be`**, and what we've done here is what we've seen in the video lesson on so-called adjectives.<sup>[[6]](./6-adjectives.md)</sup> **We can make any engine into an adjective.** So, **`ある` is an `A does B` engine, an う-engine**, so if we say `本がある` we are saying, `There is a book / a book exists`.
 
 ![](../media/image358.webp)
 
@@ -48,7 +48,7 @@ So why are we doing all that? Let's take a look. `おねえちゃんはつまら
 
 ![](../media/image1113.webp)
 
-`あそぶ` means to `play`, and that also is in the て-form, isn't it? `あそぶ` --> `あそんで`. If you're in any doubt of how we make these て-forms, please go back to the video lesson on the て-form and refresh your memory. *(Lesson 5)*
+`あそぶ` means to `play`, and that also is in the て-form, isn't it? `あそぶ` --> `あそんで`. If you're in any doubt of how we make these て-forms, please go back to the video lesson on the て-form and refresh your memory.<sup>[[5]](./5-verb-groups-and-the-て-form.md)</sup>
 
 `あそんでくれなかった` 
 

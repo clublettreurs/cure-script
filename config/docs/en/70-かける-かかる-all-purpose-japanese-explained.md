@@ -88,7 +88,7 @@ Another expression that can become confusing, particularly in the self-move form
 
 We say an activity <code>takes time</code> or a project <code>takes money</code>, that sort of thing. Now, that's the way we have to put it in English, but it's not really the way we're putting it in Japanese.
 
-And it comes under the heading of what I called in a previous video <code>untranslatable Japanese</code> because of the way Japanese handles agency and passivity rather differently than English. So it may be worth taking a look at that video after you've seen this one *(Lesson 59)*. I'll put a link over my head.
+And it comes under the heading of what I called in a previous video <code>untranslatable Japanese</code> because of the way Japanese handles agency and passivity rather differently than English. So it may be worth taking a look at that video<sup>[[59]](./59-untranslatable-japanese-exists-how-to-understand-it.md)</sup> after you've seen this one. I'll put a link over my head.
 
 So what are we saying when we say <code>時間がかかる</code> or <code>お金がかかる</code>? We're not saying <code>it takes time</code>.
 
@@ -127,7 +127,7 @@ What we're doing when we <code>電話をかける</code> is we hook up our telep
 
 ![](../media/image379.webp)
 
-When <code>電話がかかる</code>, again, as I explained in my Untranslatable Japanese lesson *(Lesson 59)*, the only way you can really put this in English is to say that the telephone gets hooked up, the telephone is hooked up. But that's not quite what it means. It means <code>the telephone does hooked-up</code>.
+When <code>電話がかかる</code>, again, as I explained in my Untranslatable Japanese lesson<sup>[[59]](./59-untranslatable-japanese-exists-how-to-understand-it.md)</sup>, the only way you can really put this in English is to say that the telephone gets hooked up, the telephone is hooked up. But that's not quite what it means. It means <code>the telephone does hooked-up</code>.
 
 In any case, what it is, it means it's connected to something else, connected to a remote telephone in this case. And again, when we start up a conversation we often say <code>話しかける</code> and that means essentially <code>start hooking-up/connecting with another person in conversation</code>.
 

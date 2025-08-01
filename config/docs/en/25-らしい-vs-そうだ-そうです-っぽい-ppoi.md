@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Last week *(Lesson 24)* we talked about the helper adjectival noun <code>そう</code> and how we use it to express what something might be like, our impression of something, and hearsay. Today we're going to talk about other ways of expressing a similar range of ideas, how they work, how they are similar, and how they are different.
+Last week<sup>[[24]](./24-hearsay-guesses-そう-そうだ-そうです.md)</sup> we talked about the helper adjectival noun <code>そう</code> and how we use it to express what something might be like, our impression of something, and hearsay. Today we're going to talk about other ways of expressing a similar range of ideas, how they work, how they are similar, and how they are different.
 
 ## らしい
 

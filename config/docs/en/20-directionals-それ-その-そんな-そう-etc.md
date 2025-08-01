@@ -56,7 +56,7 @@ Now, **the next group is <code>こんな</code>,<code>そんな</code>, <code>�
 
 ![](../media/image1148.webp)
 
-Now, **in this case we are using -な.** And -な, as we know, is the form of the copula that turns an adjectival noun into an adjective that you can place before something else. *(Lesson 6)* And this is exactly what's happening here. So, <code>**こんな**</code> means <code>**like this/this kind of**</code>; <code>**そんな**</code> means <code>**that kind of**</code>, <code>**あんな**</code> means <code>**that kind of over there/the further-away kind of**</code>. And I'm not going to go into the details of this, **but whether we use <code>そんな</code> or <code>あんな</code>is going to depend on...** **sometimes the literal position of something but very often on how far these things are from what we are talking about, from the present circumstance, from something we associate with ourselves.**
+Now, **in this case we are using -な.** And -な, as we know, is the form of the copula that turns an adjectival noun into an adjective that you can place before something else.<sup>[[6]](./6-adjectives.md)</sup> And this is exactly what's happening here. So, <code>**こんな**</code> means <code>**like this/this kind of**</code>; <code>**そんな**</code> means <code>**that kind of**</code>, <code>**あんな**</code> means <code>**that kind of over there/the further-away kind of**</code>. And I'm not going to go into the details of this, **but whether we use <code>そんな</code> or <code>あんな</code>is going to depend on...** **sometimes the literal position of something but very often on how far these things are from what we are talking about, from the present circumstance, from something we associate with ourselves.**
 
 ---
 

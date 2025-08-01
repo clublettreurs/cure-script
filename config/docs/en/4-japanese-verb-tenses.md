@@ -48,7 +48,7 @@ And just as in English we don't say <code>the dog is eat</code>, we use a specia
 
 Now, how do we form this <code>て-form</code>, which is the form we use for making the continuous present? With a word like <code>食べる/たべる</code>, it's very easy indeed. All we have to do is take off the <code>る</code> and put <code>て</code> in its place. たべる becomes たべて.
 
-The bad news is that with other verbs, we do have slightly different ways of attaching the <code>て</code>. Apart from the plain る-form, there are four other ways. The textbooks will say five, but in fact two of them are so similar that we can treat them as four. And I've made a video on exactly what these ways are *(Lesson 5, so the next lesson).* And it makes it much simpler than most explanations.
+The bad news is that with other verbs, we do have slightly different ways of attaching the <code>て</code>. Apart from the plain る-form, there are four other ways. The textbooks will say five, but in fact two of them are so similar that we can treat them as four. And I've made a video on exactly what these ways are.<sup>[[5]](./5-verb-groups-and-the-て-form.md)</sup> And it makes it much simpler than most explanations. 
 
 So it's very important to watch that so that you can learn how to form the continuous present tense. The good news: it's perfectly regular. Once you know the ending of a verb you also know how to put the <code>て</code> onto it. The only one that's a bit tricky is る-ending verbs, but the video will explain that.
 
@@ -56,7 +56,7 @@ So it's very important to watch that so that you can learn how to form the conti
 
 So, how do we put things into the past tense? Fortunately that's very easy indeed. **All we do is add <code>た</code> – that's the whole thing.** So, <code>いぬがたべる</code> – <code>dog will-eat</code> / <code>いぬがたべた</code> – <code>dog ate</code>.
 
-Now, there are different ways of attaching <code>た</code> to different kinds of verb, verbs with different endings, but the good news here is that they are exactly the same as the ways that you attach <code>て</code>. So once you've learned the ways that <code>て</code> attaches, you've also learned the ways that <code>た</code> attaches. So if you watch that て-form video ***(Lesson 5)***, you'll be able to do both the continuous present and the past.
+Now, there are different ways of attaching <code>た</code> to different kinds of verb, verbs with different endings, but the good news here is that they are exactly the same as the ways that you attach <code>て</code>. So once you've learned the ways that <code>て</code> attaches, you've also learned the ways that <code>た</code> attaches. So if you watch that て-form video **<sup>[[5]](./5-verb-groups-and-the-て-form.md)</sup>**, you'll be able to do both the continuous present and the past.
 
 Now, there's one more thing about time expressions that is useful to learn now. If we want to make it clear, when we say <code>私はケーキを食べる</code>, we're talking about a future event, we can say <code>明日/あした</code> (which means <code>tomorrow</code>) <code>あしたケーキを食べる</code>. That's all we have to do.
 

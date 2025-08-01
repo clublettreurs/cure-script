@@ -55,7 +55,7 @@ We also know that if we see a word that is all kanji, it's almost certainly goin
 
 ![](../media/image940.webp)
 
-And we've covered this in a previous lesson as well. *(Lesson 25)*
+And we've covered this in a previous lesson<sup>[[25]](./25-らしい-vs-そうだ-そうです-っぽい-ppoi.md)</sup> as well. 
 
 So in between this sandwich that gives us the <code>it appears to be the case</code> meaning, it says <code>先輩はもう寝てしまった</code> — <code>senpai has already done gone to sleep / done gone to bed</code>. As we know, that <code>しまう, しまった</code> gives that <code>done</code> meaning. And that's really the best way to put it in English.
 
@@ -79,13 +79,13 @@ All right, so this looks a little bit complicated and we still haven't finished 
 
 ![](../media/image745.webp)
 
-The <code>か</code>, as we know from another lesson *(Lesson 39)*, marks a question, that's to say, a proposition. So the proposition was taking the action of waking up senpai.
+The <code>か</code>, as we know from another lesson<sup>[[39]](./39-the-か-particle-buried-questions-かな-もんか-かどうか.md)</sup>, marks a question, that's to say, a proposition. So the proposition was taking the action of waking up senpai.
 
 This is what she thought, but... (<code>が</code> — <code>but</code>) <code>先輩がかなり酔っていたのをおもいだし、</code>. So, <code>かなり</code> is another one of those adverbial nouns that can modify a verb or an adjective without the に or -と that's usually needed for a noun to modify a verb or an adjective, so <code>かなり酔っていた</code> — <code>酔う</code> is to <code>be sick or to be drunk</code>, in this case <code>drunk</code>.
 
 <code>かなり</code> means <code>sufficiently</code> or <code>pretty much</code> or <code>very</code>. So she was pretty drunk, she was in the state of being pretty drunk: <code>かなり酔っていたの</code> — the <code>の</code> of course bundles that statement into a noun box — <code>のを思い出し</code> — <code>思い出し</code> is <code>remember</code>, so she remembered the fact — the <code>の</code> — that senpai had been pretty drunk.
 
-<code>思い出す</code> is <code>remember</code>; <code>思い出し</code>, once again, as we discussed last week *(Lesson 7.5)*, is the い-stem of <code>思い出す</code> — <code>remember</code> — and the い-stem here *(the し)* is being used like the て-form to make this clause a part of a compound sentence.
+<code>思い出す</code> is <code>remember</code>; <code>思い出し</code>, once again, as we discussed last week<sup>[[7.5]](./7-5-conjugation.md)</sup>, is the い-stem of <code>思い出す</code> — <code>remember</code> — and the い-stem here *(the し)* is being used like the て-form to make this clause a part of a compound sentence.
 
 ![](../media/image1022.webp)
 

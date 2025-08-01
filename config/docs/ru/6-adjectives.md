@@ -1,6 +1,6 @@
 # **6. Прилагательные**
 
-[**Урок 6: Японские `прилагательные` — настоящий секрет, который делает их лёгкими. То, чему никогда не учат в школах.**](https://www.youtube.com/watch?v=iyVZlaEqU24&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=6)
+[**Урок 6: Японские <code>прилагательные</code> — настоящий секрет, который делает их лёгкими. То, чему никогда не учат в школах.**](https://www.youtube.com/watch?v=iyVZlaEqU24&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=6)
 
 こんにちは。
 

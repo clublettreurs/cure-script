@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Today we're going to talk about the subtler meanings of the は- and が-particles and the implications they can have in different uses. Last week *(Lesson 60)* we looked at the fact that topic-comment structure is fundamental to Japanese.
+Today we're going to talk about the subtler meanings of the は- and が-particles and the implications they can have in different uses. Last week<sup>[[60]](./60-the-other-half-of-japanese-structure-non-logical-topic-comment-structure.md)</sup> we looked at the fact that topic-comment structure is fundamental to Japanese.
 
 ![](../media/image658.webp)
 

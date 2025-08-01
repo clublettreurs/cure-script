@@ -132,7 +132,7 @@ And because the door was unlocked, <code>彼女はそのまま中に入ってい
 
 ![](../media/image121.webp)
 
-<code>そのまま</code> we discussed in another video *(Lesson 42)* and, as we know, a <code>まま</code> is an unchanged condition. <code>そのまま</code> means <code>in that unchanged condition / just as it is</code>. And we can see here how that concept is being extended a little in a way that we'll find often.
+<code>そのまま</code> we discussed in another video<sup>[[42]](./42-basic-word-confusion-まま.md)</sup> and, as we know, a <code>まま</code> is an unchanged condition. <code>そのまま</code> means <code>in that unchanged condition / just as it is</code>. And we can see here how that concept is being extended a little in a way that we'll find often.
 
 So, for example, if we're talking about edamame, and we say <code>そのまま食べる</code>, we mean "eat them just as it is, eat them without changing their condition, eat them without doing anything further to prepare for eating them<code> and this is what </code>そのまま" means here.
 

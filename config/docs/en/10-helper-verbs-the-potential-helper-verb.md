@@ -61,7 +61,7 @@ And if we say or imply <code>わたしはにほんごが**できる**</code>, we
 
 And it's interesting if you see a small child perhaps trying to make something out of paper, she may say, <code>I'm trying very hard, but it won't come out right</code> – and this is just the way できる is used in Japanese, isn't it? And there are some interesting ways in which できる is used which show how the idea of something being possible and something coming out are closely linked in the Japanese language. But we won't talk about that now – that's a little bit more advanced.
 
-There's only one danger area with the potential form, and it's very very close to something we dealt with last week (Lesson 9). So if you've seen that lesson, this one should be very easy to you. Let's look at a typical sentence: <code>ほんがよめる.</code>
+There's only one danger area with the potential form, and it's very very close to something we dealt with last week<sup>[[9]](./9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる.md)</sup>. So if you've seen that lesson, this one should be very easy to you. Let's look at a typical sentence: <code>ほんがよめる.</code>
 
 ![](../media/image950.webp)
 

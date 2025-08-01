@@ -181,7 +181,7 @@ and **all of them have the same て-form, <code>で</code>**, **and the same con
 
 ## です & ます eccentricity
 
-Now, the other thing, I think, that makes it possible to imagine that <code>です</code> is not the same copula as <code>だ</code> is that **<code>です</code> and <code>ます</code> are both a little bit eccentric** — and I've made a whole video on this. ***(Lesson 17)***
+Now, the other thing, I think, that makes it possible to imagine that <code>です</code> is not the same copula as <code>だ</code> is that **<code>です</code> and <code>ます</code> are both a little bit eccentric** — and I've made a whole video on this. **<sup>[[17]](./17-polite-japanese-and-the-volitional.md)</sup>**
 
 And it's for this reason, because their eccentricities actually disrupt our grasp of fundamental core Japanese grammar — once we've got used to it it's easy enough to add <code>です</code> and <code>ます</code> on, but it's best to leave them alone at first because **they do things that no other modern Japanese words do**.
 
@@ -229,7 +229,7 @@ They're not adjectives, are they? They're conjugated verbs."
 
 And the answer to that is, of course, yes, **they are adjectives**. **They're not conjugated verbs.** There are no conjugated verbs in Japanese.
 
-**<code>ない</code> is a helper adjective that is attached to the stem of <code>食べる</code>**. **<code>たい</code> is another helper adjective that is attached to the stem of <code>食べる</code>**. And I've explained all this in my video about the Japanese stem system. *(Lesson 7.5)*
+**<code>ない</code> is a helper adjective that is attached to the stem of <code>食べる</code>**. **<code>たい</code> is another helper adjective that is attached to the stem of <code>食べる</code>**. And I've explained all this in my video about the Japanese stem system. <sup>[[7.5]](./7-5-conjugation.md)</sup>
 
 **These helpers look like adjectives, they function in every way like adjectives**, and there's a good reason for it. **They are adjectives.**
 

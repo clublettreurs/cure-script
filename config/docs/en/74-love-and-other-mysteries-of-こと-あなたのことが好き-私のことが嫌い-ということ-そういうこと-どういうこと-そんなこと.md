@@ -32,7 +32,7 @@ So what we could say is that <code>こと</code> is very, very agile, more agile
 
 What we can say in an agile way isn't just a matter of convenience. It deeply affects how we express ourselves and what we're likely to actually say. Things that can be said in an agile way in a particular language are the things we're most likely to actually express and express regularly.
 
-Conversely, the things that a culture particularly wishes to express are the things that become agile in a language. So, if you want to learn more about agility, please watch my video on the subject *(Lesson 56)*.
+Conversely, the things that a culture particularly wishes to express are the things that become agile in a language. So, if you want to learn more about agility, please watch my video on the subject<sup>[[56]](./56-agility-deeper-secrets-of-は-and-の-particles.md)</sup>.
 
 The use of <code>koto</code> here is less direct, as textbooks sometimes say. It's not just a question of being less direct. It avoids any sense of direct physicality and it tends to give this whole implication of the gradual blossoming of love through the understanding of things about a person.
 
@@ -67,7 +67,7 @@ What we actually mean by <code>田中さんのこと</code> will depend on what 
 
 ## どういうこと, そういうこと & ということ
 
-But a lot of people have asked me to explain expressions like <code>どういうこと</code> and <code>そういうこと</code>, and I've touched on these before *(Lesson 20)*, so I'll just go over this a little.
+But a lot of people have asked me to explain expressions like <code>どういうこと</code> and <code>そういうこと</code>, and I've touched on these before<sup>[[20]](./20-directionals-それ-その-そんな-そう-etc.md)</sup>, so I'll just go over this a little.
 
 ![](../media/image949.webp)
 

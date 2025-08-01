@@ -63,7 +63,7 @@ It’s this Kanji - 周り.
 
 So, <code> *(zeroが)*  まわりをゆっくり見まわせた</code> means <code>(she) could in a leisurely manner…</code>
 
-(<code>ゆっくり</code>, that adverb we learned last week - *Lesson 14*)...
+(<code>ゆっくり</code>, that adverb we learned last week<sup>[[14]](./14-adverbs-and-the-も-particle.md)</sup>)
 
 she could in a leisurely manner <code>見まわす</code>
 
@@ -150,7 +150,7 @@ Another translation for 見える as per Dolly - to be visible/<code>do seen</co
 While -ない, as its negative form is quite adjectival ([**see this**](https://japanese.stackexchange.com/a/5092)). It doesn't really matter how it’s translated, only if you wanted to be more technical as per Dolly’s way of rough translation & to more clearly show the difference between 見られる & 見える. **Check lesson 54.**
 :::
 
-**- we apply it not to the person who's able to see, but to the thing that's able to be seen.** And of course we've covered this, haven't we, in our lesson on the potential. *(Lesson 10)*
+**- we apply it not to the person who's able to see, but to the thing that's able to be seen.** And of course we've covered this, haven't we, in our lesson on the potential.<sup>[[10]](./10-helper-verbs-the-potential-helper-verb.md)</sup>
 
 ![](../media/image203.webp)
 

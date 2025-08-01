@@ -8,10 +8,9 @@ Today we're going to talk about <code>限る</code> and <code>限り</code>. **<
 
 ![](../media/image270.webp)
 
-If you don't know about い-stems making noun-forms, I'll link a video above my head which tells you all the secrets of the mysterious い-stem.
-*(Lesson 72)*
+If you don't know about い-stems making noun-forms, I'll link a video above my head which tells you all the secrets of the mysterious い-stem.<sup>[[72]](./72-the-great-connector-い-stem-magic.md)</sup>
 
-Now, **Japanese likes limiting expressions, expressions to do with limits and boundaries.** [**I did a video**](https://www.youtube.com/watch?v=56sy0qfY0Js) on <code>うち</code> *(Lesson 97)* a little while ago and I'll put a link above my head and in the information section below. <code>うち</code> concentrates on the enclosure, on the area that we're in and everything else is outside of.
+Now, **Japanese likes limiting expressions, expressions to do with limits and boundaries.** [**I did a video**](https://www.youtube.com/watch?v=56sy0qfY0Js) on <code>うち</code><sup>[[97]](./97-the-meanings-of-うち-home-self-social-boundary-time-marker-いまのうち-そのうち.md)</sup> a little while ago and I'll put a link above my head and in the information section below. <code>うち</code> concentrates on the enclosure, on the area that we're in and everything else is outside of.
 
 **<code>限り</code>, on the other hand, concentrates on the boundaries of that enclosure,** **the edges beyond which the enclosure does not reach.** And this gives rise to a whole range of expression strategies, some of which are quite literal, others of which are very metaphorical and can confuse people if they don't understand where they're coming from.
 
@@ -92,7 +91,7 @@ And actually in this case it's pretty similar to the English: <code>**as far as*
 
 And it's interesting here that **while English says** <code>**as far as** I know</code>, **Japanese achieves the same broad pattern by modifying the noun <code>限り</code> (limit).**
 
-And as we talked about last week *(Lesson 90)*, **modification does an awful lot of the heavy lifting in Japanese** **that's done by other strategies in English.**
+And as we talked about last week<sup>[[90]](./90-japanese-punctuation-how-it-works.md)</sup>, **modification does an awful lot of the heavy lifting in Japanese** **that's done by other strategies in English.**
 
 ---
 
@@ -112,7 +111,7 @@ So, <code>その場限りことを言う</code> means she says things **on the s
 
 ![](../media/image53.webp)
 
-**<code>その場</code>**, which we've discussed in another video, which I'll link *(Lesson 75)*, means literally **<code>that place / the appropriate place / the place one would happen to be at at the time</code>**, but **of course in Japanese as in other languages, place can also mean a time or an occasion.**
+**<code>その場</code>**, which we've discussed in another video, which I'll link<sup>[[75]](./75-japanese-is-not-english-how-expression-strategies-differ-polite-英本語-rude-japanese.md)</sup>, means literally **<code>that place / the appropriate place / the place one would happen to be at at the time</code>**, but **of course in Japanese as in other languages, place can also mean a time or an occasion.**
 
 ---
 

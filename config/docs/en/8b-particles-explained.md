@@ -82,6 +82,6 @@ If we say that we knocked in a hammer with a nail or ate food with chopsticks, *
 
 ---
 
-The other question, of course, that **Detective に** can ask is  <code>Who was the target of an action done to something else?</code> *but we've already discussed that in the に lesson. (Lesson 8)* So this covers all the basic functions of the main logical particles, and as you can see, these are the particles that tell us what's going on in any Japanese sentence. If we understand them, we can understand the sentence; if we don't understand them, we can't. So if we get confused by the logical particles, which we will if we take the textbooks seriously, we'll have a lot of trouble understanding Japanese.
+The other question, of course, that **Detective に** can ask is  <code>Who was the target of an action done to something else?</code> *but we've already discussed that in the に lesson.<sup>[[8]](./8-the-に-and-へ-particles.md)</sup>* So this covers all the basic functions of the main logical particles, and as you can see, these are the particles that tell us what's going on in any Japanese sentence. If we understand them, we can understand the sentence; if we don't understand them, we can't. So if we get confused by the logical particles, which we will if we take the textbooks seriously, we'll have a lot of trouble understanding Japanese.
 
 **Don't confuse the particles and they won't confuse you.**

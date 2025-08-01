@@ -62,7 +62,7 @@ We could say <code>In relation to me, or just to me, the book is understandable<
 
 So why, at least in this case, don't the schools and textbooks simply translate it as it really is? <code>**To me, the book is understandable / Speaking of me the book is understandable**.</code> **Because this prejudice for putting an ego at the center of every sentence is so strong that it takes precedence over learning Japanese correctly.** And these are not just a few random cases.
 
-Later on, we're going to look at the potential form *(lesson 10)* and we're going to look at the receptive form *(lesson 13)*, which is misdescribed as passive, and both of them are going to throw up forms of this same problem. Since they are both fairly large subjects in themselves, I'm not going to talk about them now. But let's talk about the way we desire things in Japanese. Let's talk about how Japanese handles desire. Whether we want something or want to do something, how do we talk about this in Japanese?
+Later on, we're going to look at the potential form<sup>[[10]](./10-helper-verbs-the-potential-helper-verb.md)</sup>and we're going to look at the receptive form<sup>[[13]](./13-passive-conjugation-receptive-helper-verb.md)</sup>, which is misdescribed as passive, and both of them are going to throw up forms of this same problem. Since they are both fairly large subjects in themselves, I'm not going to talk about them now. But let's talk about the way we desire things in Japanese. Let's talk about how Japanese handles desire. Whether we want something or want to do something, how do we talk about this in Japanese?
 
 ## Expressing desire with ほしい
 

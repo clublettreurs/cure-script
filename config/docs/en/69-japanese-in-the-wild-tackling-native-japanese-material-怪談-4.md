@@ -82,7 +82,7 @@ Now, the next part comes in quotation marks, those square Japanese quotation mar
 
 ![](../media/image325.webp)
 
-So all these clauses that culminate in the -たら ending are if-statements, conditional if-statements. We've talked about the conditional -たら, haven't we? *(Lesson 32, but also check 30 & 31)*
+So all these clauses that culminate in the -たら ending are if-statements, conditional if-statements. We've talked about the conditional -たら, haven't we? <sup>[[32]](./32-the-たら-なら-conditionals.md)</sup>
 
 So, <code>あの時</code> — <code>at that time</code> — 「電気を付けて先輩を起こして」 — <code>if I had put on the light</code> –
 
@@ -150,7 +150,7 @@ So, <code>部屋の奥から刑事が現れて</code>: from the interior of the 
 
 ![](../media/image1102.webp)
 
-Now, <code>見て欲しい</code> means <code>want someone else to see</code> just as, as we explained in a previous lesson *(Lesson 49)*, <code>見てもらう</code> means <code>have someone else see</code>, <code>見て欲しい</code> means <code>want someone else to see</code>.
+Now, <code>見て欲しい</code> means <code>want someone else to see</code> just as, as we explained in a previous lesson<sup>[[49]](./49-japanese-point-of-view-deconfused-もらう-てもらう.md)</sup>, <code>見てもらう</code> means <code>have someone else see</code>, <code>見て欲しい</code> means <code>want someone else to see</code>.
 
 And just as with <code>もらう</code>, the person who you have doing the seeing or want to do the seeing (or want to do anything else) is marked with に as the target of a pull-sentence. So, <code>もらう</code> and <code>欲しい</code>, they are receiving pull-type sentences, so their indirect object is the person doing the thing that we want them to do, that we receive them doing etc.
 
