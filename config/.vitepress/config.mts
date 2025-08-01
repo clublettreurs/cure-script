@@ -48,6 +48,9 @@ export default defineConfig({
 
   themeConfig: {
     sidebar: sidebar,
+    editLink: {
+      pattern: 'https://github.com/Kellenok/cure-script/edit/main/config/docs/:path'
+    },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Kellenok/cure-script' }
     ],
