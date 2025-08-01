@@ -25,11 +25,11 @@
 
 ![](../media/image241.webp)
 
-Итак, мы можем сказать: "I had a ball. It rolled down the hill. It reached the bottom. It was a red ball."
+Итак, мы можем сказать: «I had a ball. It rolled down the hill. It reached the bottom. It was a red ball.»
 
 Как видите, каждый раз мяч обозначается <code>it</code>, и вы могли бы сказать, что здесь отслеживается подлежащее, потому что именно мяч скатился с холма, именно мяч достиг дна, именно мяч был красным.
 
-Но мы также могли бы сказать: "I had a ball. I dropped it. It rolled down the hill. When it reached the bottom, Sakura picked it up and walked away with it."
+Но мы также могли бы сказать: «I had a ball. I dropped it. It rolled down the hill. When it reached the bottom, Sakura picked it up and walked away with it.»
 
 Теперь, видите, первое <code>it</code> является дополнением к моему действию бросания: <code>I dropped it.</code> Второе и третье <code>it</code>: <code>It rolled down the hill... it reached the bottom</code> — в этих двух случаях мяч является подлежащим.
 

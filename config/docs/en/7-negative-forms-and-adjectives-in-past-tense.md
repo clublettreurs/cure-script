@@ -26,7 +26,7 @@ If we want to say <code>There is a pen</code>, as we know, we say <code>これ�
 
 ::: info
 In the video, Dolly makes a mistake and shows a black が car in ペンだ.  
-I fixed it through my "highly professional" skills in Paint (•̀o•́)ง… anyway here is her comment.
+I fixed it through my «highly professional» skills in Paint (•̀o•́)ง… anyway here is her comment.
 
 ![](../media/image37.webp)
 
