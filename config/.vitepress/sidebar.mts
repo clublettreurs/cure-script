@@ -48,12 +48,12 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
           "link": "/6-adjectives"
         },
         {
-          "text": "7.5. Conjugation",
-          "link": "/7-5-conjugation"
-        },
-        {
           "text": "7. Negative Forms and Adjectives in Past Tense",
           "link": "/7-negative-forms-and-adjectives-in-past-tense"
+        },
+        {
+          "text": "7.5. Conjugation",
+          "link": "/7-5-conjugation"
         },
         {
           "text": "8. The に and へ particles",
@@ -490,12 +490,12 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
           "link": "/ru/6-adjectives"
         },
         {
-          "text": "7.5. Спряжение",
-          "link": "/ru/7-5-conjugation"
-        },
-        {
           "text": "7. Отрицательные формы и прилагательные в прошедшем времени",
           "link": "/ru/7-negative-forms-and-adjectives-in-past-tense"
+        },
+        {
+          "text": "7.5. Спряжение",
+          "link": "/ru/7-5-conjugation"
         },
         {
           "text": "8. Частицы に и へ",
@@ -743,7 +743,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
           "link": "/ru/63-wild-sentence-enders-in-real-life-japanese-かい-だい-ぜ-ぞ-さ-から-し-ちょうだい"
         },
         {
-          "text": "64. Things get Strange! もの and こと - Advanced secrets: ものだ, ことがある, こと as sentence-ender",
+          "text": "64. Вещи становятся старнными! もの and こと — Продвинутые секреты: ものだ, ことがある, こと как завершители предложений",
           "link": "/ru/64-things-get-strange-もの-and-こと-advanced-secrets-ものだ-ことがある-こと-as-sentence-ender"
         },
         {
