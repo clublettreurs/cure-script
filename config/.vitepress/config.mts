@@ -44,6 +44,7 @@ export default defineConfig({
       'link',
       { href: 'https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet', rel: 'stylesheet' }
     ],
+    ['meta', { property: 'og:image', content: '/cure-script/social-preview.png' }]
   ],
 
   themeConfig: {
