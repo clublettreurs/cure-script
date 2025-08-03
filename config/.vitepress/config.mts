@@ -45,7 +45,7 @@ export default defineConfig({
       { href: 'https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet', rel: 'stylesheet' }
     ],
     ['meta', { name: 'og:title', content: "Cure Dolly Grammar guide" }],
-    ['meta', { property: 'og:image', content: '/og.png' }],
+    ['meta', { property: 'og:image', content: '/curescript/og.png' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:url', content: 'https://kellenok.github.io/cure-script' }]
   ],
