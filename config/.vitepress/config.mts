@@ -49,6 +49,7 @@ export default defineConfig({
     ['meta', { property: 'og:image', content: '/cure-script/og.png' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:url', content: 'https://kellenok.github.io/cure-script' }],
+    ['meta', { name: 'twitter:url', content: 'https://kellenok.github.io/cure-script' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' } ],
     ['meta', { name: 'twitter:title', content: 'Cure Dolly Grammar guide' } ],
     ['meta', { name: 'twitter:description', content: 'Enjoy the entire grammar guide in a easy-to-read web format' } ],
