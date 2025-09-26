@@ -18,6 +18,11 @@ export default defineConfig({
     ru: {
       label: 'Russian',
       lang: 'ru',
+    },
+    fr: {
+      label: 'Français',
+      lang: 'fr',
+      link: '/fr/',
     }
   },
 

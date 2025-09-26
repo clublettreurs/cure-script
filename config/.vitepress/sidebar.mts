@@ -886,7 +886,449 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
         }
       ]
     }
-  ]
+  ],
+  "/fr/": [
+  {
+    "text": "À propos",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "Introduction",
+        "link": "/fr/about"
+      },
+      {
+        "text": "Par nunko/dinuz",
+        "link": "/fr/original"
+      }
+    ]
+  },
+  {
+    "text": "Structure de phrase de base et grammaire essentielle",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "1. Les types de phrases de base",
+        "link": "/fr/1-the-basic-types-of-sentences"
+      },
+      {
+        "text": "2. Le chariot invisible et la particule を",
+        "link": "/fr/2-the-invisible-carriage-and-the-を-particle"
+      },
+      {
+        "text": "3. La particule は",
+        "link": "/fr/3-the-は-particle"
+      },
+      {
+        "text": "4. Les temps des verbes japonais",
+        "link": "/fr/4-japanese-verb-tenses"
+      },
+      {
+        "text": "5. Groupes de verbes et la forme て",
+        "link": "/fr/5-verb-groups-and-the-て-form"
+      },
+      {
+        "text": "6. Les adjectifs",
+        "link": "/fr/6-adjectives"
+      },
+      {
+        "text": "7. Formes négatives et adjectifs au passé",
+        "link": "/fr/7-negative-forms-and-adjectives-in-past-tense"
+      },
+      {
+        "text": "7.5. Conjugaison",
+        "link": "/fr/7-5-conjugation"
+      },
+      {
+        "text": "8. Les particules に et へ",
+        "link": "/fr/8-the-に-and-へ-particles"
+      },
+      {
+        "text": "8b. Explication des particules",
+        "link": "/fr/8b-particles-explained"
+      },
+      {
+        "text": "9. Sujet de la phrase japonaise et exprimer le désir : ほしい, たい, たがる",
+        "link": "/fr/9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる"
+      },
+      {
+        "text": "10. Verbes auxiliaires et le verbe potentiel",
+        "link": "/fr/10-helper-verbs-the-potential-helper-verb"
+      },
+      {
+        "text": "11. Phrases composées, くれる, あげる et autres usages de la forme て",
+        "link": "/fr/11-compound-sentences-くれる-あげる-and-more-uses-of-the-て-form"
+      },
+      {
+        "text": "12. Particule de citation と, verbes composés et noms",
+        "link": "/fr/12-quotation-particle-と-compound-verbs-nouns"
+      },
+      {
+        "text": "13. Conjugaison passive / Verbe auxiliaire réceptif",
+        "link": "/fr/13-passive-conjugation-receptive-helper-verb"
+      },
+      {
+        "text": "14. Adverbes et particule も",
+        "link": "/fr/14-adverbs-and-the-も-particle"
+      },
+      {
+        "text": "15. Verbes transitifs et intransitifs",
+        "link": "/fr/15-transitive-intransitive-verbs"
+      },
+      {
+        "text": "16. てみる, particule や, particule から, exclusif et",
+        "link": "/fr/16-てみる-や-particle-から-particle-exclusive-and"
+      },
+      {
+        "text": "17. Japonais poli et forme volitionnelle",
+        "link": "/fr/17-polite-japanese-and-the-volitional"
+      },
+      {
+        "text": "18. って = は?? Mystères expliqués ! -おうとする, とする, として, という, っていう",
+        "link": "/fr/18-って-は-mysteries-explained-おうとする-とする-として-という-っていう"
+      },
+      {
+        "text": "19. Causatif + causatif réceptif",
+        "link": "/fr/19-causative-causative-receptive"
+      },
+      {
+        "text": "20. Directionnels : それ・その・そんな・そう etc.",
+        "link": "/fr/20-directionals-それ-その-そんな-そう-etc"
+      }
+    ]
+  },
+  {
+    "text": "Grammaire avancée et expressions",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "21. てある/ている & ておく",
+        "link": "/fr/21-てある-ている-ておく"
+      },
+      {
+        "text": "22. ては & ても",
+        "link": "/fr/22-ては-ても"
+      },
+      {
+        "text": "23. だって + だから & それから",
+        "link": "/fr/23-だって-だから-それから"
+      },
+      {
+        "text": "24. Ouï-dire & suppositions - そう・そうだ・そうです",
+        "link": "/fr/24-hearsay-guesses-そう-そうだ-そうです"
+      },
+      {
+        "text": "25. らしい vs そうだ / そうです + っぽい (ppoi)",
+        "link": "/fr/25-らしい-vs-そうだ-そうです-っぽい-ppoi"
+      },
+      {
+        "text": "26. Comparaisons : ようだ・のように・のような ・みたい",
+        "link": "/fr/26-similes-ようだ-のように-のような-みたい"
+      },
+      {
+        "text": "27. ばかり",
+        "link": "/fr/27-ばかり"
+      },
+      {
+        "text": "28. ように - une clé pour tous les usages principaux",
+        "link": "/fr/28-ように-one-key-to-all-the-main-uses"
+      },
+      {
+        "text": "29. ことにする & ことになる",
+        "link": "/fr/29-ことにする-ことになる"
+      },
+      {
+        "text": "30. Conditionnels japonais : と",
+        "link": "/fr/30-japanese-conditionals-と"
+      },
+      {
+        "text": "31. Conditionnel ば / れば",
+        "link": "/fr/31-the-ば-れば-conditional"
+      },
+      {
+        "text": "32. Conditionnels たら, なら",
+        "link": "/fr/32-the-たら-なら-conditionals"
+      },
+      {
+        "text": "33. Termes limitatifs : だけ, しか, ばかり, のみ",
+        "link": "/fr/33-limiting-terms-だけ-しか-ばかり-のみ"
+      },
+      {
+        "text": "34. Comprendre n'importe quelle phrase",
+        "link": "/fr/34-understand-any-sentence"
+      },
+      {
+        "text": "35. より, のほう, 一方",
+        "link": "/fr/35-より-のほう-一方"
+      },
+      {
+        "text": "36. 所 - le concept de lieu",
+        "link": "/fr/36-所-the-concept-of-place"
+      },
+      {
+        "text": "37. Secrets des nouvelles structures + な vs の, adjectifs なる & たる",
+        "link": "/fr/37-new-structure-secrets-な-vs-の-なる-たる-adjectives"
+      },
+      {
+        "text": "38. Quand ce n'est pas signifie que c'est : mystères de じゃない janai, ではない de wa nai",
+        "link": "/fr/38-when-it-isn-t-means-it-is-じゃない-ではない"
+      },
+      {
+        "text": "39. La particule か : questions enfouies, かな, もんか, かどうか...",
+        "link": "/fr/39-the-か-particle-buried-questions-かな-もんか-かどうか"
+      },
+      {
+        "text": "40. 3 pièges en japonais et comment les éviter",
+        "link": "/fr/40-3-pitfalls-in-japanese-and-how-to-avoid-them"
+      }
+    ]
+  },
+  {
+    "text": "Stratégies d'apprentissage et analyse de phrases",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "41. 5 faits clés sur la structure de base du japonais",
+        "link": "/fr/41-5-key-facts-about-the-basic-structure-of-japanese"
+      },
+      {
+        "text": "42. Confusions de mots de base | まま",
+        "link": "/fr/42-basic-word-confusion-まま"
+      },
+      {
+        "text": "43. CHANGEMENT DE PARADIGME : Éliminer la confusion",
+        "link": "/fr/43-paradigm-shift-cut-through-the-confusion"
+      },
+      {
+        "text": "44. Comment utiliser le japonais naturel : ちゃう, ちゃった",
+        "link": "/fr/44-how-to-use-natural-japanese-ちゃう-ちゃった"
+      },
+      {
+        "text": "45. Guide de première étape vers l'immersion autonome",
+        "link": "/fr/45-first-step-guide-into-self-immersion-technique"
+      },
+      {
+        "text": "46. L'ordre des mots COMPTE : 2 règles simples pour comprendre les phrases complexes",
+        "link": "/fr/46-word-order-matters-2-simple-rules-to-crack-tough-sentences"
+      },
+      {
+        "text": "47. Comment comprendre le japonais : Votre arme secrète pour analyser les phrases",
+        "link": "/fr/47-how-to-understand-japanese-your-secret-weapon-for-breaking-down-sentences"
+      },
+      {
+        "text": "48. Gérer l'ambiguïté en japonais",
+        "link": "/fr/48-dealing-with-ambiguity-in-japanese"
+      },
+      {
+        "text": "49. Point de vue japonais décrypté ! -もらう・てもらう",
+        "link": "/fr/49-japanese-point-of-view-deconfused-もらう-てもらう"
+      },
+      {
+        "text": "50. 2 aspects du japonais que les étrangers ne peuvent pas comprendre : させてもらう, dernier secret du potentiel",
+        "link": "/fr/50-2-aspects-of-japanese-that-foreigners-can-t-fathom-させてもらう-last-secret-of-the-potential"
+      },
+      {
+        "text": "51. Comment lire un 怪談 / かいだん (conte de fantômes)",
+        "link": "/fr/51-how-to-read-a-japanese-怪談-かいだん-ghost-story"
+      },
+      {
+        "text": "52. Analyse approfondie de phrases japonaises dans un contexte natif réel",
+        "link": "/fr/52-in-depth-japanese-sentence-analysis-in-real-native-context"
+      },
+      {
+        "text": "53. Profiter de l'horreur japonaise en japonais",
+        "link": "/fr/53-enjoy-japanese-horror-in-japanese"
+      },
+      {
+        "text": "54. IRRÉGULARITÉS & leur fonctionnement | 見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる",
+        "link": "/fr/54-irregularities-how-they-work-見る-見られる-見れる-見える-聞く-聞ける-聞こえる"
+      },
+      {
+        "text": "55. Secrets de la particule で. Pourquoi dit-on みんなで行く ? et 世界で一番 ?",
+        "link": "/fr/55-secrets-of-the-で-particle-why-do-we-say-みんなで行く-and-世界で一番"
+      },
+      {
+        "text": "56. Agilité : Secrets approfondis des particules は et の",
+        "link": "/fr/56-agility-deeper-secrets-of-は-and-の-particles"
+      },
+      {
+        "text": "57. 込む (Komu) et le secret des mots japonais à multiples sens",
+        "link": "/fr/57-込む-komu-and-the-secret-of-multi-meaning-japanese-words"
+      },
+      {
+        "text": "58. Double particules japonaises. Comment elles fonctionnent",
+        "link": "/fr/58-japanese-double-particles-how-they-work"
+      },
+      {
+        "text": "59. L'existence du japonais intraduisible ! Comment le comprendre",
+        "link": "/fr/59-untranslatable-japanese-exists-how-to-understand-it"
+      },
+      {
+        "text": "60. L'AUTRE MOITIÉ de la structure japonaise - structure sujet/commentaire non logique",
+        "link": "/fr/60-the-other-half-of-japanese-structure-non-logical-topic-comment-structure"
+      }
+    ]
+  },
+  {
+    "text": "Sujets avancés et contexte culturel",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "61. は et が : secrets profonds ! La structure yin-yang du japonais",
+        "link": "/fr/61-は-and-が-the-deeper-secrets-the-yin-yang-structure-of-japanese"
+      },
+      {
+        "text": "62. ておく vs てしまう, secrets des verbes auxiliaires",
+        "link": "/fr/62-ておく-vs-てしまう-helper-verb-secrets"
+      },
+      {
+        "text": "63. Terminaisons de phrases sauvages dans le japonais réel : かい、だい,、ぜ、ぞ、さ、から、し、ちょうだい",
+        "link": "/fr/63-wild-sentence-enders-in-real-life-japanese-かい-だい-ぜ-ぞ-さ-から-し-ちょうだい"
+      },
+      {
+        "text": "64. Les choses deviennent étranges ! もの et こと - secrets avancés : ものだ, ことがある, こと comme terminaison de phrase",
+        "link": "/fr/64-things-get-strange-もの-and-こと-advanced-secrets-ものだ-ことがある-こと-as-sentence-ender"
+      },
+      {
+        "text": "65. Aller et venir : secrets approfondis de 行く et 来る, て行く et て来る (te-iku, te-kuru)",
+        "link": "/fr/65-coming-and-going-deeper-secrets-of-行く-and-来る-て行くand-て来る-te-iku-te-kuru"
+      },
+      {
+        "text": "66. Sujets cachés en japonais - et comment les comprendre",
+        "link": "/fr/66-hidden-subjects-in-japanese-and-how-to-understand-them"
+      },
+      {
+        "text": "67. もう et まだ, les relations temporelles qui les expliquent",
+        "link": "/fr/67-もう-and-まだ-the-time-relations-that-make-sense-of-them"
+      },
+      {
+        "text": "68. Logique sous-jacente japonaise : わけ、そういうわけ、わけが分からない、わけない",
+        "link": "/fr/68-japanese-underlying-logic-わけ-そういうわけ-わけが分からない-わけない"
+      },
+      {
+        "text": "69. Japonais en milieu natif ! Traiter le matériel japonais natif. 怪談 4",
+        "link": "/fr/69-japanese-in-the-wild-tackling-native-japanese-material-怪談-4"
+      },
+      {
+        "text": "70. かける / かかる Japonais polyvalent expliqué !",
+        "link": "/fr/70-かける-かかる-all-purpose-japanese-explained"
+      },
+      {
+        "text": "71. Compteurs japonais : 3 règles simples",
+        "link": "/fr/71-japanese-counters-3-simple-rules"
+      },
+      {
+        "text": "72. Le grand connecteur (magie des racines en い)",
+        "link": "/fr/72-the-great-connector-い-stem-magic"
+      },
+      {
+        "text": "73. Secrets de 気 : 気になる, 気にする, 気がする, 気に入る, etc.",
+        "link": "/fr/73-secrets-of-気-気になる-気にする-気がする-気に入る-etc"
+      },
+      {
+        "text": "74. AMOUR et autres mystères de こと ! あなたのことが好き, 私のことが嫌い, ということ, そういうこと, どういうこと, そんなこと",
+        "link": "/fr/74-love-and-other-mysteries-of-こと-あなたのことが好き-私のことが嫌い-ということ-そういうこと-どういうこと-そんなこと"
+      },
+      {
+        "text": "75. Le japonais n'est PAS l'anglais : comment les stratégies d'expression diffèrent | 英本語 poli = japonais impoli",
+        "link": "/fr/75-japanese-is-not-english-how-expression-strategies-differ-polite-英本語-rude-japanese"
+      },
+      {
+        "text": "76. La bonne ouverture ? | あく, あける, ひらく, ひらける, 開く, 開け",
+        "link": "/fr/76-the-right-opening-あく-あける-ひらく-ひらける-開く-開け"
+      },
+      {
+        "text": "77. Structure japonaise réelle vs Tae Kim : Revue structurelle de la grammaire de Tae Kim",
+        "link": "/fr/77-real-japanese-structure-vs-tae-kim-structural-review-of-tae-kim-s-japanese-grammar"
+      },
+      {
+        "text": "78. Briser le cœur : Tae Kim vs copule | Revue critique basée sur la structure japonaise",
+        "link": "/fr/78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review"
+      },
+      {
+        "text": "79. Secret approfondi de la copule",
+        "link": "/fr/79-deeper-secret-of-the-copula"
+      },
+      {
+        "text": "80. Particules omises & omissions informelles",
+        "link": "/fr/80-dropped-particles-casual-omissions"
+      }
+    ]
+  },
+  {
+    "text": "Perfectionner votre japonais",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "81. Principe global de toutes les formes de mots japonais",
+        "link": "/fr/81-global-principle-of-all-japanese-word-forms"
+      },
+      {
+        "text": "82. なんて、なんか、など : 3 mots courants clarifiés",
+        "link": "/fr/82-なんて-なんか-など-3-common-words-clarified"
+      },
+      {
+        "text": "83. Trois niveaux d'ordre en japonais : commandes en forme て, なさい, commandes en な, forme impérative",
+        "link": "/fr/83-three-levels-of-command-in-japanese-て-form-commands-なさい-な-commands-imperative-form"
+      },
+      {
+        "text": "84. である et la structure du japonais. Ce que nous disent les anciennes copules : である, であります, でござる, でございます",
+        "link": "/fr/84-である-and-the-structure-of-japanese-what-older-copulas-tell-us-である-であります-でござる-でございます"
+      },
+      {
+        "text": "85. まい - l'auxiliaire négatif",
+        "link": "/fr/85-まい-the-negative-helper"
+      },
+      {
+        "text": "86. 次第 (shidai)",
+        "link": "/fr/86-次第-shidai"
+      },
+      {
+        "text": "87. Structure japonaise INVERSEE : vie étrange de しか",
+        "link": "/fr/87-japanese-structure-inverted-strange-life-of-しか"
+      },
+      {
+        "text": "88. Xをしたい vs Xがしたい",
+        "link": "/fr/88-xをしたい-vs-xがしたい"
+      },
+      {
+        "text": "89. Démystifier le japonais. Le sujet universel",
+        "link": "/fr/89-de-mystifying-japanese-the-universal-subject"
+      },
+      {
+        "text": "90. Ponctuation japonaise : comment ça fonctionne",
+        "link": "/fr/90-japanese-punctuation-how-it-works"
+      },
+      {
+        "text": "91. Limites extérieures ! 限る & 限り : leurs multiples significations et fonctionnement 知っている限り、とは限らない et plus",
+        "link": "/fr/91-outer-limits-限る-限り-its-many-meanings-and-how-they-work-知っている限り-とは限らない-and-more"
+      },
+      {
+        "text": "92. L'anglais va-t-il manger le japonais ? Invasion de mots empruntés - est-ce vraiment une menace ?",
+        "link": "/fr/92-will-english-eat-japanese-loan-word-invasion-is-it-really-a-threat"
+      },
+      {
+        "text": "93. Engueuler avec くせに. Comment ça fonctionne",
+        "link": "/fr/93-cussin-em-out-with-くせに-how-it-works"
+      },
+      {
+        "text": "94. くらい VS ほど",
+        "link": "/fr/94-くらい-vs-ほど"
+      },
+      {
+        "text": "95. Utiliser l'histoire des mots intelligemment : どうも、やっぱり、やはり",
+        "link": "/fr/95-using-word-history-the-smart-way-どうも-やっぱり-やはり"
+      },
+      {
+        "text": "96. 通り et せっかく : Une route métaphorique et un mot intraduisible",
+        "link": "/fr/96-通り-and-せっかく-a-metaphorical-road-and-an-untranslatable-word"
+      },
+      {
+        "text": "97. Les significations de うち : maison, soi, frontière sociale, indicateur de temps : いまのうち、そのうち",
+        "link": "/fr/97-the-meanings-of-うち-home-self-social-boundary-time-marker-いまのうち-そのうち"
+      }
+    ]
+  }
+]
 };
 
 export default sidebar;
