@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Cure Dolly",
   description: "in markdown",
   srcDir: 'docs',
-  base: process.env.VITE_BASE_URL || '/',
+  base: process.env.VITE_BASE_URL || '/cure-script/',
   ignoreDeadLinks: true,
   rewrites: {
     'en/:rest*': ':rest*'
@@ -22,7 +22,6 @@ export default defineConfig({
     fr: {
       label: 'Français',
       lang: 'fr',
-      link: '/fr/',
     }
   },
 
@@ -64,10 +63,10 @@ export default defineConfig({
   themeConfig: {
     sidebar: sidebar,
     editLink: {
-      pattern: 'https://github.com/Kellenok/cure-script/edit/main/config/docs/:path'
+      pattern: 'https://github.com/clublettreurs/cure-script/edit/main/config/docs/:path'
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Kellenok/cure-script' }
+      { icon: 'github', link: 'https://github.com/clublettreurs/cure-script' }
     ],
     search: {
       provider: 'local'

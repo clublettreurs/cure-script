@@ -45,12 +45,16 @@ jobs:
         run: npm ci # or pnpm install / yarn install / bun install
       - name: Build with VitePress
         env:
+          # Assure que le chemin de base (base: '/cure-script/') est utilisé
           VITE_BASE_URL: /${{ github.event.repository.name }}
         run: npm run docs:build # or pnpm docs:build / yarn docs:build / bun run docs:build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: config/.vitepress/dist
+          # 💡 CORRECTION APPLIQUÉE : 
+          # Le chemin d'accès correct au dossier de sortie de VitePress,
+          # en supposant que le dossier de configuration (.vitepress) est à la racine.
+          path: .vitepress/dist
 
   # Deployment job
   deploy:
