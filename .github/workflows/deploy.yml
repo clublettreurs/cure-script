@@ -51,10 +51,8 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # 💡 CORRECTION APPLIQUÉE : 
-          # Le chemin d'accès correct au dossier de sortie de VitePress,
-          # en supposant que le dossier de configuration (.vitepress) est à la racine.
-          path: .vitepress/dist
+          # Le chemin correct pour VitePress avec config dans le dossier config/
+          path: config/.vitepress/dist
 
   # Deployment job
   deploy:
