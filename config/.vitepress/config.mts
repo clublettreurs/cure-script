@@ -7,22 +7,13 @@ export default defineConfig({
   srcDir: 'docs',
   base: process.env.VITE_BASE_URL || '/cure-script/',
   ignoreDeadLinks: true,
-  rewrites: {
-    'fr/:rest*': ':rest*'
-  },
   locales: {
     root: {
       label: 'Français',
       lang: 'fr',
-    },
-    en: {
-      label: 'English',
-      lang: 'en',
-    },
-    ru: {
-      label: 'Russian',
-      lang: 'ru',
     }
+    // Les versions anglaise et russe sont disponibles sur le site original :
+    // https://kellenok.github.io/cure-script/
   },
 
   markdown: {
@@ -74,11 +65,12 @@ export default defineConfig({
     nav: [
       { text: 'Accueil', link: '/' },
       { text: 'À propos', link: '/about' },
-      { text: '🇬🇧 Original', link: 'https://kellenok.github.io/cure-script/', target: '_blank' }
+      { text: '🇬🇧 English', link: 'https://kellenok.github.io/cure-script/', target: '_blank' },
+      { text: '🇷🇺 Русский', link: 'https://kellenok.github.io/cure-script/ru/', target: '_blank' },
+      { text: '🌐 Site complet', link: 'https://kellenok.github.io/cure-script/', target: '_blank' }
     ],
     footer: {
-      message: 'Traduction française par <a href="https://github.com/clublettreurs">Club Lettreurs</a> • Site créé par <a href="https://bento.me/kln">Kellen</a>',
-      copyright: 'Transcription originale par <a href="https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc">Mordraug/Nunko</a> • Contenu de <a href="https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj">Cure Dolly</a>'
+      message: 'Traduction française par <a href="https://github.com/clublettreurs">Club Lettreurs</a> • Site créé par <a href="https://bento.me/kln">Kellen</a> • Transcription originale par <a href="https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARc">Mordraug/Nunko</a>'
     }
   }
 });
