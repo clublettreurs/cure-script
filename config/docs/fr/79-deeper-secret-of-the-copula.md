@@ -10,7 +10,7 @@ Aujourd'hui, nous allons parler de quelque chose d'absolument crucial pour la st
 
 Or, Tae Kim n'utilise jamais le mot en C, **<code>copule</code>**, et c'est une grande partie du problème. Mais certaines personnes pourraient se demander non pas tant pourquoi Tae Kim ne le fait pas, mais pourquoi moi je le fais. Après tout, j'essaie d'éviter la terminologie technique linguistique et grammaticale autant que possible.
 
-Je n'utilise pas souvent le mot **<code>sujet grammatical</code>**; j'utilise encore moins souvent le mot **<code>prédicat</code>**. **Je préfère dire <code>Voiture-A</code> et <code>Moteur-B</code>.**
+Je n'utilise pas souvent le mot **`sujet grammatical`**; j'utilise encore moins souvent le mot **`prédicat`**. **Je préfère dire `Voiture-A` et `Moteur-B`.**
 
 ![](../media/image939.webp)
 

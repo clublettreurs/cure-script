@@ -52,7 +52,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Le chemin correct pour VitePress avec config dans le dossier config/
-          path: config/.vitepress/dist
+          path: config/dist
 
   # Deployment job
   deploy:

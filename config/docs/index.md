@@ -48,7 +48,7 @@ Nous avons traduit **97 leçons** couvrant tous les aspects essentiels de la gra
 
 ## Commencer l'apprentissage
 
-Prêt à découvrir la vraie logique du japonais ? Commencez par la [première leçon](./1-the-basic-types-of-sentences.md) !
+Prêt à découvrir la vraie logique du japonais ? Commencez par la [première leçon](./fr/1-the-basic-types-of-sentences.md) !
 
 ---
 
