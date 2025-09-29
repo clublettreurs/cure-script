@@ -38,11 +38,14 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: npm # or pnpm / yarn
+          cache: npm
+          cache-dependency-path: 'config/package-lock.json'
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
-        run: npm ci # or pnpm install / yarn install / bun install
+        run: |
+          cd config
+          npm ci
       - name: Build with VitePress
         env:
           # Assure que le chemin de base (base: '/cure-script/') est utilisé
