@@ -11,7 +11,7 @@ Ce dont nous allons parler commence par quelque chose que vous connaissez déjà
 ![](../media/image1061.webp)
 
 ::: info
-Comme vous le savez, ne prenez pas cela comme une déclaration définitive, c'est juste pour éviter certaines associations qui proviennent du mot <code>conjugaison</code> en termes de langues européennes, car il existe une forme de conjugaison en japonais, comme l'indique la citation de la capture d'écran de la note de la leçon 7.5 du livre de Dolly.
+Comme vous le savez, ne prenez pas cela comme une déclaration définitive, c'est juste pour éviter certaines associations qui proviennent du mot `conjugaison` en termes de langues européennes, car il existe une forme de conjugaison en japonais, comme l'indique la citation de la capture d'écran de la note de la leçon 7.5 du livre de Dolly.
 ***Les verbes font juste un petit changement au seul kana à la fin,***
 :::
 
@@ -45,7 +45,7 @@ C'est le kana de la ligne en う (*u*) dans un verbe ou le い (*i*) dans un adj
 
 **Rien avant cela ne peut changer.** C'est aussi fixe, établi et inerte qu'un nom. C'est seulement ce dernier kana qui peut changer **et auquel on peut ensuite attacher des choses.**
 
-**La deuxième chose à savoir est qu'ils changent tous selon le système de base-auxiliaire** (*stem-helper system*). Ainsi, bien que j'aie introduit la forme en て (*te*) comme s'il s'agissait d'une <code>forme</code>, d'une sorte de morphing ou de conjugaison du mot entier, **il s'agit en fait d'un système de base-auxiliaire propre.**
+**La deuxième chose à savoir est qu'ils changent tous selon le système de base-auxiliaire** (*stem-helper system*). Ainsi, bien que j'aie introduit la forme en て (*te*) comme s'il s'agissait d'une `forme`, d'une sorte de morphing ou de conjugaison du mot entier, **il s'agit en fait d'un système de base-auxiliaire propre.**
 
 **Dans la grammaire japonaise réelle telle qu'enseignée aux natifs japonais par des natifs japonais,** **-た (*ta*) et -て (*te*) sont considérés comme des auxiliaires, comme des entités en elles-mêmes qui s'attachent à la base d'un mot.**
 
@@ -107,20 +107,20 @@ et aussi si elle se tient seule — et comme nous le savons, les bases peuvent p
 
 **Ainsi, la base en い (*i*) d'un verbe seule devient un nom.** **La base en え (*e*) seule forme l'impératif.**
 
-**La base en く (*ku*) d'un adjectif seule transforme l'adjectif en adverbe.** Ainsi, nous pouvons dire <code>早い車</code> (*hayai kuruma* - voiture rapide) ou <code>**速く**走る</code> (*hayaku hashiru* - courir **vite***, rapide est un adverbe*).
+**La base en く (*ku*) d'un adjectif seule transforme l'adjectif en adverbe.** Ainsi, nous pouvons dire `早い車` (*hayai kuruma* - voiture rapide) ou `**速く**走る` (*hayaku hashiru* - courir **vite***, rapide est un adverbe*).
 
 **Et く (*ku*) est également utilisé, bien sûr, pour faire la forme en て (*te*) :** nous ajoutons simplement -て à la fin du く (*ku*).
 
 ### La base en か (*ka*) (かっ - *katta*)
 
 **La base en か (*ka*) prend un petit cavalier, qui est le petit っ (*tsu*), donc elle devient かっ (*katta*)** et nous l'utilisons pour attacher l'auxiliaire passé -た (*ta*),
-donc nous disons -かった (*katta*) : <code>おいしかった</code> (*oishikatta* - c'était délicieux).
+donc nous disons -かった (*katta*) : `おいしかった` (*oishikatta* - c'était délicieux).
 
 ![](../media/image1036.webp)
 
 ### La base en け (*ke*) (けれ - *kere*)
 
-**La base en け (*ke*) prend également un cavalier, qui est -れ (*re*) donc nous avons la base -けれ (*kere*),** **et à cela nous attachons l'auxiliaire -ば (*ba*), qui est le conditionnel** (et j'ai fait toute une série de vidéos sur les conditionnels comme -ば et -たら, et je mettrai un lien ci-dessus et dans la section d'information ci-dessous).<sup>[[30]](./30-japanese-conditionals-と.md)</sup><sup>[[31]](./31-the-ba-reba-conditional.md)</sup><sup>[[32]](./32-the-tara-nara-conditionals.md)</sup><sup>[[33]](./33-limiting-terms-dake-shika-bakari-nomi.md)</sup>
+**La base en け (*ke*) prend également un cavalier, qui est -れ (*re*) donc nous avons la base -けれ (*kere*),** **et à cela nous attachons l'auxiliaire -ば (*ba*), qui est le conditionnel** (et j'ai fait toute une série de vidéos sur les conditionnels comme -ば et -たら, et je mettrai un lien ci-dessus et dans la section d'information ci-dessous).<sup>[[30]](./30-japanese-conditionals-と.md)</sup><sup>[[31]](./31-the-ば-れば-conditional.md)</sup><sup>[[32]](./32-the-たら-なら-conditionals.md)</sup><sup>[[33]](./33-limiting-terms-だけ-しか-ばかり-のみ.md)</sup>
 
 ![](../media/image796.webp)
 
@@ -130,7 +130,7 @@ donc nous disons -かった (*katta*) : <code>おいしかった</code> (*oishik
 
 ![](../media/image324.webp)
 
-Ainsi, à la base de <code>**欲し**い</code> (***hoshi**i* - vouloir) nous pouvons attacher **がる** (*garu*) pour former <code>**欲しがる**</code> (*hoshi**garu** - **montrer des signes de vouloir quelque chose, sembler vouloir quelque chose**). Ou à l'auxiliaire **たい** (*tai* - vouloir faire) nous pouvons omettre ce い (*i*) et attacher がる (*garu*) et obtenir <code>**たがる**</code> (***ta**garu* - **montrer des signes de vouloir faire quelque chose, sembler vouloir faire quelque chose**).
+Ainsi, à la base de `**欲し**い` (***hoshi**i* - vouloir) nous pouvons attacher **がる** (*garu*) pour former `**欲しがる**` (*hoshi**garu** - **montrer des signes de vouloir quelque chose, sembler vouloir quelque chose**). Ou à l'auxiliaire **たい** (*tai* - vouloir faire) nous pouvons omettre ce い (*i*) et attacher がる (*garu*) et obtenir `**たがる**` (***ta**garu* - **montrer des signes de vouloir faire quelque chose, sembler vouloir faire quelque chose**).
 
 ![](../media/image88.webp)
 
@@ -147,9 +147,9 @@ Maintenant, qu'en est-il de la copule ? C'est l'autre élément dynamique, l'aut
 Or, la copule n'est qu'un seul kana (*だ* - *da* dans ce cas) pour commencer,
 donc généralement nous y ajoutons quelque chose.
 
-**Nous pouvons ajouter le petit っ (*tsu*), pour faire la base だ~**, *(Je pense que ~ ici signifie っ = だっ - datta)* **qui peut ensuite avoir l'auxiliaire passé -た (*ta*) ajouté pour former <code>だった</code> (*datta*).** Nous pouvons ajouter -ろ (*ro*), donc il peut avoir l'auxiliaire volontaire ajouté pour former <code>だろう</code> (*darou*).
+**Nous pouvons ajouter le petit っ (*tsu*), pour faire la base だ~**, *(Je pense que ~ ici signifie っ = だっ - datta)* **qui peut ensuite avoir l'auxiliaire passé -た (*ta*) ajouté pour former `だった` (*datta*).** Nous pouvons ajouter -ろ (*ro*), donc il peut avoir l'auxiliaire volontaire ajouté pour former `だろう` (*darou*).
 
-**Et dans la forme en て (*te*), le だ (*da*) lui-même change — bien sûr n'ayant qu'un seul kana, だ est le dernier kana — ** **et cela peut devenir <code>で</code> (*de*) pour former la forme en て (*te*).** C'est un petit peu moins régulier que les autres, mais c'est vraiment parce **qu'il n'y a qu'une seule copule**, donc elle n'a pas beaucoup d'autres choses dans le même groupe pour être régulière avec.
+**Et dans la forme en て (*te*), le だ (*da*) lui-même change — bien sûr n'ayant qu'un seul kana, だ est le dernier kana — ** **et cela peut devenir `で` (*de*) pour former la forme en て (*te*).** C'est un petit peu moins régulier que les autres, mais c'est vraiment parce **qu'il n'y a qu'une seule copule**, donc elle n'a pas beaucoup d'autres choses dans le même groupe pour être régulière avec.
 
 ## Résumé
 

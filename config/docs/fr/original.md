@@ -1,7 +1,7 @@
 # By nunko/dinuz
 
-In minor editing. If you want to help, [PM me](adokapus@gmail.com). Transcript originally by [nunko](https://discord.com/users/367391904343523339)/dinuz.
-For feedback, tips, edit permissions or stuff I might have overseen or made unclear/inaccurate (mail <code>**Mordraug**</code> or `モルドラウグ`), or just contact me on Discord [Mordraug (ID “morudoraugu”)](https://discord.com/users/501133947044888605).  
+En cours de révision mineure. Si vous souhaitez aider, [envoyez-moi un message](mailto:adokapus@gmail.com). Transcription originale par [nunko](https://discord.com/users/367391904343523339)/dinuz.
+For feedback, tips, edit permissions or stuff I might have overseen or made unclear/inaccurate (mail `**Mordraug**` or `モルドラウグ`), or just contact me on Discord [Mordraug (ID “morudoraugu”)](https://discord.com/users/501133947044888605).  
 
 Since I am careful about bots/scams, I do not accept randoms, so you should also let me know either through a message / email or join [the MoeWay Discord](https://discord.gg/zf3QTdsD), so I know it is someone Japanese-related.
 

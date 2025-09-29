@@ -36,7 +36,7 @@ Vous voyez donc que si nous disons linguistiquement **nouvelle information** ver
 
 Regardons comment ce genre de chose fonctionne en pratique en japonais. Si nous disons **本を買った** (*Hon o katta*), c'est la façon la plus normale de dire **J'ai acheté un livre**. Comme nous le savons, le pronom zéro par défaut est **Je** lorsque le contexte ne nous dit pas que c'est autre chose. Ainsi **本を買った** ne met aucun accent particulier sur quoi que ce soit ; il dit simplement, de manière neutre, **J'ai acheté un livre**.
 
-Maintenant, dans cette phrase, **Je** est le sujet et le thème. Si nous choisissons de souligner **Je** comme thème et de dire **私**<code>は</code>**本を買った** (*Watashi wa hon o katta*), **nous faisons de 私 l'ancienne information, l'achat du livre la nouvelle information, et à cause de cela, は a une fonction de distinction.**
+Maintenant, dans cette phrase, **Je** est le sujet et le thème. Si nous choisissons de souligner **Je** comme thème et de dire **私**`は`**本を買った** (*Watashi wa hon o katta*), **nous faisons de 私 l'ancienne information, l'achat du livre la nouvelle information, et à cause de cela, は a une fonction de distinction.**
 
 ---
 

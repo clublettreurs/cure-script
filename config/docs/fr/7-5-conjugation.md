@@ -19,12 +19,12 @@ Deux raisons. La première est qu’ils insistent sur ce concept **européen** d
 ::: details Juste une note sur ma terminologie et quelques digressions… (cliquez sur la flèche pour développer)
 D’un point de vue linguistique, on pourrait dire qu’il existe quelque chose comme la conjugaison en japonais, mais elle semble assez différente des langues européennes, ce qui explique probablement pourquoi Dolly l’évite, afin de ne pas nous faire interpréter cela à l’européenne et nous confondre. Quant à pourquoi la plupart des sources l’appellent conjugaison.
 
-Encore une fois, ce n’est pas une affirmation définitive, c’est juste pour éviter certaines associations venant du mot <code>conjugaison</code> en termes de langues européennes, puisqu’il existe une forme de conjugaison en japonais, tout comme les noms adjectivaux sont essentiellement des noms, MAIS pas des noms propres (ce qui est juste un modèle parmi d’autres).  
+Encore une fois, ce n’est pas une affirmation définitive, c’est juste pour éviter certaines associations venant du mot `conjugaison` en termes de langues européennes, puisqu’il existe une forme de conjugaison en japonais, tout comme les noms adjectivaux sont essentiellement des noms, MAIS pas des noms propres (ce qui est juste un modèle parmi d’autres).  
 Ceci montre qu’il existe plusieurs façons de voir les choses et que ce n’est pas strictement noir ou blanc, c’est un modèle, et comme on ne peut pas tout expliquer en même temps, certaines choses sont simplifiées.
 
 ---
 
-Gardez à l’esprit que Dolly est parfois un peu trop négative envers les manuels (même si certains sont valides, les manuels visent autre chose et tant que n’importe quelle source vous aide à commencer une immersion massive, c’est bien) et se présente parfois comme <code>la meilleure méthode</code> pour acquérir la grammaire ou dans certains titres accrocheurs de ses vidéos. Je ne partage pas cette vision et je la prends avec précaution. Puisque Dolly utilise des explications simples pour faciliter la compréhension, certaines choses qu’elle dit sont simplifiées et adaptées à son modèle, et parfois légèrement inexactes/incorrectes selon certains exemples discutés sur Internet et Discord par des personnes ayant une compréhension plus profonde du japonais.
+Gardez à l’esprit que Dolly est parfois un peu trop négative envers les manuels (même si certains sont valides, les manuels visent autre chose et tant que n’importe quelle source vous aide à commencer une immersion massive, c’est bien) et se présente parfois comme `la meilleure méthode` pour acquérir la grammaire ou dans certains titres accrocheurs de ses vidéos. Je ne partage pas cette vision et je la prends avec précaution. Puisque Dolly utilise des explications simples pour faciliter la compréhension, certaines choses qu’elle dit sont simplifiées et adaptées à son modèle, et parfois légèrement inexactes/incorrectes selon certains exemples discutés sur Internet et Discord par des personnes ayant une compréhension plus profonde du japonais.
 
 Si vous voulez savoir pourquoi, consultez [**cette discussion MoeWay sur Discord**](https://discord.com/channels/617136488840429598/1170582570161950752). **Donc ne prenez pas Dolly pour parole d’évangile, mais comme un moyen utile d’acquérir les bases du japonais et d’entrer en immersion, ce qui est vraiment important.**  
 
@@ -32,7 +32,7 @@ Si vous voulez savoir pourquoi, consultez [**cette discussion MoeWay sur Discord
 
 Mes explications sont juste mes suppositions et ma manière personnelle de comprendre les choses, mais elles ne sont pas totalement exactes puisque je ne suis pas linguiste (du moins pas encore et pas avant longtemps lol), donc ce que je dis peut être incomplet ou simplifié.
 
-Mais même si certaines affirmations sont fausses ou partielles, cela reste acceptable puisque Dolly sert simplement à introduire les bases et cela peut être <code>corrigé</code> via l’immersion. Dolly sert à vous pousser à l’immersion plutôt qu’à montrer tout le japonais, qu’aucune langue ne peut être apprise intégralement, seulement acquise par une consommation massive et l’usage naturel de la langue.
+Mais même si certaines affirmations sont fausses ou partielles, cela reste acceptable puisque Dolly sert simplement à introduire les bases et cela peut être `corrigé` via l’immersion. Dolly sert à vous pousser à l’immersion plutôt qu’à montrer tout le japonais, qu’aucune langue ne peut être apprise intégralement, seulement acquise par une consommation massive et l’usage naturel de la langue.
 
 ---
 
@@ -43,7 +43,7 @@ En linguistique et en grammaire, les choses ne sont pas simples. Pour expliquer 
 ## Introduction à la conjugaison
 
 ::: info
-Voici ce que Dolly dit dans son livre <code>Unlocking Japanese</code> à propos de la conjugaison :
+Voici ce que Dolly dit dans son livre `Unlocking Japanese` à propos de la conjugaison :
 
 ![](../media/image408.webp)
 :::
@@ -125,7 +125,7 @@ Exemples :
 のみもの → chose à boire (boisson) ;  
 はなしかた → manière de parler.
 
-Pour les <code>る-verbes</code> (ichidan), très simples : on coupe le る pour obtenir toutes les bases collantes.  
+Pour les `る-verbes` (ichidan), très simples : on coupe le る pour obtenir toutes les bases collantes.  
 たべる → たべ ; たべます → forme polie ; たべたい → vouloir manger ; たべもの → nourriture.
 
 ::: info
@@ -186,7 +186,7 @@ On utilise la base え pour former la capacité (pouvoir faire l’action) avec 
 Exemples : かえる → pouvoir acheter ; きける → pouvoir entendre ; はなせる → pouvoir parler ; たべられる → pouvoir manger.
 
 ::: info
-pouvoir = <code>possible / être capable</code>, expliqué plus en détail à la Leçon 10.
+pouvoir = `possible / être capable`, expliqué plus en détail à la Leçon 10.
 :::
 
 ## La base お

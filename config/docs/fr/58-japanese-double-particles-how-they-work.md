@@ -76,7 +76,7 @@ Donc, si vous voulez utiliser une particule non logique ici, vous pouvez le fair
 
 Et parce qu'elles sont si fondamentales pour chaque phrase, elles peuvent être comprises par l'auditeur en japonais.
 
-Donc, si nous disons **さくらはなぐった** (*Sakura wa nagutta*) — **J'ai frappé Sakura** — cela signifie **\*(zeroが)\* さくらは**<code>zeroを</code>**なぐった**,
+Donc, si nous disons **さくらはなぐった** (*Sakura wa nagutta*) — **J'ai frappé Sakura** — cela signifie **\*(zeroが)\* さくらは**`zeroを`**なぐった**,
 
 ![](../media/image569.webp)
 

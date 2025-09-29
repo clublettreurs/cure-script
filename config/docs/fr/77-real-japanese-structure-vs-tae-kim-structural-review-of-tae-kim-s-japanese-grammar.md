@@ -6,11 +6,11 @@
 
 La vidéo d'aujourd'hui est la première que j'ai vraiment hésité à faire et sur laquelle j'ai eu des doutes, mais j'ai décidé d'aller de l'avant. C'est une vidéo qui, je pense, éclairera la structure du japonais pour nous tous. Et elle le fera en adoptant un angle légèrement différent et en la contrastant avec quelque chose de différent de ce avec quoi je la contraste habituellement.
 
-Normalement, je contraste le japonais avec les modèles de grammaire japonaise conventionnels **<code>Eihongo</code>** (Japonais-anglais).
+Normalement, je contraste le japonais avec les modèles de grammaire japonaise conventionnels **`Eihongo`** (Japonais-anglais).
 
 ![](../media/image120.webp)
 
-Et certaines personnes m'ont critiquée pour avoir trop critiqué ces modèles, pour avoir souligné à plusieurs reprises les défauts de ces modèles plutôt que de simplement exposer ce que j'ai à exposer. Et je le fais pour une raison, et la raison est la suivante : la grammaire japonaise conventionnelle <code>Eihongo</code>/occidentale n'a vraiment pas changé depuis des centaines d'années, lorsque les Occidentaux ont commencé à imposer la grammaire européenne classique à la langue japonaise pour tenter de l'expliquer à d'autres Occidentaux.
+Et certaines personnes m'ont critiquée pour avoir trop critiqué ces modèles, pour avoir souligné à plusieurs reprises les défauts de ces modèles plutôt que de simplement exposer ce que j'ai à exposer. Et je le fais pour une raison, et la raison est la suivante : la grammaire japonaise conventionnelle `Eihongo`/occidentale n'a vraiment pas changé depuis des centaines d'années, lorsque les Occidentaux ont commencé à imposer la grammaire européenne classique à la langue japonaise pour tenter de l'expliquer à d'autres Occidentaux.
 
 ![](../media/image533.webp)
 
@@ -26,7 +26,7 @@ Et il est nécessaire de le souligner, car les gens essaieront de les concilier 
 
 Maintenant, Tae Kim-sensei, dont nous allons parler aujourd'hui, a été assez intelligent et courageux pour voir les défauts fondamentaux des modèles japonais occidentaux conventionnels. Il a vu qu'ils étaient pleins de contradictions, d'incohérences et d'illogismes, et il a essayé de créer des modèles plus cohérents et plus logiques. Le problème est que dans les domaines les plus importants, ce qu'il a essentiellement fait a été de garder les morceaux qui étaient faux et d'essayer de concilier les morceaux qui étaient justes avec ceux-là.
 
-Nous nous sommes donc retrouvés avec quelque chose qui, à bien des égards, était **pire** que les modèles <code>Eihongo</code> d'origine. Maintenant, je tiens à préciser que je n'essaie pas de faire un **"travail de démolition"** sur Tae Kim-sensei. Je le respecte beaucoup et je reconnais qu'il était à peu près la seule personne (à part Jay Rubin) à avoir reconnu qu'il y avait un problème avec le japonais <code>Eihongo</code> conventionnel et à avoir eu le courage d'essayer de faire quelque chose à ce sujet.
+Nous nous sommes donc retrouvés avec quelque chose qui, à bien des égards, était **pire** que les modèles `Eihongo` d'origine. Maintenant, je tiens à préciser que je n'essaie pas de faire un **"travail de démolition"** sur Tae Kim-sensei. Je le respecte beaucoup et je reconnais qu'il était à peu près la seule personne (à part Jay Rubin) à avoir reconnu qu'il y avait un problème avec le japonais `Eihongo` conventionnel et à avoir eu le courage d'essayer de faire quelque chose à ce sujet.
 
 ![](../media/image105.webp)
 
@@ -43,7 +43,7 @@ Tae Kim-sensei a pas mal d'informations en ligne et une grande partie de ce qu'i
 
 Les trois sont essentiellement :
 le **particule が** (*ga*), qui est la colonne vertébrale absolue de la structure japonaise,
-la **copule <code>だ</code>** (*da*), qui est essentielle à toutes les structures A-est-B non adjectivales, et
+la **copule `だ`** (*da*), qui est essentielle à toutes les structures A-est-B non adjectivales, et
 le **mythe de la conjugaison japonaise**<sup>[[10]](./10-helper-verbs-the-potential-helper-verb.md)</sup>.
 
 ![](../media/image1160.webp)
@@ -64,7 +64,7 @@ Vous ne pouvez pas avoir de phrase sans le particule が, même si vous ne pouve
 
 ---
 
-Ce que fait le particule が, c'est qu'il marque le **sujet** de la phrase, c'est-à-dire la chose dont nous disons quelque chose. Nous disons soit <code>A est B</code>, soit <code>A fait B</code>. La voiture-A est le sujet de la phrase, l'être-qui-est ou le faire-qui-fait de la phrase.
+Ce que fait le particule が, c'est qu'il marque le **sujet** de la phrase, c'est-à-dire la chose dont nous disons quelque chose. Nous disons soit `A est B`, soit `A fait B`. La voiture-A est le sujet de la phrase, l'être-qui-est ou le faire-qui-fait de la phrase.
 
 Le particule が marque cela. Il ne peut jamais marquer autre chose. Mais le japonais conventionnel gâche cela en comprenant mal certaines phrases japonaises au point de devoir dire que が ne marque que parfois le sujet de la phrase ; d'autres fois, il marque l'objet. Maintenant, c'est absurde et j'ai démontré que c'est absurde.
 
@@ -82,9 +82,9 @@ Aussi simple que cela. Différentes langues peuvent les gérer de manières trè
 
 ---
 
-Maintenant, qu'est-ce qui pousse Tae Kim-sensei à déclarer que le japonais est si différent de toute langue humaine qu'il n'a pas de sujet ? Eh bien, ironiquement, c'est le fait qu'il ne peut pas se débarrasser de l'approche grammaticale <code>Eihongo</code> qui impose continuellement la structure anglaise au japonais. C'est parce qu'ils ne peuvent pas concevoir (et apparemment Tae Kim-sensei ne peut pas concevoir non plus) que le japonais pourrait jamais retirer l'ego du cœur d'une phrase subjective.
+Maintenant, qu'est-ce qui pousse Tae Kim-sensei à déclarer que le japonais est si différent de toute langue humaine qu'il n'a pas de sujet ? Eh bien, ironiquement, c'est le fait qu'il ne peut pas se débarrasser de l'approche grammaticale `Eihongo` qui impose continuellement la structure anglaise au japonais. C'est parce qu'ils ne peuvent pas concevoir (et apparemment Tae Kim-sensei ne peut pas concevoir non plus) que le japonais pourrait jamais retirer l'ego du cœur d'une phrase subjective.
 
-Ainsi, l'exemple qu'il utilise pour **"prouver"** que le japonais n'a pas de sujet est la phrase <code>クレープが食べたい</code> (*kurēpu ga tabetai*), qui, bien sûr, dans tous les manuels est traduite par <code>Je veux manger des crêpes</code>.
+Ainsi, l'exemple qu'il utilise pour **"prouver"** que le japonais n'a pas de sujet est la phrase `クレープが食べたい` (*kurēpu ga tabetai*), qui, bien sûr, dans tous les manuels est traduite par `Je veux manger des crêpes`.
 
 ![](../media/image357.webp)
 
@@ -93,17 +93,17 @@ L'explication de Tae Kim-sensei.
 :::
 Et, comme d'habitude en français, la personne qui fait l'expérience de la subjectivité, l'ego, est placée au centre.
 
-C'est le sujet, c'est l'acteur : <code>Je veux manger des crêpes.</code> Et bien sûr, les crêpes sont marquées par が, et ce n'est pas le sujet, n'est-ce pas ? Donc が ne marque pas le sujet. Sur ce point, Tae Kim-sensei et le japonais <code>Eihongo</code> conventionnel sont d'accord.
+C'est le sujet, c'est l'acteur : `Je veux manger des crêpes.` Et bien sûr, les crêpes sont marquées par が, et ce n'est pas le sujet, n'est-ce pas ? Donc が ne marque pas le sujet. Sur ce point, Tae Kim-sensei et le japonais `Eihongo` conventionnel sont d'accord.
 
-Le japonais <code>Eihongo</code> l'explique en disant que が ne marque que parfois le sujet. Tae Kim-sensei l'explique en disant qu'il n'y a pas de sujet dans la langue entière. Mais la simple raison de ces deux affirmations est une incapacité totale à même considérer le fait que le japonais pourrait utiliser des expressions différentes du français et qu'il pourrait être possible de retirer l'ego du centre d'une déclaration de subjectivité.
+Le japonais `Eihongo` l'explique en disant que が ne marque que parfois le sujet. Tae Kim-sensei l'explique en disant qu'il n'y a pas de sujet dans la langue entière. Mais la simple raison de ces deux affirmations est une incapacité totale à même considérer le fait que le japonais pourrait utiliser des expressions différentes du français et qu'il pourrait être possible de retirer l'ego du centre d'une déclaration de subjectivité.
 
-Maintenant, le fait étrange à ce sujet est que nous n'avons même pas besoin d'aller jusqu'au japonais pour savoir que cela arrive tout le temps. Cela arrive en espagnol. <code>Me gusta el Tequila</code> ne dit pas <code>J'aime la Tequila</code>, bien que tous les manuels vous diront que c'est le cas.
+Maintenant, le fait étrange à ce sujet est que nous n'avons même pas besoin d'aller jusqu'au japonais pour savoir que cela arrive tout le temps. Cela arrive en espagnol. `Me gusta el Tequila` ne dit pas `J'aime la Tequila`, bien que tous les manuels vous diront que c'est le cas.
 
-Cela dit <code>La Tequila me fait plaisir</code>.
+Cela dit `La Tequila me fait plaisir`.
 
 ![](../media/image1032.webp)
 
-Or, ce n'est peut-être pas la façon dont le français veut le dire, mais c'est la façon dont l'espagnol le dit. <code>クレープが食べたい</code> signifie **<code>Les crêpes sont celles qui provoquent le désir de manger (chez moi)</code>**.
+Or, ce n'est peut-être pas la façon dont le français veut le dire, mais c'est la façon dont l'espagnol le dit. `クレープが食べたい` signifie **`Les crêpes sont celles qui provoquent le désir de manger (chez moi)`**.
 
 ![](../media/image219.webp)
 
@@ -117,7 +117,7 @@ Le sujet de la phrase est les crêpes. Ce sont elles qui provoquent le désir de
 
 Nous pouvons voir que が marque le sujet tout le temps. Et nous n'avons pas à commencer à dire qu'il n'y a pas de sujet en japonais.
 
-Parce que la seule langue dans laquelle il n'y a pas de sujet est la langue <code>wanwan</code> (*oua-oua*) et <code>nyan-nyan</code> (*miaou-miaou*).
+Parce que la seule langue dans laquelle il n'y a pas de sujet est la langue `wanwan` (*oua-oua*) et `nyan-nyan` (*miaou-miaou*).
 ::: info
 Puisque je n'ai rien pu trouver à leur sujet, je suis sûr que c'était une blague (￣□￣」)
 :::
@@ -176,9 +176,9 @@ Nous ne pouvons pas voir comment fonctionne la phrase japonaise de base car nous
 
 Si nous devons construire une théorie autour de ce が non défini, alors nous allons avoir une théorie très indéfinie. Nous avons donc essentiellement créé une structure qui nie la structure de base du japonais dès le début. Et une fois que nous avons fait cela, nous nous retrouvons logiquement obligés de faire d'autres choses qui éloignent encore plus la théorie d'être utile et prédictive.
 
-Ainsi, dans notre prochaine leçon<sup>[[78]](./78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review.md)</sup>, nous allons examiner ce qui est arrivé à la copule <code>だ</code> (*da*) dans la théorie de Tae Kim-sensei et d'autres conséquences.
+Ainsi, dans notre prochaine leçon<sup>[[78]](./78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review.md)</sup>, nous allons examiner ce qui est arrivé à la copule `だ` (*da*) dans la théorie de Tae Kim-sensei et d'autres conséquences.
 
-Encore une fois, je n'essaie pas de dénigrer Tae Kim-sensei. En fait, la raison pour laquelle je l'ai choisi est qu'il est la seule personne à avoir vraiment contesté le modèle <code>Eihongo</code> conventionnel à un niveau suffisamment profond pour nous donner une autre perspective, un autre angle pour évaluer la structure japonaise.
+Encore une fois, je n'essaie pas de dénigrer Tae Kim-sensei. En fait, la raison pour laquelle je l'ai choisi est qu'il est la seule personne à avoir vraiment contesté le modèle `Eihongo` conventionnel à un niveau suffisamment profond pour nous donner une autre perspective, un autre angle pour évaluer la structure japonaise.
 
 Et ce n'est vraiment que parce qu'il est si important et si intelligent que j'ai pris la difficile décision de faire cette vidéo et la suivante.
 ::: info

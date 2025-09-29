@@ -30,7 +30,7 @@ Cela se produit en français (et en anglais, comme l'exemple dans la vidéo). Pa
 
 Et **en français ou en espagnol, vous ne pouvez pas faire cela.**
 
-**Vous ne pouvez pas omettre ce <code>que</code> (en français ou en espagnol), qui est <code>that</code> en anglais.**
+**Vous ne pouvez pas omettre ce `que` (en français ou en espagnol), qui est `that` en anglais.**
 
 **Mais en anglais, vous le pouvez.**
 
@@ -44,7 +44,7 @@ Ce n'est pas une omission illégale. **C'est une omission légale.**
 
 Maintenant, cela se produit **en japonais**, et **un exemple très, très courant**, bien sûr, **est le pronom zéro.**
 
-Si nous disons <code> *(zeroが)* 疲れた</code> (*tsukareta*), qui est <code>fatigué</code>, **nous voulons dire <code>Je suis fatigué</code>**, et **c'est un japonais à cent pour cent légal et grammatical.**
+Si nous disons ` *(zeroが)* 疲れた` (*tsukareta*), qui est `fatigué`, **nous voulons dire `Je suis fatigué`**, et **c'est un japonais à cent pour cent légal et grammatical.**
 
 ![](../media/image818.webp)
 
@@ -54,7 +54,7 @@ Si nous disons <code> *(zeroが)* 疲れた</code> (*tsukareta*), qui est <code>
 
 **Il n'y a aucune question sur ce que vous voulez dire par là.**
 
-Premièrement parce que **le pronom zéro revient toujours à <code>Je</code>** et deuxièmement parce que le japonais, comme nous le savons, est très strict en disant que nous ne pouvons parler que des choses que nous sommes réellement capables de savoir.
+Premièrement parce que **le pronom zéro revient toujours à `Je`** et deuxièmement parce que le japonais, comme nous le savons, est très strict en disant que nous ne pouvons parler que des choses que nous sommes réellement capables de savoir.
 
 Nous ne pouvons donc pas parler de l'état émotionnel de quelqu'un d'autre. **Nous ne pouvons pas parler de quelqu'un d'autre aimant ou n'aimant pas quelque chose.**
 
@@ -62,7 +62,7 @@ Nous ne pouvons donc pas parler de l'état émotionnel de quelqu'un d'autre. **N
 
 **Et nous ne pouvons pas dire que quelqu'un d'autre est fatigué.**
 
-Donc <code>疲れた</code> (*tsukareta*) ne peut signifier que <code>**zeroが**疲れた / **私が**疲れた</code> (*watashi ga tsukareta*).
+Donc `疲れた` (*tsukareta*) ne peut signifier que `**zeroが**疲れた / **私が**疲れた` (*watashi ga tsukareta*).
 
 Il s'agit donc **d'une omission légale.**
 
@@ -82,13 +82,13 @@ Le premier est lorsque nous omettons des morceaux de mots ou de phrases.
 
 ![](../media/image993.webp)
 
-Ainsi, par exemple, au lieu de <code>している</code> (*shite iru* - suis en train de faire) nous disons <code>してる</code> (*shiteru*) ; au lieu de <code>しておく</code> (*shite oku* - faire et mettre en place) nous disons <code>しとく</code> (*shitoku*).
+Ainsi, par exemple, au lieu de `している` (*shite iru* - suis en train de faire) nous disons `してる` (*shiteru*) ; au lieu de `しておく` (*shite oku* - faire et mettre en place) nous disons `しとく` (*shitoku*).
 
-Or, **ce sont des illégalités si régulières qu'elles ne sont vraiment pas différentes de dire** **<code>je n'ai pas</code> ou <code>tu ne devrais pas</code> au lieu de <code>je n'ai pas</code> ou <code>tu ne devrais pas</code> en français.**
+Or, **ce sont des illégalités si régulières qu'elles ne sont vraiment pas différentes de dire** **`je n'ai pas` ou `tu ne devrais pas` au lieu de `je n'ai pas` ou `tu ne devrais pas` en français.**
 
 **Vous pouvez les utiliser presque partout, mais pas dans les circonstances les plus formelles.**
 
-Un peu plus bas sur l'échelle, nous avons des choses comme dire <code>分かんない</code> (*wakannai*) au lieu de <code>分からない</code> (*wakaranai*), ou <code>つまんない</code> (*tsumannai*) au lieu de <code>つまらない</code> (*tsumaranai*).
+Un peu plus bas sur l'échelle, nous avons des choses comme dire `分かんない` (*wakannai*) au lieu de `分からない` (*wakaranai*), ou `つまんない` (*tsumannai*) au lieu de `つまらない` (*tsumaranai*).
 
 C'est donc un type, et bien qu'il faille un certain temps pour s'habituer aux expressions, une fois que vous les connaissez, elles ne sont pas plus difficiles que n'importe quoi d'autre.
 
@@ -114,25 +114,25 @@ Or, **à peu près tout cela peut être omis à un moment donné.**
 
 ---
 
-**Les marqueurs qui sont omis le plus souvent sont** **が** (*ga*), **を** (*o*), et **le marqueur de thème non logique は** (*wa*), et aussi **la copule <code>だ</code>** (*da*).
+**Les marqueurs qui sont omis le plus souvent sont** **が** (*ga*), **を** (*o*), et **le marqueur de thème non logique は** (*wa*), et aussi **la copule `だ`** (*da*).
 
-Donc, par exemple, si je dis <code>私アンドロイド</code> (*watashi andoroido* - Moi Android), **j'ai omis ce qui aurait probablement été un は après mon nom.**
+Donc, par exemple, si je dis `私アンドロイド` (*watashi andoroido* - Moi Android), **j'ai omis ce qui aurait probablement été un は après mon nom.**
 
-**J'ai également omis <code>だ</code> après <code>アンドロイド</code>**.
+**J'ai également omis `だ` après `アンドロイド`**.
 
 ![](../media/image89.webp)
 
 Maintenant, si vous savez que je me présente ou que je dis quelque chose sur moi-même, il n'y a aucun doute sur ce qui se passe ici.
 
-Et... je ne veux pas trop revenir sur le sujet de Tae Kim-sensei, j'ai fait une série en trois parties sur les choses que Tae Kim-sensei enseigne qu'il ne devrait pas enseigner, et je mettrai un lien vers cela<sup>[[77]](./77-real-japanese-structure-vs-tae-kim-structural-review-of-tae-kim-s-japanese-grammar.md)</sup><sup>[[78]](./78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review.md)</sup><sup>[[79]](./79-deeper-secret-of-the-copula.md)</sup>, mais ce que je ferai ici est de souligner un point que je n'ai pas fait là-bas **qui est que Tae Kim-sensei dit que parce que <code>だ</code> est souvent omis et <code>です</code> (*desu*) n'est pas omis,** (*selon lui*) ils ne sont pas vraiment la même chose, ils ne sont pas tous deux la copule.
+Et... je ne veux pas trop revenir sur le sujet de Tae Kim-sensei, j'ai fait une série en trois parties sur les choses que Tae Kim-sensei enseigne qu'il ne devrait pas enseigner, et je mettrai un lien vers cela<sup>[[77]](./77-real-japanese-structure-vs-tae-kim-structural-review-of-tae-kim-s-japanese-grammar.md)</sup><sup>[[78]](./78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review.md)</sup><sup>[[79]](./79-deeper-secret-of-the-copula.md)</sup>, mais ce que je ferai ici est de souligner un point que je n'ai pas fait là-bas **qui est que Tae Kim-sensei dit que parce que `だ` est souvent omis et `です` (*desu*) n'est pas omis,** (*selon lui*) ils ne sont pas vraiment la même chose, ils ne sont pas tous deux la copule.
 
 ### Pourquoi だ est souvent omis et です ne l'est pas
 
 Et j'ai traité de cela longuement et j'ai expliqué quel désordre cela crée en japonais si vous ignorez la copule, donc je ne vais pas y revenir.
 
-Mais le point que je veux faire ici est que la raison pour laquelle <code>だ</code> peut être omis dans des endroits où <code>です</code> ne le peut pas est double.
+Mais le point que je veux faire ici est que la raison pour laquelle `だ` peut être omis dans des endroits où `です` ne le peut pas est double.
 
-Tout d'abord, **pourquoi <code>だ</code> peut-il être omis aussi souvent qu'il l'est ?**
+Tout d'abord, **pourquoi `だ` peut-il être omis aussi souvent qu'il l'est ?**
 
 Eh bien, si les manuels nous enseignaient la structure de base du japonais, ce serait évident, mais bien sûr, ils ne le font pas.
 
@@ -158,9 +158,9 @@ Maintenant, **si un nom arrive à la fin de la phrase, nous savons que ce n'est 
 
 Et **puisque nous savons cela, nous pouvons, si nous le voulons, omettre la copule.**
 
-Et ceci, je pense, est la raison pour laquelle Tae Kim-sensei est attiré à dire que <code>だ</code> est une déclaration, une sorte de point d'exclamation verbal.
+Et ceci, je pense, est la raison pour laquelle Tae Kim-sensei est attiré à dire que `だ` est une déclaration, une sorte de point d'exclamation verbal.
 
-Ce qu'il dit, c'est que les gens utilisent <code>だ</code> quand ils veulent insister sur ce qu'ils disent.
+Ce qu'il dit, c'est que les gens utilisent `だ` quand ils veulent insister sur ce qu'ils disent.
 
 Eh bien, **il y a une certaine part de vérité là-dedans parce que le fait est** **que vous pouvez dans le discours familier toujours omettre la copule et être toujours compris,** **donc si vous parlez à un niveau de familiarité où vous l'omettriez probablement,** **alors lorsque vous l'incluez, c'est quand vous voulez insister sur ce que vous dites.**
 
@@ -168,23 +168,23 @@ Eh bien, **il y a une certaine part de vérité là-dedans parce que le fait est
 
 **Ce n'est pas vraiment aussi simple que cela, car beaucoup de gens ne l'omettent pas,** **tout le monde ne l'omet pas tout le temps.** C'est un peu plus complexe que cela, **mais l'idée que c'est une déclaration a au moins ce grain de vérité en elle** **que parce que vous pouvez l'omettre à peu près quand vous voulez dans le discours familier,** **vous l'incluez souvent parce que vous voulez l'accentuer.**
 
-Alors s'il est facile d'omettre la copule quand c'est <code>だ</code>, **pourquoi n'est-il pas facile de l'omettre quand c'est <code>です</code> ?**
+Alors s'il est facile d'omettre la copule quand c'est `だ`, **pourquoi n'est-il pas facile de l'omettre quand c'est `です` ?**
 
-Tae Kim-sensei transforme cela en un argument complet pour le fait que <code>だ</code> et <code>です</code> sont deux choses différentes, mais si vous y réfléchissez, il est parfaitement évident pourquoi <code>だ</code> est omis (je l'ai déjà expliqué) et pourquoi <code>です</code> ne l'est pas.
+Tae Kim-sensei transforme cela en un argument complet pour le fait que `だ` et `です` sont deux choses différentes, mais si vous y réfléchissez, il est parfaitement évident pourquoi `だ` est omis (je l'ai déjà expliqué) et pourquoi `です` ne l'est pas.
 
-**<code>です</code> n'est pas omis parce que c'est du discours formel.**
+**`です` n'est pas omis parce que c'est du discours formel.**
 
 **En premier lieu, nous omettons moins dans le discours formel.**
 
 ![](../media/image1041.webp)
 
-Nous n'omettons pas autant de choses dans une phrase formelle que dans une phrase informelle. **Mais même si nous parlons un discours formel à un niveau lâche,** **où nous pouvons omettre des choses de la phrase,** **nous n'allons pas omettre le <code>です</code>.**
+Nous n'omettons pas autant de choses dans une phrase formelle que dans une phrase informelle. **Mais même si nous parlons un discours formel à un niveau lâche,** **où nous pouvons omettre des choses de la phrase,** **nous n'allons pas omettre le `です`.**
 
 Pourquoi pas ?
 
-Parce qu'il n'y a qu'une seule chose qui fait du 丁寧語 (*teineigo* - discours de niveau です/ます) du 丁寧語, **et c'est le fait que nous ajoutons le verbe auxiliaire <code>ます</code> à la fin des phrases verbales** **et la copule <code>です</code> à la fin des phrases nom-plus-copule** **et même, de manière redondante, à la fin des phrases adjectivales.**
+Parce qu'il n'y a qu'une seule chose qui fait du 丁寧語 (*teineigo* - discours de niveau です/ます) du 丁寧語, **et c'est le fait que nous ajoutons le verbe auxiliaire `ます` à la fin des phrases verbales** **et la copule `です` à la fin des phrases nom-plus-copule** **et même, de manière redondante, à la fin des phrases adjectivales.**
 
-**Donc, vous ne pouvez pas, en 丁寧語, omettre le <code>です</code> sans omettre le 丁寧語.**
+**Donc, vous ne pouvez pas, en 丁寧語, omettre le `です` sans omettre le 丁寧語.**
 
 C'est aussi simple que ça.
 
@@ -232,7 +232,7 @@ Vous l'avez probablement remarqué en français.
 
 ---
 
-**Donc mon conseil est <code>Apprenez le japonais naturellement</code>.**
+**Donc mon conseil est `Apprenez le japonais naturellement`.**
 
 **N'essayez pas de mémoriser des ensembles de règles quand tout ce qu'elles pourraient faire est de vous faire paraître** **comme si vous étiez plus habitué au japonais que vous ne l'êtes réellement.**
 
@@ -250,7 +250,7 @@ L'autre type de chose qui est omis, la troisième catégorie de choses qui sont 
 
 ![](../media/image1104.webp)
 
-**Les gens terminent souvent une phrase par une forme en て** (*te-form*) **ou par une fin de type <code>parce que</code> ou <code>mais</code>.**
+**Les gens terminent souvent une phrase par une forme en て** (*te-form*) **ou par une fin de type `parce que` ou `mais`.**
 
 ---
 

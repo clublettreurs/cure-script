@@ -1,34 +1,34 @@
 # **13. Conjugaison passive / Verbe auxiliaire réceptif**
 
-[**Leçon 13 : La <code>Conjugaison passive</code> démystifiée : PAS passive. PAS une conjugaison. EST facile.**](https://www.youtube.com/watch?v=cvV6d-RETs8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=15)
+[**Leçon 13 : La `Conjugaison passive` démystifiée : PAS passive. PAS une conjugaison. EST facile.**](https://www.youtube.com/watch?v=cvV6d-RETs8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=15)
 
 こんにちは.
 
-Aujourd'hui, nous allons parler du verbe auxiliaire réceptif. Ailleurs, vous entendrez cela appelé la <code>conjugaison passive</code>. Or, comme nous l'avons déjà appris, il n'y a pas de conjugaisons en japonais, donc ça ne peut pas être une conjugaison.
+Aujourd'hui, nous allons parler du verbe auxiliaire réceptif. Ailleurs, vous entendrez cela appelé la `conjugaison passive`. Or, comme nous l'avons déjà appris, il n'y a pas de conjugaisons en japonais, donc ça ne peut pas être une conjugaison.
 
 ::: info
 Encore une fois, Dolly dit cela pour faciliter la compréhension, mais si l'on entrait dans les profondeurs de la linguistique, on pourrait argumenter. Je dis cela pour montrer qu'il y a BEAUCOUP de nuances à mesure que l'on approfondit une langue et que les choses sont rarement simples et directes une fois les bases dépassées, il faut donc garder cela à l'esprit. Si vous aimez vraiment lire, sous cette vidéo, il y a une TRÈS longue, [**discussion intéressante**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgzXdC7vyB-XKN543tt4AaABAg) à ce sujet.
 :::
 
-*Mais dans l'ensemble, il n'y a vraiment pas de purement <code>juste</code> ou <code>faux</code>, juste <code>plus utile</code> ou <code>moins utile</code> pour un individu.*
+*Mais dans l'ensemble, il n'y a vraiment pas de purement `juste` ou `faux`, juste `plus utile` ou `moins utile` pour un individu.*
 
 **De plus, ce n'est pas passif.** C'est donc zéro sur deux pour les manuels. Et cela importe car si nous considérons le verbe auxiliaire réceptif comme une conjugaison passive, cela perturbe complètement notre compréhension de la structure et, encore une fois, cela jette ces pauvres particules partout dans la pièce. Et comme nous le savons, les particules sont les pivots, les charnières sur lesquelles tourne le japonais. Donc, si nous gâchons les particules, nous sommes en grande difficulté. Et c'est pourquoi tant de gens trouvent le japonais difficile à comprendre.
 
 ::: details Juste une de mes notes décousues sur les aspects techniques de la terminologie
 
-Il n'y a rien de mal à l'appeler passif, il suffit de garder à l'esprit qu'il est différent du passif français/anglais, Dolly utilise le terme <code>réceptif</code>, c'est donc sa terminologie qu'elle utilise pour éviter toute confusion dans son modèle. En japonais, il est appelé 受身形 - forme passive, bien que Dolly parte du premier Kanji qui peut signifier recevoir, donc je vois pourquoi et c'est un bon terme aussi, si tant est qu'il y en ait un.
+Il n'y a rien de mal à l'appeler passif, il suffit de garder à l'esprit qu'il est différent du passif français/anglais, Dolly utilise le terme `réceptif`, c'est donc sa terminologie qu'elle utilise pour éviter toute confusion dans son modèle. En japonais, il est appelé 受身形 - forme passive, bien que Dolly parte du premier Kanji qui peut signifier recevoir, donc je vois pourquoi et c'est un bon terme aussi, si tant est qu'il y en ait un.
 
 En termes simples, on pourrait dire que la forme passive en elle-même inclut la fonction réceptive car elle est principalement utilisée pour placer la fonction Sujet sur le Patient (le receveur) de l'action du verbe de base (via れる) au lieu de l'Agent (celui qui fait l'action du verbe de base), tandis que l'Agent est généralement marqué par le に au passif, bien qu'il y ait plus de détails qui seront discutés, l'approche de Dolly est donc également tout à fait valable, mais le terme Passif fonctionne aussi à mon avis, bien qu'il nécessite une base linguistique plus solide.
 
 Notez que je parle de la distinction Syntaxe (Sujet) vs Sémantique (Patient/Agent).
 
-En grammaire, les choses sont rarement <code>noires ou blanches</code>, donc si cela fonctionne pour vous, c'est bien, rappelez-vous simplement de ne pas considérer le japonais comme s'il s'agissait du français/anglais ! Il utilise simplement des mots différents pour exprimer la même idée de base, il est donc non important que l'approche de Dolly fonctionne suffisamment bien pour une compréhension très élémentaire de la grammaire qui peut être entièrement saisie / corrigée grâce à beaucoup d'apport.
+En grammaire, les choses sont rarement `noires ou blanches`, donc si cela fonctionne pour vous, c'est bien, rappelez-vous simplement de ne pas considérer le japonais comme s'il s'agissait du français/anglais ! Il utilise simplement des mots différents pour exprimer la même idée de base, il est donc non important que l'approche de Dolly fonctionne suffisamment bien pour une compréhension très élémentaire de la grammaire qui peut être entièrement saisie / corrigée grâce à beaucoup d'apport.
 
 :::
 
 ## Le Réceptif / Passif
 
-Donc, maintenant que j'ai mentionné la <code>conjugaison passive</code> juste pour que vous sachiez de quoi nous parlons si vous la trouvez dans d'autres contextes, laissons tomber ces mots complètement et appelons-le par son nom : **le verbe auxiliaire réceptif.**
+Donc, maintenant que j'ai mentionné la `conjugaison passive` juste pour que vous sachiez de quoi nous parlons si vous la trouvez dans d'autres contextes, laissons tomber ces mots complètement et appelons-le par son nom : **le verbe auxiliaire réceptif.**
 
 Alors, qu'est-ce que le verbe auxiliaire réceptif ? **C'est un verbe qui s'adapte à la base en あ d'un autre verbe, et la base en あ, c'est la même base que nous utilisons pour attacher l'adjectif auxiliaire négatif en -ない**, n'est-ce pas ? **Le verbe auxiliaire réceptif est 「れる・られる」 : c'est れる pour les verbes godan, られる pour les verbes ichidan.**
 
@@ -49,7 +49,7 @@ Maintenant, **la plupart du temps, je vais utiliser le mot `obtenir` car cela ex
 ::: info
 Pour être plus clair, comme le dit Dolly [**dans les commentaires**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=Ugz9HsXgTvy6JpFnPfR4AaABAg.8s4VanZoq638s4aJUNzU_p) :
 
-*Ainsi, la traduction <code>obtenu</code> (got) ne fonctionne que lorsque le <code>got</code> français/anglais signifie <code>recevoir (une action)</code>, et non lorsqu'il signifie <code>devenir (un état)</code>. Ou pour simplifier la question - vous pouvez utiliser <code>obtenu</code> (got) pour traduire れる/られる mais vous ne pouvez pas toujours utiliser れる/られる pour traduire <code>obtenu</code> (got).*
+*Ainsi, la traduction `obtenu` (got) ne fonctionne que lorsque le `got` français/anglais signifie `recevoir (une action)`, et non lorsqu'il signifie `devenir (un état)`. Ou pour simplifier la question - vous pouvez utiliser `obtenu` (got) pour traduire れる/られる mais vous ne pouvez pas toujours utiliser れる/られる pour traduire `obtenu` (got).*
 :::
 
 Votre ancien professeur de français/anglais pourrait dire que ce n'est pas la meilleure façon d'exprimer les choses, mais c'est une très bonne façon d'exprimer les choses en français/anglais et en japonais, c'est exactement comme cela que nous les exprimons. D'accord?
@@ -70,7 +70,7 @@ Nous pouvons donc dire 「ほんがよめる」 et bien que よめる, qui est l
 
 ![](../media/image886.webp)
 
-**Nous avons donc toujours dans une phrase réceptive l'action qui est faite par quelqu'un d'autre, que nous connaissions ou non, plus l'action réelle de la phrase qui est れる・られる, la réception – le fait de recevoir – de cette action.** Et c'est le point fondamental à garder à l'esprit. C'est parce que les manuels ne gardent pas cela à l'esprit et ne gardent pas ces deux moteurs séparés que toute la confusion et la difficulté concernant la soi-disant <code>conjugaison passive</code> surviennent. **Le verbe principal d'une phrase réceptive れる・られる est toujours れる ou られる, pas le verbe auquel il est attaché.**
+**Nous avons donc toujours dans une phrase réceptive l'action qui est faite par quelqu'un d'autre, que nous connaissions ou non, plus l'action réelle de la phrase qui est れる・られる, la réception – le fait de recevoir – de cette action.** Et c'est le point fondamental à garder à l'esprit. C'est parce que les manuels ne gardent pas cela à l'esprit et ne gardent pas ces deux moteurs séparés que toute la confusion et la difficulté concernant la soi-disant `conjugaison passive` surviennent. **Le verbe principal d'une phrase réceptive れる・られる est toujours れる ou られる, pas le verbe auquel il est attaché.**
 
 ---
 
@@ -126,14 +126,14 @@ Mon approche de ceci serait encore trop longue, donc je ne l'inclurai pas ici, e
 Vous voyez donc que toutes les particules font exactement ce qu'elles font toujours. Rien ne change ici.
 
 ::: info
-Eh bien, comme le montre ci-dessus, dans le Passif/Réceptif, cela change en quelque sorte car elles inversent leur polarité. C'est pourquoi に n'est pas <code>à</code> - receveur/<code>cible</code> comme dans l'Actif, mais est maintenant <code>par</code> - celui qui fait l'action, et が est à la place le receveur de l'action de base (ぬすむ) via れる. Cela peut être particulièrement expliqué via les Rôles Sémantiques/Thématiques.*
+Eh bien, comme le montre ci-dessus, dans le Passif/Réceptif, cela change en quelque sorte car elles inversent leur polarité. C'est pourquoi に n'est pas `à` - receveur/`cible` comme dans l'Actif, mais est maintenant `par` - celui qui fait l'action, et が est à la place le receveur de l'action de base (ぬすむ) via れる. Cela peut être particulièrement expliqué via les Rôles Sémantiques/Thématiques.*
 :::
 
-Si vous y pensez comme une <code>conjugaison passive</code>, toutes les particules font une danse étrange et semblent faire des choses différentes de ce qu'elles font habituellement, mais si vous le comprenez tel qu'il est - le verbe auxiliaire réceptif - il n'y a aucun problème. Et tout prend son sens, tout comme le japonais le fait toujours si vous savez ce qu'il fait vraiment.
+Si vous y pensez comme une `conjugaison passive`, toutes les particules font une danse étrange et semblent faire des choses différentes de ce qu'elles font habituellement, mais si vous le comprenez tel qu'il est - le verbe auxiliaire réceptif - il n'y a aucun problème. Et tout prend son sens, tout comme le japonais le fait toujours si vous savez ce qu'il fait vraiment.
 
-## <code>Réceptif/Passif de nuisance</code>/迷惑受け身
+## `Réceptif/Passif de nuisance`/迷惑受け身
 
-Maintenant, il y a un autre domaine dans lequel le réceptif confond parfois les gens, et c'est dans le soi-disant <code>passif de souffrance</code> ou <code>passif d'adversité</code>, qui est en fait appelé en japonais 迷惑受け身/*めいわくうけみ*, ce qui signifie le `réceptif de nuisance`. Et c'est ce que c'est. C'est le réceptif de nuisance.
+Maintenant, il y a un autre domaine dans lequel le réceptif confond parfois les gens, et c'est dans le soi-disant `passif de souffrance` ou `passif d'adversité`, qui est en fait appelé en japonais 迷惑受け身/*めいわくうけみ*, ce qui signifie le `réceptif de nuisance`. Et c'est ce que c'est. C'est le réceptif de nuisance.
 
 ---
 
@@ -145,10 +145,10 @@ Réceptif normal.
 ![](../media/image257.webp)
 
 ::: warning
-Notez le が avant un verbe marqué réceptif au lieu d'un objet direct を. Je vous recommande de lire [**CETTE CHAÎNE**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgwSvcxzsfJfg2FlFaB4AaABAg) sur la raison pour laquelle il y a が au lieu de を si vous n'êtes pas sûr. L'acteur devrait signifier Sujet pour Dolly mais même cela n'est qu'une supposition de ma part basée sur le moment où elle l'utilise puisqu'elle ne semble pas expliquer ce qu'elle entend vraiment par là, [**dans une chaîne de commentaires sous cette vidéo**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgyjLIrKQJJ0zfRCXId4AaABAg.8wnXb0KQGCY8wtxK5KucCT&ab_channel=OrganicJapanesewithCureDolly) elle appelle même le に Réceptif <code>acteur secondaire</code> (ce qui se rapproche davantage de l'acteur linguistique réel... ou du Macrorôle d'Agent là-bas) ce qui n'aide pas.
+Notez le が avant un verbe marqué réceptif au lieu d'un objet direct を. Je vous recommande de lire [**CETTE CHAÎNE**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgwSvcxzsfJfg2FlFaB4AaABAg) sur la raison pour laquelle il y a が au lieu de を si vous n'êtes pas sûr. L'acteur devrait signifier Sujet pour Dolly mais même cela n'est qu'une supposition de ma part basée sur le moment où elle l'utilise puisqu'elle ne semble pas expliquer ce qu'elle entend vraiment par là, [**dans une chaîne de commentaires sous cette vidéo**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgyjLIrKQJJ0zfRCXId4AaABAg.8wnXb0KQGCY8wtxK5KucCT&ab_channel=OrganicJapanesewithCureDolly) elle appelle même le に Réceptif `acteur secondaire` (ce qui se rapproche davantage de l'acteur linguistique réel... ou du Macrorôle d'Agent là-bas) ce qui n'aide pas.
 :::
 
-::: details Note d'<code>Explication</code> TRÈS facultative et exemple de mes divagations chroniques (ou quoi que ce soit lol)
+::: details Note d'`Explication` TRÈS facultative et exemple de mes divagations chroniques (ou quoi que ce soit lol)
 
 ***Ceci n'est qu'une de mes divagations linguistiques habituelles qui n'a pas vraiment d'importance dans l'ordre général des choses et qui est là spécialement pour mon propre intérêt linguistique (ou ceux qui veulent aller plus en profondeur)
 Je teste/pratique simplement ma compréhension des choses avec cela dans le sens général de la linguistique.***
@@ -165,10 +165,10 @@ JE SUIS TRÈS CONSCIENT QUE CE QUE JE DIS POURRAIT ÊTRE COMPLÈTEMENT FAUX !***
 Gardez à l'esprit que la Syntaxe / Syntactique et la Sémantique / Sémantique sont deux domaines différents et qu'une fonction Syntactique (Sujet, etc.) peut avoir plusieurs rôles Sémantiques, en particulier en termes d'Actif vs Passif/Réceptif.
 C'est parce que c'est Passif/Réceptif, かばん a la fonction SYNTACTIQUE du SUJET (d'où le marqué が) MAIS il a la même fonction SÉMANTIQUE du PATIENT - il a reçu l'acte de voler/être volé par quelqu'un (des verbes). En voix Active, かばん a la fonction SYNTACTIQUE de l'OBJET DIRECT mais aurait toujours la fonction SÉMANTIQUE du PATIENT.
 
-Ainsi, si nous devions avoir かばん marqué par を (Objet Direct - fonction Syntactique), il devrait être à la voix Active (puisque dans le Passif, nous avons tendance à mettre l'Objet Direct comme Sujet à la place) OU, comme cela sera montré ci-dessous, il devrait être sous la forme d'un <code>Réceptif de Nuisance</code> en tant qu'Objet secondaire connecté à un Verbe secondaire qui ajoute des informations de <code>description</code> sur la partie principale.
-**Le terme Acteur** que Dolly utilise DEVRAIT signifier la même chose qu'Agent comme dit [****ici****](https://linguistics.stackexchange.com/questions/20451/what-is-the-difference-between-actor-and-subject-in-systemic-functional-gram) et [****ici****](https://english.stackexchange.com/a/569830) d'après ce que j'ai trouvé, mais Dolly semble l'utiliser ici pour Sujet, d'une manière où Acteur devrait impliquer celui qui fait l'action du verbe principal, je suis donc confus quant à ce que signifie Acteur pour elle ici, mais il se pourrait que... auquel cas, je comprends ce que veut dire Dolly, bien qu'elle puisse fusionner ici les fonctions Syntactique et Sémantique, sinon j'ai mal compris ce qu'elle implique par Acteur ici, puisqu'elle semble le pointer vers le Sujet qui est une propriété SYNTACTIQUE, tandis qu'Acteur (ou plutôt Agent) est une propriété SÉMANTIQUE et dans cette phrase, dans le commentaire, elle appelle かばん <code>acteur</code>, かばん devrait être le Patient, pas <code>acteur</code> car il reçoit l'action, ne faisant pas l'action du verbe principal. C'est-à-dire si Acteur est bien comme Agent.
+Ainsi, si nous devions avoir かばん marqué par を (Objet Direct - fonction Syntactique), il devrait être à la voix Active (puisque dans le Passif, nous avons tendance à mettre l'Objet Direct comme Sujet à la place) OU, comme cela sera montré ci-dessous, il devrait être sous la forme d'un `Réceptif de Nuisance` en tant qu'Objet secondaire connecté à un Verbe secondaire qui ajoute des informations de `description` sur la partie principale.
+**Le terme Acteur** que Dolly utilise DEVRAIT signifier la même chose qu'Agent comme dit [****ici****](https://linguistics.stackexchange.com/questions/20451/what-is-the-difference-between-actor-and-subject-in-systemic-functional-gram) et [****ici****](https://english.stackexchange.com/a/569830) d'après ce que j'ai trouvé, mais Dolly semble l'utiliser ici pour Sujet, d'une manière où Acteur devrait impliquer celui qui fait l'action du verbe principal, je suis donc confus quant à ce que signifie Acteur pour elle ici, mais il se pourrait que... auquel cas, je comprends ce que veut dire Dolly, bien qu'elle puisse fusionner ici les fonctions Syntactique et Sémantique, sinon j'ai mal compris ce qu'elle implique par Acteur ici, puisqu'elle semble le pointer vers le Sujet qui est une propriété SYNTACTIQUE, tandis qu'Acteur (ou plutôt Agent) est une propriété SÉMANTIQUE et dans cette phrase, dans le commentaire, elle appelle かばん `acteur`, かばん devrait être le Patient, pas `acteur` car il reçoit l'action, ne faisant pas l'action du verbe principal. C'est-à-dire si Acteur est bien comme Agent.
 
-*Pour être honnête, le terme Acteur, je l'ai vu utilisé seulement rarement et il devrait impliquer une fonction Sémantique, MAIS il peut être utilisé pour désigner le <code>Macrorôle Sémantique</code> pour le Sujet dans la voix Active et la par-phrase dans le Passif (tandis que Patient est l'Objet Direct dans l'Actif et le Sujet dans le Passif, dont le Macrorôle est appelé <code>Undergoer</code>), comme donné [**ici**](https://rrg.caset.buffalo.edu/rrg/vanvalin_papers/SemMRsRRG.pdf) dans l'article d'un linguiste Robert Van Valin...*[1] (page 1 & 3) et il pointe vers la relation entre Sémantique et Syntaxe. Habituellement, Agent (ou ses sous-noms) sont utilisés, cela m'a donc beaucoup confondu, mais d'après d'autres leçons, **Dolly semble parfois se référer au Sujet comme l'Acteur et les utilise de manière interchangeable même dans le Passif/Réceptif, alors gardez simplement à l'esprit que par Acteur elle entend Sujet** même si cela devrait faire référence à des choses différentes dans le Passif d'après ce que j'ai PERSONNELLEMENT recherché...
+*Pour être honnête, le terme Acteur, je l'ai vu utilisé seulement rarement et il devrait impliquer une fonction Sémantique, MAIS il peut être utilisé pour désigner le `Macrorôle Sémantique` pour le Sujet dans la voix Active et la par-phrase dans le Passif (tandis que Patient est l'Objet Direct dans l'Actif et le Sujet dans le Passif, dont le Macrorôle est appelé `Undergoer`), comme donné [**ici**](https://rrg.caset.buffalo.edu/rrg/vanvalin_papers/SemMRsRRG.pdf) dans l'article d'un linguiste Robert Van Valin...*[1] (page 1 & 3) et il pointe vers la relation entre Sémantique et Syntaxe. Habituellement, Agent (ou ses sous-noms) sont utilisés, cela m'a donc beaucoup confondu, mais d'après d'autres leçons, **Dolly semble parfois se référer au Sujet comme l'Acteur et les utilise de manière interchangeable même dans le Passif/Réceptif, alors gardez simplement à l'esprit que par Acteur elle entend Sujet** même si cela devrait faire référence à des choses différentes dans le Passif d'après ce que j'ai PERSONNELLEMENT recherché...
 De plus, cela semble être le cas en japonais aussi, car c'est ce que [**IMABI**](https://imabi.org/the-passive/) semble dire dans la leçon sur le Passif, certes en utilisant uniquement le terme Agent, au Passif étant marqué par に / によって.
 Dans la voix ACTIVE, ces deux fonctions SÉMANTIQUES sont généralement exprimées SYNTACTIQUEMENT par le Sujet (Agent) et l'Objet Direct (Patient), mais elles font référence à des domaines différents.
 Dans le Passif/Réceptif, le Patient est plutôt mis dans le rôle SYNTACTIQUE du Sujet.

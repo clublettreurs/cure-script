@@ -4,13 +4,13 @@
 
 こんにちは.
 
-Aujourd'hui, nous allons parler de la **<code>main cachée</code>** en japonais. Qu'est-ce que j'entends par là ?
+Aujourd'hui, nous allons parler de la **`main cachée`** en japonais. Qu'est-ce que j'entends par là ?
 
 ![](../media/image383.webp)
 
 ## Pas de sujet en japonais ?
 
-Eh bien, un certain nombre de personnes affirment que le japonais n'a pas de sujet. Et je pense que nous avons établi sans aucun doute que le japonais a non seulement un sujet, mais qu'on ne peut pas avoir de phrase japonaise sans sujet, bien que l'on ne puisse pas toujours voir ou entendre le sujet. Ce peut être un **<code>pronom zéro</code>**.
+Eh bien, un certain nombre de personnes affirment que le japonais n'a pas de sujet. Et je pense que nous avons établi sans aucun doute que le japonais a non seulement un sujet, mais qu'on ne peut pas avoir de phrase japonaise sans sujet, bien que l'on ne puisse pas toujours voir ou entendre le sujet. Ce peut être un **`pronom zéro`**.
 
 ![](../media/image160.webp)
 
@@ -28,7 +28,7 @@ Et cette difficulté proviendra du fait de ne pas bien comprendre comment foncti
 
 ![](../media/image430.webp)
 
-Nous savons déjà à quel point il est dommageable de dire que <code>コーヒーが好きだ</code> (*Kōhī ga suki da*) signifie **J'aime le café**. **J'aime le café** est ce que nous dirions en français, mais le français utilise une stratégie d'expression entièrement différente du japonais.
+Nous savons déjà à quel point il est dommageable de dire que `コーヒーが好きだ` (*Kōhī ga suki da*) signifie **J'aime le café**. **J'aime le café** est ce que nous dirions en français, mais le français utilise une stratégie d'expression entièrement différente du japonais.
 
 Aimer est exprimé par un verbe, et celui qui fait l'action du verbe est la personne qui aime le café. En japonais, aimer est exprimé par un **nom adjectival**, et ce qui est l'objet de ce nom adjectival est le café. La stratégie d'expression japonaise est donc ici plus proche de l'espagnol que du français, bien qu'elles ne soient pas identiques.
 
@@ -38,7 +38,7 @@ Or, bien que les langues aient des stratégies d'expression différentes, il s'a
 
 ## Auxiliaire réceptif
 
-Ainsi, l'une des raisons pour lesquelles la soi-disant **<code>grammaire japonaise</code>** en français nomme à tort le verbe auxiliaire réceptif japonais une conjugaison passive ou une voix passive, c'est que ce qu'il est vraiment, bien qu'il existe en français, n'a pas un statut très élevé. Parce que nous utilisons le réceptif en français en utilisant le mot **faire** ou **se faire** dans diverses circonstances comme **Je me suis fait sauver par ma grande sœur**, **Les sandwichs se sont fait manger par le chien** — mais ce n'est pas considéré comme du **bon français**.
+Ainsi, l'une des raisons pour lesquelles la soi-disant **`grammaire japonaise`** en français nomme à tort le verbe auxiliaire réceptif japonais une conjugaison passive ou une voix passive, c'est que ce qu'il est vraiment, bien qu'il existe en français, n'a pas un statut très élevé. Parce que nous utilisons le réceptif en français en utilisant le mot **faire** ou **se faire** dans diverses circonstances comme **Je me suis fait sauver par ma grande sœur**, **Les sandwichs se sont fait manger par le chien** — mais ce n'est pas considéré comme du **bon français**.
 
 Or, le fait que ce ne soit pas considéré comme du bon français est simplement une question de **mode**. C'est parfaitement grammatical. Il se trouve juste que c'est démodé ou que cela a un faible statut dans la langue. Ce n'est vraiment qu'un accident historique.
 
@@ -46,7 +46,7 @@ De même, d'autres stratégies d'expression existent en japonais qui ne sont pas
 
 ## Analyse de la phrase à sujet caché
 
-Or, la phrase vient de NHK News Easy, qui est un très bon service de nouvelles pour les débutants en japonais. Et la phrase est : <code>東京オリンピック選手が食べる料理をみんなに教えてもらう</code> (*Tōkyō Orinpikku senshu ga taberu ryōri o minna ni oshiete morau*)
+Or, la phrase vient de NHK News Easy, qui est un très bon service de nouvelles pour les débutants en japonais. Et la phrase est : `東京オリンピック選手が食べる料理をみんなに教えてもらう` (*Tōkyō Orinpikku senshu ga taberu ryōri o minna ni oshiete morau*)
 
 ![](../media/image243.webp)
 
@@ -58,25 +58,25 @@ Or, la première chose à faire lors de l'analyse d'une phrase est ce que j'ai d
 
 Bien sûr, si elle arrive à la fin d'une phrase, elle peut être suivie d'une ou plusieurs particules de fin de phrase, mais elle doit être le **moteur final** dans la phrase : le verbe final, le nom-plus-copule ou l'adjectif. Passons donc en revue cela de la manière que je vous ai enseignée par le passé.
 
-<code>東京オリンピック選手が食べる...</code> (*Tōkyō Orinpikku senshu ga taberu...*) Est-ce une proposition logique ? Eh bien, cela pourrait être une proposition logique, n'est-ce pas ? Cela signifierait **Les athlètes olympiques de Tokyo mangent.**
+`東京オリンピック選手が食べる...` (*Tōkyō Orinpikku senshu ga taberu...*) Est-ce une proposition logique ? Eh bien, cela pourrait être une proposition logique, n'est-ce pas ? Cela signifierait **Les athlètes olympiques de Tokyo mangent.**
 
-Cependant, est-ce suivi d'un point, de particules de fin de phrase avec un point, ou se termine-t-il par une sorte de connecteur de proposition comme <code>から</code> (*kara*) ou <code>でも</code> (*demo*) ou la forme **て** ou la forme en **i-stem** d'un verbe ? Non, cela ne se termine par aucun de ceux-ci, n'est-ce pas ? C'est directement suivi d'un **nom**.
+Cependant, est-ce suivi d'un point, de particules de fin de phrase avec un point, ou se termine-t-il par une sorte de connecteur de proposition comme `から` (*kara*) ou `でも` (*demo*) ou la forme **て** ou la forme en **i-stem** d'un verbe ? Non, cela ne se termine par aucun de ceux-ci, n'est-ce pas ? C'est directement suivi d'un **nom**.
 
 ![](../media/image522.webp)
 
-Et, comme nous le savons, lorsqu'une proposition logique est directement suivie d'un nom, ce qu'elle fait est de **modifier ce nom**. En d'autres termes, elle ne fonctionne pas comme une proposition logique active ; elle fonctionne comme, essentiellement, un **adjectif**, un modificateur de nom. Donc <code>東京オリンピック選手が食べる</code> modifie simplement <code>料理</code> (*ryōri* - nourriture). Cela ne fait que nous en dire plus sur la nourriture.
+Et, comme nous le savons, lorsqu'une proposition logique est directement suivie d'un nom, ce qu'elle fait est de **modifier ce nom**. En d'autres termes, elle ne fonctionne pas comme une proposition logique active ; elle fonctionne comme, essentiellement, un **adjectif**, un modificateur de nom. Donc `東京オリンピック選手が食べる` modifie simplement `料理` (*ryōri* - nourriture). Cela ne fait que nous en dire plus sur la nourriture.
 
-Nous avons donc ensuite : <code>...料理をみんなに教えてもらう</code> (*... ryōri o minna ni oshiete morau*). Or, nous ne sommes toujours pas arrivés au sujet de la phrase, n'est-ce pas ? Parce que le sujet de toute phrase doit être marqué avec **が** (*ga*).
+Nous avons donc ensuite : `...料理をみんなに教えてもらう` (*... ryōri o minna ni oshiete morau*). Or, nous ne sommes toujours pas arrivés au sujet de la phrase, n'est-ce pas ? Parce que le sujet de toute phrase doit être marqué avec **が** (*ga*).
 
-Les <code>選手</code> (*senshu* - athlètes) sont marqués avec **が**, mais nous savons qu'ils ne sont pas le sujet de la phrase ; ils aident simplement à modifier <code>料理</code>.
+Les `選手` (*senshu* - athlètes) sont marqués avec **が**, mais nous savons qu'ils ne sont pas le sujet de la phrase ; ils aident simplement à modifier `料理`.
 
 ![](../media/image1076.webp)
 ::: info
 Je mets juste ceci ici... le lien est pour la Leçon 47. Vérifiez aussi la Leçon 46.
 :::
-<code>料理</code> ne peut pas être le sujet de la phrase car il est marqué avec **を** (*o*), pas **が**.
+`料理` ne peut pas être le sujet de la phrase car il est marqué avec **を** (*o*), pas **が**.
 
-<code>みんな</code> (*minna* - tout le monde) ne peut pas être le sujet de la phrase car il est marqué avec **に** (*ni*), pas **が**.
+`みんな` (*minna* - tout le monde) ne peut pas être le sujet de la phrase car il est marqué avec **に** (*ni*), pas **が**.
 
 ![](../media/image316.webp)
 
@@ -90,11 +90,11 @@ Eh bien, que dit réellement la phrase ? Elle dit que **quelqu'un**, le sujet de
 
 Or, celui qui m'a posé la question est en fait arrivé jusque-là, mais a ensuite été déconcerté par la question de savoir qui pourrait être cette personne ou ces personnes non nommées. Pourraient-ce être les athlètes ? Eh bien, ce n'est pas probable, et nous devons toujours considérer la probabilité pour résoudre toute sorte d'ambiguïté. Ce n'est pas vraiment une phrase ambiguë, mais le contexte indique assez clairement que ce ne sont pas les athlètes.
 
-Tout d'abord, par défaut, ces phrases en <code>-てもらう</code> (*te-morau*) signifient que quelqu'un a activement fait en sorte que quelqu'un d'autre fasse quelque chose. Ainsi, la personne qui fait <code>もらう</code> **(le sujet A zéroが)** obtient **(le train B - もらう)** que la personne **(みんなに)** faisant le verbe à la forme **て** fasse ce verbe à la forme **て** **(教えて)**.
+Tout d'abord, par défaut, ces phrases en `-てもらう` (*te-morau*) signifient que quelqu'un a activement fait en sorte que quelqu'un d'autre fasse quelque chose. Ainsi, la personne qui fait `もらう` **(le sujet A zéroが)** obtient **(le train B - もらう)** que la personne **(みんなに)** faisant le verbe à la forme **て** fasse ce verbe à la forme **て** **(教えて)**.
 
 ![](../media/image628.webp)
 
-Donc si nous disons <code>お医者さんに見てもらう</code> (*O-isha-san ni mite morau*), nous disons **se faire examiner par le médecin**. Quelqu'un est donc en train de faire en sorte que tout le monde lui enseigne ou donne son avis sur ce que les athlètes devraient manger.
+Donc si nous disons `お医者さんに見てもらう` (*O-isha-san ni mite morau*), nous disons **se faire examiner par le médecin**. Quelqu'un est donc en train de faire en sorte que tout le monde lui enseigne ou donne son avis sur ce que les athlètes devraient manger.
 
 Est-ce que cela est susceptible d'être les athlètes ? Eh bien, pas vraiment. Est-il probable qu'ils se réunissent et demandent à tout le monde ce qu'ils devraient manger ?
 

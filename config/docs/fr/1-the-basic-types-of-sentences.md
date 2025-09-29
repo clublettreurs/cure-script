@@ -8,41 +8,41 @@ Nous allons l’imaginer comme un train. Chaque phrase japonaise a deux élémen
 
 On peut en dire plus sur A ; on peut en dire plus sur B ; on peut combiner des phrases logiques pour créer des phrases complexes. **Mais chaque phrase japonaise respecte ce type de base.**
 
-Alors, que sont A et B ? Commençons par nous rappeler que dans n’importe quelle langue, il n’y a que deux types de phrases : <code>A est B</code> et <code>A fait B</code>. Un exemple de phrase <code>A fait B</code> est <code>Sakura marche</code>. Un exemple de phrase <code>A est B</code> est <code>Sakura est japonaise</code>.
+Alors, que sont A et B ? Commençons par nous rappeler que dans n’importe quelle langue, il n’y a que deux types de phrases : `A est B` et `A fait B`. Un exemple de phrase `A fait B` est `Sakura marche`. Un exemple de phrase `A est B` est `Sakura est japonaise`.
 
-Et on peut les mettre au passé ; on peut les mettre à la négative ; on peut les transformer en questions ; on peut en dire plus sur A ; on peut en dire plus sur B. Mais, **ultimement, chaque phrase se ramène à l’un de ces deux types : une phrase <code>A est B</code> ou une phrase <code>A fait B</code>.**
+Et on peut les mettre au passé ; on peut les mettre à la négative ; on peut les transformer en questions ; on peut en dire plus sur A ; on peut en dire plus sur B. Mais, **ultimement, chaque phrase se ramène à l’un de ces deux types : une phrase `A est B` ou une phrase `A fait B`.**
 
 Voyons maintenant comment cela fonctionne en japonais.
 
 ## Phrases avec un verbe
 
-En japonais, si nous voulons dire <code>Sakura marche</code> (A fait B : Sakura marche), alors A est Sakura, le wagon principal, et B est marche, ce qu’elle fait, la locomotive de la phrase.
+En japonais, si nous voulons dire `Sakura marche` (A fait B : Sakura marche), alors A est Sakura, le wagon principal, et B est marche, ce qu’elle fait, la locomotive de la phrase.
 
 ![](../media/image1055.webp)
 
-"Marcher" en japonais se dit <code>あるく</code>. Il nous faut encore une chose pour former la phrase japonaise de base, et **c’est le pivot de chaque phrase, が** (ga).  
+"Marcher" en japonais se dit `あるく`. Il nous faut encore une chose pour former la phrase japonaise de base, et **c’est le pivot de chaque phrase, が** (ga).  
 
-**が est le centre de la grammaire japonaise. Chaque phrase japonaise tourne autour de が. Dans certaines phrases, on ne verra pas le が, mais il est toujours là et il fait toujours le même travail. Il relie A et B et les transforme en phrase.** Ainsi, notre phrase de base <code>A fait B</code> est <code>**さくらが**あるく</code> = <code>**Sakura** marche</code>.
+**が est le centre de la grammaire japonaise. Chaque phrase japonaise tourne autour de が. Dans certaines phrases, on ne verra pas le が, mais il est toujours là et il fait toujours le même travail. Il relie A et B et les transforme en phrase.** Ainsi, notre phrase de base `A fait B` est `**さくらが**あるく` = `**Sakura** marche`.
 
 ## Phrases avec copule
 
-Prenons maintenant une phrase <code>A est B</code> : <code>Sakura est japonaise</code>, ou, comme on dit, <code>Sakura est une personne japonaise</code>. Ici, A est encore Sakura, B est にほんじん/日本人, ce qui signifie "personne japonaise", et **nous avons encore besoin de が pour les relier. Nous allons donc imaginer le wagon A, le wagon principal, avec un が dessus, car le wagon principal, le sujet de la phrase, porte toujours un が pour le relier à la locomotive.**
+Prenons maintenant une phrase `A est B` : `Sakura est japonaise`, ou, comme on dit, `Sakura est une personne japonaise`. Ici, A est encore Sakura, B est にほんじん/日本人, ce qui signifie "personne japonaise", et **nous avons encore besoin de が pour les relier. Nous allons donc imaginer le wagon A, le wagon principal, avec un が dessus, car le wagon principal, le sujet de la phrase, porte toujours un が pour le relier à la locomotive.**
 
-Ainsi, さくらが日本人 – et il nous faut encore une chose. Il y a un autre élément que je veux que tu connaisses : だ (da). <code>さくらが日本人だ</code> = <code>Sakura est une personne japonaise</code>.
+Ainsi, さくらが日本人 – et il nous faut encore une chose. Il y a un autre élément que je veux que tu connaisses : だ (da). `さくらが日本人だ` = `Sakura est une personne japonaise`.
 
 ![](../media/image632.webp)
 
 Tu as peut-être déjà rencontré ce だ sous sa forme polie です, mais il y a de très bonnes raisons d’apprendre d’abord la forme simple. Nous allons donc apprendre だ. Si tu regardes だ, c’est comme un signe égal encadré à gauche. C’est un excellent moyen mnémotechnique pour comprendre sa fonction, car **だ nous indique que A est B.**
 
-Pourquoi est-il encadré à gauche ? Parce qu’il ne fonctionne que dans un sens. Logiquement : さくらが日本人だ signifie <code>Sakura = personne japonaise.</code> Mais l’inverse n’est pas vrai : une personne japonaise = Sakura – ce n’est pas forcément Sakura. Sakura est une personne japonaise, mais une personne japonaise n’est pas nécessairement Sakura.
+Pourquoi est-il encadré à gauche ? Parce qu’il ne fonctionne que dans un sens. Logiquement : さくらが日本人だ signifie `Sakura = personne japonaise.` Mais l’inverse n’est pas vrai : une personne japonaise = Sakura – ce n’est pas forcément Sakura. Sakura est une personne japonaise, mais une personne japonaise n’est pas nécessairement Sakura.
 
 ## Phrases avec adjectif
 
-Nous avons donc maintenant une phrase <code>A est B</code> et une phrase <code>A fait B</code>. Il existe une troisième forme de phrase japonaise de base, car elle a trois formes. La troisième forme concerne un mot descriptif, un adjectif.
+Nous avons donc maintenant une phrase `A est B` et une phrase `A fait B`. Il existe une troisième forme de phrase japonaise de base, car elle a trois formes. La troisième forme concerne un mot descriptif, un adjectif.
 
 **En japonais, les mots descriptifs se terminent par い** (i), tout comme en anglais : happy, sunny, cloudy, silly. En japonais, c’est pareil : happy – うれしい/嬉しい ; sad – かなしい/悲しい ; blue – あおい/青い.
 
-On n’a pas besoin d’apprendre tous ces adjectifs, mais il faut connaître les adjectifs japonais en い car ils forment le troisième type de phrase. Prenons un exemple simple : ペン (facile car ça signifie "stylo") – <code>ペンが赤い/あかい</code> = <code>le stylo est rouge</code>.
+On n’a pas besoin d’apprendre tous ces adjectifs, mais il faut connaître les adjectifs japonais en い car ils forment le troisième type de phrase. Prenons un exemple simple : ペン (facile car ça signifie "stylo") – `ペンが赤い/あかい` = `le stylo est rouge`.
 
 Remarque que cette phrase n’a pas de だ. Pourquoi ? **Parce que l’adjectif en い あかい/赤い (rouge) – ne signifie pas "rouge", il signifie "est rouge". La fonction de だ, le signe égal, est intégrée dans les adjectifs en い.**
 

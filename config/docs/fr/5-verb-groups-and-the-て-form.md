@@ -8,7 +8,7 @@ Aujourd'hui, nous allons parler des groupes de verbes japonais. Les verbes japon
 
 ## Verbes Ichidan
 
-Le premier groupe est appelé les verbes ichidan ou <code>verbes à un niveau</code>. Certaines personnes les appellent <code>verbes en る</code>, ce qui est un nom un peu ridicule. Si on devait les appeler ainsi, on devrait plutôt dire <code>verbes en いる/える</code>. Ce sont les verbes les plus simples et les plus basiques.
+Le premier groupe est appelé les verbes ichidan ou `verbes à un niveau`. Certaines personnes les appellent `verbes en る`, ce qui est un nom un peu ridicule. Si on devait les appeler ainsi, on devrait plutôt dire `verbes en いる/える`. Ce sont les verbes les plus simples et les plus basiques.
 
 ![](../media/image537.webp)
 
@@ -22,7 +22,7 @@ Le deuxième groupe est de loin le plus grand et **tout type de terminaison qu�
 
 ![](../media/image300.webp)
 
-Les verbes se terminent toujours par un son う, mais toutes les kana う ne peuvent pas finir un verbe. Beaucoup peuvent, et toutes peuvent former des verbes godan. Ils s’appellent godan ou <code>verbes à cinq niveaux</code>, pour des raisons que nous verrons bientôt. Comme je le dis, **ils peuvent finir par n’importe quel son う, y compris -いる ou -える.** Contrairement aux ichidan, **ils peuvent aussi se terminer par -おる, -ある ou -うる.**
+Les verbes se terminent toujours par un son う, mais toutes les kana う ne peuvent pas finir un verbe. Beaucoup peuvent, et toutes peuvent former des verbes godan. Ils s’appellent godan ou `verbes à cinq niveaux`, pour des raisons que nous verrons bientôt. Comme je le dis, **ils peuvent finir par n’importe quel son う, y compris -いる ou -える.** Contrairement aux ichidan, **ils peuvent aussi se terminer par -おる, -ある ou -うる.**
 
 Le seul moment où il y a ambiguïté, c’est avec un verbe en -いる ou -える. La plupart sont des ichidan, mais il existe une minorité significative de godan se terminant par いる/える. Ce n’est pas si difficile à différencier, et j’ai fait [**une vidéo**](https://www.youtube.com/watch?v=VDmaSJ4s6Qo) à ce sujet, un peu plus avancée que cette leçon.
 
@@ -68,7 +68,7 @@ La forme て des verbes うつる se forme en utilisant un petit っ + て. **C�
 Donc c’est très facile à retenir.
 
 ::: tip
-Vous pouvez taper le petit っ en tapant t avant une kana T った (tta) ou avec X + tsu. Cela s’applique aussi aux kana あ, い, う, え, お : ぁ (X + a), ぃ (X + i)... Notez aussi づ (Du) et ぢ (Di) – formes irrégulières de ず et じ. Pour ん, tapez <code>nn</code>.
+Vous pouvez taper le petit っ en tapant t avant une kana T った (tta) ou avec X + tsu. Cela s’applique aussi aux kana あ, い, う, え, お : ぁ (X + a), ぃ (X + i)... Notez aussi づ (Du) et ぢ (Di) – formes irrégulières de ず et じ. Pour ん, tapez `nn`.
 :::
 
 ### Deuxième groupe Godan
@@ -107,7 +107,7 @@ Il reste les verbes en -す. **Ils retirent le -す et ajoutent -して.**
 Exemple : はなす - parler → はなして ; le verbe auxiliaire ます devient ました au passé.
 
 ::: info
-Quand Dolly parle de <code>formal</code> pour です ou ます, il faut dire POLITE. Ils font partie de 丁寧語 (langage poli). C’est plus exact de les appeler « poli ».
+Quand Dolly parle de `formal` pour です ou ます, il faut dire POLITE. Ils font partie de 丁寧語 (langage poli). C’est plus exact de les appeler « poli ».
 :::
 
 ### Exceptions

@@ -6,34 +6,34 @@
 
 Aujourd'hui, nous allons parler d'une expression que l'on voit tout le temps dans les animes, les mangas, les *light novels*, etc., et qui peut être déroutante pour deux raisons. La première est que l'étymologie apparente, la base apparente du mot est très évidente, mais elle est complètement trompeuse. Et l'autre est qu'en raison de la façon dont elle est utilisée, il est souvent un peu flou de savoir dans quelle direction elle pointe et ce qu'elle fait réellement. Cependant, une fois que nous clarifions cela, c'est très, très facile à comprendre.
 
-**L'expression est <code>くせに</code> (*kuseni*).**
+**L'expression est `くせに` (*kuseni*).**
 
 ![](../media/image261.webp)
 
-Maintenant, le problème étymologique est que, alors que nous savons tous ce que signifie <code>くせ / 癖</code> (*kuse*) **— cela signifie une <code>habitude ou idiosyncrasie</code> — ** **mais il n'est pas très clair quel est le lien avec l'expression <code>くせに</code>.** **Et la réponse est : aucun.**
+Maintenant, le problème étymologique est que, alors que nous savons tous ce que signifie `くせ / 癖` (*kuse*) **— cela signifie une `habitude ou idiosyncrasie` — ** **mais il n'est pas très clair quel est le lien avec l'expression `くせに`.** **Et la réponse est : aucun.**
 
-**Certaines sources étymologiques japonaises nous disent que** **ce <code>くせ</code> était en fait un <code>くせ</code> différent à l'origine,** **mais personne ne semble vraiment le savoir avec certitude.** **Mais le fait est que cela** **n'a que très peu de rapport avec l'usage moderne.**
+**Certaines sources étymologiques japonaises nous disent que** **ce `くせ` était en fait un `くせ` différent à l'origine,** **mais personne ne semble vraiment le savoir avec certitude.** **Mais le fait est que cela** **n'a que très peu de rapport avec l'usage moderne.**
 
 ---
 
-**Tout ce que nous devons vraiment savoir, c'est que <code>くせに</code>** **est une conjonction de contraste comme <code>のに</code> (*noni*).**
+**Tout ce que nous devons vraiment savoir, c'est que `くせに`** **est une conjonction de contraste comme `のに` (*noni*).**
 
 ![](../media/image759.webp)
 
-Maintenant, [**j'ai fait une vidéo**](https://www.youtube.com/watch?v=Au5JOtcwE7A) sur <code>のに</code> et je mettrai un lien ici, mais je vais supposer que vous savez globalement ce que c'est et ce que cela fait. **<code>のに</code> et <code>くせに</code> sont des conjonctions de contraste, ce qui signifie** **qu'elles sont comme <code>でも</code> (*demo*) ou <code>けれど</code> (*keredo*).** **Elles joignent deux propositions d'une manière qui signifie** **<code>malgré la Proposition A, Proposition B / même si la Proposition A, Proposition B</code>.**
+Maintenant, [**j'ai fait une vidéo**](https://www.youtube.com/watch?v=Au5JOtcwE7A) sur `のに` et je mettrai un lien ici, mais je vais supposer que vous savez globalement ce que c'est et ce que cela fait. **`のに` et `くせに` sont des conjonctions de contraste, ce qui signifie** **qu'elles sont comme `でも` (*demo*) ou `けれど` (*keredo*).** **Elles joignent deux propositions d'une manière qui signifie** **`malgré la Proposition A, Proposition B / même si la Proposition A, Proposition B`.**
 
 ---
 
-**Maintenant, <code>くせに</code> a deux choses en commun avec <code>のに</code>.** **L'une est qu'elle est généralement négative dans ses implications,** **et l'autre est que la deuxième proposition est assez souvent omise.** **Nous disons donc, <code>bien que la Proposition A...</code>** **et nous ne continuons pas pour dire quelle est la proposition B.** **Nous l'implicitions simplement.** **<code>のに</code> le fait assez souvent et <code>くせに</code> aussi.**
+**Maintenant, `くせに` a deux choses en commun avec `のに`.** **L'une est qu'elle est généralement négative dans ses implications,** **et l'autre est que la deuxième proposition est assez souvent omise.** **Nous disons donc, `bien que la Proposition A...`** **et nous ne continuons pas pour dire quelle est la proposition B.** **Nous l'implicitions simplement.** **`のに` le fait assez souvent et `くせに` aussi.**
 
 ## La différence entre のに (*noni*) et くせに (*kuseni*)
 
-**La différence entre <code>のに</code> et <code>くせに</code> est que
-<code>くせに</code> non seulement a une implication négative,** **mais elle a la plupart du temps un type d'implication négative très spécifique.**
+**La différence entre `のに` et `くせに` est que
+`くせに` non seulement a une implication négative,** **mais elle a la plupart du temps un type d'implication négative très spécifique.**
 
 ![](../media/image266.webp)
 
-**Et cet usage spécial consiste essentiellement** **à prendre la nature, le caractère ou la position d'une personne** **et à contraster ensuite ses actions avec cela d'une manière** **qui est extrêmement défavorable,** **nous pourrions donc utiliser <code>のに</code> dans ces situations,** **mais <code>のに</code> sonnerait plus plein de regrets.** **<code>くせに</code> sonne beaucoup plus incisif/violent.** **Cela ressemble souvent à une critique sévère.**
+**Et cet usage spécial consiste essentiellement** **à prendre la nature, le caractère ou la position d'une personne** **et à contraster ensuite ses actions avec cela d'une manière** **qui est extrêmement défavorable,** **nous pourrions donc utiliser `のに` dans ces situations,** **mais `のに` sonnerait plus plein de regrets.** **`くせに` sonne beaucoup plus incisif/violent.** **Cela ressemble souvent à une critique sévère.**
 
 ![](../media/image233.webp)
 
@@ -41,13 +41,13 @@ Maintenant, [**j'ai fait une vidéo**](https://www.youtube.com/watch?v=Au5JOtcwE
 
 ---
 
-Ainsi, par exemple, nous pourrions dire, <code>お金持ちの**くせに**ケチだ</code> (*okanemochi no **kuseni** kechi da*) (**malgré le fait que** tu sois aisé / riche, tu es avare).
+Ainsi, par exemple, nous pourrions dire, `お金持ちの**くせに**ケチだ` (*okanemochi no **kuseni** kechi da*) (**malgré le fait que** tu sois aisé / riche, tu es avare).
 
 ![](../media/image462.webp)
 
-<code>女の**くせに**部屋が目茶苦茶だ</code> (*onna no **kuseni** heya ga mechakucha da*) (**malgré le fait que** tu sois une fille, ta chambre est en désordre).
+`女の**くせに**部屋が目茶苦茶だ` (*onna no **kuseni** heya ga mechakucha da*) (**malgré le fait que** tu sois une fille, ta chambre est en désordre).
 
-<code>男の**くせに**泣いている</code> (*otoko no **kuseni** naite iru*) (**malgré le fait que** tu sois un homme, tu pleures).
+`男の**くせに**泣いている` (*otoko no **kuseni** naite iru*) (**malgré le fait que** tu sois un homme, tu pleures).
 
 **Et ceux-ci sont généralement destinés à être offensants.** **Ils sont destinés à exprimer une critique sévère.** **Nous prenons donc la position de la personne** **et ce que nous attendons de ce type de personne** **et disons ensuite quelque chose qui est en contraste avec cela.**
 
@@ -55,31 +55,31 @@ Ainsi, par exemple, nous pourrions dire, <code>お金持ちの**くせに**ケ�
 
 **Mais très souvent, nous omettons également cela.**
 
-Ainsi, par exemple, supposons que de mauvaises personnes ou des monstres pénètrent dans la maison et que l'héroïne les affronte et que le héros se blottit dans un coin. L'héroïne pourrait simplement dire, <code>男の**くせに**</code> (*otoko no **kuseni***), ce qui signifie littéralement <code>**Malgré le fait que** tu sois un homme</code> **mais ne dit ensuite rien à ce sujet.**
+Ainsi, par exemple, supposons que de mauvaises personnes ou des monstres pénètrent dans la maison et que l'héroïne les affronte et que le héros se blottit dans un coin. L'héroïne pourrait simplement dire, `男の**くせに**` (*otoko no **kuseni***), ce qui signifie littéralement `**Malgré le fait que** tu sois un homme` **mais ne dit ensuite rien à ce sujet.**
 
 ![](../media/image250.webp)
 
-En français, une traduction non structurelle mais naturelle serait probablement <code>Et tu es censé être un homme</code>.
+En français, une traduction non structurelle mais naturelle serait probablement `Et tu es censé être un homme`.
 
 ---
 
-**Et cela peut prêter à confusion car** **cela peut conduire à des constructions qui nous embrouillent sur ce qui se passe réellement** **et dans quelle direction <code>くせに</code> pointe.**
+**Et cela peut prêter à confusion car** **cela peut conduire à des constructions qui nous embrouillent sur ce qui se passe réellement** **et dans quelle direction `くせに` pointe.**
 
 ---
 
-Ainsi, par exemple, <code>男の**くせに**泣かないでよ</code> (*otoko no **kuseni** nakanaide yo*). Maintenant, que se passe-t-il ici ? <code>**Malgré le fait que** tu sois un homme, arrête de pleurer</code> ?
+Ainsi, par exemple, `男の**くせに**泣かないでよ` (*otoko no **kuseni** nakanaide yo*). Maintenant, que se passe-t-il ici ? `**Malgré le fait que** tu sois un homme, arrête de pleurer` ?
 
 ![](../media/image205.webp)
 
-**Est-ce ce que ça dit ? Eh bien, non, ce n'est pas le cas.** <code>男の**くせに**</code> **est utilisé de manière traînante comme l'exemple précédent.** **Et puis <code>泣かないでよ</code> (*nakanaide yo*) est ajouté à cette insulte suspendue,** **pour ainsi dire, et c'est un ordre.**
+**Est-ce ce que ça dit ? Eh bien, non, ce n'est pas le cas.** `男の**くせに**` **est utilisé de manière traînante comme l'exemple précédent.** **Et puis `泣かないでよ` (*nakanaide yo*) est ajouté à cette insulte suspendue,** **pour ainsi dire, et c'est un ordre.**
 
-J'ai fait une vidéo sur les ordres.<sup>[[83]](./83-three-levels-of-command-in-japanese-て-form-commands-naさい-な-commands-imperative-form.md)</sup>
+J'ai fait une vidéo sur les ordres.<sup>[[83]](./83-three-levels-of-command-in-japanese-て-form-commands-なさい-な-commands-imperative-form.md)</sup>
 
-**Ainsi, <code>泣かないでよ</code> n'est pas une phrase, c'est juste un ordre : <code>Arrête de pleurer !</code>** Tout comme en français <code>Arrête de pleurer</code> n'est pas une phrase avec un sujet et un prédicat. C'est juste un ordre.
+**Ainsi, `泣かないでよ` n'est pas une phrase, c'est juste un ordre : `Arrête de pleurer !`** Tout comme en français `Arrête de pleurer` n'est pas une phrase avec un sujet et un prédicat. C'est juste un ordre.
 
-**Donc, vraiment, ces deux déclarations** **devraient être séparées par un point (ou en japonais un <code>まる / 。</code>)** **car elles ne font pas partie de la même phrase,** mais elles ne le seront pas nécessairement lorsque vous les verrez écrites et elles n'auront pas nécessairement un grand écart lorsque vous les entendrez parler.
+**Donc, vraiment, ces deux déclarations** **devraient être séparées par un point (ou en japonais un `まる / 。`)** **car elles ne font pas partie de la même phrase,** mais elles ne le seront pas nécessairement lorsque vous les verrez écrites et elles n'auront pas nécessairement un grand écart lorsque vous les entendrez parler.
 
-<code>男のくせに泣かないでよ</code> : **ce sont deux déclarations distinctes** et si nous ne comprenons pas cela, cela peut nous embrouiller sur l'utilisation de <code>くせに</code>.
+`男のくせに泣かないでよ` : **ce sont deux déclarations distinctes** et si nous ne comprenons pas cela, cela peut nous embrouiller sur l'utilisation de `くせに`.
 
 ---
 
@@ -91,7 +91,7 @@ Généralement, **nous prenons les qualités d'une personne,** **qui sont fondam
 
 **Mais cela peut aussi aller dans l'autre sens.**
 
-Par exemple, nous pourrions dire <code>下手な**くせに**熱心だ</code> (*heta na **kuseni** nesshin da*). Cela signifie <code>**malgré le fait que** tu sois incompétent / inutile, tu es enthousiaste</code>.
+Par exemple, nous pourrions dire `下手な**くせに**熱心だ` (*heta na **kuseni** nesshin da*). Cela signifie `**malgré le fait que** tu sois incompétent / inutile, tu es enthousiaste`.
 
 ![](../media/image637.webp)
 
@@ -104,11 +104,11 @@ Par exemple, nous pourrions dire <code>下手な**くせに**熱心だ</code> (*
 
 ---
 
-Maintenant, si c'était un manuel ou une instruction JLPT, nous parlerions de ce qu'ils appellent le <code>接続</code> (*setsuzoku*) (les conjonctions) :
+Maintenant, si c'était un manuel ou une instruction JLPT, nous parlerions de ce qu'ils appellent le `接続` (*setsuzoku*) (les conjonctions) :
 ::: info
 接続 (*setsuzoku*) est une abréviation qui peut être utilisée pour le terme conjonction, la version complète est 接続語 (*setsuzokugo*)
 :::
-comment <code>くせに</code> s'attache-t-il à ce qui le précède ?
+comment `くせに` s'attache-t-il à ce qui le précède ?
 
 ![](../media/image833.webp)
 
@@ -118,11 +118,11 @@ Mais ce dont les textes standard parleront est la façon dont il se connecte à 
 
 ---
 
-**<code>くせ</code>, quoi que ce soit, quelle que soit son étymologie, est un nom.** **Nous le savons à peu près, parce que** **tout ce qui n'est pas un verbe ou un adjectif est un nom en japonais.**
+**`くせ`, quoi que ce soit, quelle que soit son étymologie, est un nom.** **Nous le savons à peu près, parce que** **tout ce qui n'est pas un verbe ou un adjectif est un nom en japonais.**
 
 ![](../media/image838.webp)
 
-**Ce qui précède <code>くせ</code> modifie <code>くせ</code>,** **cela nous dit de quel genre de <code>くせ</code> nous parlons.**
+**Ce qui précède `くせ` modifie `くせ`,** **cela nous dit de quel genre de `くせ` nous parlons.**
 
 ---
 
@@ -130,15 +130,15 @@ Mais ce dont les textes standard parleront est la façon dont il se connecte à 
 
 ![](../media/image570.webp)
 
-**Ainsi, si c'est un nom, ce qui est le plus souvent le cas,** **alors nous utilisons の pour modifier l'autre nom** qui le suit, comme nous le faisons toujours : <code>男**の**くせ / 女**の**くせに</code>. **S'il s'agit d'un nom adjectival,** **alors évidemment nous utilisons -な** comme nous l'avons fait avec <code>下手**な**くせに</code>. **Et si c'est un adjectif, évidemment nous n'avons besoin de rien d'autre** — **les adjectifs modifient directement les noms.** C'est ce que fait un adjectif.
+**Ainsi, si c'est un nom, ce qui est le plus souvent le cas,** **alors nous utilisons の pour modifier l'autre nom** qui le suit, comme nous le faisons toujours : `男**の**くせ / 女**の**くせに`. **S'il s'agit d'un nom adjectival,** **alors évidemment nous utilisons -な** comme nous l'avons fait avec `下手**な**くせに`. **Et si c'est un adjectif, évidemment nous n'avons besoin de rien d'autre** — **les adjectifs modifient directement les noms.** C'est ce que fait un adjectif.
 
 ---
 
-Nous pourrions donc dire <code>**若い**くせにお年寄りに席を譲らない</code> (*wakai **kuseni** otoshiyori ni seki o yuzuranai*) (même si elle **est jeune**, elle ne cède pas sa place aux personnes âgées). **Si c'était un verbe, évidemment nous utiliserions simplement le verbe pour modifier le nom comme nous le faisons toujours.**
+Nous pourrions donc dire `**若い**くせにお年寄りに席を譲らない` (*wakai **kuseni** otoshiyori ni seki o yuzuranai*) (même si elle **est jeune**, elle ne cède pas sa place aux personnes âgées). **Si c'était un verbe, évidemment nous utiliserions simplement le verbe pour modifier le nom comme nous le faisons toujours.**
 
 ![](../media/image34.webp)
 
-Donc je pense que maintenant vous n'aurez plus de problèmes avec <code>くせに</code>.
+Donc je pense que maintenant vous n'aurez plus de problèmes avec `くせに`.
 
 ---
 
@@ -146,7 +146,7 @@ Si vous avez des problèmes ou des questions, à ce sujet ou sur toute autre cho
 
 J'aimerais remercier mes mécènes Gold Kokeshi, mes producteurs-anges, qui rendent ces vidéos possibles, ainsi que tous mes mécènes et supporters. L'une des choses que fait notre révolution en japonais est non seulement de nous montrer des techniques à appliquer, mais de nous montrer que nous devons les appliquer avec souplesse.
 
-Certaines techniques s'appliquent parfois et pas d'autres fois. L'histoire et l'étymologie des mots peuvent être très utiles à l'occasion, et j'ai fait des vidéos à ce sujet. Et chaque fois que je fais une vidéo à ce sujet, même si je souligne que l'histoire et l'étymologie ne sont pas toujours très utiles, les gens commencent à me demander : <code>Connais-tu l'histoire de ceci, connais-tu l'histoire de cela ?</code>
+Certaines techniques s'appliquent parfois et pas d'autres fois. L'histoire et l'étymologie des mots peuvent être très utiles à l'occasion, et j'ai fait des vidéos à ce sujet. Et chaque fois que je fais une vidéo à ce sujet, même si je souligne que l'histoire et l'étymologie ne sont pas toujours très utiles, les gens commencent à me demander : `Connais-tu l'histoire de ceci, connais-tu l'histoire de cela ?`
 
 Et bien, bien sûr, je peux juste la chercher dans la plupart des cas. On ne la trouve pas toujours en anglais, mais on peut généralement la trouver en japonais.
 

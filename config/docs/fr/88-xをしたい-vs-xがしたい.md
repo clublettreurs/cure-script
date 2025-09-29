@@ -8,7 +8,7 @@ Aujourd'hui, nous allons parler de la structure fondamentale du japonais et d'un
 
 ![](../media/image772.webp)
 
-Cela a été un manga, un anime, un film en prise de vues réelles : <code>**君の膵臓を**食べたい</code> (*kimi no suizou **o** tabetai*), ce qui signifie littéralement <code>Je veux manger **ton pancréas**</code>, et nous allons parler de la raison pour laquelle cela signifie littéralement cela dans une minute. Je ne savais pas vraiment ce qu'était un pancréas. Je pensais que c'était une gare à Londres. Mais apparemment, c'est un composant que l'on trouve à l'intérieur du corps humain et les choses ne vont pas très bien sans lui. Je ne suis pas très claire sur ce que l'on trouve quand on enlève les panneaux avant et arrière d'un corps humain, alors on apprend quelque chose de nouveau tous les jours ! C'est pourquoi ceci est classé comme une chaîne éducative, je suppose.
+Cela a été un manga, un anime, un film en prise de vues réelles : `**君の膵臓を**食べたい` (*kimi no suizou **o** tabetai*), ce qui signifie littéralement `Je veux manger **ton pancréas**`, et nous allons parler de la raison pour laquelle cela signifie littéralement cela dans une minute. Je ne savais pas vraiment ce qu'était un pancréas. Je pensais que c'était une gare à Londres. Mais apparemment, c'est un composant que l'on trouve à l'intérieur du corps humain et les choses ne vont pas très bien sans lui. Je ne suis pas très claire sur ce que l'on trouve quand on enlève les panneaux avant et arrière d'un corps humain, alors on apprend quelque chose de nouveau tous les jours ! C'est pourquoi ceci est classé comme une chaîne éducative, je suppose.
 
 Donc, la question qui sera soulevée par ce titre dans l'esprit de quiconque a une certaine compréhension de la structure réelle du japonais est :
 
@@ -19,26 +19,26 @@ Donc, la question qui sera soulevée par ce titre dans l'esprit de quiconque a u
 ![](../media/image1149.webp)
 
 Si nous voulons dire ce qui en français serait
-<code>Je veux manger ce **pain**</code> ou <code>Je veux manger ce **gâteau**</code>, nous dirions
-<code>パン**が**食べたい</code> (*pan **ga** tabetai*), <code>ケーキ**が**食べたい</code> (*keeki **ga** tabetai*).
+`Je veux manger ce **pain**` ou `Je veux manger ce **gâteau**`, nous dirions
+`パン**が**食べたい` (*pan **ga** tabetai*), `ケーキ**が**食べたい` (*keeki **ga** tabetai*).
 
-Et, comme nous le voyons, **l'adjectif <code>たい</code> (*tai*)**,
-**l'adjectif de désir <code>たい</code>, pointe non pas vers moi mais vers le gâteau.**
+Et, comme nous le voyons, **l'adjectif `たい` (*tai*)**,
+**l'adjectif de désir `たい`, pointe non pas vers moi mais vers le gâteau.**
 
 **Le gâteau porte la particule が, c'est donc ce que l'adjectif décrit.**
 
 ---
 
 Et la confusion s'ensuit<sup>[[9]](./9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる.md)</sup> lorsque nous traduisons cela littéralement par **
-<code>Je veux manger du gâteau</code>, car ce n'est pas ce que cela signifie.**
+`Je veux manger du gâteau`, car ce n'est pas ce que cela signifie.**
 
-**Cela signifie** <code>le gâteau est inducteur de désir (pour moi)</code>. *(私は) ケーキが食べたい。*
+**Cela signifie** `le gâteau est inducteur de désir (pour moi)`. *(私は) ケーキが食べたい。*
 
 ---
 
 **Mais nous savons aussi que cet adjectif de subjectivité, comme d'autres adjectifs de subjectivité,**
 
-**comme <code>怖い</code> (*kowai* - effrayant), et aussi les potentiels comme できる (*dekiru* - pouvoir faire) ou 食べられる (*taberareru* - pouvoir manger) --**
+**comme `怖い` (*kowai* - effrayant), et aussi les potentiels comme できる (*dekiru* - pouvoir faire) ou 食べられる (*taberareru* - pouvoir manger) --**
 
 **parce que le potentiel est aussi une sorte de subjectivité.**
 
@@ -48,7 +48,7 @@ Et la confusion s'ensuit<sup>[[9]](./9-the-subject-of-the-japanese-sentence-expr
 
 **Ce n'est pas inhérent à la chose elle-même.**
 
-**Ce serait <code>可能性</code> (*kanousei* - possibilité).**
+**Ce serait `可能性` (*kanousei* - possibilité).**
 
 ---
 
@@ -64,13 +64,13 @@ Et la confusion s'ensuit<sup>[[9]](./9-the-subject-of-the-japanese-sentence-expr
 
 ## L'inversion de polarité
 
-Donc, si nous disons, <code>お腹が空いた、 *(zeroが)* 早く食べたい</code> (*onaka ga suita, hayaku tabetai*), *- il semble y avoir 2 propositions, je suppose ?*
+Donc, si nous disons, `お腹が空いた、 *(zeroが)* 早く食べたい` (*onaka ga suita, hayaku tabetai*), *- il semble y avoir 2 propositions, je suppose ?*
 
-nous disons <code>Le ventre est vide, je veux manger bientôt</code>.
+nous disons `Le ventre est vide, je veux manger bientôt`.
 
 ![](../media/image585.webp)
 
-**Maintenant, ce <code>たい</code> pointe vers moi, et non vers une chose particulière, comme un gâteau ou autre chose.**
+**Maintenant, ce `たい` pointe vers moi, et non vers une chose particulière, comme un gâteau ou autre chose.**
 
 Maintenant, c'est le point auquel quelques personnes ont en fait résisté et ont dit :
 « Eh bien, ne peut-on pas dire que cela ne dit pas vraiment 'Je veux manger',
@@ -88,17 +88,17 @@ Maintenant, pourquoi les gens résistent-ils à cette idée ?
 
 **En fait, ce n'est pas inconnu même en français.**
 
-Nous pouvons dire <code>*Nous* étions **heureux** ce jour-là</code>, auquel cas **l'adjectif <code>heureux</code> pointe vers nous**
+Nous pouvons dire `*Nous* étions **heureux** ce jour-là`, auquel cas **l'adjectif `heureux` pointe vers nous**
 (c'est nous qui étions heureux) ou nous pouvons dire
 
-<code>C'était un jour **heureux**</code>, et maintenant **l'adjectif de subjectivité pointe vers le jour, qui est la cause de notre bonheur.**
+`C'était un jour **heureux**`, et maintenant **l'adjectif de subjectivité pointe vers le jour, qui est la cause de notre bonheur.**
 
 ![](../media/image1096.webp)
 
-Nous pouvons dire <code>*Je* suis **méfiant** face à son comportement</code> et **l'adjectif <code>méfiant</code> pointe vers moi**
+Nous pouvons dire `*Je* suis **méfiant** face à son comportement` et **l'adjectif `méfiant` pointe vers moi**
 (c'est moi qui suis méfiant)
 
-ou <code>*son comportement* est **suspect**</code>, et maintenant **l'adjectif <code>suspect</code> pointe vers son comportement comme la cause de ma subjectivité.**
+ou `*son comportement* est **suspect**`, et maintenant **l'adjectif `suspect` pointe vers son comportement comme la cause de ma subjectivité.**
 
 Donc ce n'est pas quelque chose qui n'arrive pas, même en français.
 
@@ -111,11 +111,11 @@ où les particules changent simplement de signification selon le côté du lit d
 ![](../media/image1125.webp)
 
 ::: info
-(Dolly ici 👇 donne un exemple de la confusion <code>essayer de forcer le français dans le japonais</code>)
+(Dolly ici 👇 donne un exemple de la confusion `essayer de forcer le français dans le japonais`)
 :::
 
-Donc, « <code>が</code> marque généralement le sujet d'une phrase mais il peut aussi marquer l'objet d'une phrase
-comme dans **<code>パンが食べたい</code>**, dans lequel évidemment le pain n'est pas le sujet de la phrase ;
+Donc, « `が` marque généralement le sujet d'une phrase mais il peut aussi marquer l'objet d'une phrase
+comme dans **`パンが食べたい`**, dans lequel évidemment le pain n'est pas le sujet de la phrase ;
 c'est moi, 'Je veux manger du pain'. »
 
 **Eh bien, nous savons que ce n'est pas le cas.**
@@ -134,20 +134,20 @@ alors, ouh il y a des règles spéciales selon lesquelles parfois cela pointe da
 
 ![](../media/image840.webp)
 
-**Que nous choisissions** de dire <code>パン**が**食べたい</code> (le pain me donne envie de manger) ou
+**Que nous choisissions** de dire `パン**が**食べたい` (le pain me donne envie de manger) ou
 
-<code>パン**を**食べたい</code> (je veux manger du pain) **n'a pas d'importance.**
+`パン**を**食べたい` (je veux manger du pain) **n'a pas d'importance.**
 
 **La seule chose qui importe pour le modèle est que les particules fassent toujours la même chose.**
 
-Si nous disons <code>**パンが**食べたい</code>, nous disons <code>**Le pain** ***(=Sujet)*** me donne envie de manger</code>.
+Si nous disons `**パンが**食べたい`, nous disons `**Le pain** ***(=Sujet)*** me donne envie de manger`.
 
 *vs*
 
-Si nous disons <code> *(zeroが)* **パンを**食べたい</code>, nous disons que <code>(Je) veux manger **du pain**</code> *(=Objet Direct).*
+Si nous disons ` *(zeroが)* **パンを**食べたい`, nous disons que `(Je) veux manger **du pain**` *(=Objet Direct).*
 
 ::: info
-Ici, zeroが (*zero ga*) est le Sujet <code>Je</code> implicite/caché, tandis que パンを (*pan o*) est l'Objet Direct = pain.
+Ici, zeroが (*zero ga*) est le Sujet `Je` implicite/caché, tandis que パンを (*pan o*) est l'Objet Direct = pain.
 :::
 ![](../media/image980.webp)
 
@@ -163,11 +163,11 @@ Maintenant, pouvons-nous justifier cela grammaticalement ?
 
 ![](../media/image724.webp)
 
-Donc, si nous disons, par exemple, <code>パン**を**食べたい</code>, sûrement le problème ici est que
-**avec <code>たい</code>, nous avons un adjectif, donc nous avons une phrase adjectivale,
+Donc, si nous disons, par exemple, `パン**を**食べたい`, sûrement le problème ici est que
+**avec `たい`, nous avons un adjectif, donc nous avons une phrase adjectivale,
 et un adjectif, comme nous le savons, ne peut pas prendre d'objet direct.**
 
-Alors, comment pouvons-nous dire <code>パンを食べたい</code> ?
+Alors, comment pouvons-nous dire `パンを食べたい` ?
 
 Et la réponse à cela est vraiment très simple.
 
@@ -175,50 +175,50 @@ Et la réponse à cela est vraiment très simple.
 
 ![](../media/image980.webp)
 
-**Et ce qui se passe dans une phrase comme <code>パンを食べたい</code>, c'est que
-**<code>たい</code> n'est plus attaché simplement au verbe <code>食べる</code> (*taberu*).****
+**Et ce qui se passe dans une phrase comme `パンを食べたい`, c'est que
+**`たい` n'est plus attaché simplement au verbe `食べる` (*taberu*).****
 
 ---
 
-**Nous ne disons pas <code>パンを</code> et ensuite <code>食べたい</code>,**
+**Nous ne disons pas `パンを` et ensuite `食べたい`,**
 
-**nous disons <code>パンを食べ...</code> et <code>たい</code> est attaché à cette unité entière.**
+**nous disons `パンを食べ...` et `たい` est attaché à cette unité entière.**
 
-**Ce que nous voulons, c'est l'action <code>パンを食べる</code>, nous pouvons donc attacher le <code>たい</code> à cette unité entière.**
+**Ce que nous voulons, c'est l'action `パンを食べる`, nous pouvons donc attacher le `たい` à cette unité entière.**
 
 **C'est ce qui donne un sens à ces constructions.**
 
 ---
 
-Et bien que <code>パン**を**食べたい</code> **soit une façon moins courante de le dire**, et en général
+Et bien que `パン**を**食べたい` **soit une façon moins courante de le dire**, et en général
 
-<code>何々**を**食べたい</code> (*naninani **o** tabetai*) est la façon moins courante de le dire,
+`何々**を**食べたい` (*naninani **o** tabetai*) est la façon moins courante de le dire,
 **il existe certains types de phrases dans lesquelles c'est celle que nous utilisons toujours.**
 
 ![](../media/image934.webp)
 
-Par exemple, <code>助けたい</code> (*tasuketai* - vouloir aider) ou <code>守りたい</code> (*mamoritai* - vouloir défendre).
+Par exemple, `助けたい` (*tasuketai* - vouloir aider) ou `守りたい` (*mamoritai* - vouloir défendre).
 
-**Nous ne disons pas** <code>さくら**が**守りたい</code> (*Sakura **ga** mamoritai*),
+**Nous ne disons pas** `さくら**が**守りたい` (*Sakura **ga** mamoritai*),
 
-**nous disons** <code>さくら**を**守りたい</code> (*Sakura **o** mamoritai*).
+**nous disons** `さくら**を**守りたい` (*Sakura **o** mamoritai*).
 
-**Et si nous parlons de <code>正義</code> (*seigi* - justice) ou de <code>平和</code> (*heiwa* - paix) ou même de <code>国</code> (*kuni* - pays), c'est la même chose.**
+**Et si nous parlons de `正義` (*seigi* - justice) ou de `平和` (*heiwa* - paix) ou même de `国` (*kuni* - pays), c'est la même chose.**
 
 ![](../media/image927.webp)
 
 **Nous ne disons pas que Sakura me donne envie de la défendre, nous ne disons pas que le pays me donne
 envie de le défendre, nous ne disons pas que la justice me donne envie de la défendre, ou que la paix me donne envie de la défendre.**
 
-Nous disons toujours <code>Je veux défendre **Sakura**</code>, <code>Je veux défendre **la justice**</code>,
-<code>Je veux défendre **la paix**</code>, <code>Je veux défendre **le pays**</code>.
+Nous disons toujours `Je veux défendre **Sakura**`, `Je veux défendre **la justice**`,
+`Je veux défendre **la paix**`, `Je veux défendre **le pays**`.
 *(tous comme Objets Directs au lieu de Sujets comme indiqué ci-dessus puisqu'ils sont utilisés avec la particule を)*
 
 Pourquoi cela ?
 
 Eh bien, essentiellement **je pense que la raison est que nous ne parlons pas d'un désir impulsif.**
 
-**Si nous regardons du pain et que nous voulons le manger**, <code>Ah, パン**が**食べたい</code>
+**Si nous regardons du pain et que nous voulons le manger**, `Ah, パン**が**食べたい`
 
 (**le pain me donne envie de le manger**).
 
@@ -228,7 +228,7 @@ Eh bien, essentiellement **je pense que la raison est que nous ne parlons pas d'
 
 **Et dans le cas des personnes, il est plus respectueux de dire**
 
-<code>さくら**を**守りたい</code> que <code>さくら**が**守りたい</code>,
+`さくら**を**守りたい` que `さくら**が**守りたい`,
 
 **parce que nous ne disons pas que Sakura est un objet** *(implicitement, grammaticalement elle l'est :D)*
 
@@ -250,7 +250,7 @@ Eh bien, essentiellement **je pense que la raison est que nous ne parlons pas d'
 
 ---
 
-Si nous disons <code>パン**を**食べたい</code>,
+Si nous disons `パン**を**食べたい`,
 
 **cela est susceptible d'être dans des conditions où nous parlons un peu plus généralement,**
 
@@ -264,11 +264,11 @@ Si nous disons <code>パン**を**食べたい</code>,
 
 ---
 
-Donc **nous sommes plus susceptibles de dire** <code>**パンを**食べたい時</code> (*pan **o** tabetai toki* - quand je veux manger **du pain***=Objet Direct*)
+Donc **nous sommes plus susceptibles de dire** `**パンを**食べたい時` (*pan **o** tabetai toki* - quand je veux manger **du pain***=Objet Direct*)
 ::: info
-Dans la phrase ci-dessus, <code>Je</code> devrait être le Sujet, qui est caché en japonais sous zeroが.
+Dans la phrase ci-dessus, `Je` devrait être le Sujet, qui est caché en japonais sous zeroが.
 :::
-**que** <code>**パンが**食べたい時</code> (*pan **ga** tabetai toki* - quand **le pain***=Sujet* me donne envie de le manger).
+**que** `**パンが**食べたい時` (*pan **ga** tabetai toki* - quand **le pain***=Sujet* me donne envie de le manger).
 
 ![](../media/image239.webp)
 
@@ -276,11 +276,11 @@ Dans la phrase ci-dessus, <code>Je</code> devrait être le Sujet, qui est caché
 
 **le genre de raison, la nuance, qui décide de la manière dont**
 
-**nous sommes susceptibles d'inverser cet adjectif de désir, dans ce cas, <code>たい</code>.**
+**nous sommes susceptibles d'inverser cet adjectif de désir, dans ce cas, `たい`.**
 
 ## Alors, pourquoi を (*o*) est-il utilisé dans 君の膵臓を食べたい (*Kimi no Suizou o Tabetai*) ?
 
-Donc, si nous revenons à <code>君の膵臓**を**食べたい</code>, **pourquoi を est-il utilisé ici ?**
+Donc, si nous revenons à `君の膵臓**を**食べたい`, **pourquoi を est-il utilisé ici ?**
 
 ![](../media/image1124.webp)
 

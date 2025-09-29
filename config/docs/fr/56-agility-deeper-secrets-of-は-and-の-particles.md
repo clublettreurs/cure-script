@@ -1,6 +1,6 @@
-# **56. <code>Agilité</code> : Secrets plus profonds des particules は et の**
+# **56. `Agilité` : Secrets plus profonds des particules は et の**
 
-[**<code>Agilité</code> : Le Facteur Linguistique Vital Que Personne Ne Mentionne. Secrets plus profonds des particules は et の | Leçon 56**](https://www.youtube.com/watch?v=FdMeXqweBJ0&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=58&pp=iAQB)
+[**`Agilité` : Le Facteur Linguistique Vital Que Personne Ne Mentionne. Secrets plus profonds des particules は et の | Leçon 56**](https://www.youtube.com/watch?v=FdMeXqweBJ0&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=58&pp=iAQB)
 
 こんにちは.
 
@@ -24,7 +24,7 @@ Ce qui suit un thème marqué par **は** doit être une proposition logique. Pe
 
 Ce que nous avons ici est en fait une phrase logique composée de deux propositions logiques et chacune d'elles contient ce que nous pourrions appeler un sous-thème. C'est-à-dire que chaque proposition logique en elle-même a également un énoncé de thème qui la précède.
 
-Donc, si nous l'écrivons en entier, ce serait **アフリカはライオンは**<code>zeroが</code>**いるがトラは**<code>zeroが</code>**いない** (*Afurika wa raion wa zero ga iru ga tora wa zero ga inai*). Les deux propositions logiques sont donc **zeroがいる** et **zeroがいない**, mais toutes deux énoncent leurs propres sous-thèmes.
+Donc, si nous l'écrivons en entier, ce serait **アフリカはライオンは**`zeroが`**いるがトラは**`zeroが`**いない** (*Afurika wa raion wa zero ga iru ga tora wa zero ga inai*). Les deux propositions logiques sont donc **zeroがいる** et **zeroがいない**, mais toutes deux énoncent leurs propres sous-thèmes.
 
 ![](../media/image297.webp)
 

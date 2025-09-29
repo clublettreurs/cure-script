@@ -20,7 +20,7 @@ Aujourd'hui, je veux donc examiner ce qui se passe réellement ici, ce qui est s
 
 ![](../media/image646.webp)
 
-**Et cela, bien sûr, n'affecte pas seulement le japonais.** **Les puristes français se plaignent de mots comme <code>le weekend</code> et <code>le football</code> depuis plus d'un demi-siècle, et je ne pense pas que cela ait vraiment fait beaucoup de mal au français.**
+**Et cela, bien sûr, n'affecte pas seulement le japonais.** **Les puristes français se plaignent de mots comme `le weekend` et `le football` depuis plus d'un demi-siècle, et je ne pense pas que cela ait vraiment fait beaucoup de mal au français.**
 
 ---
 
@@ -52,7 +52,7 @@ Et parce que la plupart de ces technologies ont été développées en Amérique
 
 L'anglais est là parce que, eh bien, les gens l'ont appris à l'école, ils connaissent un peu l'anglais, et **c'est la langue internationale, donc les choses ont souvent tendance à être nommées en anglais.**
 
-## Pourquoi certaines personnes s'inquiètent-elles que l'anglais <code>envahisse</code> le japonais ?
+## Pourquoi certaines personnes s'inquiètent-elles que l'anglais `envahisse` le japonais ?
 
 Alors, pourquoi les gens s'inquiètent-ils davantage de cela en japonais que dans d'autres langues ?
 
@@ -66,19 +66,19 @@ Alors, pourquoi les gens s'inquiètent-ils davantage de cela en japonais que dan
 
 ---
 
-**Il y a quelques exceptions à cela, comme par exemple le mot <code>ライオン</code> (*raion*), qui a tendance à être le mot principal pour un lion en japonais maintenant.**
+**Il y a quelques exceptions à cela, comme par exemple le mot `ライオン` (*raion*), qui a tendance à être le mot principal pour un lion en japonais maintenant.**
 
 ![](../media/image562.webp)
 
-**Le japonais a son propre mot pour lion, qui est <code>獅子 / しし</code> (*shishi*), mais de nos jours, il a tendance à sonner un peu littéraire, un peu démodé,** et si nous allons parler d'un lion, nous avons tendance à dire <code>ライオン</code>. **C'est un peu une exception.**
+**Le japonais a son propre mot pour lion, qui est `獅子 / しし` (*shishi*), mais de nos jours, il a tendance à sonner un peu littéraire, un peu démodé,** et si nous allons parler d'un lion, nous avons tendance à dire `ライオン`. **C'est un peu une exception.**
 
-**Si nous parlons d'un éléphant, nous disons <code>象 / ぞう</code> (*zou*).** **Si nous parlons d'un tigre, nous disons <code>虎 / とら</code> (*tora*).** **La plupart des animaux sauvages sont connus par leurs noms japonais même si le nom anglais est également connu au Japon.**
+**Si nous parlons d'un éléphant, nous disons `象 / ぞう` (*zou*).** **Si nous parlons d'un tigre, nous disons `虎 / とら` (*tora*).** **La plupart des animaux sauvages sont connus par leurs noms japonais même si le nom anglais est également connu au Japon.**
 
 **Il y a une équipe de baseball appelée les 阪神タイガース,**
 
 ![](../media/image895.webp)
 
-**mais c'est un cas typique d'utilisation du mot étranger parce que ça sonne un peu cool.** **Normalement, si vous parlez simplement d'un tigre, vous dites <code>虎 / とら</code>.**
+**mais c'est un cas typique d'utilisation du mot étranger parce que ça sonne un peu cool.** **Normalement, si vous parlez simplement d'un tigre, vous dites `虎 / とら`.**
 
 ## Dans quelle mesure l'anglais s'introduit-il réellement dans le japonais ?
 
@@ -100,11 +100,11 @@ Maintenant, si vous voulez faire une petite expérience pour voir dans quelle me
 
 Presque toujours.
 
-**Il y a une ou deux petites exceptions comme le mot <code>サボる</code> (*saboru*), qui signifie <code>ne pas aller à l'école ou au travail</code>, et c'est en fait un mot étranger basé sur le français <code>sabotage</code>** *- サボ (*sabo*), abréviation de サボタージュ (*sabotaaju*) -*, **et il a un hiragana -る (*-ru*) et est en fait traité comme un verbe.** Mais c'est vraiment très largement une exception. Vous ne pouvez trouver qu'une petite poignée de mots qui font cela en japonais.
+**Il y a une ou deux petites exceptions comme le mot `サボる` (*saboru*), qui signifie `ne pas aller à l'école ou au travail`, et c'est en fait un mot étranger basé sur le français `sabotage`** *- サボ (*sabo*), abréviation de サボタージュ (*sabotaaju*) -*, **et il a un hiragana -る (*-ru*) et est en fait traité comme un verbe.** Mais c'est vraiment très largement une exception. Vous ne pouvez trouver qu'une petite poignée de mots qui font cela en japonais.
 
 ---
 
-**Presque tous les mots anglais qui arrivent, tout comme les mots chinois qui sont arrivés dans le passé, arrivent en tant que noms, quel que soit ce qu'ils étaient dans la langue d'origine.** **Donc, si vous voulez les utiliser comme verbes, vous devez ajouter <code>する</code> (*suru*).** **Si vous voulez les utiliser comme adjectifs, ils doivent être des noms adjectivaux ou vous devez simplement utiliser の (*no*).**
+**Presque tous les mots anglais qui arrivent, tout comme les mots chinois qui sont arrivés dans le passé, arrivent en tant que noms, quel que soit ce qu'ils étaient dans la langue d'origine.** **Donc, si vous voulez les utiliser comme verbes, vous devez ajouter `する` (*suru*).** **Si vous voulez les utiliser comme adjectifs, ils doivent être des noms adjectivaux ou vous devez simplement utiliser の (*no*).**
 
 ---
 
@@ -112,7 +112,7 @@ Ainsi, structurellement, même si les mots anglais augmentaient de manière expo
 
 **Même les mots chinois qui représentent en fait maintenant environ 60 % du vocabulaire japonais n'ont eu pratiquement aucune influence sur la structure réelle de la langue, la façon dont les phrases fonctionnent réellement.** Et il y a un parallèle intéressant là-dedans : lorsque les Français normands régnaient sur l'Angleterre, ils ont donné à l'anglais une énorme, énorme, énorme quantité de vocabulaire, mais encore une fois, ils n'ont eu presque aucun impact sur la structure de la langue.
 
-## L'anglais continuera-t-il d'<code>envahir</code> le japonais ?
+## L'anglais continuera-t-il d'`envahir` le japonais ?
 
 Maintenant, nous pourrions nous demander, est-ce que cela va continuer, cette soi-disant invasion anglaise ?
 
@@ -122,7 +122,7 @@ Maintenant, nous pourrions nous demander, est-ce que cela va continuer, cette so
 
 ---
 
-**Mais le fait est que le japonais assimile facilement les mots étrangers.** **Il ne les intègre pas dans la structure, mais il les rend partie de la langue et il les <code>japonise</code>.**
+**Mais le fait est que le japonais assimile facilement les mots étrangers.** **Il ne les intègre pas dans la structure, mais il les rend partie de la langue et il les `japonise`.**
 
 **L'anglais en tant que phénomène culturel fait étonnamment peu d'incursions dans l'esprit japonais.** Les Japonais sont réputés pour ne pas apprendre l'anglais.
 

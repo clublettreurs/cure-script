@@ -18,7 +18,7 @@ Maintenant, **cela signifie que dans la plupart des cas, la ponctuation japonais
 
 ## Le point final / 。
 
-Ainsi, le premier signe que nous allons examiner est le point final japonais ou <code>まる / 。</code> (*maru*), **qui ressemble à un petit cercle au pied d'une <code>lettre</code>.**
+Ainsi, le premier signe que nous allons examiner est le point final japonais ou `まる / 。` (*maru*), **qui ressemble à un petit cercle au pied d'une `lettre`.**
 
 ![](../media/image193.webp)
 
@@ -36,9 +36,9 @@ Pourquoi cela ? Eh bien, **le japonais est une langue qui utilise beaucoup la mo
 
 Alors, regardons comment cela fonctionne.
 
-<code>**市場で買って川に落としちゃった**お菓子。</code>
+`**市場で買って川に落としちゃった**お菓子。`
 
-Et cela signifie <code>Les sucreries **que j'ai achetées au marché et laissées tomber dans la rivière**</code>.
+Et cela signifie `Les sucreries **que j'ai achetées au marché et laissées tomber dans la rivière**`.
 
 ::: info
 Je suppose que "laissées tomber" dans la traduction est utilisé pour souligner la traduction plus littérale de ちゃった (*chatta* - *fait par accident/complètement*).
@@ -52,24 +52,24 @@ Non, ce n'est pas ce que nous disons dans cette phrase.**
 
 ---
 
-**Ces deux choses ne font que modifier <code>お菓子</code> (*okashi* - sucrerie/bonbon).** **Elles nous disent quel genre d'<code>お菓子</code> c'était :** **celle que j'ai achetée au marché et laissée tomber dans la rivière.**
+**Ces deux choses ne font que modifier `お菓子` (*okashi* - sucrerie/bonbon).** **Elles nous disent quel genre d'`お菓子` c'était :** **celle que j'ai achetée au marché et laissée tomber dans la rivière.**
 
-**Nous n'avons donc ici qu'un seul nom, <code>お菓子</code>, qui a été fortement modifié par des propositions logiques qui ne fonctionnent pas comme des propositions logiques complètes.**
+**Nous n'avons donc ici qu'un seul nom, `お菓子`, qui a été fortement modifié par des propositions logiques qui ne fonctionnent pas comme des propositions logiques complètes.**
 
 ---
 
-**Nous pouvons ensuite ajouter une particule logique à cet <code>お菓子</code> et en faire une proposition logique entière.**
+**Nous pouvons ensuite ajouter une particule logique à cet `お菓子` et en faire une proposition logique entière.**
 
-Nous pourrions donc dire, <code>市場で買って川に落としちゃったお菓子**が**魚さんに食べられた。</code>
+Nous pourrions donc dire, `市場で買って川に落としちゃったお菓子**が**魚さんに食べられた。`
 
 Les sucreries*(**=sujet**)* que j'ai achetées au marché et laissées tomber dans la rivière se sont fait manger par un poisson.
 
 ![](../media/image505.webp)
 
 ::: info
-Si je comprends bien, parce que nous avons marqué お菓子 (*okashi*) avec le sujet が (*ga*), nous pouvons maintenant construire une autre proposition à partir de cela, d'où nous obtenons une autre proposition logique de <code>お菓子が魚さんに食べられた</code>.
+Si je comprends bien, parce que nous avons marqué お菓子 (*okashi*) avec le sujet が (*ga*), nous pouvons maintenant construire une autre proposition à partir de cela, d'où nous obtenons une autre proposition logique de `お菓子が魚さんに食べられた`.
 :::
-*Alors que お菓子 est également modifié par des propositions modificatrices avant lui, en particulier <code>市場で買って川に落としちゃった</code>, elles servent ici simplement de modificateur qui décrit お菓子 plutôt que d'être des propositions logiques complètes (autonomes ?). Bien que ce ne soit que ma supposition d'après ce que je comprends.*
+*Alors que お菓子 est également modifié par des propositions modificatrices avant lui, en particulier `市場で買って川に落としちゃった`, elles servent ici simplement de modificateur qui décrit お菓子 plutôt que d'être des propositions logiques complètes (autonomes ?). Bien que ce ne soit que ma supposition d'après ce que je comprends.*
 
 **Mais comment nous assurons-nous lorsque nous lisons une phrase comme celle-ci si nous regardons une proposition logique ou si nous regardons un modificateur ?**
 
@@ -77,15 +77,15 @@ Si je comprends bien, parce que nous avons marqué お菓子 (*okashi*) avec le 
 
 Maintenant, **la chose importante à comprendre ici est que dans tout type d'écriture japonaise**
 (sauf peut-être sur Twitter ou quelque chose)
-**une proposition logique doit se terminer de deux manières**, **soit par un <code>まる / 。</code>, qui nous dit que c'est la fin de la phrase complète**
+**une proposition logique doit se terminer de deux manières**, **soit par un `まる / 。`, qui nous dit que c'est la fin de la phrase complète**
 
 (il peut y avoir quelques particules de fin de phrase après, mais c'est une règle très stricte du japonais que **ce qui termine toute proposition logique est le moteur B, mis à part toutes les particules de fin de phrase**)
 
 ---
 
-**ou elle doit se terminer par un connecteur de proposition qui complète la proposition et mène à la proposition suivante.** **Cela peut être la forme en て (*te*), cela peut être un mot comme <code>から</code> (*kara*) ou <code>けれど</code> (*keredo*),** mais armés de cette information, nous pouvons alors voir ce qui se passe.
+**ou elle doit se terminer par un connecteur de proposition qui complète la proposition et mène à la proposition suivante.** **Cela peut être la forme en て (*te*), cela peut être un mot comme `から` (*kara*) ou `けれど` (*keredo*),** mais armés de cette information, nous pouvons alors voir ce qui se passe.
 
-Alors, regardons <code>市場で買って川に落としちゃった</code>.
+Alors, regardons `市場で買って川に落としちゃった`.
 
 **C'est une paire complète de propositions logiques.**
 
@@ -97,15 +97,15 @@ Cependant, je suis conscient que ma supposition est très probablement fausse, a
 
 **Cela ne nous dit pas ce que nous avons acheté au marché et laissé tomber dans la rivière, mais cela pourrait peut-être le présumer.**
 
-**Mais nous savons que ce n'est pas une proposition logique car elle ne se termine pas par un connecteur de proposition et elle ne se termine pas par un <code>まる / 。</code>.** **Elle va directement à un nom.**
+**Mais nous savons que ce n'est pas une proposition logique car elle ne se termine pas par un connecteur de proposition et elle ne se termine pas par un `まる / 。`.** **Elle va directement à un nom.**
 
 ---
 
-**Et c'est ainsi que nous pouvons faire la différence entre un modificateur et une proposition logique.** **Et nous savons quand la séquence entière, la phrase entière, est terminée parce qu'elle aura ce <code>まる / 。</code>.**
+**Et c'est ainsi que nous pouvons faire la différence entre un modificateur et une proposition logique.** **Et nous savons quand la séquence entière, la phrase entière, est terminée parce qu'elle aura ce `まる / 。`.**
 
 Et j'ai fait une vidéo sur cette méthode d'analyse des phrases japonaises et je la lierai afin que vous puissiez la suivre par la suite<sup>[[34]](./34-understand-any-sentence.md)</sup>.
 
-**Mais le <code>まる / 。</code> est vital ici.**
+**Mais le `まる / 。` est vital ici.**
 
 ## La virgule / 、
 
@@ -113,7 +113,7 @@ Maintenant, la prochaine que nous allons examiner est la virgule japonaise, qui 
 
 ![](../media/image1054.webp)
 
-**Et c'est en quelque sorte l'opposé d'un <code>まる / 。</code>, car elle n'est vraiment pas un élément logique dans la phrase.** **Elle a été adoptée en japonais, mais contrairement à la virgule française ou aux autres virgules européennes, elle n'a pas de règles logiques.**
+**Et c'est en quelque sorte l'opposé d'un `まる / 。`, car elle n'est vraiment pas un élément logique dans la phrase.** **Elle a été adoptée en japonais, mais contrairement à la virgule française ou aux autres virgules européennes, elle n'a pas de règles logiques.**
 
 **Les idées comme la séparation d'une proposition subordonnée avec des virgules à chaque extrémité, cela n'existe pas en japonais.** **Vous mettez simplement une virgule là où vous voulez indiquer une pause. Et c'est tout ce qu'elle fait.**
 
@@ -123,7 +123,7 @@ Dans les écoles japonaises, les élèves sont découragés d'utiliser trop de v
 
 ## Le point d'interrogation / ？(はてな)
 
-Maintenant, le prochain que nous allons examiner est le point d'interrogation ou <code>はてな</code> (*hatena*).
+Maintenant, le prochain que nous allons examiner est le point d'interrogation ou `はてな` (*hatena*).
 
 ![](../media/image1109.webp)
 
@@ -131,15 +131,15 @@ Maintenant, **en français, le point d'interrogation est soumis à une règle.**
 
 **Et aussi en français, les questions sont structurellement différentes des affirmations.**
 
-Donc, si nous disons, <code>Le café est chaud</code>, c'est une affirmation, mais si nous disons, <code>Le café est-il chaud ?</code> c'est une question.
+Donc, si nous disons, `Le café est chaud`, c'est une affirmation, mais si nous disons, `Le café est-il chaud ?` c'est une question.
 
 ---
 
 **En japonais, nous n'avons pas cette différenciation.** **Les affirmations et les questions sont structurées exactement de la même manière.**
 
-Maintenant, **en japonais formel** nous avons **la particule de marquage de question <code>か</code> (*ka*)**, **qui nous dit que c'est une question.**
+Maintenant, **en japonais formel** nous avons **la particule de marquage de question `か` (*ka*)**, **qui nous dit que c'est une question.**
 
-Mais **en japonais informel, nous pouvons utiliser <code>か</code> mais la plupart du temps nous ne le faisons pas.** **Parfois, nous utilisons le marqueur de question <code>の</code> (*no*), mais c'est ambigu parce que <code>の</code> peut aussi être un marqueur d'affirmation.**
+Mais **en japonais informel, nous pouvons utiliser `か` mais la plupart du temps nous ne le faisons pas.** **Parfois, nous utilisons le marqueur de question `の` (*no*), mais c'est ambigu parce que `の` peut aussi être un marqueur d'affirmation.**
 
 ---
 
@@ -151,7 +151,7 @@ Mais **en japonais informel, nous pouvons utiliser <code>か</code> mais la plup
 
 **En français, vous devez utiliser le point d'interrogation à la fin d'une question si vous écrivez un français correct. En japonais, il n'y a pas une telle règle.**
 
-**Si le marqueur <code>か</code> est là, vous n'utilisez pas le point d'interrogation, mais si vous voulez lever l'ambiguïté sur le fait que quelque chose est une question plutôt qu'une affirmation, vous insérez simplement un point d'interrogation si vous le souhaitez.**
+**Si le marqueur `か` est là, vous n'utilisez pas le point d'interrogation, mais si vous voulez lever l'ambiguïté sur le fait que quelque chose est une question plutôt qu'une affirmation, vous insérez simplement un point d'interrogation si vous le souhaitez.**
 
 ## Les guillemets / 「　」
 

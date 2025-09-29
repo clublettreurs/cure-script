@@ -12,7 +12,7 @@ Je vais faire cela avec une analogie de travail de détective, **car les particu
 
 ![](../media/image1152.webp)
 
-Et voici ce qu'est une particule logique. Les gens demandent parfois <code>Qu'entendez-vous par particule logique ?</code>
+Et voici ce qu'est une particule logique. Les gens demandent parfois `Qu'entendez-vous par particule logique ?`
 
 ![](../media/image64.webp)
 
@@ -20,7 +20,7 @@ Nous avons déjà discuté de la différence entre une particule logique et un m
 
 ---
 
-Il y a d'autres particules que j'appellerais a-logiques. Ce ne sont pas des marqueurs de thème non logiques, mais ce ne sont pas non plus des particules logiques. Par exemple, **la particule と ajoute deux noms ensemble.** Donc si nous disons <code>さくらとメアリーがあるいていた</code>, nous disons <code>Sakura et Mary marchaient</code>. **La particule が nous dit qui marchait.** **La particule と ajoute simplement ces deux éléments ensemble. Elle ne nous dit rien sur ce qu'ils faisaient, où ils allaient, ou quoi que ce soit d'autre.**
+Il y a d'autres particules que j'appellerais a-logiques. Ce ne sont pas des marqueurs de thème non logiques, mais ce ne sont pas non plus des particules logiques. Par exemple, **la particule と ajoute deux noms ensemble.** Donc si nous disons `さくらとメアリーがあるいていた`, nous disons `Sakura et Mary marchaient`. **La particule が nous dit qui marchait.** **La particule と ajoute simplement ces deux éléments ensemble. Elle ne nous dit rien sur ce qu'ils faisaient, où ils allaient, ou quoi que ce soit d'autre.**
 
 ![](../media/image79.webp)
 
@@ -40,48 +40,48 @@ Il est le Chef. **Il doit être dans chaque affaire.** **Il ne peut y avoir de p
 
 ---
 
-**Les autres particules ne peuvent pas faire cela.** Elles ne peuvent fonctionner que dans des phrases A-fait-B, c'est-à-dire des phrases avec un moteur verbal. Pour le dire autrement, tandis que le Détective Ga travaille au bureau avec un travail descriptif, les autres détectives ne travaillent que sur des cas, sur des actions réelles, sur des incidents, sur des propositions se terminant par un verbe. Alors, regardons-les tous au travail sur une proposition se terminant par un verbe. Chacun d'eux a ses propres questions spécifiques. Le Détective が pose la question fondamentale : <code>Qui l'a fait ?</code>
+**Les autres particules ne peuvent pas faire cela.** Elles ne peuvent fonctionner que dans des phrases A-fait-B, c'est-à-dire des phrases avec un moteur verbal. Pour le dire autrement, tandis que le Détective Ga travaille au bureau avec un travail descriptif, les autres détectives ne travaillent que sur des cas, sur des actions réelles, sur des incidents, sur des propositions se terminant par un verbe. Alors, regardons-les tous au travail sur une proposition se terminant par un verbe. Chacun d'eux a ses propres questions spécifiques. Le Détective が pose la question fondamentale : `Qui l'a fait ?`
 
 C'est la question fondamentale de toute phrase, et pour cette raison, seul le wagon du Détective が peut être noir.
 
 ![](../media/image271.webp)
 
-Parce que **le cœur de chaque phrase est <code>qui a fait l'action ?</code>** Donc が demande, <code>Qui était l'acteur ? Qui l'a fait ?</code> et cela forme le cœur de la phrase. Les autres particules logiques posent d'autres questions sur l'incident qui nous donnent une image complète de l'événement. Nous ne les verrons généralement pas toutes dans une seule phrase.
+Parce que **le cœur de chaque phrase est `qui a fait l'action ?`** Donc が demande, `Qui était l'acteur ? Qui l'a fait ?` et cela forme le cœur de la phrase. Les autres particules logiques posent d'autres questions sur l'incident qui nous donnent une image complète de l'événement. Nous ne les verrons généralement pas toutes dans une seule phrase.
 
 ## Particules を, に, へ
 
-**Le Détective を demande <code>À qui cela a-t-il été fait ? Qui était le destinataire de l'action ?</code>**
+**Le Détective を demande `À qui cela a-t-il été fait ? Qui était le destinataire de l'action ?`**
 
-**Le Détective に demande <code>Où est-il allé ?</code> ou <code>Où est l'arme ?</code>**
+**Le Détective に demande `Où est-il allé ?` ou `Où est l'arme ?`**
 
 に demande où quelqu'un ou quelque chose est allé ou où il se trouve.
 
-**Le Détective へ demande <code>Dans quelle direction est-il allé ?</code>**
+**Le Détective へ demande `Dans quelle direction est-il allé ?`**
 
 Maintenant, c'est très proche de la question du Détective に, n'est-ce pas ?
 
-Mais nous pourrions ne pas savoir réellement où il est allé, donc la réponse à cette question pourrait être nord, sud, est ou ouest, **et c'est le genre de question que に ne peut pas poser.** Ou cela pourrait être <code>Il est allé en direction de la maison de Sakura</code>, et c'est très proche de la question que に pose. Donc, ils se chevauchent dans une certaine mesure.
+Mais nous pourrions ne pas savoir réellement où il est allé, donc la réponse à cette question pourrait être nord, sud, est ou ouest, **et c'est le genre de question que に ne peut pas poser.** Ou cela pourrait être `Il est allé en direction de la maison de Sakura`, et c'est très proche de la question que に pose. Donc, ils se chevauchent dans une certaine mesure.
 
 ## Particule で
 
 Maintenant, regardons le Détective で.
 
-**Le Détective で pose la question <code>Où cela a-t-il été fait ?</code> et la question <code>Avec quoi cela a-t-il été fait ? Quel était l'instrument ?</code>**
+**Le Détective で pose la question `Où cela a-t-il été fait ?` et la question `Avec quoi cela a-t-il été fait ? Quel était l'instrument ?`**
 
 ![](../media/image830.webp)
 
-Si nous disons <code>(zeroが)こうえんにいる</code>, nous disons <code>(Je) suis dans le parc</code>. Mais si nous voulons dire <code>(Je) suis *en train de jouer* **dans** le parc</code>, nous devons dire <code>(zeroが)こうえん**で***あそんで*いる</code>, car **pour exprimer que nous faisons quelque chose dans un lieu plutôt que d'y être simplement, nous devons utiliser で.**
+Si nous disons `(zeroが)こうえんにいる`, nous disons `(Je) suis dans le parc`. Mais si nous voulons dire `(Je) suis *en train de jouer* **dans** le parc`, nous devons dire `(zeroが)こうえん**で***あそんで*いる`, car **pour exprimer que nous faisons quelque chose dans un lieu plutôt que d'y être simplement, nous devons utiliser で.**
 
 ![](../media/image721.webp)
 
-Et **nous utilisons également で pour exprimer le moyen (en termes de nom) par lequel nous faisons quelque chose.** Donc si nous disons <code>(zeroが)こえうんにいく</code>, nous disons <code>(Je) vais au parc</code>. Mais si nous disons <code>(zeroが)バス**で**こうえんにいく</code>, **nous disons le moyen par lequel nous allons au parc, dans ce cas un bus.**
+Et **nous utilisons également で pour exprimer le moyen (en termes de nom) par lequel nous faisons quelque chose.** Donc si nous disons `(zeroが)こえうんにいく`, nous disons `(Je) vais au parc`. Mais si nous disons `(zeroが)バス**で**こうえんにいく`, **nous disons le moyen par lequel nous allons au parc, dans ce cas un bus.**
 
 ![](../media/image700.webp)
 
-Si nous disons que nous avons enfoncé un marteau avec un clou ou mangé de la nourriture avec des baguettes, **nous utilisons で pour la chose avec laquelle nous l'avons fait.** Si nous disons <code>(zeroが)にほんごをはなす</code>, nous disons <code>(Je) parle japonais</code>, mais si nous disons <code>(zeroが)にほんご**で**はなす</code>, nous disons <code>(Je) parle avec le japonais **le japonais est le moyen par lequel** (je) parle</code>. C'est donc l'équivalent en français de dire <code>Je parle en japonais</code>, mais comme vous pouvez le voir, la construction japonaise est plus logique car c'est en fait ce que nous faisons, **nous parlons par le moyen du japonais.**
+Si nous disons que nous avons enfoncé un marteau avec un clou ou mangé de la nourriture avec des baguettes, **nous utilisons で pour la chose avec laquelle nous l'avons fait.** Si nous disons `(zeroが)にほんごをはなす`, nous disons `(Je) parle japonais`, mais si nous disons `(zeroが)にほんご**で**はなす`, nous disons `(Je) parle avec le japonais **le japonais est le moyen par lequel** (je) parle`. C'est donc l'équivalent en français de dire `Je parle en japonais`, mais comme vous pouvez le voir, la construction japonaise est plus logique car c'est en fait ce que nous faisons, **nous parlons par le moyen du japonais.**
 
 ---
 
-L'autre question, bien sûr, que **le Détective に** peut poser est <code>Qui était la cible d'une action faite à quelque chose d'autre ?</code> *mais nous avons déjà discuté de cela dans la leçon sur に.<sup>[[8]](./8-the-に-and-へ-particles.md)</sup>* Cela couvre donc toutes les fonctions de base des principales particules logiques, et comme vous pouvez le voir, ce sont ces particules qui nous disent ce qui se passe dans n'importe quelle phrase japonaise. Si nous les comprenons, nous pouvons comprendre la phrase ; si nous ne les comprenons pas, nous ne le pouvons pas. Donc, si nous sommes confus par les particules logiques, ce qui arrivera si nous prenons les manuels au sérieux, nous aurons beaucoup de mal à comprendre le japonais.
+L'autre question, bien sûr, que **le Détective に** peut poser est `Qui était la cible d'une action faite à quelque chose d'autre ?` *mais nous avons déjà discuté de cela dans la leçon sur に.<sup>[[8]](./8-the-に-and-へ-particles.md)</sup>* Cela couvre donc toutes les fonctions de base des principales particules logiques, et comme vous pouvez le voir, ce sont ces particules qui nous disent ce qui se passe dans n'importe quelle phrase japonaise. Si nous les comprenons, nous pouvons comprendre la phrase ; si nous ne les comprenons pas, nous ne le pouvons pas. Donc, si nous sommes confus par les particules logiques, ce qui arrivera si nous prenons les manuels au sérieux, nous aurons beaucoup de mal à comprendre le japonais.
 
 **Ne confondez pas les particules et elles ne vous confondront pas.**

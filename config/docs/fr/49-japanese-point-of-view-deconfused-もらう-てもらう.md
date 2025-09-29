@@ -10,7 +10,7 @@ Une partie de la raison pour laquelle cela est si déroutant est que **もらう
 
 ![](../media/image852.webp)
 
-Il y a un bon moment, j'ai traité de **くれる** et **あげる**<sup>[[11]](./11-compound-sentences-くれる-あげる-and-more-uses-of-the-te-form.md)</sup> et à l'époque, je n'ai pas inclus **もらう** de manière très spécifique, car je crois que les enseigner ensemble de la manière courante cause beaucoup de confusion inutile. Je vais juste survoler rapidement **くれる** et **あげる** maintenant, et nous parlerons des façons dont ils sont similaires à **もらう**, des façons beaucoup plus importantes dont ils ne sont pas similaires à **もらう**, et de ce à quoi nous devrions vraiment comparer **もらう**, ce qui le rendra beaucoup plus facile à comprendre dans toute une gamme d'expressions et de phrases japonaises.
+Il y a un bon moment, j'ai traité de **くれる** et **あげる**<sup>[[11]](./11-compound-sentences-くれる-あげる-and-more-uses-of-the-て-form.md)</sup> et à l'époque, je n'ai pas inclus **もらう** de manière très spécifique, car je crois que les enseigner ensemble de la manière courante cause beaucoup de confusion inutile. Je vais juste survoler rapidement **くれる** et **あげる** maintenant, et nous parlerons des façons dont ils sont similaires à **もらう**, des façons beaucoup plus importantes dont ils ne sont pas similaires à **もらう**, et de ce à quoi nous devrions vraiment comparer **もらう**, ce qui le rendra beaucoup plus facile à comprendre dans toute une gamme d'expressions et de phrases japonaises.
 
 Ainsi, comme nous le savons, **あげる** et **くれる** signifient respectivement **donner vers le haut** à quelqu'un d'autre ou quelqu'un d'autre **donnant vers le bas** à soi-même, à son propre groupe ou à quelqu'un avec qui l'on s'identifie.
 

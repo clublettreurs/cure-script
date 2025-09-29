@@ -1,20 +1,38 @@
-**[Read from 1st lesson
-](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html)**
+**[🇫🇷 Commencer par la 1ère leçon
+](https://clublettreurs.github.io/cure-script/1-the-basic-types-of-sentences.html)**
 
-# Intro
+# Cure Dolly Script - Version française
 
-First and foremost, this project only exists because Mordraug and Nunko spent a lot of time transcribing all of Cure Dolly's videos and sharing them in [this Google Docs](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/). Many thanks to them!
+## ⚠️ Projet dérivé
 
-For my part, [I (Kellen)](https://bento.me/kln) converted script to Markdown, changed the formatting slightly, and published it using Vitepress, which I find more convenient than Google Docs or PDF.
+**Cette version française est basée sur le travail exceptionnel de [Kellen](https://bento.me/kln)** qui a créé la version anglaise disponible sur [kellenok.github.io/cure-script](https://kellenok.github.io/cure-script/).
+
+## Crédits complets
+
+Avant tout, ce projet n'existerait pas sans :
+
+1. **[Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)** : Créatrice du contenu pédagogique original
+2. **Mordraug et Nunko** : Transcription complète de toutes les vidéos dans [ce Google Docs](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/)
+3. **[Kellen](https://bento.me/kln)** : Conversion en Markdown et création du site VitePress original
+4. **Club Lettreurs** : Traduction française uniquement
 
 <img src="https://i.imgur.com/YOWRijj.png">
 
-## What's changed
+## Notre contribution (traduction française)
 
-1. Changed the <u>underlined text</u> to **bold** due to personal preference.
-2. All text in "quotes" became `highlighted` in color
-3. Changed note type from *italic text* to speсial containers
-4. I have added a very rough and imprecise grouping of lessons. This was only done to allow the list to be collapsed.
-5. Merge line-by-line text into readable paragraph text
+Nous avons traduit en français le site de Kellen en conservant :
 
-Something else may have broken during all the changes, but there shouldn't be any critical breaks.
+1. La structure et l'organisation créées par Kellen
+2. Le formatage Markdown optimisé
+3. Les groupements de leçons pour la navigation
+4. L'interface VitePress
+
+## Versions disponibles
+
+- **🇫🇷 Français** (ce dépôt) : [clublettreurs.github.io/cure-script](https://clublettreurs.github.io/cure-script/)
+- **🇬🇧 English** (original) : [kellenok.github.io/cure-script](https://kellenok.github.io/cure-script/)
+- **📄 Google Docs** (source) : [Transcription complète](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/)
+
+---
+
+**Tous les mérites pour le contenu, la structure et l'innovation reviennent aux créateurs originaux mentionnés ci-dessus.**

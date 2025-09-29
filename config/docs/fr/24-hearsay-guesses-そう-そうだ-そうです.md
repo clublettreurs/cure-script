@@ -4,13 +4,13 @@
 
 こんにちは。
 
-Aujourd'hui, nous allons parler du nom auxiliaire <code>そう</code>, qui peut signifier soit la ressemblance, soit la rumeur, **soit que quelque chose ressemble à quelque chose**, soit que nous **énonçons non pas notre propre point de vue ou opinion, mais quelque chose que nous avons entendu.** Différencier les deux peut sembler difficile, surtout lorsque les manuels vous donnent une liste de connexions avec des noms et des verbes et diverses choses différentes. C'est beaucoup moins compliqué lorsque vous comprenez le principe sous-jacent, ce qui se passe réellement avec <code>そう</code>. Ainsi, vous n'avez pas à mémoriser beaucoup de choses différentes. Alors, tout d'abord, qu'est-ce que <code>そう</code> ? **C'est le même <code>そう</code> que nous avons appris récemment qui se trouve dans <code>こう-そう-ああ-どう</code>.**<sup>[[20]](./20-directionals-それ-その-そんな-そう-etc.md)</sup>
+Aujourd'hui, nous allons parler du nom auxiliaire `そう`, qui peut signifier soit la ressemblance, soit la rumeur, **soit que quelque chose ressemble à quelque chose**, soit que nous **énonçons non pas notre propre point de vue ou opinion, mais quelque chose que nous avons entendu.** Différencier les deux peut sembler difficile, surtout lorsque les manuels vous donnent une liste de connexions avec des noms et des verbes et diverses choses différentes. C'est beaucoup moins compliqué lorsque vous comprenez le principe sous-jacent, ce qui se passe réellement avec `そう`. Ainsi, vous n'avez pas à mémoriser beaucoup de choses différentes. Alors, tout d'abord, qu'est-ce que `そう` ? **C'est le même `そう` que nous avons appris récemment qui se trouve dans `こう-そう-ああ-どう`.**<sup>[[20]](./20-directionals-それ-その-そんな-そう-etc.md)</sup>
 
 ![](../media/image671.webp)
 
-**Donc <code>そう</code> signifie <code>comme ça</code>**, ce qui en fait bien sûr un très bon candidat pour **décrire quelque chose qui ressemble à quelque chose.**
+**Donc `そう` signifie `comme ça`**, ce qui en fait bien sûr un très bon candidat pour **décrire quelque chose qui ressemble à quelque chose.**
 
-## そう comme <code>ressembler à quelque chose</code>
+## そう comme `ressembler à quelque chose`
 
 **Lorsqu'il est utilisé de cette manière, nous l'utilisons en l'attachant à n'importe lequel des trois moteurs.**
 
@@ -20,7 +20,7 @@ Et rappelez-vous, comme nous l'avons appris précédemment, que chacun des trois
 
 ---
 
-**Nous prenons donc le <code>だ</code> du moteur だ - le <code>だ</code> ou le <code>な</code> du moteur だ / な.** **Nous prenons le <code>い</code> du moteur い.** **Et du moteur verbal, nous prenons ce dernier kana de la rangée う.** **Et nous ajoutons simplement -そう à ceux-ci**, donc c'est une connexion très simple.
+**Nous prenons donc le `だ` du moteur だ - le `だ` ou le `な` du moteur だ / な.** **Nous prenons le `い` du moteur い.** **Et du moteur verbal, nous prenons ce dernier kana de la rangée う.** **Et nous ajoutons simplement -そう à ceux-ci**, donc c'est une connexion très simple.
 
 ### Avec les noms adjectivaux
 
@@ -28,7 +28,7 @@ Et **la chose importante à retenir ici est que dans le cas des noms,** **nous n
 
 ---
 
-En d'autres termes, **si un nom adjectival est un nom adjectival au départ,** **nous pouvons le transformer en un nom adjectival différent avec -そう.** **S'il n'était pas un nom adjectival au départ, il ne peut pas être transformé en nom adjectival.** Donc si nous prenons des noms adjectivaux comme <code>元気</code> (<code>vif</code> ou <code>en bonne santé</code>) et <code>静か</code> (qui est <code>calme</code>) - si nous disons <code>静かだ</code>, nous voulons dire <code>est calme</code> - si nous disons <code>元気だ</code>, nous voulons dire <code>est vif ou en bonne santé</code>. Si nous disons <code>元気**な**学生</code>, nous disons <code>un étudiant *qui* est-vif ou en bonne santé</code>. Maintenant, **si nous** retirons ce <code>だ</code> ou <code>な</code> et **ajoutons -そう** - et nous disons <code>元気**そうな**学生</code>, nous disons <code>un étudiant *qui* **semble**-vif ou en bonne santé</code>. De même, si nous disons <code>静かな女の子</code>, nous disons <code>une fille *qui* est-calme</code>. **Si nous** retirons ce -な ou だ et **ajoutons -そう** et disons <code>静か**そうな**女の子</code>, nous disons <code>une fille *qui* **semble**-calme</code>. C'est donc vraiment très simple, n'est-ce pas ?
+En d'autres termes, **si un nom adjectival est un nom adjectival au départ,** **nous pouvons le transformer en un nom adjectival différent avec -そう.** **S'il n'était pas un nom adjectival au départ, il ne peut pas être transformé en nom adjectival.** Donc si nous prenons des noms adjectivaux comme `元気` (`vif` ou `en bonne santé`) et `静か` (qui est `calme`) - si nous disons `静かだ`, nous voulons dire `est calme` - si nous disons `元気だ`, nous voulons dire `est vif ou en bonne santé`. Si nous disons `元気**な**学生`, nous disons `un étudiant *qui* est-vif ou en bonne santé`. Maintenant, **si nous** retirons ce `だ` ou `な` et **ajoutons -そう** - et nous disons `元気**そうな**学生`, nous disons `un étudiant *qui* **semble**-vif ou en bonne santé`. De même, si nous disons `静かな女の子`, nous disons `une fille *qui* est-calme`. **Si nous** retirons ce -な ou だ et **ajoutons -そう** et disons `静か**そうな**女の子`, nous disons `une fille *qui* **semble**-calme`. C'est donc vraiment très simple, n'est-ce pas ?
 
 ::: info
 Comme indiqué ci-dessus, nous retirons le だ / な du nom adjectival original, mais ensuite, lorsque nous connectons -そう après lui, nous utilisons toujours le だ / な, mais il provient plutôt de la partie そう. Cela peut être formulé de manière un peu confuse, étant donné que les exemples que Dolly donne contiennent toujours だ / な.
@@ -40,7 +40,7 @@ Comme indiqué ci-dessus, nous retirons le だ / な du nom adjectival original,
 
 ### Avec les adjectifs
 
-**Avec les adjectifs qui se terminent par <code>い</code>, nous retirons simplement ce -い et ajoutons -そう à la place.**
+**Avec les adjectifs qui se terminent par `い`, nous retirons simplement ce -い et ajoutons -そう à la place.**
 
 ![](../media/image609.webp)
 
@@ -48,11 +48,11 @@ Comme indiqué ci-dessus, nous retirons le だ / な du nom adjectival original,
 Notez attentivement le commentaire orange ci-dessus sur l'image avec そう + だ.
 :::
 
-Donc, si nous prenons <code>面白い</code> (<code>intéressant-est</code> ou <code>amusant-est</code>), <code>おいしい</code> (<code>délicieux-est</code>), **nous coupons simplement le -い et ajoutons -そう.** Ainsi, <code>面白い</code> signifie <code>intéressant-***est***</code> ou <code>amusant-***est***</code>, <code>面白**そう**</code> signifie <code>**semble** intéressant / **semble** amusant</code>. <code>おいしい</code> signifie <code>délicieux / savoureux-est</code>, <code>おいし**そう**</code> signifie qu'il <code>**a l'air** délicieux</code>, il <code>**a l'air** savoureux</code>. Et c'est important à retenir car, comme nous l'avons mentionné précédemment, **le japonais est beaucoup plus strict que le français pour nous restreindre à dire** **uniquement des choses que nous pouvons réellement savoir par nous-mêmes.**
+Donc, si nous prenons `面白い` (`intéressant-est` ou `amusant-est`), `おいしい` (`délicieux-est`), **nous coupons simplement le -い et ajoutons -そう.** Ainsi, `面白い` signifie `intéressant-***est***` ou `amusant-***est***`, `面白**そう**` signifie `**semble** intéressant / **semble** amusant`. `おいしい` signifie `délicieux / savoureux-est`, `おいし**そう**` signifie qu'il `**a l'air** délicieux`, il `**a l'air** savoureux`. Et c'est important à retenir car, comme nous l'avons mentionné précédemment, **le japonais est beaucoup plus strict que le français pour nous restreindre à dire** **uniquement des choses que nous pouvons réellement savoir par nous-mêmes.**
 
 ---
 
-**Donc, à moins d'avoir goûté quelque chose, vous ne pouvez pas dire que c'est <code>おいしい</code>.** **À moins d'avoir fait quelque chose, vous ne pouvez pas dire que c'est <code>面白い</code> - intéressant ou amusant.** Logiquement, cela devrait peut-être l'être aussi en français, mais le japonais est beaucoup plus strict à ce sujet. Il est donc important de connaître des choses comme <code>面白**そう**</code>, <code>おいし**そう**</code> **si nous n'avons pas réellement goûté la nourriture, fait l'activité ou autre.**
+**Donc, à moins d'avoir goûté quelque chose, vous ne pouvez pas dire que c'est `おいしい`.** **À moins d'avoir fait quelque chose, vous ne pouvez pas dire que c'est `面白い` - intéressant ou amusant.** Logiquement, cela devrait peut-être l'être aussi en français, mais le japonais est beaucoup plus strict à ce sujet. Il est donc important de connaître des choses comme `面白**そう**`, `おいし**そう**` **si nous n'avons pas réellement goûté la nourriture, fait l'activité ou autre.**
 
 ### Avec les verbes
 
@@ -60,11 +60,11 @@ Maintenant, **avec un verbe, nous coupons le kana de la rangée う.** Évidemme
 
 ![](../media/image264.webp)
 
-Et la base en い est ce que vous pourriez appeler la base pure d'un verbe. En japonais, on l'appelle **<code>れんようけい/連用形</code>, ce qui signifie <code>forme d'utilisation connective</code>.** Et cela pourrait sembler étrange car nous savons que les quatre bases connectent en fait des choses, mais alors que les trois autres ont des utilisations particulières, **la <code>れんようけい/連用形</code>, la base en い, en plus de ses utilisations particulières,** **peut être utilisée pour connecter presque n'importe quoi.** **Elle peut connecter des verbes à des noms pour former de nouveaux noms ;** **elle peut relier des verbes à des verbes pour former de nouveaux verbes ; et ainsi de suite.**
+Et la base en い est ce que vous pourriez appeler la base pure d'un verbe. En japonais, on l'appelle **`れんようけい/連用形`, ce qui signifie `forme d'utilisation connective`.** Et cela pourrait sembler étrange car nous savons que les quatre bases connectent en fait des choses, mais alors que les trois autres ont des utilisations particulières, **la `れんようけい/連用形`, la base en い, en plus de ses utilisations particulières,** **peut être utilisée pour connecter presque n'importe quoi.** **Elle peut connecter des verbes à des noms pour former de nouveaux noms ;** **elle peut relier des verbes à des verbes pour former de nouveaux verbes ; et ainsi de suite.**
 
 ---
 
-Ainsi, **nous connectons -そう à la <code>連用形</code>, la base en い**, la base de connexion à usage général des verbes. Que signifient-ils ? Eh bien, **en général, ils signifient que quelque chose semble être sur le point de se produire.**
+Ainsi, **nous connectons -そう à la `連用形`, la base en い**, la base de connexion à usage général des verbes. Que signifient-ils ? Eh bien, **en général, ils signifient que quelque chose semble être sur le point de se produire.**
 
 ![](../media/image996.webp)
 
@@ -72,11 +72,11 @@ Ainsi, **nous connectons -そう à la <code>連用形</code>, la base en い**,
 Encore une fois, le commentaire de rappel sur le fait que だ est utilisé après そう.
 :::
 
-Ainsi, <code>雨が降り**そうだ**</code> signifie <code>on dirait qu'il **est sur le point** de pleuvoir</code>. <code>子どもが泣き**そう*(だ)***</code> signifie <code>L'enfant **a l'air** d'être sur le point de pleurer / **semble** être sur le point de pleurer.</code> Et si vous regardez, c'est assez similaire à ce que nous pourrions dire en français : <code>Ça **ressemble à** de la pluie / on **dirait qu'**il est sur le point de pleuvoir.</code> Ces utilisations sont donc vraiment assez simples.
+Ainsi, `雨が降り**そうだ**` signifie `on dirait qu'il **est sur le point** de pleuvoir`. `子どもが泣き**そう*(だ)***` signifie `L'enfant **a l'air** d'être sur le point de pleurer / **semble** être sur le point de pleurer.` Et si vous regardez, c'est assez similaire à ce que nous pourrions dire en français : `Ça **ressemble à** de la pluie / on **dirait qu'**il est sur le point de pleuvoir.` Ces utilisations sont donc vraiment assez simples.
 
 ## そう comme rumeur
 
-Maintenant, que faisons-nous lorsque nous utilisons <code>そう</code> pour signifier rumeur, pour signifier <code>J'ai entendu quelque chose - je ne rapporte pas ma propre observation ou mon propre sentiment, je rapporte ce que j'ai obtenu de seconde main de quelqu'un d'autre</code> ? Certaines personnes diraient que c'est aussi un suffixe et que nous devons respecter des règles différentes pour l'appliquer, **mais la vérité est que ce n'est pas un suffixe.**
+Maintenant, que faisons-nous lorsque nous utilisons `そう` pour signifier rumeur, pour signifier `J'ai entendu quelque chose - je ne rapporte pas ma propre observation ou mon propre sentiment, je rapporte ce que j'ai obtenu de seconde main de quelqu'un d'autre` ? Certaines personnes diraient que c'est aussi un suffixe et que nous devons respecter des règles différentes pour l'appliquer, **mais la vérité est que ce n'est pas un suffixe.**
 
 ---
 
@@ -88,22 +88,22 @@ Semble pointer vers mon idée précédente ci-dessus…
 
 *---*
 
-**Ce n'est pas ce qui se passe lorsque nous parlons de rumeur.** Lorsque nous parlons de rumeur, nous utilisons <code>**そうだ**</code> ou <code>**そうです**</code> **après la phrase entière et complète.**
+**Ce n'est pas ce qui se passe lorsque nous parlons de rumeur.** Lorsque nous parlons de rumeur, nous utilisons `**そうだ**` ou `**そうです**` **après la phrase entière et complète.**
 
 ![](../media/image208.webp)
 
-**La phrase complète devient donc le wagon A de la phrase** et **le <code>そうだ</code> devient le moteur B.** Et **le contenu de la phrase est maintenant subordonné.** Prenons un exemple :
+**La phrase complète devient donc le wagon A de la phrase** et **le `そうだ` devient le moteur B.** Et **le contenu de la phrase est maintenant subordonné.** Prenons un exemple :
 
 ![](../media/image1017.webp)
 
-<code>さくらが日本人だ**そうだ**</code>. Ce que nous disons ici est <code>**J'ai entendu dire que** Sakura est une personne japonaise</code>. Ainsi, **<code>Sakura est une personne japonaise</code> est pris dans son ensemble comme la Voiture A, le sujet de la phrase, et ensuite ce que nous en disons, c'est que nous l'avons entendu.** Pourquoi utilisons-nous <code>そうだ/そうです</code> pour signifier <code>J'ai entendu dire</code> ?
+`さくらが日本人だ**そうだ**`. Ce que nous disons ici est `**J'ai entendu dire que** Sakura est une personne japonaise`. Ainsi, **`Sakura est une personne japonaise` est pris dans son ensemble comme la Voiture A, le sujet de la phrase, et ensuite ce que nous en disons, c'est que nous l'avons entendu.** Pourquoi utilisons-nous `そうだ/そうです` pour signifier `J'ai entendu dire` ?
 
 ![](../media/image733.webp)
 
-Eh bien, si vous y pensez, c'est similaire à ce que nous pourrions dire en français. Supposons que nous disions <code>Pourquoi cette voiture n'est-elle plus dans la rue ?</code> et que vous disiez <code>Il semble que des personnes masquées soient venues et l'aient emmenée</code>. Maintenant, quand vous dites cela, cela signifie que quelqu'un vous l'a dit, n'est-ce pas ? Si vous l'aviez vu vous-même, vous auriez dit <code>Des personnes masquées sont venues et l'ont emmenée</code>, mais quand vous dites <code>Il semble que des personnes masquées soient venues et l'aient emmenée</code>, ce que vous dites est <code>Eh bien, c'est l'histoire que j'ai entendue</code>.
+Eh bien, si vous y pensez, c'est similaire à ce que nous pourrions dire en français. Supposons que nous disions `Pourquoi cette voiture n'est-elle plus dans la rue ?` et que vous disiez `Il semble que des personnes masquées soient venues et l'aient emmenée`. Maintenant, quand vous dites cela, cela signifie que quelqu'un vous l'a dit, n'est-ce pas ? Si vous l'aviez vu vous-même, vous auriez dit `Des personnes masquées sont venues et l'ont emmenée`, mais quand vous dites `Il semble que des personnes masquées soient venues et l'aient emmenée`, ce que vous dites est `Eh bien, c'est l'histoire que j'ai entendue`.
 
 ::: info
 Je vérifierais [**ce commentaire**](https://www.youtube.com/watch?v=uSJukXcyccw&lc=Ugy3WGJ0efK8lG72-N94AaABAg&ab_channel=OrganicJapanesewithCureDolly) aussi...
 :::
 
-Et c'est la même chose en japonais, mais un peu plus systématiquement. **<code>そうだ/そうです</code> lorsqu'il est ajouté comme moteur B à une phrase entière et complète est toujours** **en train de dire que c'est ce que nous avons entendu, c'est l'information que nous avons, pour ce qu'elle vaut.**
+Et c'est la même chose en japonais, mais un peu plus systématiquement. **`そうだ/そうです` lorsqu'il est ajouté comme moteur B à une phrase entière et complète est toujours** **en train de dire que c'est ce que nous avons entendu, c'est l'information que nous avons, pour ce qu'elle vaut.**

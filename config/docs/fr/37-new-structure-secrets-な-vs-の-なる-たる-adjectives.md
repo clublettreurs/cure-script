@@ -28,53 +28,53 @@ Et nous sommes un peu familiers avec ces moyens, n'est-ce pas ? Lorsqu'un nom vi
 
 Le **verbe en する** est une chose réelle, mais c'est une exception car dans presque tous les autres cas où un nom arrive, il reste un nom même lorsqu'il est utilisé dans un but différent. Alors, commençons par regarder les verbes en する.
 
-Ils sont très simples. Si nous prenons le mot <code>勉強</code> du chinois, qui arrive comme le nom signifiant **l'acte d'étudier**, nous pouvons dire <code>勉強をする</code>, ce qui signifie **faire l'acte d'étudier**, mais nous pouvons aussi coller les mots directement ensemble et dire <code>勉強する</code>, ce qui signifie **(étudier)**.
+Ils sont très simples. Si nous prenons le mot `勉強` du chinois, qui arrive comme le nom signifiant **l'acte d'étudier**, nous pouvons dire `勉強をする`, ce qui signifie **faire l'acte d'étudier**, mais nous pouvons aussi coller les mots directement ensemble et dire `勉強する`, ce qui signifie **(étudier)**.
 
-Nous avons, en effet, en soudant <code>する</code> au nom, transformé la combinaison en un véritable verbe. Donc, dans ce cas particulier, nous pouvons dire qu'un nom est venu du chinois et est vraiment devenu naturalisé en tant que verbe en する.
+Nous avons, en effet, en soudant `する` au nom, transformé la combinaison en un véritable verbe. Donc, dans ce cas particulier, nous pouvons dire qu'un nom est venu du chinois et est vraiment devenu naturalisé en tant que verbe en する.
 
-Cependant, si nous voulons utiliser un nom comme un adjectif, disons le nom <code>綺麗/きれい</code>, qui signifie **joliesse** ou **propreté**, il ne cesse jamais d'être un nom.
+Cependant, si nous voulons utiliser un nom comme un adjectif, disons le nom `綺麗/きれい`, qui signifie **joliesse** ou **propreté**, il ne cesse jamais d'être un nom.
 
 ![](../media/image655.webp)
 
 Les dictionnaires et les manuels nous parlent d'**adjectifs en な**, mais le mot est vraiment absurde. Il n'existe pas d'adjectif en な.
 
-Il existe un **nom adjectival** qui continue d'agir à presque tous égards comme n'importe quel autre nom. La seule différence entre un nom adjectival et tout autre nom est que nous pouvons utiliser <code>な</code> avec lui.
+Il existe un **nom adjectival** qui continue d'agir à presque tous égards comme n'importe quel autre nom. La seule différence entre un nom adjectival et tout autre nom est que nous pouvons utiliser `な` avec lui.
 
-Et <code>な</code>, comme nous le savons, est simplement la **forme connective de <code>だ</code>**. Ainsi, nous pouvons dire <code>女の子は 綺麗/きれい だ</code> — **l'enfant est joli** — ou nous pouvons dire <code>きれいな女の子</code>, ce qui signifie **joli enfant**.
+Et `な`, comme nous le savons, est simplement la **forme connective de `だ`**. Ainsi, nous pouvons dire `女の子は 綺麗/きれい だ` — **l'enfant est joli** — ou nous pouvons dire `きれいな女の子`, ce qui signifie **joli enfant**.
 
-<code>きれいだ</code> signifie **est joli** et <code>きれいな</code> signifie également **est joli**, donc nous disons **enfant est joli** ou **est-joli enfant**. <code>な</code> et <code>だ</code> sont la même copule.
+`きれいだ` signifie **est joli** et `きれいな` signifie également **est joli**, donc nous disons **enfant est joli** ou **est-joli enfant**. `な` et `だ` sont la même copule.
 
 Maintenant, la raison pour laquelle ceux-ci sont appelés noms adjectivaux est que nous ne pouvons pas faire exactement cette chose avec d'autres noms. Mais nous pouvons faire quelque chose de très proche, et nous y reviendrons très bientôt.
 
-Mais je vais juste noter avant de passer à autre chose qu'il existe essentiellement **deux types de noms adjectivaux**, à savoir, ceux comme <code>綺麗/きれい</code>, qui ne sont vraiment pas utilisés du tout comme des noms ordinaires ; ils sont presque entièrement dédiés à être adjectivaux : nous ne parlons pas du <code>きれい</code> d'une personne. Et puis il y a ceux qui continuent de fonctionner comme des noms indépendants, comme <code>元気</code>.
+Mais je vais juste noter avant de passer à autre chose qu'il existe essentiellement **deux types de noms adjectivaux**, à savoir, ceux comme `綺麗/きれい`, qui ne sont vraiment pas utilisés du tout comme des noms ordinaires ; ils sont presque entièrement dédiés à être adjectivaux : nous ne parlons pas du `きれい` d'une personne. Et puis il y a ceux qui continuent de fonctionner comme des noms indépendants, comme `元気`.
 
-Nous pouvons donc dire <code>子どもが元気だ</code> — **l'enfant est vif** ; nous pouvons dire <code>元気な子ども</code> — **enfant vif**. Mais nous pouvons aussi dire des choses comme <code>元気を出して</code>, ce qui traduit vaguement signifie **courage** ou **remonte le moral**, mais traduit littéralement signifie **sors ton <code>元気</code>**.
+Nous pouvons donc dire `子どもが元気だ` — **l'enfant est vif** ; nous pouvons dire `元気な子ども` — **enfant vif**. Mais nous pouvons aussi dire des choses comme `元気を出して`, ce qui traduit vaguement signifie **courage** ou **remonte le moral**, mais traduit littéralement signifie **sors ton `元気`**.
 
-<code>元気</code> est une chose ici : il est marqué par la particule を, et vous ne pouvez mettre une particule logique sur rien d'autre qu'un nom. Donc, <code>元気</code>, même s'il est principalement adjectival et est classé comme un nom adjectival, fonctionne à la fois comme un adjectival et un nom.
+`元気` est une chose ici : il est marqué par la particule を, et vous ne pouvez mettre une particule logique sur rien d'autre qu'un nom. Donc, `元気`, même s'il est principalement adjectival et est classé comme un nom adjectival, fonctionne à la fois comme un adjectival et un nom.
 
-Maintenant, si un nom n'est pas classé comme un nom adjectival, nous pouvons toujours l'utiliser adjectivement. Ainsi, le mot <code>魔法/まほう</code>, qui signifie **magie**, peut être utilisé comme un nom tout comme il peut l'être en français.
+Maintenant, si un nom n'est pas classé comme un nom adjectival, nous pouvons toujours l'utiliser adjectivement. Ainsi, le mot `魔法/まほう`, qui signifie **magie**, peut être utilisé comme un nom tout comme il peut l'être en français.
 
-Nous pouvons parler de la magie comme d'une chose. Mais nous pouvons aussi dire <code>魔法の帽子</code> — **chapeau magique**.
+Nous pouvons parler de la magie comme d'une chose. Mais nous pouvons aussi dire `魔法の帽子` — **chapeau magique**.
 
-Ce n'est pas un nom adjectival, mais comme vous le voyez, nous pouvons obtenir à peu près le même effet en utilisant simplement <code>の</code> au lieu de <code>な</code>. Il existe également certains mots qui peuvent être des adjectivaux en の ou en な.
+Ce n'est pas un nom adjectival, mais comme vous le voyez, nous pouvons obtenir à peu près le même effet en utilisant simplement `の` au lieu de `な`. Il existe également certains mots qui peuvent être des adjectivaux en の ou en な.
 
-Un bon exemple de cela est <code>不思議/ふしぎ</code>, qui signifie un **mystère** ou une **merveille**. Il a tendance à être très souvent utilisé comme un adjectif comme dans <code>不思議な屋敷/やしき</code> — **manoir mystérieux** – mais il est aussi assez souvent utilisé comme un nom.
+Un bon exemple de cela est `不思議/ふしぎ`, qui signifie un **mystère** ou une **merveille**. Il a tendance à être très souvent utilisé comme un adjectif comme dans `不思議な屋敷/やしき` — **manoir mystérieux** – mais il est aussi assez souvent utilisé comme un nom.
 
-Nous pouvons parler du <code>七不思議</code> de l'école — ce qui signifie littéralement les **sept merveilles** ou **sept mystères** de l'école, et ce à quoi cela fait généralement référence est en fait des histoires de fantômes liées à l'école, telles que <code>トイレのはなこさん</code>, dont vous avez peut-être entendu parler — la fille qui hante les toilettes.
+Nous pouvons parler du `七不思議` de l'école — ce qui signifie littéralement les **sept merveilles** ou **sept mystères** de l'école, et ce à quoi cela fait généralement référence est en fait des histoires de fantômes liées à l'école, telles que `トイレのはなこさん`, dont vous avez peut-être entendu parler — la fille qui hante les toilettes.
 
-Maintenant, <code>不思議</code>, si nous l'utilisons adjectivement, il peut être ce que les dictionnaires appellent soit un **adjectif en な** soit un **adjectif en の**, c'est-à-dire que nous pouvons utiliser soit <code>な</code> soit <code>の</code> lorsque nous l'utilisons adjectivement.
+Maintenant, `不思議`, si nous l'utilisons adjectivement, il peut être ce que les dictionnaires appellent soit un **adjectif en な** soit un **adjectif en の**, c'est-à-dire que nous pouvons utiliser soit `な` soit `の` lorsque nous l'utilisons adjectivement.
 
 ![](../media/image1114.webp)
 
 Y a-t-il une différence entre les deux ? Je dirais que oui, il y a une différence subtile.
 
-<code>Alice au Pays des Merveilles</code> en japonais s'appelle <code>不思議の国のアリス</code>. Or, il aurait pu être appelé <code>不思議な国のアリス</code>, mais je pense que <code>不思議の国のアリス</code> est un titre beaucoup plus approprié et une bien meilleure traduction du titre original, <code>Alice au Pays des Merveilles</code>.
+`Alice au Pays des Merveilles` en japonais s'appelle `不思議の国のアリス`. Or, il aurait pu être appelé `不思議な国のアリス`, mais je pense que `不思議の国のアリス` est un titre beaucoup plus approprié et une bien meilleure traduction du titre original, `Alice au Pays des Merveilles`.
 
-<code>不思議な国のアリス</code> signifierait **Alice du pays mystérieux**, pour dire littéralement **Alice du pays est-mystérieux**. <code>不思議の国のアリス</code> implique davantage **Alice du pays des merveilles**.
+`不思議な国のアリス` signifierait **Alice du pays mystérieux**, pour dire littéralement **Alice du pays est-mystérieux**. `不思議の国のアリス` implique davantage **Alice du pays des merveilles**.
 
-Nous laissons <code>不思議</code> davantage comme un nom en soi et l'attribuons au pays. C'est une différence subtile, mais il est important d'en tenir compte, surtout lorsqu'il y a un choix entre les deux.
+Nous laissons `不思議` davantage comme un nom en soi et l'attribuons au pays. C'est une différence subtile, mais il est important d'en tenir compte, surtout lorsqu'il y a un choix entre les deux.
 
-Mais la chose la plus importante à retenir est que, qu'un nom soit un nom adjectival ou un nom ordinaire utilisé comme un adjectif avec <code>の</code>, il fonctionnera toujours comme un **nom**. Maintenant, les dictionnaires aiment aussi tout mélanger en nous disant qu'il existe d'autres types d'adjectifs aussi ;
+Mais la chose la plus importante à retenir est que, qu'un nom soit un nom adjectival ou un nom ordinaire utilisé comme un adjectif avec `の`, il fonctionnera toujours comme un **nom**. Maintenant, les dictionnaires aiment aussi tout mélanger en nous disant qu'il existe d'autres types d'adjectifs aussi ;
 
 ## Adjectifs (noms) en なる & たる
 
@@ -82,15 +82,15 @@ ils sont moins courants, mais il existe des **adjectifs en なる** et des **adj
 
 ### なる
 
-Ainsi, si nous prenons un livre que ma petite sœur aime... il s'appelle <code>アリスとペンギん:華麗なる探偵</code>, ce qui signifie **Alice et Pingouin : Les Magnifiques Détectives**. En fait, <code>華麗/かれい</code> est un nom adjectival, nous pouvons donc l'utiliser avec <code>な</code>, mais dans ce cas, l'auteur a choisi d'utiliser <code>なる</code> à la place.
+Ainsi, si nous prenons un livre que ma petite sœur aime... il s'appelle `アリスとペンギん:華麗なる探偵`, ce qui signifie **Alice et Pingouin : Les Magnifiques Détectives**. En fait, `華麗/かれい` est un nom adjectival, nous pouvons donc l'utiliser avec `な`, mais dans ce cas, l'auteur a choisi d'utiliser `なる` à la place.
 
-Que signifie <code>なる</code> ici ? Est-ce le <code>なる</code> qui signifie **devenir** ? Non, ce n'est pas le cas.
+Que signifie `なる` ici ? Est-ce le `なる` qui signifie **devenir** ? Non, ce n'est pas le cas.
 
-C'est une contraction de <code>のある</code>. Et comme je l'ai expliqué dans une autre vidéo, <code>の</code> peut être utilisé à la place de <code>が</code> dans les phrases adjectivales.
+C'est une contraction de `のある`. Et comme je l'ai expliqué dans une autre vidéo, `の` peut être utilisé à la place de `が` dans les phrases adjectivales.
 
-Et j'ai expliqué pourquoi dans l'autre [**vidéo**](https://www.youtube.com/watch?v=wxX6poiuyAI&ab_channel=OrganicJapanesewithCureDolly). Donc <code>華麗なる探偵</code> signifie <code>華麗のある探偵</code>, ce qui signifie <code>華麗がある探偵</code>, ce qui signifie **détectives possédant <code>華麗/かれい</code>**. (litt. détectives 華麗-existe)
+Et j'ai expliqué pourquoi dans l'autre [**vidéo**](https://www.youtube.com/watch?v=wxX6poiuyAI&ab_channel=OrganicJapanesewithCureDolly). Donc `華麗なる探偵` signifie `華麗のある探偵`, ce qui signifie `華麗がある探偵`, ce qui signifie **détectives possédant `華麗/かれい`**. (litt. détectives 華麗-existe)
 
-Qu'est-ce que <code>華麗/かれい</code> ? Eh bien, c'est la **splendeur** ou la **magnificence**.
+Qu'est-ce que `華麗/かれい` ? Eh bien, c'est la **splendeur** ou la **magnificence**.
 
 ::: info
 il y a [**un commentaire récent**](https://www.youtube.com/watch?v=GB8fWjQuz9A&lc=UgzSIge_mK0a_8dz6s14AaABAg.9e0E5zhgA3t9fc3pGOOLln&ab_channel=OrganicJapanesewithCureDolly) fait par un certain Nihil, qui donne une ventilation très utile et détaillée de ce **なる** étant l'abréviation de にある et non de のある. D'après mes recherches dans les dictionnaires japonais, j'ai également trouvé qu'il faisait référence à にある (de l'archaïque なり) au lieu de のある. Ainsi, je recommande vivement de lire les commentaires de Nihil sous [**la vidéo**](https://www.youtube.com/watch?v=GB8fWjQuz9A&lc=UgzSIge_mK0a_8dz6s14AaABAg.9e0E5zhgA3t9fc3pGOOLln&ab_channel=OrganicJapanesewithCureDolly). Malheureusement, étant donné que Dolly n'est plus là, nous ne saurons peut-être pas entièrement ce qu'elle voulait dire ici, mais elle admet également dans les commentaires qu'elle n'a pas trouvé ce que なる signifie réellement (sous sa forme complète). Bien sûr, cela n'est peut-être pas une chose énorme dans le grand schéma de la compréhension pour certains, mais je pense qu'il est bon de le savoir et les réponses de Nihil sont tout simplement incroyables, elles méritent donc une certaine reconnaissance :)
@@ -102,15 +102,15 @@ il y a [**un commentaire récent**](https://www.youtube.com/watch?v=GB8fWjQuz9A&
 
 L'auteur fournit en fait une traduction anglaise, bien que le livre soit entièrement en japonais, du titre : **Alice and Penguin: The Excellent Detectives**. Mais je dirais que ce n'est pas une très bonne traduction en français.
 
-<code>華麗</code> signifie quelque chose de plus qu'**excellent**, mais plus encore, le choix de <code>なる</code> plutôt que <code>な</code> — qu'est-ce que cela signifie ? Cela a-t-il une implication, comme celle de <code>不思議の国のアリス</code> ?
+`華麗` signifie quelque chose de plus qu'**excellent**, mais plus encore, le choix de `なる` plutôt que `な` — qu'est-ce que cela signifie ? Cela a-t-il une implication, comme celle de `不思議の国のアリス` ?
 
-Je dirais que cela aurait pu l'être, dans le passé, jusqu'à un certain point, mais avec un texte moderne, faire le choix d'utiliser <code>なる</code> a une signification différente. Il est choisi parce qu'il sonne un peu plus démodé, un peu plus littéraire, un peu plus **portentieux**.
+Je dirais que cela aurait pu l'être, dans le passé, jusqu'à un certain point, mais avec un texte moderne, faire le choix d'utiliser `なる` a une signification différente. Il est choisi parce qu'il sonne un peu plus démodé, un peu plus littéraire, un peu plus **portentieux**.
 
-Par conséquent, en français, je choisirais le terme plutôt exagéré de **magnifique**, car <code>華麗</code> est en fait un mot assez exagéré à utiliser en premier lieu et choisir d'utiliser <code>なる</code> avec lui l'amplifie encore davantage.
+Par conséquent, en français, je choisirais le terme plutôt exagéré de **magnifique**, car `華麗` est en fait un mot assez exagéré à utiliser en premier lieu et choisir d'utiliser `なる` avec lui l'amplifie encore davantage.
 
 ### たる
 
-<code>たる</code>, qui est également parfois utilisé, est une contraction de <code>とある</code>, de sorte que le <code>ある</code> est en fait attribué à la chose décrite plutôt qu'à la chose qui la décrit.
+`たる`, qui est également parfois utilisé, est une contraction de `とある`, de sorte que le `ある` est en fait attribué à la chose décrite plutôt qu'à la chose qui la décrit.
 
 ![](../media/image153.webp)
 
@@ -126,38 +126,38 @@ Ainsi, comprendre la structure centrée sur le nom du japonais nous permet de vo
 
 Que se passe-t-il à ces occasions ? Nous savons que les *kanji* autonomes seront des noms, alors quand nous en voyons beaucoup ensemble, que se passe-t-il ?
 
-Eh bien, ce qui se passe, c'est qu'**un nom en modifie un autre**. Nous avons vu les façons dont les noms se modifient mutuellement avec <code>な</code> ou <code>の</code> ou même <code>なる</code> ou <code>たる</code>, mais ils peuvent aussi se modifier mutuellement **sans rien**, et nous sommes déjà familiers avec cela lorsque deux mots se collent ensemble pour former un autre mot, tel que <code>日本語</code>.
+Eh bien, ce qui se passe, c'est qu'**un nom en modifie un autre**. Nous avons vu les façons dont les noms se modifient mutuellement avec `な` ou `の` ou même `なる` ou `たる`, mais ils peuvent aussi se modifier mutuellement **sans rien**, et nous sommes déjà familiers avec cela lorsque deux mots se collent ensemble pour former un autre mot, tel que `日本語`.
 
-<code>日本</code> est **Japon**, <code>語</code> est **langue**, et si vous les mettez ensemble, vous avez <code>日本語</code> — **langue japonaise**. Or, nous voyons cela dans de très nombreux cas, dont certains que nous avons déjà couverts.
+`日本` est **Japon**, `語` est **langue**, et si vous les mettez ensemble, vous avez `日本語` — **langue japonaise**. Or, nous voyons cela dans de très nombreux cas, dont certains que nous avons déjà couverts.
 
 Et cela fonctionne exactement de la même manière qu'en français. Par exemple, en français, nous avons des mots comme **étagère** et **algue marine**.
 
-En japonais, nous pouvons faire exactement la même chose. Nous avons donc <code>本棚</code> — <code>本</code> est **livre**, <code>棚</code> est **étagère** : <code>本棚</code> est **bibliothèque** (étagère à livres).
+En japonais, nous pouvons faire exactement la même chose. Nous avons donc `本棚` — `本` est **livre**, `棚` est **étagère** : `本棚` est **bibliothèque** (étagère à livres).
 
-<code>海草</code> — <code>海/かい</code> est la lecture *on'yomi* de <code>海/うみ</code>, **mer** ; <code>草/そう</code> est la lecture *on'yomi* de <code>草/くさ</code>, **herbe**, et ensemble, ils forment <code>海草</code> — **algue marine** (herbe de mer), car **herbe** peut signifier n'importe quel type de vie végétale, c'est pourquoi nous avons des Pokémon de type Plante (Grass Pokémon).
+`海草` — `海/かい` est la lecture *on'yomi* de `海/うみ`, **mer** ; `草/そう` est la lecture *on'yomi* de `草/くさ`, **herbe**, et ensemble, ils forment `海草` — **algue marine** (herbe de mer), car **herbe** peut signifier n'importe quel type de vie végétale, c'est pourquoi nous avons des Pokémon de type Plante (Grass Pokémon).
 
-Et cela se produit également dans le cas de combinaisons qui n'existent pas en français, comme <code>指輪</code>. <code>指/ゆび</code> est **doigt**, <code>輪/わ</code> est un **anneau**, donc <code>指輪</code> est une **bague** (anneau de doigt).
+Et cela se produit également dans le cas de combinaisons qui n'existent pas en français, comme `指輪`. `指/ゆび` est **doigt**, `輪/わ` est un **anneau**, donc `指輪` est une **bague** (anneau de doigt).
 
 Cependant, nous pouvons également voir des combinaisons plus grandes, pour des choses qui seraient des phrases plutôt que des mots en français. Et encore une fois, cela se fait exactement de la même manière qu'en français, donc cela ne devrait vraiment pas être une source d'inquiétude.
 
-Par exemple, nous avons <code>大学教育</code> — <code>大学</code> signifie **université** ; <code>教育</code> signifie **éducation** ou **formation**. Donc <code>大学教育/だいがくきょういく</code> est **éducation universitaire**.
+Par exemple, nous avons `大学教育` — `大学` signifie **université** ; `教育` signifie **éducation** ou **formation**. Donc `大学教育/だいがくきょういく` est **éducation universitaire**.
 
 Et, comme vous le voyez, cela fonctionne encore exactement de la même manière qu'en français. Nous n'avons pas besoin, en français, de dire **éducation dans une université** à chaque fois ; nous pouvons dire **éducation universitaire**.
 
-Et en japonais, nous pouvons dire <code>大学教育</code>, et nous n'avons besoin d'aucun <code>な</code> ou <code>の</code> ou de quoi que ce soit d'autre pour les joindre. Ils créent une expression couramment utilisée par eux-mêmes.
+Et en japonais, nous pouvons dire `大学教育`, et nous n'avons besoin d'aucun `な` ou `の` ou de quoi que ce soit d'autre pour les joindre. Ils créent une expression couramment utilisée par eux-mêmes.
 
 Nous ne pouvons pas faire cela à chaque fois. C'est comme les noms adjectivaux. Il existe certaines expressions où cela est connu et accepté et certains types de construction où cela est fréquemment fait.
 
 Maintenant, nous pouvons voir des blocs de *kanji* plus longs qui peuvent paraître très intimidants tant que vous ne comprenez pas ce qu'ils sont, comment ils fonctionnent et ce qu'ils sont susceptibles d'être. Cela est souvent fait dans le cas d'institutions et de choses comme ça.
 
-Par exemple, <code>日本語能力試験</code>. Maintenant, cela ressemble peut-être à un bloc de *kanji* assez intimidant, lorsque vous n'êtes pas familier avec l'idée.
+Par exemple, `日本語能力試験`. Maintenant, cela ressemble peut-être à un bloc de *kanji* assez intimidant, lorsque vous n'êtes pas familier avec l'idée.
 
 Mais ce que c'est en réalité, c'est le **Test de Compétence en Langue Japonaise** (JLPT), dont vous avez probablement entendu parler et dont je ne suis pas un grand défenseur. Et nous pouvons voir que c'est exactement la même chose qui se passe en japonais que dans l'équivalent français :
 
-<code>日本語</code> — **Langue japonaise** ; <code>能力</code> — **Compétence** ou **capacité** ; <code>試験</code> — **Examen**. Et exactement comme en français, nous pouvons utiliser un nom pour modifier un autre nom, puis les deux ensemble pour modifier le troisième nom — et ainsi de suite.
+`日本語` — **Langue japonaise** ; `能力` — **Compétence** ou **capacité** ; `試験` — **Examen**. Et exactement comme en français, nous pouvons utiliser un nom pour modifier un autre nom, puis les deux ensemble pour modifier le troisième nom — et ainsi de suite.
 
-Donc, <code>日本</code> modifie <code>語</code> (quel genre de langue ? Langue japonaise). <code>日本語</code> modifie <code>能力</code> (quel genre de compétence ? Compétence en langue japonaise).
+Donc, `日本` modifie `語` (quel genre de langue ? Langue japonaise). `日本語` modifie `能力` (quel genre de compétence ? Compétence en langue japonaise).
 
-Et puis tout cela modifie <code>試験</code> (quel genre d'examen ? Un examen de compétence en langue japonaise). Donc, même lorsque vous voyez des *kanji* empilés de cette manière, pas besoin de paniquer.
+Et puis tout cela modifie `試験` (quel genre d'examen ? Un examen de compétence en langue japonaise). Donc, même lorsque vous voyez des *kanji* empilés de cette manière, pas besoin de paniquer.
 
 Prenez juste une respiration et voyez de quoi tout cela est composé.

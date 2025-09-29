@@ -21,41 +21,41 @@ que nous allons aborder.
 
 ![](../media/image826.webp)
 
-**Ce sont : <code>である</code>, <code>であります</code>, <code>でございます</code> et <code>でござる</code>.**
+**Ce sont : `である`, `であります`, `でございます` et `でござる`.**
 
 Maintenant, nous pouvons traiter les trois derniers très rapidement,
-**car ils ne sont tous que des variantes du premier, <code>である</code>.**
+**car ils ne sont tous que des variantes du premier, `である`.**
 
 ## であります (*de arimasu*)
 
-**<code>であります</code> est évidemment <code>である</code> avec le verbe auxiliaire <code>ます</code> attaché.**
+**`であります` est évidemment `である` avec le verbe auxiliaire `ます` attaché.**
 
 ![](../media/image1050.webp)
 
 ## でござる (*de gozaru*)
 
-**<code>でござる</code> — <code>ござる</code> est simplement une version polie, keigo, de <code>ある</code>, le verbe d'existence.**
+**`でござる` — `ござる` est simplement une version polie, keigo, de `ある`, le verbe d'existence.**
 
 Maintenant, comment le verbe d'existence intervient-il là-dedans ? Eh bien, nous en parlerons dans une minute.
 
-**<code>ござる</code> est simplement composé de l'honorifique <code>ご</code> plus <code>ざる / 座る</code>,**
-**qui signifie à l'origine <code>assis</code>, mais a le sens étendu de <code>exister</code>.**
+**`ござる` est simplement composé de l'honorifique `ご` plus `ざる / 座る`,**
+**qui signifie à l'origine `assis`, mais a le sens étendu de `exister`.**
 
 ::: info
-座る (*suwaru*) se lit normalement すわる, mais sa lecture On-yomi est ざ, donc ざる ici parce que je suppose qu'il fait référence à son sens étendu de <code>exister</code> ?
+座る (*suwaru*) se lit normalement すわる, mais sa lecture On-yomi est ざ, donc ざる ici parce que je suppose qu'il fait référence à son sens étendu de `exister` ?
 :::
-**Donc <code>ござる / ご座る</code> (*gozaru / go-zaru*) est juste <code>ある</code> (*aru*) sous une forme élégante.**
+**Donc `ござる / ご座る` (*gozaru / go-zaru*) est juste `ある` (*aru*) sous une forme élégante.**
 
 ![](../media/image1122.webp)
 
-**Vous n'entendrez pas <code>でござる</code> très souvent du tout car comme c'est une forme honorifique,**
-**ces jours-ci, elle est presque toujours utilisée avec le verbe auxiliaire <code>ます</code> attaché.**
+**Vous n'entendrez pas `でござる` très souvent du tout car comme c'est une forme honorifique,**
+**ces jours-ci, elle est presque toujours utilisée avec le verbe auxiliaire `ます` attaché.**
 
-Mais vous entendrez <code>ござる</code> peut-être dans des drames historiques et des choses comme ça. **C'est le langage des samouraïs.**
+Mais vous entendrez `ござる` peut-être dans des drames historiques et des choses comme ça. **C'est le langage des samouraïs.**
 
 ## でございます (*de gozaimasu*)
 
-**<code>でございます</code> est la forme de la copule utilisée en keigo,**
+**`でございます` est la forme de la copule utilisée en keigo,**
 donc **vous l'entendrez dans les magasins, vous l'entendrez dans les annonces publiques**,
 et vous l'entendrez utilisée par des locuteurs dans les animes etc qui utilisent un discours très honorifique,
 peut-être des sous-méchants parlant au méchant principal.
@@ -66,11 +66,11 @@ Donc c'est vraiment tout ce que nous devons dire sur ces trois-là.
 
 ## である (*de aru*)
 
-**Mais <code>である</code>, qui est la racine de tous, est celui auquel nous devons prêter attention.**
+**Mais `である`, qui est la racine de tous, est celui auquel nous devons prêter attention.**
 
-Vous pourriez l'appeler, d'une certaine manière, **la <code>copule directe</code>.**
+Vous pourriez l'appeler, d'une certaine manière, **la `copule directe`.**
 
-**<code>だ</code> (*da*) semble familier, <code>です</code> (*desu*) est poli, mais <code>である</code> est juste la copule.**
+**`だ` (*da*) semble familier, `です` (*desu*) est poli, mais `である` est juste la copule.**
 
 ![](../media/image33.webp)
 
@@ -81,16 +81,16 @@ Vous pourriez l'appeler, d'une certaine manière, **la <code>copule directe</cod
 
 ---
 
-**Comme nous le savons, <code>だ</code> et <code>です</code> ne peuvent être utilisés qu'à la fin d'une proposition logique.**
+**Comme nous le savons, `だ` et `です` ne peuvent être utilisés qu'à la fin d'une proposition logique.**
 **Ce sont des terminaisons de proposition logique et elles ne peuvent pas être utilisées pour pré-modifier un nom.**
 **Si nous voulons pré-modifier un nom avec un autre nom marqué par la copule,**
 **nous ne pouvons le faire que s'il s'agit d'un nom adjectival, car les noms adjectivaux**
-**peuvent utiliser la version de pré-modification de la copule, qui est <code>な</code> (*na*).**
+**peuvent utiliser la version de pré-modification de la copule, qui est `な` (*na*).**
 
 ---
 
-Nous pouvons dire <code>花が**綺麗だ**</code> (*hana ga **kirei da*** - fleur **jolie-est**)
-ou nous pouvons dire <code>**綺麗な**花</code> (**jolie-est** fleur).
+Nous pouvons dire `花が**綺麗だ**` (*hana ga **kirei da*** - fleur **jolie-est**)
+ou nous pouvons dire `**綺麗な**花` (**jolie-est** fleur).
 
 ![](../media/image1019.webp)
 
@@ -98,56 +98,56 @@ Et c'est précisément parce que ce groupe de noms
 — et j'ai parlé des trois groupes de noms spéciaux
 dans une autre vidéo si vous souhaitez la consulter<sup>[[41]](./41-5-key-facts-about-the-basic-structure-of-japanese.md)</sup> —
 **ce groupe spécial particulier de noms, les noms adjectivaux, a la propriété**
-**de pouvoir utiliser la forme de pré-modification de la copule, <code>な</code>.**
+**de pouvoir utiliser la forme de pré-modification de la copule, `な`.**
 
-C'est quelque chose que les manuels ne semblent pas savoir. Ils ne vous disent pas ce qu'est <code>な</code> et ils vous disent que les noms adjectivaux
-sont en fait une chose étrange appelée <code>adjectifs en な</code>. Mais c'est une autre affaire.
+C'est quelque chose que les manuels ne semblent pas savoir. Ils ne vous disent pas ce qu'est `な` et ils vous disent que les noms adjectivaux
+sont en fait une chose étrange appelée `adjectifs en な`. Mais c'est une autre affaire.
 
 **Alors que faisons-nous si nous voulons utiliser un nom marqué par la copule**
 **comme pré-modificateur et que ce n'est pas un nom adjectival ?**
 
 Maintenant, nous ne faisons pas cela très souvent parce que
-nous pouvons contourner la situation en utilisant <code>の</code> (*no*). Mais dans certains cas, soit cela ne fonctionne pas
+nous pouvons contourner la situation en utilisant `の` (*no*). Mais dans certains cas, soit cela ne fonctionne pas
 soit ce n'est tout simplement pas ce que nous voulons faire.
 
-Alors, supposons que nous voulions dire <code>Sakura **qui est** une étudiante universitaire</code>. Maintenant, nous pouvons dire <code>大学生**の**さくら</code> (*daigakusei no Sakura*), qui est <code>l'étudiante universitaire Sakura</code>.
+Alors, supposons que nous voulions dire `Sakura **qui est** une étudiante universitaire`. Maintenant, nous pouvons dire `大学生**の**さくら` (*daigakusei no Sakura*), qui est `l'étudiante universitaire Sakura`.
 
-Mais supposons que nous ne voulions pas dire cela. **Supposons que nous voulions réellement dire <code>Sakura qui est une étudiante universitaire</code> ?** *(faire une proposition relative)*
+Mais supposons que nous ne voulions pas dire cela. **Supposons que nous voulions réellement dire `Sakura qui est une étudiante universitaire` ?** *(faire une proposition relative)*
 
 ![](../media/image803.webp)
 
 Ce n'est pas tout à fait la même chose, en japonais ou en français. **Pour ce faire, nous devons utiliser la copule et**
-**nous devons l'utiliser comme pré-modificateur, nous devons donc utiliser <code>である</code>.**
+**nous devons l'utiliser comme pré-modificateur, nous devons donc utiliser `である`.**
 
-**C'est notre seul choix. Nous ne pouvons pas utiliser <code>だ</code> ou <code>です</code>**
+**C'est notre seul choix. Nous ne pouvons pas utiliser `だ` ou `です`**
 **car ils ne peuvent être utilisés qu'à la fin d'une proposition logique.**
-**Et nous ne pouvons pas utiliser <code>な</code> car <code>大学生</code> (*daigakusei* - étudiant universitaire) n'est pas un nom adjectival.**
+**Et nous ne pouvons pas utiliser `な` car `大学生` (*daigakusei* - étudiant universitaire) n'est pas un nom adjectival.**
 
 ---
 
-Nous disons donc <code>大学生**である**さくら</code> (*daigakusei **de aru** Sakura*). *(Sakura **qui est** une étudiante universitaire)*
+Nous disons donc `大学生**である**さくら` (*daigakusei **de aru** Sakura*). *(Sakura **qui est** une étudiante universitaire)*
 
 Et vous verrez cela parfois, surtout dans les documents écrits.
 
 ---
 
 **Mais il y a des cas où vous n'avez vraiment pas le choix du tout.**
-**Par exemple, si vous voulez dire <code>l'état d'être rond</code>,**
-vous diriez <code>円形**である**さま</code> (*enkei **de aru** sama*).
+**Par exemple, si vous voulez dire `l'état d'être rond`,**
+vous diriez `円形**である**さま` (*enkei **de aru** sama*).
 
 ![](../media/image1156.webp)
 
-Maintenant, **<code>さま</code> (*sama*) est un état ou une condition.**
-**Nous ne pouvons pas vraiment utiliser の ici ; <code>円形のさま</code> (*enkei no sama*) ne fonctionne pas vraiment.**
+Maintenant, **`さま` (*sama*) est un état ou une condition.**
+**Nous ne pouvons pas vraiment utiliser の ici ; `円形のさま` (*enkei no sama*) ne fonctionne pas vraiment.**
 
-Nous devons donc vraiment dire <code>円形**である**さま</code>.
+Nous devons donc vraiment dire `円形**である**さま`.
 
-Maintenant, **quand je dis que <code>である</code> est la copule directe,**
+Maintenant, **quand je dis que `である` est la copule directe,**
 pas la familière, pas la polie, juste la copule simple,
 il y a une autre raison à cela,
 **car ultimement et historiquement**
-**<code>だ</code> est simplement une abréviation de <code>である</code>**
-**et <code>です</code> est une abréviation de <code>であります</code>.**
+**`だ` est simplement une abréviation de `である`**
+**et `です` est une abréviation de `であります`.**
 
 ![](../media/image873.webp)
 
@@ -159,25 +159,25 @@ et certaines personnes m'ont demandé.
 Tout d'abord, n'ai-je pas présenté la copule comme une unité spéciale et indivisible,
 l'un des trois moteurs, mais
 **ici, elle semble être composée de deux éléments,**
-**<code>で</code> et <code>ある</code>, et elle ressemble beaucoup à un verbe.**
+**`で` et `ある`, et elle ressemble beaucoup à un verbe.**
 
 Alors, que se passe-t-il ici ? Et puis,
-**pourquoi dans tous les cas les éléments <code>で</code> et <code>ある</code>**
+**pourquoi dans tous les cas les éléments `で` et `ある`**
 **s'additionnent-ils pour former le concept de la copule ?**
 
 ### Pourquoi で & ある s'additionnent pour former la copule
 
 Maintenant, examinons d'abord cette deuxième partie, puis nous examinerons la première partie.
 
-Pourquoi <code>で</code> plus <code>ある</code> forment-ils le concept de la copule ? **Eh bien, comme nous le savons, il y a deux <code>で</code> en japonais.**
-**Il y a la particule <code>で</code> et puis il y a la forme en て de la copule.**
+Pourquoi `で` plus `ある` forment-ils le concept de la copule ? **Eh bien, comme nous le savons, il y a deux `で` en japonais.**
+**Il y a la particule `で` et puis il y a la forme en て de la copule.**
 
 ![](../media/image194.webp)
 
-Les manuels ne vous le disent pas. Ils vous laissent penser que tout est la particule <code>で</code>.
+Les manuels ne vous le disent pas. Ils vous laissent penser que tout est la particule `で`.
 
-**Mais comme nous le savons, il y a deux <code>で</code>.**
-**Maintenant, celui avec lequel nous traitons ici est évidemment la particule <code>で</code>.**
+**Mais comme nous le savons, il y a deux `で`.**
+**Maintenant, celui avec lequel nous traitons ici est évidemment la particule `で`.**
 
 ::: info
 Heh... drôle que cette histoire de particule で (*de*) était aussi l'une de mes théories sur である (*de aru*) (et だ (*da*))
@@ -186,7 +186,7 @@ Heh... drôle que cette histoire de particule で (*de*) était aussi l'une de m
 **ne peut pas être composée de deux éléments, dont l'un est déjà la forme en て d'elle-même.**
 
 Et pour comprendre ce qui se passe ici,
-pourquoi <code>で</code> et <code>ある</code> s'additionnent pour former la copule, nous devons savoir deux choses.
+pourquoi `で` et `ある` s'additionnent pour former la copule, nous devons savoir deux choses.
 
 Maintenant, j'ai fait des vidéos sur ces deux points et je les mettrai également en lien,
 mais récapitulons-le ici.
@@ -194,7 +194,7 @@ mais récapitulons-le ici.
 il est un peu difficile de dire quelles vidéos Dolly voulait dire, mais si c'est le cas, revoyez les leçons 40, 41, 55 et 79.
 :::
 **Les deux choses que nous devons savoir sont d'abord ce qu'est réellement la copule,**
-**et la seconde est ce que fait réellement la particule <code>で</code>.**
+**et la seconde est ce que fait réellement la particule `で`.**
 
 #### Ce qu'est/fait réellement la copule
 
@@ -205,11 +205,11 @@ C'est ce que fait la copule. **C'est tout ce qu'elle fait.**
 
 ![](../media/image184.webp)
 
-Donc, si nous disons <code>さくらが日本人だ</code> (*Sakura ga nihonjin da* - Sakura est Japonaise)
+Donc, si nous disons `さくらが日本人だ` (*Sakura ga nihonjin da* - Sakura est Japonaise)
 **nous disons que Sakura (nom A) fait partie de l'ensemble des Japonais (nom B).**
 
 **Et parfois l'ensemble peut être un ensemble d'un seul élément.**
-Donc, si nous disons <code>Cette personne là-bas **est** Sakura</code>, alors nous disons que
+Donc, si nous disons `Cette personne là-bas **est** Sakura`, alors nous disons que
 **cette personne là-bas appartient à l'ensemble d'un seul élément qui est Sakura.**
 
 **Nous ne parlons pas des autres Sakura.**
@@ -219,23 +219,23 @@ Donc, si nous disons <code>Cette personne là-bas **est** Sakura</code>, alors n
 
 #### Ce qu'est/fait la particule で
 
-**Alors maintenant, que fait réellement la particule <code>で</code> ?**
+**Alors maintenant, que fait réellement la particule `で` ?**
 
 J'ai fait une vidéo à ce sujet et je la mettrai en lien.<sup>[[55]](./55-secrets-of-the-で-particle-why-do-we-say-みんなで行く-and-世界で一番.md)</sup>
 
-**Fondamentalement, la particule <code>で</code> définit la limite ou le champ ou le paramètre**
+**Fondamentalement, la particule `で` définit la limite ou le champ ou le paramètre**
 **à l'intérieur duquel une action a lieu ou un état d'être prévaut.**
 
 ---
 
-**Ainsi, l'utilisation la plus simple de <code>で</code> est de dire où une action a lieu :**
-<code>**公園で**遊ぶ</code> (*kouen **de** asobu* - jouer **dans le parc**)
-**le parc, qui est marqué par <code>で</code>, est le champ, la zone, les paramètres, à l'intérieur desquels je joue ;**
+**Ainsi, l'utilisation la plus simple de `で` est de dire où une action a lieu :**
+`**公園で**遊ぶ` (*kouen **de** asobu* - jouer **dans le parc**)
+**le parc, qui est marqué par `で`, est le champ, la zone, les paramètres, à l'intérieur desquels je joue ;**
 
 ![](../media/image834.webp)
 
-<code>**世界で**一番おいしいラーメン</code> (*sekai **de** ichiban oishii raamen* - les ramen les plus délicieux **du monde**)
-**le monde marqué par <code>で</code> marque le champ, la zone**
+`**世界で**一番おいしいラーメン` (*sekai **de** ichiban oishii raamen* - les ramen les plus délicieux **du monde**)
+**le monde marqué par `で` marque le champ, la zone**
 **à l'intérieur desquels ces ramen sont le premier, le numéro un.**
 
 ---
@@ -247,7 +247,7 @@ J'ai fait une vidéo à ce sujet et je la mettrai en lien.<sup>[[55]](./55-secre
 
 ### Retour à である
 
-Maintenant, lorsque nous prenons <code>である</code>, ce que cela dit est
+Maintenant, lorsque nous prenons `である`, ce que cela dit est
 **exister (ある) à l'intérieur d'une limite ou d'un paramètre particulier ;**
 en d'autres termes, **exister à l'intérieur d'un ensemble.**
 
@@ -258,10 +258,10 @@ en d'autres termes, **exister à l'intérieur d'un ensemble.**
 
 Sakura **existe à l'intérieur de la limite des** Japonais.
 
-Si nous disons <code>鷲が鳥**だ**</code> (*washi ga tori **da*** - un aigle **est** un oiseau), nous disons
-**qu'un aigle existe à l'intérieur de la limite, à l'intérieur du paramètre, à l'intérieur de l'ensemble, <code>oiseaux</code>.**
+Si nous disons `鷲が鳥**だ**` (*washi ga tori **da*** - un aigle **est** un oiseau), nous disons
+**qu'un aigle existe à l'intérieur de la limite, à l'intérieur du paramètre, à l'intérieur de l'ensemble, `oiseaux`.**
 
-Et c'est ce que fait toujours la copule. **Donc <code>である</code> est une construction très précise de la copule.**
+Et c'est ce que fait toujours la copule. **Donc `である` est une construction très précise de la copule.**
 
 Alors passons à la deuxième question.
 
@@ -271,12 +271,12 @@ La deuxième question est, **cela signifie-t-il que ce n'est pas vraiment**
 **un élément indivisible du japonais, l'un des trois moteurs ?**
 **Et cela signifie-t-il que c'est un verbe ?**
 
-**Parce qu'évidemment <code>ある</code> est un verbe, et c'est parce que**
-**<code>ある</code> est un verbe que nous pouvons l'utiliser comme pré-modificateur.**
+**Parce qu'évidemment `ある` est un verbe, et c'est parce que**
+**`ある` est un verbe que nous pouvons l'utiliser comme pré-modificateur.**
 
 ![](../media/image654.webp)
 
-Nous pouvons dire <code>大学生**である**さくら</code> parce que
+Nous pouvons dire `大学生**である**さくら` parce que
 **vous pouvez toujours utiliser un verbe pour pré-modifier un nom.**
 
 Et la réponse à la question est que c'est une question de modélisation.
@@ -287,19 +287,19 @@ Je modélise le japonais d'une manière particulière. **Il est possible de le m
 *(ainsi, la copule a une fonction verbale = elle peut théoriquement être considérée comme un type spécial de verbe)*
 
 ---
-Et en fait **un nom adjectival plus la copule est appelé un <code>形容動詞</code> (*keiyoudoushi*),**
+Et en fait **un nom adjectival plus la copule est appelé un `形容動詞` (*keiyoudoushi*),**
 **ce qui signifie un verbe adjectival.**
 
-**La partie <code>verbe</code> est la copule qui lui est ajoutée.**
+**La partie `verbe` est la copule qui lui est ajoutée.**
 
-Donc **<code>綺麗</code> (*kirei*) n'est pas un 形容動詞 ;** <code>**綺麗な**</code> ou <code>**綺麗だ**</code> **est un 形容動詞.**
-**Et la partie <code>動詞</code> (*doushi*), la partie verbe, est la copule.**
+Donc **`綺麗` (*kirei*) n'est pas un 形容動詞 ;** `**綺麗な**` ou `**綺麗だ**` **est un 形容動詞.**
+**Et la partie `動詞` (*doushi*), la partie verbe, est la copule.**
 
 ---
 
 **Mais je ne modélise pas la copule comme un verbe.**
 **Et la raison en est que dans notre structure à trois moteurs**
-**je limite le terme <code>verbe</code> aux entités qui se terminent par un kana de la ligne en う (*u*)**
+**je limite le terme `verbe` aux entités qui se terminent par un kana de la ligne en う (*u*)**
 **et font toutes les choses que ces entités font : nous avons les quatre bases, etc.**
 
 ![](../media/image773.webp)
@@ -309,8 +309,8 @@ Ceci montre en outre qu'il existe différentes façons de voir le langage, et qu
 :::
 **La copule ne fonctionne pas comme ça dans le japonais moderne. Elle fonctionne différemment.**
 
-<code>である</code> a évolué en une entité en soi avec sa propre forme en て,
-qu'elle a, avec sa propre forme de connexion, <code>な</code>, qu'elle a.
+`である` a évolué en une entité en soi avec sa propre forme en て,
+qu'elle a, avec sa propre forme de connexion, `な`, qu'elle a.
 
 **Nous pourrions, si nous le voulions, modéliser les trois moteurs comme des verbes,**
 **car à bien des égards, les adjectifs sont également de type verbal.**
@@ -325,8 +325,8 @@ Nous considérons les verbes, les adjectifs et la copule comme trois entités un
 ![](../media/image1008.webp)
 
 **Ce n'est pas une déclaration sur l'étymologie du japonais.**
-**Ce n'est même pas une déclaration sur la <code>vérité réelle</code> de la grammaire japonaise,**
-car il n'y a pas de <code>vérité réelle</code> dans la grammaire.
+**Ce n'est même pas une déclaration sur la `vérité réelle` de la grammaire japonaise,**
+car il n'y a pas de `vérité réelle` dans la grammaire.
 
 **La grammaire est simplement un moyen de décrire**
 **un phénomène préexistant, qui est le langage.**
@@ -339,9 +339,9 @@ Et j'utilise et recommande le modèle à trois moteurs. **Si vous préférez un 
 ---
 
 **L'autre raison pour laquelle je maintiens cette distinction est qu'il est très important**
-**de ne pas confondre <code>で</code> qui est la forme en て de la copule avec la particule <code>で</code>,**
+**de ne pas confondre `で` qui est la forme en て de la copule avec la particule `で`,**
 **et il est très important de ne pas confondre le concept de la copule**
-**avec le verbe d'existence, <code>ある</code>.**
+**avec le verbe d'existence, `ある`.**
 
 ![](../media/image22.webp)
 
@@ -349,25 +349,25 @@ Et cela arrive trop facilement aux francophones
 ou aux personnes qui sont très familières avec le français,
 **car en français la copule et le verbe d'existence**
 **sont représentés par le même mot,**
-**et c'est <code>être</code> et ses variantes <code>est</code>, <code>était</code>, <code>suis</code>, <code>sommes</code>, etc.**
+**et c'est `être` et ses variantes `est`, `était`, `suis`, `sommes`, etc.**
 
 C'est le même mot, mais ce n'est pas le même concept.
 
 ---
 
-**Donc, quand nous disons que <code>だ</code> et <code>です</code> signifient <code>est</code>,**
+**Donc, quand nous disons que `だ` et `です` signifient `est`,**
 **c'est une façon confuse de voir les choses.**
-**Ils ne signifient pas <code>est</code> en toutes circonstances ;**
-**ils signifient <code>est</code> lorsque c'est la copule.**
+**Ils ne signifient pas `est` en toutes circonstances ;**
+**ils signifient `est` lorsque c'est la copule.**
 
-Donc, si nous disons <code>Cet animal **est** un lapin</code>, c'est **la copule**.
-**Nous plaçons <code>cet animal</code> dans l'ensemble <code>lapin</code>.**
+Donc, si nous disons `Cet animal **est** un lapin`, c'est **la copule**.
+**Nous plaçons `cet animal` dans l'ensemble `lapin`.**
 
 ![](../media/image620.webp)
 
 ---
 
-Si nous disons <code>Il y **a** un lapin</code>, **ce n'est pas la copule, c'est le verbe d'existence.**
+Si nous disons `Il y **a** un lapin`, **ce n'est pas la copule, c'est le verbe d'existence.**
 **Nous disons qu'un lapin existe, là à cet endroit.**
 
 ![](../media/image328.webp)

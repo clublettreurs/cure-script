@@ -17,9 +17,9 @@ Or, comme nous le savons tous, les manuels aiment présenter le japonais comme u
 
 Cependant, les compteurs pourraient sembler être une exception à cette règle. Il y en a beaucoup. Énormément de compteurs. En japonais, vous ne pouvez pas simplement dire **un chien** ou **deux fleurs** ou **trois oiseaux**. Vous devez utiliser un compteur.
 
-Nous disons donc <code>一匹の犬 / いっぴきの犬</code> — **un chien** — et le compteur ici est <code>匹 / ひき</code> (*hiki*), qui se prononce <code>ぴき</code> (*piki*) dans ce cas particulier. *(C'est un compteur pour les petits animaux)*
+Nous disons donc `一匹の犬 / いっぴきの犬` — **un chien** — et le compteur ici est `匹 / ひき` (*hiki*), qui se prononce `ぴき` (*piki*) dans ce cas particulier. *(C'est un compteur pour les petits animaux)*
 
-Pour **trois oiseaux**, nous disons <code>三羽の鳥 / さんわの鳥</code> (*sanwa no tori*), et le <code>羽 / わ</code> (*wa*) est un compteur *(pour les oiseaux...)*. Il semble donc que nous devions apprendre énormément de compteurs, n'est-ce pas, juste pour dire ce que vous pouvez dire en français par le nombre et la chose. Et il y a vraiment beaucoup de compteurs — des douzaines et des douzaines *(en fait, des centaines (″ロ゛)*.
+Pour **trois oiseaux**, nous disons `三羽の鳥 / さんわの鳥` (*sanwa no tori*), et le `羽 / わ` (*wa*) est un compteur *(pour les oiseaux...)*. Il semble donc que nous devions apprendre énormément de compteurs, n'est-ce pas, juste pour dire ce que vous pouvez dire en français par le nombre et la chose. Et il y a vraiment beaucoup de compteurs — des douzaines et des douzaines *(en fait, des centaines (″ロ゛)*.
 
 Donc, cela ressemble à un problème, n'est-ce pas ? Mais ce n'est pas, en fait, aussi problématique que cela puisse paraître.
 
@@ -31,7 +31,7 @@ Deuxièmement, la plupart du temps, nous pouvons les éviter en utilisant le sys
 
 ![](../media/image4.webp)
 
-Donc, si nous utilisons le système de comptage <code>一つ, 二つ, 三つ, 四つ, 五つ</code> (*hitotsu, futatsu, mittsu, yottsu, itsutsu*), nous n'avons besoin d'aucun compteur. Nous pouvons les utiliser pour presque tout — pas les personnes, pas les petits animaux, mais pratiquement tout le reste, nous pouvons utiliser le système de comptage japonais si nous le souhaitons.
+Donc, si nous utilisons le système de comptage `一つ, 二つ, 三つ, 四つ, 五つ` (*hitotsu, futatsu, mittsu, yottsu, itsutsu*), nous n'avons besoin d'aucun compteur. Nous pouvons les utiliser pour presque tout — pas les personnes, pas les petits animaux, mais pratiquement tout le reste, nous pouvons utiliser le système de comptage japonais si nous le souhaitons.
 
 Donc, la chose importante ici, et je suis sûr que vous ne serez pas surpris de m'entendre le dire, c'est que ce que nous n'allons pas faire, c'est commencer à apprendre des listes de compteurs.
 
@@ -43,13 +43,13 @@ Cela, si vous me permettez l'expression, serait tout simplement **contre-product
 
 Tout d'abord, en termes de compréhension du japonais, ils ne présentent pas beaucoup de problèmes du tout. Si nous entendons quelqu'un dire un nombre et une chose que nous connaissons, s'il y a un petit mot entre les deux, nous savons que c'est un compteur.
 
-Nous savons donc ce qu'ils ont dit. S'ils disent <code>一輪の花</code> (*ichirin no hana*), nous savons qu'ils disent **une fleur**. <code>一... 花</code>, et le <code>輪 / りん</code> (*rin*) doit être le compteur. *(輪 / りん, compteur pour les roues et les fleurs)*
+Nous savons donc ce qu'ils ont dit. S'ils disent `一輪の花` (*ichirin no hana*), nous savons qu'ils disent **une fleur**. `一... 花`, et le `輪 / りん` (*rin*) doit être le compteur. *(輪 / りん, compteur pour les roues et les fleurs)*
 
 ![](../media/image329.webp)
 
-Si nous entendons quelqu'un dire <code>二羽の鳥</code> (*niwa no tori*), nous savons qu'ils disent **deux oiseaux** : <code>二... 鳥</code>, et le <code>羽</code> (*wa*) est le compteur.
+Si nous entendons quelqu'un dire `二羽の鳥` (*niwa no tori*), nous savons qu'ils disent **deux oiseaux** : `二... 鳥`, et le `羽` (*wa*) est le compteur.
 
-Si nous entendons quelqu'un dire <code>三匹の猫 / さんびきの猫</code> (*sanbiki no neko*) — même si nous connaissions <code>匹 / ひき</code>, mais que nous ne savions pas qu'à trois il devient <code>びき</code> (*biki*), ce n'est pas un problème car nous connaissons <code>三</code> (*san*), nous connaissons <code>猫</code> (*neko*), et nous savons que les choses qui se trouvent entre les nombres et leur objet sont des compteurs.
+Si nous entendons quelqu'un dire `三匹の猫 / さんびきの猫` (*sanbiki no neko*) — même si nous connaissions `匹 / ひき`, mais que nous ne savions pas qu'à trois il devient `びき` (*biki*), ce n'est pas un problème car nous connaissons `三` (*san*), nous connaissons `猫` (*neko*), et nous savons que les choses qui se trouvent entre les nombres et leur objet sont des compteurs.
 
 ![](../media/image69.webp)
 
@@ -61,11 +61,11 @@ Il y a deux façons d'utiliser les compteurs, et c'est la deuxième de ces faço
 
 ## Deux façons d'utiliser les compteurs
 
-La première façon est en fait assez similaire au français. Donc, lorsque nous utilisons <code>匹 / ひき</code> pour les animaux ou <code>枚 / まい</code> (*mai*) pour les feuilles de papier, disons, ce n'est pas si différent de dire **cinq têtes de bétail** ou **une douzaine de feuilles de papier** en français. Ce n'est pas tout à fait la même chose, mais c'est très similaire.
+La première façon est en fait assez similaire au français. Donc, lorsque nous utilisons `匹 / ひき` pour les animaux ou `枚 / まい` (*mai*) pour les feuilles de papier, disons, ce n'est pas si différent de dire **cinq têtes de bétail** ou **une douzaine de feuilles de papier** en français. Ce n'est pas tout à fait la même chose, mais c'est très similaire.
 
 ### La deuxième utilisation
 
-L'usage qui déroute les gens est lorsque nous disons des choses comme <code>猫が五匹います</code> *(compte. lu hiki)*.
+L'usage qui déroute les gens est lorsque nous disons des choses comme `猫が五匹います` *(compte. lu hiki)*.
 
 ![](../media/image920.webp)
 
@@ -81,11 +81,11 @@ Qu'est-ce que c'est ? C'est un **nom** !
 
 C'est presque toujours un nom, et c'est vrai pour les compteurs. Les compteurs sont des **noms**. C'est pourquoi nous utilisons の (*no*) après eux.
 
-Nous disons <code>一輪の花</code> (*ichirin no hana*), <code>三匹の猫</code> (*sanbiki no neko*), tout comme nous le ferions avec n'importe quel autre nom : <code>魔法の杖</code> (*mahō no tsue*) — **baguette magique** ; <code>三匹の猫</code> — **trois chats**.
+Nous disons `一輪の花` (*ichirin no hana*), `三匹の猫` (*sanbiki no neko*), tout comme nous le ferions avec n'importe quel autre nom : `魔法の杖` (*mahō no tsue*) — **baguette magique** ; `三匹の猫` — **trois chats**.
 
 ---
 
-Mais quand nous disons <code>猫が三匹いる</code> (*Neko ga sanbiki iru*) — **il y a trois chats** en français — que disons-nous réellement ?
+Mais quand nous disons `猫が三匹いる` (*Neko ga sanbiki iru*) — **il y a trois chats** en français — que disons-nous réellement ?
 
 ![](../media/image247.webp)
 
@@ -93,11 +93,11 @@ Eh bien, la chose à comprendre ici est que les compteurs ne sont pas des noms o
 
 Ce sont des noms qui ont la propriété spéciale de pouvoir **modifier des verbes**. Et c'est ce qui se passe ici.
 
-Lorsque nous disons <code>猫が三匹います</code> (*Neko ga sanbiki imasu*), nous disons en fait **les chats, existent de manière trois-petits-animaux**. Or, c'est très difficile en français, n'est-ce pas ? Nous pourrions le rendre un peu plus simple en disant **les chats existent triplement** ou **les chats existent de manière triple**, mais en fait, à cause du système de compteurs, nous disons **les chats existent de manière trois-petits-animaux**.
+Lorsque nous disons `猫が三匹います` (*Neko ga sanbiki imasu*), nous disons en fait **les chats, existent de manière trois-petits-animaux**. Or, c'est très difficile en français, n'est-ce pas ? Nous pourrions le rendre un peu plus simple en disant **les chats existent triplement** ou **les chats existent de manière triple**, mais en fait, à cause du système de compteurs, nous disons **les chats existent de manière trois-petits-animaux**.
 
 Nous décrivons la façon dont ils existent. Ils existent **d'une manière trois-petits-animaux**. S'il y en avait quatre, ils existeraient **d'une manière quatre-petits-animaux**.
 
-Et c'est pourquoi de telles phrases doivent se terminer par un verbe. Le verbe modifié par un compteur est souvent, comme dans ce cas, le **verbe d'être**, mais ce n'est pas obligatoire. Par exemple, nous pourrions dire <code>写真を三枚取った</code> (*Shashin o sanmai totta*) — **J'ai pris des photos de manière trois-choses-plates**.
+Et c'est pourquoi de telles phrases doivent se terminer par un verbe. Le verbe modifié par un compteur est souvent, comme dans ce cas, le **verbe d'être**, mais ce n'est pas obligatoire. Par exemple, nous pourrions dire `写真を三枚取った` (*Shashin o sanmai totta*) — **J'ai pris des photos de manière trois-choses-plates**.
 
 ![](../media/image151.webp)
 
@@ -109,17 +109,17 @@ Maintenant, qu'en est-il de l'apprentissage des compteurs et de l'apprentissage 
 
 Maintenant, comme je l'ai dit, nous n'avons pas besoin d'apprendre des listes de compteurs. Nous allons acquérir les compteurs au fur et à mesure de notre immersion en japonais. Lorsque nous rencontrons un nouveau compteur dans notre lecture ou notre *anime* sous-titré en japonais, nous pouvons le mettre dans notre Anki et nous allons progressivement **constituer notre stock** de compteurs.
 
-Les compteurs couramment utilisés ne sont pas si nombreux. Nous avons <code>枚</code> (*mai*) pour les choses plates comme les feuilles de papier ou les pièces de monnaie. Nous avons <code>本</code> (*hon*) pour les choses longues et rondes, <code>冊</code> (*satsu*) pour les livres.
+Les compteurs couramment utilisés ne sont pas si nombreux. Nous avons `枚` (*mai*) pour les choses plates comme les feuilles de papier ou les pièces de monnaie. Nous avons `本` (*hon*) pour les choses longues et rondes, `冊` (*satsu*) pour les livres.
 
-Cela pourrait sembler étrange car pourquoi avons-nous <code>冊</code> pour les livres et <code>本</code> pour les choses longues et rondes, alors que <code>本</code> signifie en fait **livre** ?
+Cela pourrait sembler étrange car pourquoi avons-nous `冊` pour les livres et `本` pour les choses longues et rondes, alors que `本` signifie en fait **livre** ?
 
 ---
 
-Eh bien, c'est parce que lorsque le mot <code>本</code> (*hon*) est apparu pour la première fois et signifiait, entre autres choses, un livre, à cette époque, les livres étaient des **choses longues et rondes**. C'étaient des parchemins.
+Eh bien, c'est parce que lorsque le mot `本` (*hon*) est apparu pour la première fois et signifiait, entre autres choses, un livre, à cette époque, les livres étaient des **choses longues et rondes**. C'étaient des parchemins.
 
 ![](../media/image445.webp)
 
-Donc, un livre était compté de la même manière que les autres choses longues et rondes étaient comptées. Mais plus tard, lorsque les livres sont devenus des choses plates avec des pages, le compteur a été changé en <code>冊</code>.
+Donc, un livre était compté de la même manière que les autres choses longues et rondes étaient comptées. Mais plus tard, lorsque les livres sont devenus des choses plates avec des pages, le compteur a été changé en `冊`.
 
 Donc, nous avons probablement besoin d'une douzaine de compteurs environ pour un usage quotidien et nous les acquerrons assez rapidement.
 
@@ -127,7 +127,7 @@ Donc, nous avons probablement besoin d'une douzaine de compteurs environ pour un
 
 Mais qu'en est-il de tous les changements de son ?
 
-Prenons <code>匹 / ひき</code> (*hiki*), qui est le compteur pour les petits animaux. Nous disons <code>いっぴきの猫</code> (*ippiki no neko*) — un chat, <code>にひきの猫</code> (*nihiki no neko*) — deux chats ; <code>さんびきの猫</code> (*sanbiki no neko*) — trois chats ; <code>よんひきの猫</code> (*yonhiki no neko*) — quatre chats ; <code>ごひきの猫</code> (*gohiki no neko*) — cinq chats ; <code>ろっぴきの猫</code> (*roppiki no neko*) — six chats ; <code>ななひきの猫</code> (*nanahiki no neko*) — sept chats ; <code>はっぴきの猫</code> (*happiki no neko*) — huit chats ; <code>きゅうひきの猫</code> (*kyūhiki no neko*) — neuf chats ; <code>じゅっぴきの猫</code> (*juppiki no neko*) — dix chats.
+Prenons `匹 / ひき` (*hiki*), qui est le compteur pour les petits animaux. Nous disons `いっぴきの猫` (*ippiki no neko*) — un chat, `にひきの猫` (*nihiki no neko*) — deux chats ; `さんびきの猫` (*sanbiki no neko*) — trois chats ; `よんひきの猫` (*yonhiki no neko*) — quatre chats ; `ごひきの猫` (*gohiki no neko*) — cinq chats ; `ろっぴきの猫` (*roppiki no neko*) — six chats ; `ななひきの猫` (*nanahiki no neko*) — sept chats ; `はっぴきの猫` (*happiki no neko*) — huit chats ; `きゅうひきの猫` (*kyūhiki no neko*) — neuf chats ; `じゅっぴきの猫` (*juppiki no neko*) — dix chats.
 ::: info
 よんひき en Kanji est intéressant :D 四匹.
 :::
@@ -148,15 +148,15 @@ Cela règle plus de la moitié du problème tout de suite.
 
 ---
 
-Donc, si nous avons les compteurs comme <code>枚</code> (*mai*), compteur pour les choses plates comme les pièces de monnaie ou les morceaux de papier. Pouvez-vous mettre un **ten-ten** sur <code>枚</code> ? Non, vous ne pouvez pas. Vous ne pouvez pas mettre de **ten-ten** sur n'importe quelle colonne ma-mi-mu-me-mo, et par conséquent, il ne peut y avoir aucune variante sur <code>枚</code> : <code>一枚</code> (*ichimai*), <code>二枚</code> (*nimai*), <code>三枚</code> (*sanmai*), <code>四枚</code> (*yonmai*), <code>五枚</code> (*gomai*) et ainsi de suite.
+Donc, si nous avons les compteurs comme `枚` (*mai*), compteur pour les choses plates comme les pièces de monnaie ou les morceaux de papier. Pouvez-vous mettre un **ten-ten** sur `枚` ? Non, vous ne pouvez pas. Vous ne pouvez pas mettre de **ten-ten** sur n'importe quelle colonne ma-mi-mu-me-mo, et par conséquent, il ne peut y avoir aucune variante sur `枚` : `一枚` (*ichimai*), `二枚` (*nimai*), `三枚` (*sanmai*), `四枚` (*yonmai*), `五枚` (*gomai*) et ainsi de suite.
 
-<code>輪</code> (*rin*), le compteur pour les fleurs et les roues — Pouvez-vous mettre un **ten-ten** sur <code>り</code> (*ri*) ? Non, vous ne pouvez pas. Vous ne pouvez pas mettre de **ten-ten** sur n'importe quelle colonne ra-ri-ru-re-ro, n'est-ce pas ?
+`輪` (*rin*), le compteur pour les fleurs et les roues — Pouvez-vous mettre un **ten-ten** sur `り` (*ri*) ? Non, vous ne pouvez pas. Vous ne pouvez pas mettre de **ten-ten** sur n'importe quelle colonne ra-ri-ru-re-ro, n'est-ce pas ?
 
-Nous savons donc que <code>輪</code> ne peut avoir aucune exception : <code>一輪</code> (*ichirin*), <code>二輪</code> (*nirin*), <code>三輪</code> (*sanrin*), <code>四輪</code> (*yonrin*) etc.
+Nous savons donc que `輪` ne peut avoir aucune exception : `一輪` (*ichirin*), `二輪` (*nirin*), `三輪` (*sanrin*), `四輪` (*yonrin*) etc.
 
-Ou que diriez-vous de <code>羽</code> (*wa*), le compteur pour les oiseaux ? Pouvez-vous mettre un **ten-ten** sur <code>羽</code> (*ha*) ? Non, vous ne pouvez pas.
+Ou que diriez-vous de `羽` (*wa*), le compteur pour les oiseaux ? Pouvez-vous mettre un **ten-ten** sur `羽` (*ha*) ? Non, vous ne pouvez pas.
 
-Donc, encore une fois, cela doit être complètement régulier : <code>一羽</code> (*ichiwa*), <code>二羽</code> (*niwa*), <code>三羽</code> (*sanwa*), <code>四羽</code> (*yonwa*)...
+Donc, encore une fois, cela doit être complètement régulier : `一羽` (*ichiwa*), `二羽` (*niwa*), `三羽` (*sanwa*), `四羽` (*yonwa*)...
 
 Nous nous sommes donc débarrassés de beaucoup de compteurs, n'est-ce pas ? Tous ceux-là sont tout simplement simples et réguliers.
 
@@ -181,51 +181,51 @@ Que savons-nous à leur sujet ? Eh bien, tout d'abord, nous savons que dans le *
 ::: info
 [**Le lien vidéo ici**](https://www.youtube.com/watch?v=nsDS5xalWGg&ab_channel=OrganicJapanesewithCureDolly), si vous vouliez le regarder, car il n'est pas dans la transcription (je crois).
 :::
-Donc, si nous prenons <code>階 / かい</code> (*kai*), le compteur pour les étages d'un bâtiment, nous ne disons pas <code>いちかい</code> (*ichikai*) — nous disons <code>いっかい</code> (*ikkai*).
+Donc, si nous prenons `階 / かい` (*kai*), le compteur pour les étages d'un bâtiment, nous ne disons pas `いちかい` (*ichikai*) — nous disons `いっかい` (*ikkai*).
 
-Si nous prenons <code>歳 / さい</code> (*sai*), le compteur pour les années d'âge,
+Si nous prenons `歳 / さい` (*sai*), le compteur pour les années d'âge,
 ::: info
 il y a aussi 才 (*sai*), qui semble être une alternative pour **enfant** à 歳 (mais [**n'est pas sa version simplifiée**](https://japanese.stackexchange.com/a/1844)). Cependant, 歳 semble être le seul qui est réellement utilisé dans la communication officielle.
 :::
-nous ne disons pas <code>いちさい</code> (*ichisai*) — nous disons <code>いっさい</code> (*issai*).
+nous ne disons pas `いちさい` (*ichisai*) — nous disons `いっさい` (*issai*).
 
-Si nous prenons <code>匹</code>, que nous avons traité auparavant, nous ne disons pas <code>いちひき</code> (*ichihiki*) — nous disons <code>いっぴき</code> (*ippiki*). Donc, cela fonctionne de la même manière.
+Si nous prenons `匹`, que nous avons traité auparavant, nous ne disons pas `いちひき` (*ichihiki*) — nous disons `いっぴき` (*ippiki*). Donc, cela fonctionne de la même manière.
 
-Et avec **dix**, à l'autre extrémité de l'échelle de base, nous ne disons pas <code>じゅうさい</code> (*jūusai*) — nous disons <code>じゅっさい / 十歳</code> (*jussai*).
+Et avec **dix**, à l'autre extrémité de l'échelle de base, nous ne disons pas `じゅうさい` (*jūusai*) — nous disons `じゅっさい / 十歳` (*jussai*).
 ::: info
-Les dictionnaires peuvent également dire qu'il peut être lu comme <code>じっさい</code> (*jissai*), **[ce qui semble démodé](https://ja.hinative.com/questions/4546115#answer-12128924)**.
+Les dictionnaires peuvent également dire qu'il peut être lu comme `じっさい` (*jissai*), **[ce qui semble démodé](https://ja.hinative.com/questions/4546115#answer-12128924)**.
 :::
-Nous disons <code>じゅっかい / 十階</code> (*jukkai*), dixième étage ; <code>じゅっぴきの猫</code> (*juppiki no neko*), dix chats.
+Nous disons `じゅっかい / 十階` (*jukkai*), dixième étage ; `じゅっぴきの猫` (*juppiki no neko*), dix chats.
 
 #### Règle 3
 
 ![](../media/image354.webp)
 
-Maintenant, les rangées **か** (*ka*) et **は** (*ha*), nous avons tendance à faire la même chose avec **Six** <code>六</code> (*roku*) et **Huit** <code>八</code> (*hachi*) également.
+Maintenant, les rangées **か** (*ka*) et **は** (*ha*), nous avons tendance à faire la même chose avec **Six** `六` (*roku*) et **Huit** `八` (*hachi*) également.
 
-Nous disons donc <code>ろっぴき (六匹)</code> (*roppiki*) ; <code>はっぴき (八匹)</code> (*happiki*) ; <code>ろっかい (六階)</code> (*rokkai*) ; <code>はっかい (八階)</code> (*hakkai*). Et quand nous savons cela, nous savons à peu près tout.
+Nous disons donc `ろっぴき (六匹)` (*roppiki*) ; `はっぴき (八匹)` (*happiki*) ; `ろっかい (六階)` (*rokkai*) ; `はっかい (八階)` (*hakkai*). Et quand nous savons cela, nous savons à peu près tout.
 
 #### Règle 4?
 
 ![](../media/image10.webp)
 
-Parfois, un **ten-ten** s'applique également au compteur sur **Trois** <code>さん</code> (*san*). Nous disons donc <code>さんびき (三匹)</code> (*sanbiki*) et nous disons <code>さんがい (三階)</code> (*sangai*).
+Parfois, un **ten-ten** s'applique également au compteur sur **Trois** `さん` (*san*). Nous disons donc `さんびき (三匹)` (*sanbiki*) et nous disons `さんがい (三階)` (*sangai*).
 
-Mais ce n'est pas complètement régulier. Tout le monde ne dit pas <code>さんがい</code>. Et beaucoup de variations ne sont pas complètement régulières.
+Mais ce n'est pas complètement régulier. Tout le monde ne dit pas `さんがい`. Et beaucoup de variations ne sont pas complètement régulières.
 
 Celles que je viens de vous dire sont assez régulières. Les autres, les étranges, n'ont pas tendance à être très régulières.
 
 Donc, si vous comprenez cela, cela semble un peu compliqué. Je ne passerais pas trop de temps à essayer d'apprendre ce que je viens de dire, mais gardez-le à l'esprit, car cela rendra juste un peu plus facile de le saisir lorsque vous le verrez.
 
-<code>いっぴき, にひき, さんびき</code> — qui est une tendance que <code>さん</code> a, bien sûr seulement avec les kanas ten-tenables — <code>ごひき</code> — cela va toujours être le même — <code>ろっぴき</code>
+`いっぴき, にひき, さんびき` — qui est une tendance que `さん` a, bien sûr seulement avec les kanas ten-tenables — `ごひき` — cela va toujours être le même — `ろっぴき`
 
-<code>ななひき</code> — cela est toujours le même avec tout — <code>はっぴき, きゅうひき, じゅっぴき</code>.
+`ななひき` — cela est toujours le même avec tout — `はっぴき, きゅうひき, じゅっぴき`.
 
 Peut-être même à ce stade, cela commence à avoir du sens. Cela se conforme à un **schéma régulier**. Ils ne sont pas éparpillés partout.
 
 Il y a quelques exceptions et presque toutes les choses qui sont véritablement exceptionnelles par rapport au modèle que je vous ai enseigné ont tendance à être **facultatives**. Tous les locuteurs japonais ne vont pas les utiliser tout le temps de toute façon.
 
-Ils diront <code>いっぴき</code> ; ils ne diront pas <code>いちひき</code> ; ils diront <code>ろっぴき</code> ; ils ne diront pas <code>ろくひき</code> (*rokuhiki*). Si vous vous trompez et dites <code>ろくひき</code>, ce n'est vraiment pas la fin du monde.
+Ils diront `いっぴき` ; ils ne diront pas `いちひき` ; ils diront `ろっぴき` ; ils ne diront pas `ろくひき` (*rokuhiki*). Si vous vous trompez et dites `ろくひき`, ce n'est vraiment pas la fin du monde.
 
 Tout le monde saura ce que vous voulez dire. Cela aura juste l'air un peu mignon et étranger.
 
