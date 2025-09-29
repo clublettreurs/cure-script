@@ -47,12 +47,14 @@ jobs:
         env:
           # Assure que le chemin de base (base: '/cure-script/') est utilisé
           VITE_BASE_URL: /${{ github.event.repository.name }}
-        run: npm run docs:build # or pnpm docs:build / yarn docs:build / bun run docs:build
+        run: |
+          cd config
+          npm run docs:build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Le chemin correct pour VitePress avec config dans le dossier config/
-          path: config/dist
+          # Le chemin correct pour VitePress - build se fait dans config/.vitepress/dist/
+          path: config/.vitepress/dist
 
   # Deployment job
   deploy:
