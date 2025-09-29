@@ -4,7 +4,7 @@
 
 Ce site présente la traduction française complète du script de grammaire japonaise de **Cure Dolly**, une approche révolutionnaire pour comprendre la structure du japonais.
 
-### ⚠️ Projet dérivé - Crédits obligatoires
+### ⚠️ Projet dérivé 
 
 **Ce projet est une traduction française du travail original de [Kellen](https://bento.me/kln)** disponible sur [kellenok.github.io/cure-script](https://kellenok.github.io/cure-script/).
 
@@ -22,21 +22,8 @@ Cure Dolly était une enseignante de japonais qui a développé une méthode uni
 - **Simplicité cachée** : Ce qui semble complexe devient simple quand on comprend la vraie structure
 - **Apprentissage naturel** : Apprendre comme les enfants japonais, en comprenant la logique sous-jacente
 
-## Notre traduction
 
-### Pourquoi en français ?
-
-La communauté francophone manquait cruellement de ressources de qualité pour apprendre la grammaire japonaise selon cette approche révolutionnaire. Cette traduction vise à combler ce manque.
-
-### Nos principes de traduction
-
-1. **Fidélité au sens** : Nous privilégions le sens et l'esprit plutôt que la traduction littérale
-2. **Clarté française** : Adaptation des exemples et explications pour les francophones
-3. **Cohérence terminologique** : Utilisation d'une terminologie cohérente tout au long du cours
-
-### L'équipe
-
-Ce projet est porté par **Club Lettreurs**, une communauté de passionnés de langues et de traduction.
+Ce projet est porté par **Club Lettreurs**
 
 ## Structure du cours
 
@@ -53,13 +40,6 @@ Le cours complet comprend 97 leçons soigneusement structurées :
 
 Chaque leçon s'appuie sur les précédentes, construisant progressivement une compréhension complète de la grammaire japonaise.
 
-## Comment contribuer
-
-### Signaler des erreurs
-
-Si vous trouvez des erreurs ou des améliorations possibles, n'hésitez pas à :
-- Ouvrir une issue sur GitHub
-- Proposer une correction via une pull request
 
 ### Partager le projet
 
@@ -79,7 +59,6 @@ Aidez-nous à faire connaître cette ressource en la partageant avec d'autres ap
 
 ### Notre contribution
 - **Club Lettreurs** : Traduction française uniquement
-- **La communauté francophone** : Retours et améliorations
 
 ## Licence et utilisation
 
